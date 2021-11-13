@@ -57,55 +57,55 @@ typedef _gostring_ swig_type_24;
 typedef _gostring_ swig_type_25;
 typedef _gostring_ swig_type_26;
 typedef long long swig_type_27;
-typedef long long swig_type_28;
-typedef long long swig_type_29;
-typedef long long swig_type_30;
+typedef _gostring_ swig_type_28;
+typedef _gostring_ swig_type_29;
+typedef _gostring_ swig_type_30;
 typedef _gostring_ swig_type_31;
 typedef _gostring_ swig_type_32;
-typedef void* swig_type_33;
-typedef void* swig_type_34;
-typedef void* swig_type_35;
-typedef void* swig_type_36;
-typedef long long swig_type_37;
-typedef long long swig_type_38;
-typedef long long swig_type_39;
-typedef long long swig_type_40;
-typedef long long swig_type_41;
-typedef long long swig_type_42;
+typedef _gostring_ swig_type_33;
+typedef _gostring_ swig_type_34;
+typedef _gostring_ swig_type_35;
+typedef _gostring_ swig_type_36;
+typedef _gostring_ swig_type_37;
+typedef _gostring_ swig_type_38;
+typedef _gostring_ swig_type_39;
+typedef _gostring_ swig_type_40;
+typedef _gostring_ swig_type_41;
+typedef _gostring_ swig_type_42;
 typedef _gostring_ swig_type_43;
-typedef long long swig_type_44;
-typedef long long swig_type_45;
-typedef long long swig_type_46;
-typedef void* swig_type_47;
-typedef void* swig_type_48;
-typedef long long swig_type_49;
-typedef long long swig_type_50;
-typedef long long swig_type_51;
-typedef long long swig_type_52;
-typedef long long swig_type_53;
-typedef long long swig_type_54;
+typedef _gostring_ swig_type_44;
+typedef _gostring_ swig_type_45;
+typedef _gostring_ swig_type_46;
+typedef _goslice_ swig_type_47;
+typedef _goslice_ swig_type_48;
+typedef _goslice_ swig_type_49;
+typedef _goslice_ swig_type_50;
+typedef _goslice_ swig_type_51;
+typedef _goslice_ swig_type_52;
+typedef _goslice_ swig_type_53;
+typedef _gostring_ swig_type_54;
 typedef _gostring_ swig_type_55;
-typedef long long swig_type_56;
-typedef long long swig_type_57;
-typedef long long swig_type_58;
-typedef long long swig_type_59;
-typedef long long swig_type_60;
-typedef long long swig_type_61;
+typedef _gostring_ swig_type_56;
+typedef _gostring_ swig_type_57;
+typedef _gostring_ swig_type_58;
+typedef _gostring_ swig_type_59;
+typedef _gostring_ swig_type_60;
+typedef _gostring_ swig_type_61;
 typedef _gostring_ swig_type_62;
 typedef _gostring_ swig_type_63;
 typedef _gostring_ swig_type_64;
 typedef _gostring_ swig_type_65;
 typedef _gostring_ swig_type_66;
-typedef long long swig_type_67;
-typedef long long swig_type_68;
-typedef long long swig_type_69;
-typedef long long swig_type_70;
-typedef long long swig_type_71;
-typedef long long swig_type_72;
-typedef long long swig_type_73;
-typedef long long swig_type_74;
-typedef long long swig_type_75;
-typedef long long swig_type_76;
+typedef _gostring_ swig_type_67;
+typedef _gostring_ swig_type_68;
+typedef _gostring_ swig_type_69;
+typedef _gostring_ swig_type_70;
+typedef _gostring_ swig_type_71;
+typedef _gostring_ swig_type_72;
+typedef _gostring_ swig_type_73;
+typedef _gostring_ swig_type_74;
+typedef _gostring_ swig_type_75;
+typedef _gostring_ swig_type_76;
 typedef _gostring_ swig_type_77;
 typedef _gostring_ swig_type_78;
 typedef _gostring_ swig_type_79;
@@ -113,66 +113,66 @@ typedef _gostring_ swig_type_80;
 typedef _gostring_ swig_type_81;
 typedef _gostring_ swig_type_82;
 typedef _gostring_ swig_type_83;
-typedef long long swig_type_84;
-typedef long long swig_type_85;
-typedef long long swig_type_86;
-typedef long long swig_type_87;
-typedef long long swig_type_88;
-typedef long long swig_type_89;
+typedef _gostring_ swig_type_84;
+typedef _gostring_ swig_type_85;
+typedef _gostring_ swig_type_86;
+typedef _gostring_ swig_type_87;
+typedef _gostring_ swig_type_88;
+typedef _gostring_ swig_type_89;
 typedef _gostring_ swig_type_90;
-typedef long long swig_type_91;
+typedef _gostring_ swig_type_91;
 typedef _gostring_ swig_type_92;
 typedef _gostring_ swig_type_93;
 typedef _gostring_ swig_type_94;
 typedef _gostring_ swig_type_95;
-typedef long long swig_type_96;
-typedef long long swig_type_97;
-typedef long long swig_type_98;
-typedef long long swig_type_99;
-typedef long long swig_type_100;
-typedef long long swig_type_101;
-typedef long long swig_type_102;
+typedef _gostring_ swig_type_96;
+typedef _gostring_ swig_type_97;
+typedef _gostring_ swig_type_98;
+typedef _gostring_ swig_type_99;
+typedef _goslice_ swig_type_100;
+typedef _goslice_ swig_type_101;
+typedef _goslice_ swig_type_102;
 typedef long long swig_type_103;
 typedef long long swig_type_104;
 typedef long long swig_type_105;
 typedef long long swig_type_106;
 typedef long long swig_type_107;
-typedef long long swig_type_108;
-typedef long long swig_type_109;
-typedef long long swig_type_110;
-typedef long long swig_type_111;
-typedef long long swig_type_112;
-typedef long long swig_type_113;
+typedef _gostring_ swig_type_108;
+typedef _gostring_ swig_type_109;
+typedef void* swig_type_110;
+typedef void* swig_type_111;
+typedef void* swig_type_112;
+typedef void* swig_type_113;
 typedef long long swig_type_114;
 typedef long long swig_type_115;
 typedef long long swig_type_116;
 typedef long long swig_type_117;
 typedef long long swig_type_118;
 typedef long long swig_type_119;
-typedef long long swig_type_120;
+typedef _gostring_ swig_type_120;
 typedef long long swig_type_121;
 typedef long long swig_type_122;
 typedef long long swig_type_123;
-typedef long long swig_type_124;
-typedef long long swig_type_125;
+typedef void* swig_type_124;
+typedef void* swig_type_125;
 typedef long long swig_type_126;
 typedef long long swig_type_127;
 typedef long long swig_type_128;
 typedef long long swig_type_129;
 typedef long long swig_type_130;
 typedef long long swig_type_131;
-typedef long long swig_type_132;
+typedef _gostring_ swig_type_132;
 typedef long long swig_type_133;
 typedef long long swig_type_134;
 typedef long long swig_type_135;
 typedef long long swig_type_136;
 typedef long long swig_type_137;
 typedef long long swig_type_138;
-typedef long long swig_type_139;
-typedef long long swig_type_140;
-typedef long long swig_type_141;
-typedef long long swig_type_142;
-typedef long long swig_type_143;
+typedef _gostring_ swig_type_139;
+typedef _gostring_ swig_type_140;
+typedef _gostring_ swig_type_141;
+typedef _gostring_ swig_type_142;
+typedef _gostring_ swig_type_143;
 typedef long long swig_type_144;
 typedef long long swig_type_145;
 typedef long long swig_type_146;
@@ -183,623 +183,1194 @@ typedef long long swig_type_150;
 typedef long long swig_type_151;
 typedef long long swig_type_152;
 typedef long long swig_type_153;
-typedef long long swig_type_154;
-typedef long long swig_type_155;
-typedef long long swig_type_156;
-typedef long long swig_type_157;
-typedef long long swig_type_158;
-typedef long long swig_type_159;
-typedef long long swig_type_160;
+typedef _gostring_ swig_type_154;
+typedef _gostring_ swig_type_155;
+typedef _gostring_ swig_type_156;
+typedef _gostring_ swig_type_157;
+typedef _gostring_ swig_type_158;
+typedef _gostring_ swig_type_159;
+typedef _gostring_ swig_type_160;
 typedef long long swig_type_161;
 typedef long long swig_type_162;
 typedef long long swig_type_163;
 typedef long long swig_type_164;
 typedef long long swig_type_165;
 typedef long long swig_type_166;
-typedef long long swig_type_167;
+typedef _gostring_ swig_type_167;
 typedef long long swig_type_168;
-typedef long long swig_type_169;
-typedef long long swig_type_170;
-typedef long long swig_type_171;
-extern void _wrap_Swig_free_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_Swig_malloc_aig_29567bba180e4e84(swig_intgo arg1);
-extern void _wrap_aiLogStream_callback_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_1 arg2);
-extern swig_type_2 _wrap_aiLogStream_callback_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiLogStream_user_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_3 arg2);
-extern swig_type_4 _wrap_aiLogStream_user_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiLogStream_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiLogStream_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiPropertyStore_sentinel_set_aig_29567bba180e4e84(uintptr_t arg1, char arg2);
-extern char _wrap_aiPropertyStore_sentinel_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiPropertyStore_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiPropertyStore_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiImportFile_aig_29567bba180e4e84(swig_type_5 arg1, swig_intgo arg2);
-extern uintptr_t _wrap_aiImportFileEx_aig_29567bba180e4e84(swig_type_6 arg1, swig_intgo arg2, uintptr_t arg3);
-extern uintptr_t _wrap_aiImportFileExWithProperties_aig_29567bba180e4e84(swig_type_7 arg1, swig_intgo arg2, uintptr_t arg3, uintptr_t arg4);
-extern uintptr_t _wrap_aiImportFileFromMemory_aig_29567bba180e4e84(swig_type_8 arg1, swig_intgo arg2, swig_intgo arg3, swig_type_9 arg4);
-extern uintptr_t _wrap_aiImportFileFromMemoryWithProperties_aig_29567bba180e4e84(swig_type_10 arg1, swig_intgo arg2, swig_intgo arg3, swig_type_11 arg4, uintptr_t arg5);
-extern uintptr_t _wrap_aiApplyPostProcessing_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern uintptr_t _wrap_aiGetPredefinedLogStream_aig_29567bba180e4e84(swig_intgo arg1, swig_type_12 arg2);
-extern void _wrap_aiAttachLogStream_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiEnableVerboseLogging_aig_29567bba180e4e84(swig_intgo arg1);
-extern swig_intgo _wrap_aiDetachLogStream_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiDetachAllLogStreams_aig_29567bba180e4e84(void);
-extern void _wrap_aiReleaseImport_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_13 _wrap_aiGetErrorString_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiIsExtensionSupported_aig_29567bba180e4e84(swig_type_14 arg1);
-extern void _wrap_aiGetExtensionList_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiGetMemoryRequirements_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiCreatePropertyStore_aig_29567bba180e4e84(void);
-extern void _wrap_aiReleasePropertyStore_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiSetImportPropertyInteger_aig_29567bba180e4e84(uintptr_t arg1, swig_type_15 arg2, swig_intgo arg3);
-extern void _wrap_aiSetImportPropertyFloat_aig_29567bba180e4e84(uintptr_t arg1, swig_type_16 arg2, uintptr_t arg3);
-extern void _wrap_aiSetImportPropertyString_aig_29567bba180e4e84(uintptr_t arg1, swig_type_17 arg2, uintptr_t arg3);
-extern void _wrap_aiSetImportPropertyMatrix_aig_29567bba180e4e84(uintptr_t arg1, swig_type_18 arg2, uintptr_t arg3);
-extern void _wrap_aiCreateQuaternionFromMatrix_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_aiDecomposeMatrix_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
-extern void _wrap_aiTransposeMatrix4_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiTransposeMatrix3_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiTransformVecByMatrix3_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_aiTransformVecByMatrix4_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_aiMultiplyMatrix4_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_aiMultiplyMatrix3_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern void _wrap_aiIdentityMatrix3_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiIdentityMatrix4_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_19 _wrap_aiGetImportFormatCount_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_aiGetImportFormatDescription_aig_29567bba180e4e84(swig_type_20 arg1);
-extern void _wrap_aiNode_mName_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_mName_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNode_mTransformation_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_mTransformation_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNode_mParent_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_mParent_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNode_mNumChildren_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiNode_mNumChildren_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNode_mNumMeshes_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiNode_mNumMeshes_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNode_mMetaData_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_mMetaData_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiNode__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiNode__SWIG_1_aig_29567bba180e4e84(swig_type_21 arg1);
-extern void _wrap_delete_aiNode_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiNode_FindNode__SWIG_0_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_FindNode__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNode_FindNode__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1, swig_type_22 arg2);
-extern uintptr_t _wrap_aiNode_FindNode__SWIG_3_aig_29567bba180e4e84(uintptr_t arg1, swig_type_23 arg2);
-extern void _wrap_aiNode_addChildren_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern uintptr_t _wrap_aiNode_mChildren_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiNode_mMeshes_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mFlags_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mFlags_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mRootNode_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiScene_mRootNode_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumMeshes_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumMeshes_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumMaterials_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumMaterials_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumAnimations_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumAnimations_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumTextures_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumTextures_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumLights_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumLights_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mNumCameras_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiScene_mNumCameras_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiScene_mMetaData_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiScene_mMetaData_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiScene_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiScene_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasMeshes_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasMaterials_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasLights_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasTextures_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasCameras_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiScene_HasAnimations_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_24 _wrap_aiScene_GetShortFilename_aig_29567bba180e4e84(swig_type_25 arg1);
-extern uintptr_t _wrap_aiScene_GetEmbeddedTexture_aig_29567bba180e4e84(uintptr_t arg1, swig_type_26 arg2);
-extern void _wrap_aiScene_mPrivate_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiScene_mPrivate_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mAnimations_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mCameras_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mLights_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mMaterials_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mMeshes_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiScene_mTextures_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiFace_mNumIndices_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiFace_mNumIndices_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiFace__SWIG_0_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiFace_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiFace__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiFace_mIndices_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVertexWeight_mVertexId_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiVertexWeight_mVertexId_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVertexWeight_mWeight_set_aig_29567bba180e4e84(uintptr_t arg1, float arg2);
-extern float _wrap_aiVertexWeight_mWeight_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiVertexWeight__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiVertexWeight__SWIG_1_aig_29567bba180e4e84(swig_intgo arg1, float arg2);
-extern void _wrap_delete_aiVertexWeight_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBone_mName_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiBone_mName_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBone_mNumWeights_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiBone_mNumWeights_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBone_mOffsetMatrix_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiBone_mOffsetMatrix_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiBone__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiBone__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_delete_aiBone_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiBone_mWeights_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_aiPrimitiveType_POINT_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiPrimitiveType_LINE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiPrimitiveType_TRIANGLE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiPrimitiveType_POLYGON_aig_29567bba180e4e84(void);
-extern void _wrap_aiAnimMesh_mName_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiAnimMesh_mName_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimMesh_mNumVertices_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiAnimMesh_mNumVertices_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimMesh_mWeight_set_aig_29567bba180e4e84(uintptr_t arg1, float arg2);
-extern float _wrap_aiAnimMesh_mWeight_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiAnimMesh_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiAnimMesh_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiAnimMesh_HasPositions_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiAnimMesh_HasNormals_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiAnimMesh_HasTangentsAndBitangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiAnimMesh_HasVertexColors_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern _Bool _wrap_aiAnimMesh_HasTextureCoords_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern uintptr_t _wrap_aiAnimMesh_mVertices_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiAnimMesh_mNormals_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiAnimMesh_mTangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiAnimMesh_mBitangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiAnimMesh_mTextureCoords_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiAnimMesh_mColors_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_aiMorphingMethod_VERTEX_BLEND_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_aiMorphingMethod_MORPH_RELATIVE_aig_29567bba180e4e84(void);
-extern void _wrap_aiMesh_mPrimitiveTypes_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mPrimitiveTypes_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mNumVertices_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mNumVertices_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mNumFaces_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mNumFaces_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mNumBones_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mNumBones_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mMaterialIndex_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mMaterialIndex_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mName_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMesh_mName_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mNumAnimMeshes_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mNumAnimMeshes_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mMethod_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_mMethod_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMesh_mAABB_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMesh_mAABB_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiMesh_aig_29567bba180e4e84(void);
-extern void _wrap_delete_aiMesh_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasPositions_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasFaces_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasNormals_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasTangentsAndBitangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasVertexColors_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern _Bool _wrap_aiMesh_HasTextureCoords_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_aiMesh_GetNumUVChannels_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_aiMesh_GetNumColorChannels_aig_29567bba180e4e84(uintptr_t arg1);
-extern _Bool _wrap_aiMesh_HasBones_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mAnimMeshes_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mBones_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mNumUVComponents_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mVertices_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mNormals_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mTangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mBitangents_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mFaces_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mTextureCoords_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_aiMesh_mColors_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_next_in_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_z_stream_next_in_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_avail_in_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_z_stream_avail_in_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_total_in_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_27 arg2);
-extern swig_type_28 _wrap_z_stream_total_in_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_next_out_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_z_stream_next_out_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_avail_out_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_z_stream_avail_out_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_total_out_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_29 arg2);
-extern swig_type_30 _wrap_z_stream_total_out_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_msg_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_31 arg2);
-extern swig_type_32 _wrap_z_stream_msg_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_state_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_z_stream_state_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_zalloc_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_33 arg2);
-extern swig_type_34 _wrap_z_stream_zalloc_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_zfree_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_35 arg2);
-extern swig_type_36 _wrap_z_stream_zfree_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_opaque_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_z_stream_opaque_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_data_type_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_z_stream_data_type_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_adler_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_37 arg2);
-extern swig_type_38 _wrap_z_stream_adler_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_z_stream_reserved_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_39 arg2);
-extern swig_type_40 _wrap_z_stream_reserved_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_z_stream_aig_29567bba180e4e84(void);
-extern void _wrap_delete_z_stream_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_text_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_text_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_time_set_aig_29567bba180e4e84(uintptr_t arg1, swig_type_41 arg2);
-extern swig_type_42 _wrap_gz_header_time_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_xflags_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_xflags_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_os_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_os_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_extra_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_gz_header_extra_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_extra_len_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_extra_len_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_extra_max_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_extra_max_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_name_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_gz_header_name_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_name_max_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_name_max_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_comment_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_gz_header_comment_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_comm_max_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_comm_max_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_hcrc_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_hcrc_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gz_header_done_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gz_header_done_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_gz_header_aig_29567bba180e4e84(void);
-extern void _wrap_delete_gz_header_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_Z_ERRNO_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_STREAM_ERROR_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_DATA_ERROR_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_MEM_ERROR_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_BUF_ERROR_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_VERSION_ERROR_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_Z_DEFAULT_COMPRESSION_aig_29567bba180e4e84(void);
-extern swig_type_43 _wrap_zlibVersion_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_deflate_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_deflateEnd_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_inflate_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_inflateEnd_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_deflateSetDictionary_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
-extern swig_intgo _wrap_deflateGetDictionary_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
-extern swig_intgo _wrap_deflateCopy_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern swig_intgo _wrap_deflateReset_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_deflateParams_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern swig_intgo _wrap_deflateTune_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5);
-extern swig_type_44 _wrap_deflateBound_aig_29567bba180e4e84(uintptr_t arg1, swig_type_45 arg2);
-extern swig_intgo _wrap_deflatePending_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
-extern swig_intgo _wrap_deflatePrime_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern swig_intgo _wrap_deflateSetHeader_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern swig_intgo _wrap_inflateSetDictionary_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
-extern swig_intgo _wrap_inflateGetDictionary_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
-extern swig_intgo _wrap_inflateSync_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_inflateCopy_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern swig_intgo _wrap_inflateReset_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_inflateReset2_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_inflatePrime_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern swig_type_46 _wrap_inflateMark_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_inflateGetHeader_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern swig_intgo _wrap_inflateBack_aig_29567bba180e4e84(uintptr_t arg1, swig_type_47 arg2, uintptr_t arg3, swig_type_48 arg4, uintptr_t arg5);
-extern swig_intgo _wrap_inflateBackEnd_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_49 _wrap_zlibCompileFlags_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_compress_aig_29567bba180e4e84(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_50 arg4);
-extern swig_intgo _wrap_compress2_aig_29567bba180e4e84(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_51 arg4, swig_intgo arg5);
-extern swig_type_52 _wrap_compressBound_aig_29567bba180e4e84(swig_type_53 arg1);
-extern swig_intgo _wrap_uncompress_aig_29567bba180e4e84(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_54 arg4);
-extern swig_intgo _wrap_uncompress2_aig_29567bba180e4e84(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_voidp arg4);
-extern uintptr_t _wrap_gzdopen_aig_29567bba180e4e84(swig_intgo arg1, swig_type_55 arg2);
-extern swig_intgo _wrap_gzbuffer_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gzsetparams_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern swig_intgo _wrap_gzread_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern swig_type_56 _wrap_gzfread_aig_29567bba180e4e84(uintptr_t arg1, swig_type_57 arg2, swig_type_58 arg3, uintptr_t arg4);
-extern swig_intgo _wrap_gzwrite_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern swig_type_59 _wrap_gzfwrite_aig_29567bba180e4e84(uintptr_t arg1, swig_type_60 arg2, swig_type_61 arg3, uintptr_t arg4);
-extern swig_intgo _wrap_gzprintf_aig_29567bba180e4e84(uintptr_t arg1, swig_type_62 arg2);
-extern swig_intgo _wrap_gzputs_aig_29567bba180e4e84(uintptr_t arg1, swig_type_63 arg2);
-extern swig_type_64 _wrap_gzgets_aig_29567bba180e4e84(uintptr_t arg1, swig_type_65 arg2, swig_intgo arg3);
-extern swig_intgo _wrap_gzputc_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gzgetc_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzungetc_aig_29567bba180e4e84(swig_intgo arg1, uintptr_t arg2);
-extern swig_intgo _wrap_gzflush_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gzrewind_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzeof_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzdirect_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzclose_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzclose_r_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzclose_w_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_66 _wrap_gzerror_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern void _wrap_gzclearerr_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_67 _wrap_adler32_aig_29567bba180e4e84(swig_type_68 arg1, swig_voidp arg2, swig_intgo arg3);
-extern swig_type_69 _wrap_adler32_z_aig_29567bba180e4e84(swig_type_70 arg1, swig_voidp arg2, swig_type_71 arg3);
-extern swig_type_72 _wrap_crc32_aig_29567bba180e4e84(swig_type_73 arg1, swig_voidp arg2, swig_intgo arg3);
-extern swig_type_74 _wrap_crc32_z_aig_29567bba180e4e84(swig_type_75 arg1, swig_voidp arg2, swig_type_76 arg3);
-extern swig_intgo _wrap_deflateInit__aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_type_77 arg3, swig_intgo arg4);
-extern swig_intgo _wrap_inflateInit__aig_29567bba180e4e84(uintptr_t arg1, swig_type_78 arg2, swig_intgo arg3);
-extern swig_intgo _wrap_deflateInit2__aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, swig_type_79 arg7, swig_intgo arg8);
-extern swig_intgo _wrap_inflateInit2__aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_type_80 arg3, swig_intgo arg4);
-extern swig_intgo _wrap_inflateBackInit__aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_voidp arg3, swig_type_81 arg4, swig_intgo arg5);
-extern void _wrap_gzFile_s_have_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_gzFile_s_have_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gzFile_s_next_set_aig_29567bba180e4e84(uintptr_t arg1, swig_voidp arg2);
-extern swig_voidp _wrap_gzFile_s_next_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_gzFile_s_pos_set_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_gzFile_s_pos_get_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_gzFile_s_aig_29567bba180e4e84(void);
-extern void _wrap_delete_gzFile_s_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzgetc__aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_gzopen_aig_29567bba180e4e84(swig_type_82 arg1, swig_type_83 arg2);
-extern uintptr_t _wrap_gzseek_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern uintptr_t _wrap_gztell_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_gzoffset_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_84 _wrap_adler32_combine_aig_29567bba180e4e84(swig_type_85 arg1, swig_type_86 arg2, uintptr_t arg3);
-extern swig_type_87 _wrap_crc32_combine_aig_29567bba180e4e84(swig_type_88 arg1, swig_type_89 arg2, uintptr_t arg3);
-extern swig_type_90 _wrap_zError_aig_29567bba180e4e84(swig_intgo arg1);
-extern swig_intgo _wrap_inflateSyncPoint_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_voidp _wrap_get_crc_table_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_inflateUndermine_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_inflateValidate_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_type_91 _wrap_inflateCodesUsed_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_inflateResetKeep_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_deflateResetKeep_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_gzvprintf_aig_29567bba180e4e84(uintptr_t arg1, swig_type_92 arg2, uintptr_t arg3);
-extern swig_intgo _wrap_ETF_ASCII_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_ETF_UTF8_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_ETF_UTF16_BE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_ETF_UTF16_LE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_ETF_UTF32_BE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_ETF_UTF32_LE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_NONE_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_ELEMENT_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_ELEMENT_END_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_TEXT_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_COMMENT_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_CDATA_aig_29567bba180e4e84(void);
-extern swig_intgo _wrap_EXN_UNKNOWN_aig_29567bba180e4e84(void);
-extern void _wrap_delete_IFileReadCallBack_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_intgo _wrap_IFileReadCallBack_read_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
-extern swig_intgo _wrap_IFileReadCallBack_getSize_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_IXMLBase_aig_29567bba180e4e84(void);
-extern void _wrap_delete_IXMLBase_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReader__SWIG_0_aig_29567bba180e4e84(swig_type_93 arg1);
-extern uintptr_t _wrap_createIrrXMLReader__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReader__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_0_aig_29567bba180e4e84(swig_type_94 arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_0_aig_29567bba180e4e84(swig_type_95 arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_1_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_UintVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_UintVector__SWIG_1_aig_29567bba180e4e84(swig_type_96 arg1);
-extern uintptr_t _wrap_new_UintVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_97 _wrap_UintVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_98 _wrap_UintVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_UintVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_99 arg2);
-extern _Bool _wrap_UintVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_UintVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_UintVector_add_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern swig_intgo _wrap_UintVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_UintVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
-extern void _wrap_delete_UintVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiAnimationVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiAnimationVector__SWIG_1_aig_29567bba180e4e84(swig_type_100 arg1);
-extern uintptr_t _wrap_new_aiAnimationVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_101 _wrap_aiAnimationVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_102 _wrap_aiAnimationVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimationVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_103 arg2);
-extern _Bool _wrap_aiAnimationVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimationVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimationVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiAnimationVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiAnimationVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiAnimationVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_1_aig_29567bba180e4e84(swig_type_104 arg1);
-extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_105 _wrap_aiAnimMeshVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_106 _wrap_aiAnimMeshVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimMeshVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_107 arg2);
-extern _Bool _wrap_aiAnimMeshVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimMeshVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiAnimMeshVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiAnimMeshVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiAnimMeshVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiAnimMeshVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiBonesVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiBonesVector__SWIG_1_aig_29567bba180e4e84(swig_type_108 arg1);
-extern uintptr_t _wrap_new_aiBonesVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_109 _wrap_aiBonesVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_110 _wrap_aiBonesVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBonesVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_111 arg2);
-extern _Bool _wrap_aiBonesVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBonesVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiBonesVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiBonesVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiBonesVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiBonesVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiCameraVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiCameraVector__SWIG_1_aig_29567bba180e4e84(swig_type_112 arg1);
-extern uintptr_t _wrap_new_aiCameraVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_113 _wrap_aiCameraVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_114 _wrap_aiCameraVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiCameraVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_115 arg2);
-extern _Bool _wrap_aiCameraVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiCameraVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiCameraVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiCameraVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiCameraVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiCameraVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiColor4DVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiColor4DVector__SWIG_1_aig_29567bba180e4e84(swig_type_116 arg1);
-extern uintptr_t _wrap_new_aiColor4DVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_117 _wrap_aiColor4DVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_118 _wrap_aiColor4DVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_119 arg2);
-extern _Bool _wrap_aiColor4DVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiColor4DVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiColor4DVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiColor4DVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_1_aig_29567bba180e4e84(swig_type_120 arg1);
-extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_121 _wrap_aiColor4DVectorVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_122 _wrap_aiColor4DVectorVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVectorVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_123 arg2);
-extern _Bool _wrap_aiColor4DVectorVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVectorVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiColor4DVectorVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiColor4DVectorVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiColor4DVectorVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiColor4DVectorVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiFaceVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiFaceVector__SWIG_1_aig_29567bba180e4e84(swig_type_124 arg1);
-extern uintptr_t _wrap_new_aiFaceVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_125 _wrap_aiFaceVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_126 _wrap_aiFaceVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiFaceVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_127 arg2);
-extern _Bool _wrap_aiFaceVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiFaceVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiFaceVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiFaceVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiFaceVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiFaceVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiLightVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiLightVector__SWIG_1_aig_29567bba180e4e84(swig_type_128 arg1);
-extern uintptr_t _wrap_new_aiLightVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_129 _wrap_aiLightVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_130 _wrap_aiLightVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiLightVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_131 arg2);
-extern _Bool _wrap_aiLightVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiLightVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiLightVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiLightVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiLightVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiLightVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiMaterialVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiMaterialVector__SWIG_1_aig_29567bba180e4e84(swig_type_132 arg1);
-extern uintptr_t _wrap_new_aiMaterialVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_133 _wrap_aiMaterialVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_134 _wrap_aiMaterialVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_135 arg2);
-extern _Bool _wrap_aiMaterialVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMaterialVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiMaterialVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiMaterialVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_1_aig_29567bba180e4e84(swig_type_136 arg1);
-extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_137 _wrap_aiMaterialPropertyVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_138 _wrap_aiMaterialPropertyVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialPropertyVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_139 arg2);
-extern _Bool _wrap_aiMaterialPropertyVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialPropertyVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMaterialPropertyVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMaterialPropertyVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiMaterialPropertyVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiMaterialPropertyVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_1_aig_29567bba180e4e84(swig_type_140 arg1);
-extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_141 _wrap_aiMeshAnimVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_142 _wrap_aiMeshAnimVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshAnimVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_143 arg2);
-extern _Bool _wrap_aiMeshAnimVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshAnimVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshAnimVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMeshAnimVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiMeshAnimVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiMeshAnimVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiMeshVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiMeshVector__SWIG_1_aig_29567bba180e4e84(swig_type_144 arg1);
-extern uintptr_t _wrap_new_aiMeshVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_145 _wrap_aiMeshVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_146 _wrap_aiMeshVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_147 arg2);
-extern _Bool _wrap_aiMeshVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiMeshVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiMeshVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiMeshVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiMeshVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiNodeVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiNodeVector__SWIG_1_aig_29567bba180e4e84(swig_type_148 arg1);
-extern uintptr_t _wrap_new_aiNodeVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_149 _wrap_aiNodeVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_150 _wrap_aiNodeVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_151 arg2);
-extern _Bool _wrap_aiNodeVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNodeVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiNodeVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiNodeVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_1_aig_29567bba180e4e84(swig_type_152 arg1);
-extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_153 _wrap_aiNodeAnimVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_154 _wrap_aiNodeAnimVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeAnimVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_155 arg2);
-extern _Bool _wrap_aiNodeAnimVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeAnimVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiNodeAnimVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiNodeAnimVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiNodeAnimVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiNodeAnimVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiTextureVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiTextureVector__SWIG_1_aig_29567bba180e4e84(swig_type_156 arg1);
-extern uintptr_t _wrap_new_aiTextureVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_157 _wrap_aiTextureVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_158 _wrap_aiTextureVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiTextureVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_159 arg2);
-extern _Bool _wrap_aiTextureVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiTextureVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiTextureVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiTextureVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiTextureVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiTextureVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiVector3DVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiVector3DVector__SWIG_1_aig_29567bba180e4e84(swig_type_160 arg1);
-extern uintptr_t _wrap_new_aiVector3DVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_161 _wrap_aiVector3DVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_162 _wrap_aiVector3DVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_163 arg2);
-extern _Bool _wrap_aiVector3DVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiVector3DVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiVector3DVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiVector3DVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_1_aig_29567bba180e4e84(swig_type_164 arg1);
-extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_165 _wrap_aiVector3DVectorVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_166 _wrap_aiVector3DVectorVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVectorVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_167 arg2);
-extern _Bool _wrap_aiVector3DVectorVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVectorVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVector3DVectorVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiVector3DVectorVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiVector3DVectorVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiVector3DVectorVector_aig_29567bba180e4e84(uintptr_t arg1);
-extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_0_aig_29567bba180e4e84(void);
-extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_1_aig_29567bba180e4e84(swig_type_168 arg1);
-extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_2_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_169 _wrap_aiVertexWeightVector_size_aig_29567bba180e4e84(uintptr_t arg1);
-extern swig_type_170 _wrap_aiVertexWeightVector_capacity_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVertexWeightVector_reserve_aig_29567bba180e4e84(uintptr_t arg1, swig_type_171 arg2);
-extern _Bool _wrap_aiVertexWeightVector_isEmpty_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVertexWeightVector_clear_aig_29567bba180e4e84(uintptr_t arg1);
-extern void _wrap_aiVertexWeightVector_add_aig_29567bba180e4e84(uintptr_t arg1, uintptr_t arg2);
-extern uintptr_t _wrap_aiVertexWeightVector_get_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2);
-extern void _wrap_aiVertexWeightVector_set_aig_29567bba180e4e84(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
-extern void _wrap_delete_aiVertexWeightVector_aig_29567bba180e4e84(uintptr_t arg1);
+typedef _gostring_ swig_type_169;
+typedef _gostring_ swig_type_170;
+typedef _gostring_ swig_type_171;
+typedef _gostring_ swig_type_172;
+typedef long long swig_type_173;
+typedef long long swig_type_174;
+typedef long long swig_type_175;
+typedef long long swig_type_176;
+typedef long long swig_type_177;
+typedef long long swig_type_178;
+typedef long long swig_type_179;
+typedef long long swig_type_180;
+typedef long long swig_type_181;
+typedef long long swig_type_182;
+typedef long long swig_type_183;
+typedef long long swig_type_184;
+typedef long long swig_type_185;
+typedef long long swig_type_186;
+typedef long long swig_type_187;
+typedef long long swig_type_188;
+typedef long long swig_type_189;
+typedef long long swig_type_190;
+typedef long long swig_type_191;
+typedef long long swig_type_192;
+typedef long long swig_type_193;
+typedef long long swig_type_194;
+typedef long long swig_type_195;
+typedef long long swig_type_196;
+typedef long long swig_type_197;
+typedef long long swig_type_198;
+typedef long long swig_type_199;
+typedef long long swig_type_200;
+typedef long long swig_type_201;
+typedef long long swig_type_202;
+typedef long long swig_type_203;
+typedef long long swig_type_204;
+typedef long long swig_type_205;
+typedef long long swig_type_206;
+typedef long long swig_type_207;
+typedef long long swig_type_208;
+typedef long long swig_type_209;
+typedef long long swig_type_210;
+typedef long long swig_type_211;
+typedef long long swig_type_212;
+typedef long long swig_type_213;
+typedef long long swig_type_214;
+typedef long long swig_type_215;
+typedef long long swig_type_216;
+typedef long long swig_type_217;
+typedef long long swig_type_218;
+typedef long long swig_type_219;
+typedef long long swig_type_220;
+typedef long long swig_type_221;
+typedef long long swig_type_222;
+typedef long long swig_type_223;
+typedef long long swig_type_224;
+typedef long long swig_type_225;
+typedef long long swig_type_226;
+typedef long long swig_type_227;
+typedef long long swig_type_228;
+typedef long long swig_type_229;
+typedef long long swig_type_230;
+typedef long long swig_type_231;
+typedef long long swig_type_232;
+typedef long long swig_type_233;
+typedef long long swig_type_234;
+typedef long long swig_type_235;
+typedef long long swig_type_236;
+typedef long long swig_type_237;
+typedef long long swig_type_238;
+typedef long long swig_type_239;
+typedef long long swig_type_240;
+typedef long long swig_type_241;
+typedef long long swig_type_242;
+typedef long long swig_type_243;
+typedef long long swig_type_244;
+typedef long long swig_type_245;
+typedef long long swig_type_246;
+typedef long long swig_type_247;
+typedef long long swig_type_248;
+extern void _wrap_Swig_free_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_Swig_malloc_aig_ad8534e24299c30d(swig_intgo arg1);
+extern void _wrap_aiLogStream_callback_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_1 arg2);
+extern swig_type_2 _wrap_aiLogStream_callback_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLogStream_user_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_3 arg2);
+extern swig_type_4 _wrap_aiLogStream_user_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiLogStream_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiLogStream_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiPropertyStore_sentinel_set_aig_ad8534e24299c30d(uintptr_t arg1, char arg2);
+extern char _wrap_aiPropertyStore_sentinel_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiPropertyStore_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiPropertyStore_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiImportFile_aig_ad8534e24299c30d(swig_type_5 arg1, swig_intgo arg2);
+extern uintptr_t _wrap_aiImportFileEx_aig_ad8534e24299c30d(swig_type_6 arg1, swig_intgo arg2, uintptr_t arg3);
+extern uintptr_t _wrap_aiImportFileExWithProperties_aig_ad8534e24299c30d(swig_type_7 arg1, swig_intgo arg2, uintptr_t arg3, uintptr_t arg4);
+extern uintptr_t _wrap_aiImportFileFromMemory_aig_ad8534e24299c30d(swig_type_8 arg1, swig_intgo arg2, swig_intgo arg3, swig_type_9 arg4);
+extern uintptr_t _wrap_aiImportFileFromMemoryWithProperties_aig_ad8534e24299c30d(swig_type_10 arg1, swig_intgo arg2, swig_intgo arg3, swig_type_11 arg4, uintptr_t arg5);
+extern uintptr_t _wrap_aiApplyPostProcessing_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern uintptr_t _wrap_aiGetPredefinedLogStream_aig_ad8534e24299c30d(swig_intgo arg1, swig_type_12 arg2);
+extern void _wrap_aiAttachLogStream_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiEnableVerboseLogging_aig_ad8534e24299c30d(swig_intgo arg1);
+extern swig_intgo _wrap_aiDetachLogStream_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiDetachAllLogStreams_aig_ad8534e24299c30d(void);
+extern void _wrap_aiReleaseImport_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_13 _wrap_aiGetErrorString_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiIsExtensionSupported_aig_ad8534e24299c30d(swig_type_14 arg1);
+extern void _wrap_aiGetExtensionList_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiGetMemoryRequirements_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCreatePropertyStore_aig_ad8534e24299c30d(void);
+extern void _wrap_aiReleasePropertyStore_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiSetImportPropertyInteger_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_15 arg2, swig_intgo arg3);
+extern void _wrap_aiSetImportPropertyFloat_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_16 arg2, float arg3);
+extern void _wrap_aiSetImportPropertyString_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_17 arg2, uintptr_t arg3);
+extern void _wrap_aiSetImportPropertyMatrix_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_18 arg2, uintptr_t arg3);
+extern void _wrap_aiCreateQuaternionFromMatrix_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiDecomposeMatrix_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, uintptr_t arg3, uintptr_t arg4);
+extern void _wrap_aiTransposeMatrix4_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTransposeMatrix3_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTransformVecByMatrix3_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiTransformVecByMatrix4_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiMultiplyMatrix4_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiMultiplyMatrix3_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiIdentityMatrix3_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiIdentityMatrix4_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_19 _wrap_aiGetImportFormatCount_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_aiGetImportFormatDescription_aig_ad8534e24299c30d(swig_type_20 arg1);
+extern void _wrap_aiNode_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNode_mTransformation_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_mTransformation_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNode_mParent_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_mParent_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNode_mNumChildren_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNode_mNumChildren_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNode_mNumMeshes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNode_mNumMeshes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNode_mMetaData_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_mMetaData_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiNode__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiNode__SWIG_1_aig_ad8534e24299c30d(swig_type_21 arg1);
+extern void _wrap_delete_aiNode_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiNode_FindNode__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_FindNode__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNode_FindNode__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_22 arg2);
+extern uintptr_t _wrap_aiNode_FindNode__SWIG_3_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_23 arg2);
+extern void _wrap_aiNode_addChildren_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern uintptr_t _wrap_aiNode_mChildren_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiNode_mMeshes_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mFlags_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mFlags_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mRootNode_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiScene_mRootNode_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumMeshes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumMeshes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumMaterials_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumMaterials_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumAnimations_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumAnimations_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumTextures_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumTextures_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumLights_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumLights_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mNumCameras_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiScene_mNumCameras_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiScene_mMetaData_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiScene_mMetaData_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiScene_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiScene_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasMeshes_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasMaterials_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasLights_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasTextures_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasCameras_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiScene_HasAnimations_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_24 _wrap_aiScene_GetShortFilename_aig_ad8534e24299c30d(swig_type_25 arg1);
+extern uintptr_t _wrap_aiScene_GetEmbeddedTexture_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_26 arg2);
+extern void _wrap_aiScene_mPrivate_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiScene_mPrivate_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mAnimations_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mCameras_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mLights_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mMaterials_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mMeshes_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiScene_mTextures_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiFace_mNumIndices_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiFace_mNumIndices_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiFace__SWIG_0_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiFace_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiFace__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiFace_mIndices_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVertexWeight_mVertexId_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiVertexWeight_mVertexId_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVertexWeight_mWeight_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVertexWeight_mWeight_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVertexWeight__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVertexWeight__SWIG_1_aig_ad8534e24299c30d(swig_intgo arg1, float arg2);
+extern void _wrap_delete_aiVertexWeight_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBone_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiBone_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBone_mNumWeights_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiBone_mNumWeights_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBone_mOffsetMatrix_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiBone_mOffsetMatrix_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiBone__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiBone__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiBone_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiBone_mWeights_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiPrimitiveType_POINT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPrimitiveType_LINE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPrimitiveType_TRIANGLE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPrimitiveType_POLYGON_aig_ad8534e24299c30d(void);
+extern void _wrap_aiAnimMesh_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimMesh_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimMesh_mNumVertices_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiAnimMesh_mNumVertices_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimMesh_mWeight_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiAnimMesh_mWeight_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiAnimMesh_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiAnimMesh_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiAnimMesh_HasPositions_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiAnimMesh_HasNormals_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiAnimMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiAnimMesh_HasVertexColors_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern _Bool _wrap_aiAnimMesh_HasTextureCoords_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern uintptr_t _wrap_aiAnimMesh_mVertices_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiAnimMesh_mNormals_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiAnimMesh_mTangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiAnimMesh_mBitangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiAnimMesh_mTextureCoords_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiAnimMesh_mColors_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiMorphingMethod_VERTEX_BLEND_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiMorphingMethod_MORPH_RELATIVE_aig_ad8534e24299c30d(void);
+extern void _wrap_aiMesh_mPrimitiveTypes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mPrimitiveTypes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mNumVertices_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mNumVertices_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mNumFaces_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mNumFaces_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mNumBones_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mNumBones_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mMaterialIndex_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mMaterialIndex_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMesh_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mNumAnimMeshes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mNumAnimMeshes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mMethod_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_mMethod_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMesh_mAABB_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMesh_mAABB_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMesh_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMesh_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasPositions_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasFaces_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasNormals_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasVertexColors_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern _Bool _wrap_aiMesh_HasTextureCoords_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMesh_GetNumUVChannels_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiMesh_GetNumColorChannels_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMesh_HasBones_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mAnimMeshes_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mBones_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mNumUVComponents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mVertices_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mNormals_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mTangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mBitangents_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mFaces_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mTextureCoords_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMesh_mColors_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_27 _wrap_MAXLEN_get_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiPlane__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiPlane__SWIG_1_aig_ad8534e24299c30d(float arg1, float arg2, float arg3, float arg4);
+extern uintptr_t _wrap_new_aiPlane__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiPlane_a_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiPlane_a_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiPlane_b_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiPlane_b_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiPlane_c_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiPlane_c_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiPlane_d_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiPlane_d_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiPlane_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiRay__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiRay__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_new_aiRay__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiRay_pos_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiRay_pos_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiRay_dir_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiRay_dir_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiRay_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiColor3D__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiColor3D__SWIG_1_aig_ad8534e24299c30d(float arg1, float arg2, float arg3);
+extern uintptr_t _wrap_new_aiColor3D__SWIG_2_aig_ad8534e24299c30d(float arg1);
+extern uintptr_t _wrap_new_aiColor3D__SWIG_3_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiColor3D_IsBlack_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor3D_r_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiColor3D_r_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor3D_g_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiColor3D_g_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor3D_b_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiColor3D_b_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiColor3D_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiString__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiString__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiString__SWIG_2_aig_ad8534e24299c30d(swig_type_28 arg1);
+extern void _wrap_aiString_Set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_29 arg2);
+extern void _wrap_aiString_Append_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_30 arg2);
+extern void _wrap_aiString_Clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_31 _wrap_aiString_C_Str_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiString_length_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiString_length_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiString_data_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_32 arg2);
+extern swig_type_33 _wrap_aiString_data_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiString_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiReturn_SUCCESS_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiReturn_FAILURE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiReturn_OUTOFMEMORY_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap__AI_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiOrigin_SET_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiOrigin_CUR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiOrigin_END_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap__AI_ORIGIN_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiDefaultLogStream_FILE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiDefaultLogStream_STDOUT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiDefaultLogStream_STDERR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiDefaultLogStream_DEBUGGER_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap__AI_DLS_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMemoryInfo_aig_ad8534e24299c30d(void);
+extern void _wrap_aiMemoryInfo_textures_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_textures_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_materials_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_materials_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_meshes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_meshes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_nodes_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_nodes_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_animations_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_animations_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_cameras_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_cameras_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_lights_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_lights_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMemoryInfo_total_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMemoryInfo_total_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiMemoryInfo_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexel_b_set_aig_ad8534e24299c30d(uintptr_t arg1, char arg2);
+extern char _wrap_aiTexel_b_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexel_g_set_aig_ad8534e24299c30d(uintptr_t arg1, char arg2);
+extern char _wrap_aiTexel_g_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexel_r_set_aig_ad8534e24299c30d(uintptr_t arg1, char arg2);
+extern char _wrap_aiTexel_r_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexel_a_set_aig_ad8534e24299c30d(uintptr_t arg1, char arg2);
+extern char _wrap_aiTexel_a_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiTexel_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiTexel_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexture_mWidth_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiTexture_mWidth_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexture_mHeight_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiTexture_mHeight_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexture_achFormatHint_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_34 arg2);
+extern swig_type_35 _wrap_aiTexture_achFormatHint_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexture_pcData_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiTexture_pcData_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTexture_mFilename_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiTexture_mFilename_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiTexture_CheckFormat_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_36 arg2);
+extern uintptr_t _wrap_new_aiTexture_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiTexture_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiLightSource_UNDEFINED_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiLightSource_DIRECTIONAL_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiLightSource_POINT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiLightSource_SPOT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiLightSource_AMBIENT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiLightSource_AREA_aig_ad8534e24299c30d(void);
+extern void _wrap_aiLight_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mType_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiLight_mType_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mPosition_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mPosition_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mDirection_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mDirection_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mUp_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mUp_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mAttenuationConstant_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiLight_mAttenuationConstant_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mAttenuationLinear_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiLight_mAttenuationLinear_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mAttenuationQuadratic_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiLight_mAttenuationQuadratic_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mColorDiffuse_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mColorDiffuse_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mColorSpecular_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mColorSpecular_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mColorAmbient_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mColorAmbient_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mAngleInnerCone_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiLight_mAngleInnerCone_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mAngleOuterCone_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiLight_mAngleOuterCone_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLight_mSize_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLight_mSize_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiLight_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiLight_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCamera_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mPosition_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCamera_mPosition_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mUp_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCamera_mUp_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mLookAt_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCamera_mLookAt_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mHorizontalFOV_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiCamera_mHorizontalFOV_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mClipPlaneNear_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiCamera_mClipPlaneNear_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mClipPlaneFar_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiCamera_mClipPlaneFar_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCamera_mAspect_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiCamera_mAspect_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiCamera_aig_ad8534e24299c30d(void);
+extern void _wrap_aiCamera_GetCameraMatrix_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_delete_aiCamera_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiTextureOp_Multiply_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureOp_Add_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureOp_Subtract_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureOp_Divide_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureOp_SmoothAdd_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureOp_SignedAdd_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapMode_Wrap_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapMode_Clamp_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapMode_Decal_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapMode_Mirror_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_UV_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_SPHERE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_CYLINDER_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_BOX_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_PLANE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureMapping_OTHER_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_NONE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_DIFFUSE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_SPECULAR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_AMBIENT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_EMISSIVE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_HEIGHT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_NORMALS_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_SHININESS_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_OPACITY_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_DISPLACEMENT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_LIGHTMAP_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_REFLECTION_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_BASE_COLOR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_NORMAL_CAMERA_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_EMISSION_COLOR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_METALNESS_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_DIFFUSE_ROUGHNESS_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_AMBIENT_OCCLUSION_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureType_UNKNOWN_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Flat_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Gouraud_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Phong_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Blinn_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Toon_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_OrenNayar_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Minnaert_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_CookTorrance_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_NoShading_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiShadingMode_Fresnel_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureFlags_Invert_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureFlags_UseAlpha_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiTextureFlags_IgnoreAlpha_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiBlendMode_Default_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiBlendMode_Additive_aig_ad8534e24299c30d(void);
+extern void _wrap_aiUVTransform_mTranslation_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiUVTransform_mTranslation_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiUVTransform_mScaling_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiUVTransform_mScaling_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiUVTransform_mRotation_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiUVTransform_mRotation_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiUVTransform_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiUVTransform_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiPTI_Float_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPTI_Double_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPTI_String_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPTI_Integer_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiPTI_Buffer_aig_ad8534e24299c30d(void);
+extern void _wrap_aiMaterialProperty_mKey_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMaterialProperty_mKey_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialProperty_mSemantic_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterialProperty_mSemantic_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialProperty_mIndex_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterialProperty_mIndex_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialProperty_mDataLength_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterialProperty_mDataLength_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialProperty_mType_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterialProperty_mType_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialProperty_mData_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_37 arg2);
+extern swig_type_38 _wrap_aiMaterialProperty_mData_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMaterialProperty_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMaterialProperty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMaterial_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMaterial_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMaterial_GetName_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_39 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_40 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_4_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_41 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_5_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_42 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_6_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_43 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_7_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_44 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_8_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_45 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_Get__SWIG_9_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_46 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_GetTextureCount_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5, swig_type_47 arg6, swig_type_48 arg7, swig_voidp arg8, swig_voidp arg9);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5, swig_type_49 arg6, swig_type_50 arg7, swig_voidp arg8);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5, swig_type_51 arg6, swig_type_52 arg7);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_3_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5, swig_type_53 arg6);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_4_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiMaterial_GetTexture__SWIG_5_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4);
+extern swig_intgo _wrap_aiMaterial_AddBinaryProperty_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_54 arg4, swig_intgo arg5, swig_intgo arg6, swig_intgo arg7);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_type_55 arg3, swig_intgo arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_type_56 arg3, swig_intgo arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_type_57 arg3);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_6_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_58 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_7_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_59 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_8_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_60 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_9_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_61 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_10_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_62 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_11_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_63 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_12_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_64 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_13_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_65 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_14_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_66 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_15_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_67 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_16_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_68 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_17_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_69 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_18_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_70 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_19_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_71 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_20_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_72 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_21_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_73 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_22_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_74 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_23_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_type_75 arg4);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_24_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_76 arg4, swig_intgo arg5, swig_intgo arg6);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_25_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_77 arg4, swig_intgo arg5);
+extern swig_intgo _wrap_aiMaterial_AddProperty__SWIG_26_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3, swig_type_78 arg4);
+extern swig_intgo _wrap_aiMaterial_RemoveProperty__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_79 arg2, swig_intgo arg3, swig_intgo arg4);
+extern swig_intgo _wrap_aiMaterial_RemoveProperty__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_80 arg2, swig_intgo arg3);
+extern swig_intgo _wrap_aiMaterial_RemoveProperty__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_81 arg2);
+extern void _wrap_aiMaterial_Clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterial_CopyPropertyList_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiMaterial_mNumProperties_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterial_mNumProperties_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterial_mNumAllocated_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMaterial_mNumAllocated_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMaterial_mProperties_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiMaterial_GetInteger__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_82 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_GetInteger__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_83 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiMaterial_GetFloat__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_84 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_GetFloat__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_85 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiMaterial_GetColor4D__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_86 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_GetColor4D__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_87 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_GetColor3D__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_88 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_GetColor3D__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_89 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiMaterial_GetString__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_90 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiMaterial_GetString__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_91 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiGetMaterialProperty_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_92 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiGetMaterialFloatArray_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_93 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiGetMaterialFloat_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_94 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiGetMaterialIntegerArray_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_95 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5, swig_voidp arg6);
+extern swig_intgo _wrap_aiGetMaterialInteger_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_96 arg2, swig_intgo arg3, swig_intgo arg4, swig_voidp arg5);
+extern swig_intgo _wrap_aiGetMaterialColor_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_97 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiGetMaterialUVTransform_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_98 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiGetMaterialString_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_99 arg2, swig_intgo arg3, swig_intgo arg4, uintptr_t arg5);
+extern swig_intgo _wrap_aiGetMaterialTextureCount_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiGetMaterialTexture_aig_ad8534e24299c30d(intgo _swig_args, uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, uintptr_t arg4, swig_voidp arg5, swig_type_100 arg6, swig_type_101 arg7, swig_voidp arg8, swig_voidp arg9, swig_type_102 arg10);
+extern void _wrap_aiVectorKey_mTime_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiVectorKey_mTime_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVectorKey_mValue_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiVectorKey_mValue_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVectorKey__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVectorKey__SWIG_1_aig_ad8534e24299c30d(double arg1, uintptr_t arg2);
+extern void _wrap_delete_aiVectorKey_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiQuatKey_mTime_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiQuatKey_mTime_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiQuatKey_mValue_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiQuatKey_mValue_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiQuatKey__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiQuatKey__SWIG_1_aig_ad8534e24299c30d(double arg1, uintptr_t arg2);
+extern void _wrap_delete_aiQuatKey_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshKey_mTime_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiMeshKey_mTime_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshKey_mValue_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMeshKey_mValue_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshKey__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMeshKey__SWIG_1_aig_ad8534e24299c30d(double arg1, swig_intgo arg2);
+extern void _wrap_delete_aiMeshKey_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphKey_mTime_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiMeshMorphKey_mTime_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphKey_mValues_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_aiMeshMorphKey_mValues_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphKey_mWeights_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_aiMeshMorphKey_mWeights_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphKey_mNumValuesAndWeights_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMeshMorphKey_mNumValuesAndWeights_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshMorphKey_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMeshMorphKey_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_aiAnimBehaviour_DEFAULT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiAnimBehaviour_CONSTANT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiAnimBehaviour_LINEAR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiAnimBehaviour_REPEAT_aig_ad8534e24299c30d(void);
+extern void _wrap_aiNodeAnim_mNodeName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeAnim_mNodeName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mNumPositionKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNodeAnim_mNumPositionKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mPositionKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeAnim_mPositionKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mNumRotationKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNodeAnim_mNumRotationKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mRotationKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeAnim_mRotationKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mNumScalingKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNodeAnim_mNumScalingKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mScalingKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeAnim_mScalingKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mPreState_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNodeAnim_mPreState_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnim_mPostState_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiNodeAnim_mPostState_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiNodeAnim_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiNodeAnim_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnim_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshAnim_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnim_mNumKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMeshAnim_mNumKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnim_mKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshAnim_mKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshAnim_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMeshAnim_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphAnim_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshMorphAnim_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphAnim_mNumKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMeshMorphAnim_mNumKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshMorphAnim_mKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshMorphAnim_mKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshMorphAnim_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMeshMorphAnim_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mName_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimation_mName_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mDuration_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiAnimation_mDuration_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mTicksPerSecond_set_aig_ad8534e24299c30d(uintptr_t arg1, double arg2);
+extern double _wrap_aiAnimation_mTicksPerSecond_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mNumChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiAnimation_mNumChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimation_mChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mNumMeshChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiAnimation_mNumMeshChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mMeshChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimation_mMeshChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mNumMorphMeshChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiAnimation_mNumMorphMeshChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimation_mMorphMeshChannels_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimation_mMorphMeshChannels_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiAnimation_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiAnimation_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_AI_BOOL_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_INT32_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_UINT64_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_FLOAT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_DOUBLE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_AISTRING_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_AIVECTOR3D_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_AI_META_MAX_aig_ad8534e24299c30d(void);
+extern void _wrap_aiMetadataEntry_mType_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMetadataEntry_mType_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMetadataEntry_mData_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMetadataEntry_mData_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMetadataEntry_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_aiMetadataEntry_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_0_aig_ad8534e24299c30d(_Bool arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_3_aig_ad8534e24299c30d(float arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_4_aig_ad8534e24299c30d(double arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_5_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_GetAiType__SWIG_6_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMetadata_mNumProperties_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_aiMetadata_mNumProperties_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMetadata_mKeys_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMetadata_mKeys_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMetadata_mValues_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMetadata_mValues_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMetadata__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMetadata__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiMetadata_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiMetadata_Alloc_aig_ad8534e24299c30d(swig_intgo arg1);
+extern void _wrap_aiMetadata_Dealloc_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiMetadata_Get_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_103 arg2, uintptr_t arg3, uintptr_t arg4);
+extern swig_intgo _wrap_aiProcess_CalcTangentSpace_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_JoinIdenticalVertices_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_MakeLeftHanded_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_Triangulate_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_RemoveComponent_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_GenNormals_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_GenSmoothNormals_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_SplitLargeMeshes_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_PreTransformVertices_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_LimitBoneWeights_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_ValidateDataStructure_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_ImproveCacheLocality_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_RemoveRedundantMaterials_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FixInfacingNormals_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_SortByPType_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FindDegenerates_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FindInvalidData_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_GenUVCoords_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_TransformUVCoords_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FindInstances_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_OptimizeMeshes_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_OptimizeGraph_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FlipUVs_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_FlipWindingOrder_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_SplitByBoneCount_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_Debone_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_GlobalScale_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_EmbedTextures_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_ForceGenNormals_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_DropNormals_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_aiProcess_GenBoundingBoxes_aig_ad8534e24299c30d(void);
+extern void _wrap_z_stream_next_in_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_z_stream_next_in_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_avail_in_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_z_stream_avail_in_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_total_in_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_104 arg2);
+extern swig_type_105 _wrap_z_stream_total_in_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_next_out_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_z_stream_next_out_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_avail_out_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_z_stream_avail_out_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_total_out_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_106 arg2);
+extern swig_type_107 _wrap_z_stream_total_out_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_msg_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_108 arg2);
+extern swig_type_109 _wrap_z_stream_msg_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_state_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_z_stream_state_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_zalloc_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_110 arg2);
+extern swig_type_111 _wrap_z_stream_zalloc_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_zfree_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_112 arg2);
+extern swig_type_113 _wrap_z_stream_zfree_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_opaque_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_z_stream_opaque_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_data_type_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_z_stream_data_type_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_adler_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_114 arg2);
+extern swig_type_115 _wrap_z_stream_adler_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_z_stream_reserved_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_116 arg2);
+extern swig_type_117 _wrap_z_stream_reserved_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_z_stream_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_z_stream_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_text_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_text_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_time_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_118 arg2);
+extern swig_type_119 _wrap_gz_header_time_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_xflags_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_xflags_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_os_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_os_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_extra_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_gz_header_extra_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_extra_len_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_extra_len_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_extra_max_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_extra_max_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_name_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_gz_header_name_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_name_max_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_name_max_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_comment_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_gz_header_comment_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_comm_max_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_comm_max_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_hcrc_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_hcrc_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gz_header_done_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gz_header_done_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_gz_header_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_gz_header_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_Z_ERRNO_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_STREAM_ERROR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_DATA_ERROR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_MEM_ERROR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_BUF_ERROR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_VERSION_ERROR_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_Z_DEFAULT_COMPRESSION_aig_ad8534e24299c30d(void);
+extern swig_type_120 _wrap_zlibVersion_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_deflate_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_deflateEnd_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_inflate_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_inflateEnd_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_deflateSetDictionary_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
+extern swig_intgo _wrap_deflateGetDictionary_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
+extern swig_intgo _wrap_deflateCopy_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern swig_intgo _wrap_deflateReset_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_deflateParams_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
+extern swig_intgo _wrap_deflateTune_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5);
+extern swig_type_121 _wrap_deflateBound_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_122 arg2);
+extern swig_intgo _wrap_deflatePending_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
+extern swig_intgo _wrap_deflatePrime_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
+extern swig_intgo _wrap_deflateSetHeader_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern swig_intgo _wrap_inflateSetDictionary_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3);
+extern swig_intgo _wrap_inflateGetDictionary_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3);
+extern swig_intgo _wrap_inflateSync_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_inflateCopy_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern swig_intgo _wrap_inflateReset_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_inflateReset2_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_inflatePrime_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
+extern swig_type_123 _wrap_inflateMark_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_inflateGetHeader_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern swig_intgo _wrap_inflateBack_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_124 arg2, uintptr_t arg3, swig_type_125 arg4, uintptr_t arg5);
+extern swig_intgo _wrap_inflateBackEnd_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_126 _wrap_zlibCompileFlags_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_compress_aig_ad8534e24299c30d(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_127 arg4);
+extern swig_intgo _wrap_compress2_aig_ad8534e24299c30d(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_128 arg4, swig_intgo arg5);
+extern swig_type_129 _wrap_compressBound_aig_ad8534e24299c30d(swig_type_130 arg1);
+extern swig_intgo _wrap_uncompress_aig_ad8534e24299c30d(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_type_131 arg4);
+extern swig_intgo _wrap_uncompress2_aig_ad8534e24299c30d(swig_voidp arg1, swig_voidp arg2, swig_voidp arg3, swig_voidp arg4);
+extern uintptr_t _wrap_gzdopen_aig_ad8534e24299c30d(swig_intgo arg1, swig_type_132 arg2);
+extern swig_intgo _wrap_gzbuffer_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gzsetparams_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
+extern swig_intgo _wrap_gzread_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
+extern swig_type_133 _wrap_gzfread_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_134 arg2, swig_type_135 arg3, uintptr_t arg4);
+extern swig_intgo _wrap_gzwrite_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
+extern swig_type_136 _wrap_gzfwrite_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_137 arg2, swig_type_138 arg3, uintptr_t arg4);
+extern swig_intgo _wrap_gzprintf_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_139 arg2);
+extern swig_intgo _wrap_gzputs_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_140 arg2);
+extern swig_type_141 _wrap_gzgets_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_142 arg2, swig_intgo arg3);
+extern swig_intgo _wrap_gzputc_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gzgetc_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzungetc_aig_ad8534e24299c30d(swig_intgo arg1, uintptr_t arg2);
+extern swig_intgo _wrap_gzflush_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gzrewind_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzeof_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzdirect_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzclose_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzclose_r_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzclose_w_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_143 _wrap_gzerror_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern void _wrap_gzclearerr_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_144 _wrap_adler32_aig_ad8534e24299c30d(swig_type_145 arg1, swig_voidp arg2, swig_intgo arg3);
+extern swig_type_146 _wrap_adler32_z_aig_ad8534e24299c30d(swig_type_147 arg1, swig_voidp arg2, swig_type_148 arg3);
+extern swig_type_149 _wrap_crc32_aig_ad8534e24299c30d(swig_type_150 arg1, swig_voidp arg2, swig_intgo arg3);
+extern swig_type_151 _wrap_crc32_z_aig_ad8534e24299c30d(swig_type_152 arg1, swig_voidp arg2, swig_type_153 arg3);
+extern swig_intgo _wrap_deflateInit__aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_type_154 arg3, swig_intgo arg4);
+extern swig_intgo _wrap_inflateInit__aig_ad8534e24299c30d(uintptr_t arg1, swig_type_155 arg2, swig_intgo arg3);
+extern swig_intgo _wrap_deflateInit2__aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, swig_intgo arg5, swig_intgo arg6, swig_type_156 arg7, swig_intgo arg8);
+extern swig_intgo _wrap_inflateInit2__aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_type_157 arg3, swig_intgo arg4);
+extern swig_intgo _wrap_inflateBackInit__aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_voidp arg3, swig_type_158 arg4, swig_intgo arg5);
+extern void _wrap_gzFile_s_have_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_gzFile_s_have_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gzFile_s_next_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_voidp arg2);
+extern swig_voidp _wrap_gzFile_s_next_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_gzFile_s_pos_set_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_gzFile_s_pos_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_gzFile_s_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_gzFile_s_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzgetc__aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_gzopen_aig_ad8534e24299c30d(swig_type_159 arg1, swig_type_160 arg2);
+extern uintptr_t _wrap_gzseek_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
+extern uintptr_t _wrap_gztell_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_gzoffset_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_161 _wrap_adler32_combine_aig_ad8534e24299c30d(swig_type_162 arg1, swig_type_163 arg2, uintptr_t arg3);
+extern swig_type_164 _wrap_crc32_combine_aig_ad8534e24299c30d(swig_type_165 arg1, swig_type_166 arg2, uintptr_t arg3);
+extern swig_type_167 _wrap_zError_aig_ad8534e24299c30d(swig_intgo arg1);
+extern swig_intgo _wrap_inflateSyncPoint_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_voidp _wrap_get_crc_table_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_inflateUndermine_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_inflateValidate_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_type_168 _wrap_inflateCodesUsed_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_inflateResetKeep_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_deflateResetKeep_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_gzvprintf_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_169 arg2, uintptr_t arg3);
+extern swig_intgo _wrap_ETF_ASCII_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_ETF_UTF8_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_ETF_UTF16_BE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_ETF_UTF16_LE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_ETF_UTF32_BE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_ETF_UTF32_LE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_NONE_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_ELEMENT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_ELEMENT_END_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_TEXT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_COMMENT_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_CDATA_aig_ad8534e24299c30d(void);
+extern swig_intgo _wrap_EXN_UNKNOWN_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_IFileReadCallBack_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_intgo _wrap_IFileReadCallBack_read_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, swig_intgo arg3);
+extern swig_intgo _wrap_IFileReadCallBack_getSize_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_IXMLBase_aig_ad8534e24299c30d(void);
+extern void _wrap_delete_IXMLBase_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReader__SWIG_0_aig_ad8534e24299c30d(swig_type_170 arg1);
+extern uintptr_t _wrap_createIrrXMLReader__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReader__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_0_aig_ad8534e24299c30d(swig_type_171 arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF16__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_0_aig_ad8534e24299c30d(swig_type_172 arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_createIrrXMLReaderUTF32__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_UintVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_UintVector__SWIG_1_aig_ad8534e24299c30d(swig_type_173 arg1);
+extern uintptr_t _wrap_new_UintVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_174 _wrap_UintVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_175 _wrap_UintVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_UintVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_176 arg2);
+extern _Bool _wrap_UintVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_UintVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_UintVector_add_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern swig_intgo _wrap_UintVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_UintVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, swig_intgo arg3);
+extern void _wrap_delete_UintVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiAnimationVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiAnimationVector__SWIG_1_aig_ad8534e24299c30d(swig_type_177 arg1);
+extern uintptr_t _wrap_new_aiAnimationVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_178 _wrap_aiAnimationVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_179 _wrap_aiAnimationVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimationVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_180 arg2);
+extern _Bool _wrap_aiAnimationVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimationVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimationVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimationVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiAnimationVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiAnimationVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_1_aig_ad8534e24299c30d(swig_type_181 arg1);
+extern uintptr_t _wrap_new_aiAnimMeshVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_182 _wrap_aiAnimMeshVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_183 _wrap_aiAnimMeshVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimMeshVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_184 arg2);
+extern _Bool _wrap_aiAnimMeshVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimMeshVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiAnimMeshVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiAnimMeshVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiAnimMeshVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiAnimMeshVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiBonesVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiBonesVector__SWIG_1_aig_ad8534e24299c30d(swig_type_185 arg1);
+extern uintptr_t _wrap_new_aiBonesVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_186 _wrap_aiBonesVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_187 _wrap_aiBonesVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBonesVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_188 arg2);
+extern _Bool _wrap_aiBonesVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBonesVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiBonesVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiBonesVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiBonesVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiBonesVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiCameraVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiCameraVector__SWIG_1_aig_ad8534e24299c30d(swig_type_189 arg1);
+extern uintptr_t _wrap_new_aiCameraVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_190 _wrap_aiCameraVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_191 _wrap_aiCameraVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCameraVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_192 arg2);
+extern _Bool _wrap_aiCameraVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCameraVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiCameraVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiCameraVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiCameraVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiCameraVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiColor4DVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiColor4DVector__SWIG_1_aig_ad8534e24299c30d(swig_type_193 arg1);
+extern uintptr_t _wrap_new_aiColor4DVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_194 _wrap_aiColor4DVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_195 _wrap_aiColor4DVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_196 arg2);
+extern _Bool _wrap_aiColor4DVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiColor4DVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiColor4DVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiColor4DVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_1_aig_ad8534e24299c30d(swig_type_197 arg1);
+extern uintptr_t _wrap_new_aiColor4DVectorVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_198 _wrap_aiColor4DVectorVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_199 _wrap_aiColor4DVectorVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVectorVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_200 arg2);
+extern _Bool _wrap_aiColor4DVectorVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVectorVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiColor4DVectorVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiColor4DVectorVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiColor4DVectorVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiColor4DVectorVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiFaceVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiFaceVector__SWIG_1_aig_ad8534e24299c30d(swig_type_201 arg1);
+extern uintptr_t _wrap_new_aiFaceVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_202 _wrap_aiFaceVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_203 _wrap_aiFaceVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiFaceVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_204 arg2);
+extern _Bool _wrap_aiFaceVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiFaceVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiFaceVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiFaceVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiFaceVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiFaceVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiLightVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiLightVector__SWIG_1_aig_ad8534e24299c30d(swig_type_205 arg1);
+extern uintptr_t _wrap_new_aiLightVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_206 _wrap_aiLightVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_207 _wrap_aiLightVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLightVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_208 arg2);
+extern _Bool _wrap_aiLightVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLightVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiLightVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiLightVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiLightVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiLightVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMaterialVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMaterialVector__SWIG_1_aig_ad8534e24299c30d(swig_type_209 arg1);
+extern uintptr_t _wrap_new_aiMaterialVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_210 _wrap_aiMaterialVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_211 _wrap_aiMaterialVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_212 arg2);
+extern _Bool _wrap_aiMaterialVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMaterialVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiMaterialVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiMaterialVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_1_aig_ad8534e24299c30d(swig_type_213 arg1);
+extern uintptr_t _wrap_new_aiMaterialPropertyVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_214 _wrap_aiMaterialPropertyVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_215 _wrap_aiMaterialPropertyVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialPropertyVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_216 arg2);
+extern _Bool _wrap_aiMaterialPropertyVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialPropertyVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMaterialPropertyVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMaterialPropertyVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiMaterialPropertyVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiMaterialPropertyVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_1_aig_ad8534e24299c30d(swig_type_217 arg1);
+extern uintptr_t _wrap_new_aiMeshAnimVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_218 _wrap_aiMeshAnimVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_219 _wrap_aiMeshAnimVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnimVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_220 arg2);
+extern _Bool _wrap_aiMeshAnimVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnimVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshAnimVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshAnimVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiMeshAnimVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiMeshAnimVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiMeshVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiMeshVector__SWIG_1_aig_ad8534e24299c30d(swig_type_221 arg1);
+extern uintptr_t _wrap_new_aiMeshVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_222 _wrap_aiMeshVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_223 _wrap_aiMeshVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_224 arg2);
+extern _Bool _wrap_aiMeshVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiMeshVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiMeshVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiMeshVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiMeshVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiNodeVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiNodeVector__SWIG_1_aig_ad8534e24299c30d(swig_type_225 arg1);
+extern uintptr_t _wrap_new_aiNodeVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_226 _wrap_aiNodeVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_227 _wrap_aiNodeVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_228 arg2);
+extern _Bool _wrap_aiNodeVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiNodeVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiNodeVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_1_aig_ad8534e24299c30d(swig_type_229 arg1);
+extern uintptr_t _wrap_new_aiNodeAnimVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_230 _wrap_aiNodeAnimVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_231 _wrap_aiNodeAnimVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnimVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_232 arg2);
+extern _Bool _wrap_aiNodeAnimVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnimVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiNodeAnimVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiNodeAnimVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiNodeAnimVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiNodeAnimVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiTextureVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiTextureVector__SWIG_1_aig_ad8534e24299c30d(swig_type_233 arg1);
+extern uintptr_t _wrap_new_aiTextureVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_234 _wrap_aiTextureVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_235 _wrap_aiTextureVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTextureVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_236 arg2);
+extern _Bool _wrap_aiTextureVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTextureVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiTextureVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiTextureVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiTextureVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiTextureVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVector3DVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVector3DVector__SWIG_1_aig_ad8534e24299c30d(swig_type_237 arg1);
+extern uintptr_t _wrap_new_aiVector3DVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_238 _wrap_aiVector3DVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_239 _wrap_aiVector3DVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_240 arg2);
+extern _Bool _wrap_aiVector3DVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiVector3DVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiVector3DVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiVector3DVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_1_aig_ad8534e24299c30d(swig_type_241 arg1);
+extern uintptr_t _wrap_new_aiVector3DVectorVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_242 _wrap_aiVector3DVectorVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_243 _wrap_aiVector3DVectorVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVectorVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_244 arg2);
+extern _Bool _wrap_aiVector3DVectorVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVectorVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3DVectorVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiVector3DVectorVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiVector3DVectorVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiVector3DVectorVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_1_aig_ad8534e24299c30d(swig_type_245 arg1);
+extern uintptr_t _wrap_new_aiVertexWeightVector__SWIG_2_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_246 _wrap_aiVertexWeightVector_size_aig_ad8534e24299c30d(uintptr_t arg1);
+extern swig_type_247 _wrap_aiVertexWeightVector_capacity_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVertexWeightVector_reserve_aig_ad8534e24299c30d(uintptr_t arg1, swig_type_248 arg2);
+extern _Bool _wrap_aiVertexWeightVector_isEmpty_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVertexWeightVector_clear_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVertexWeightVector_add_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiVertexWeightVector_get_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2);
+extern void _wrap_aiVertexWeightVector_set_aig_ad8534e24299c30d(uintptr_t arg1, swig_intgo arg2, uintptr_t arg3);
+extern void _wrap_delete_aiVertexWeightVector_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVector2D__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVector2D__SWIG_1_aig_ad8534e24299c30d(float arg1, float arg2);
+extern uintptr_t _wrap_new_aiVector2D__SWIG_2_aig_ad8534e24299c30d(float arg1);
+extern uintptr_t _wrap_new_aiVector2D__SWIG_3_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector2D_Set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2, float arg3);
+extern float _wrap_aiVector2D_SquareLength_aig_ad8534e24299c30d(uintptr_t arg1);
+extern float _wrap_aiVector2D_Length_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiVector2D_Normalize_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiVector2D_Equal__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, float arg3);
+extern _Bool _wrap_aiVector2D_Equal__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern uintptr_t _wrap_aiVector2D_SymMul_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiVector2D_x_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVector2D_x_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector2D_y_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVector2D_y_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiVector2D_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_new_aiVector3D__SWIG_0_aig_ad8534e24299c30d(void);
+extern uintptr_t _wrap_new_aiVector3D__SWIG_1_aig_ad8534e24299c30d(float arg1, float arg2, float arg3);
+extern uintptr_t _wrap_new_aiVector3D__SWIG_2_aig_ad8534e24299c30d(float arg1);
+extern uintptr_t _wrap_new_aiVector3D__SWIG_3_aig_ad8534e24299c30d(uintptr_t arg1);
+extern _Bool _wrap_aiVector3D_Equal__SWIG_0_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2, float arg3);
+extern _Bool _wrap_aiVector3D_Equal__SWIG_1_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiVector3D_Set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2, float arg3, float arg4);
+extern float _wrap_aiVector3D_SquareLength_aig_ad8534e24299c30d(uintptr_t arg1);
+extern float _wrap_aiVector3D_Length_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiVector3D_Normalize_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiVector3D_NormalizeSafe_aig_ad8534e24299c30d(uintptr_t arg1);
+extern uintptr_t _wrap_aiVector3D_SymMul_aig_ad8534e24299c30d(uintptr_t arg1, uintptr_t arg2);
+extern void _wrap_aiVector3D_x_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVector3D_x_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3D_y_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVector3D_y_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_aiVector3D_z_set_aig_ad8534e24299c30d(uintptr_t arg1, float arg2);
+extern float _wrap_aiVector3D_z_get_aig_ad8534e24299c30d(uintptr_t arg1);
+extern void _wrap_delete_aiVector3D_aig_ad8534e24299c30d(uintptr_t arg1);
 #undef intgo
 */
 import "C"
@@ -834,13 +1405,13 @@ func swigCopyString(s string) string {
 
 func Swig_free(arg1 uintptr) {
 	_swig_i_0 := arg1
-	C._wrap_Swig_free_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_Swig_free_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func Swig_malloc(arg1 int) (_swig_ret uintptr) {
 	var swig_r uintptr
 	_swig_i_0 := arg1
-	swig_r = (uintptr)(C._wrap_Swig_malloc_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0)))
+	swig_r = (uintptr)(C._wrap_Swig_malloc_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0)))
 	return swig_r
 }
 
@@ -856,20 +1427,20 @@ func (p SwigcptrAiLogStream) SwigIsAiLogStream() {
 func (arg1 SwigcptrAiLogStream) SetCallback(arg2 _swig_fnptr) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiLogStream_callback_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_1(_swig_i_1))
+	C._wrap_aiLogStream_callback_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_1(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiLogStream) GetCallback() (_swig_ret _swig_fnptr) {
 	var swig_r _swig_fnptr
 	_swig_i_0 := arg1
-	swig_r = (_swig_fnptr)(C._wrap_aiLogStream_callback_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (_swig_fnptr)(C._wrap_aiLogStream_callback_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiLogStream) SetUser(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiLogStream_user_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_3)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_aiLogStream_user_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_3)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -878,7 +1449,7 @@ func (arg1 SwigcptrAiLogStream) SetUser(arg2 string) {
 func (arg1 SwigcptrAiLogStream) GetUser() (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_aiLogStream_user_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	swig_r_p := C._wrap_aiLogStream_user_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -887,13 +1458,13 @@ func (arg1 SwigcptrAiLogStream) GetUser() (_swig_ret string) {
 
 func NewAiLogStream() (_swig_ret AiLogStream) {
 	var swig_r AiLogStream
-	swig_r = (AiLogStream)(SwigcptrAiLogStream(C._wrap_new_aiLogStream_aig_29567bba180e4e84()))
+	swig_r = (AiLogStream)(SwigcptrAiLogStream(C._wrap_new_aiLogStream_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiLogStream(arg1 AiLogStream) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiLogStream_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiLogStream_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiLogStream interface {
@@ -917,25 +1488,25 @@ func (p SwigcptrAiPropertyStore) SwigIsAiPropertyStore() {
 func (arg1 SwigcptrAiPropertyStore) SetSentinel(arg2 byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiPropertyStore_sentinel_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
+	C._wrap_aiPropertyStore_sentinel_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiPropertyStore) GetSentinel() (_swig_ret byte) {
 	var swig_r byte
 	_swig_i_0 := arg1
-	swig_r = (byte)(C._wrap_aiPropertyStore_sentinel_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (byte)(C._wrap_aiPropertyStore_sentinel_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewAiPropertyStore() (_swig_ret AiPropertyStore) {
 	var swig_r AiPropertyStore
-	swig_r = (AiPropertyStore)(SwigcptrAiPropertyStore(C._wrap_new_aiPropertyStore_aig_29567bba180e4e84()))
+	swig_r = (AiPropertyStore)(SwigcptrAiPropertyStore(C._wrap_new_aiPropertyStore_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiPropertyStore(arg1 AiPropertyStore) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiPropertyStore_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiPropertyStore_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiPropertyStore interface {
@@ -952,7 +1523,7 @@ func AiImportFile(arg1 string, arg2 uint) (_swig_ret AiScene) {
 	var swig_r AiScene
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFile_aig_29567bba180e4e84(*(*C.swig_type_5)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFile_aig_ad8534e24299c30d(*(*C.swig_type_5)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -964,7 +1535,7 @@ func AiImportFileEx(arg1 string, arg2 uint, arg3 AiFileIO) (_swig_ret AiScene) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileEx_aig_29567bba180e4e84(*(*C.swig_type_6)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileEx_aig_ad8534e24299c30d(*(*C.swig_type_6)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -977,7 +1548,7 @@ func AiImportFileExWithProperties(arg1 string, arg2 uint, arg3 AiFileIO, arg4 Ai
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
 	_swig_i_3 := arg4.Swigcptr()
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileExWithProperties_aig_29567bba180e4e84(*(*C.swig_type_7)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2), C.uintptr_t(_swig_i_3))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileExWithProperties_aig_ad8534e24299c30d(*(*C.swig_type_7)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2), C.uintptr_t(_swig_i_3))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -990,7 +1561,7 @@ func AiImportFileFromMemory(arg1 string, arg2 uint, arg3 uint, arg4 string) (_sw
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileFromMemory_aig_29567bba180e4e84(*(*C.swig_type_8)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_9)(unsafe.Pointer(&_swig_i_3)))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileFromMemory_aig_ad8534e24299c30d(*(*C.swig_type_8)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_9)(unsafe.Pointer(&_swig_i_3)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -1007,7 +1578,7 @@ func AiImportFileFromMemoryWithProperties(arg1 string, arg2 uint, arg3 uint, arg
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5.Swigcptr()
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileFromMemoryWithProperties_aig_29567bba180e4e84(*(*C.swig_type_10)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_11)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiImportFileFromMemoryWithProperties_aig_ad8534e24299c30d(*(*C.swig_type_10)(unsafe.Pointer(&_swig_i_0)), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_11)(unsafe.Pointer(&_swig_i_3)), C.uintptr_t(_swig_i_4))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -1021,7 +1592,7 @@ func AiApplyPostProcessing(arg1 AiScene, arg2 uint) (_swig_ret AiScene) {
 	var swig_r AiScene
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiApplyPostProcessing_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_aiApplyPostProcessing_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -1029,7 +1600,7 @@ func AiGetPredefinedLogStream(arg1 AiDefaultLogStream, arg2 string) (_swig_ret A
 	var swig_r AiLogStream
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiLogStream)(SwigcptrAiLogStream(C._wrap_aiGetPredefinedLogStream_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0), *(*C.swig_type_12)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (AiLogStream)(SwigcptrAiLogStream(C._wrap_aiGetPredefinedLogStream_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0), *(*C.swig_type_12)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1038,33 +1609,33 @@ func AiGetPredefinedLogStream(arg1 AiDefaultLogStream, arg2 string) (_swig_ret A
 
 func AiAttachLogStream(arg1 AiLogStream) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiAttachLogStream_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiAttachLogStream_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiEnableVerboseLogging(arg1 int) {
 	_swig_i_0 := arg1
-	C._wrap_aiEnableVerboseLogging_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0))
+	C._wrap_aiEnableVerboseLogging_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0))
 }
 
 func AiDetachLogStream(arg1 AiLogStream) (_swig_ret AiReturn) {
 	var swig_r AiReturn
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiReturn)(C._wrap_aiDetachLogStream_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (AiReturn)(C._wrap_aiDetachLogStream_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func AiDetachAllLogStreams() {
-	C._wrap_aiDetachAllLogStreams_aig_29567bba180e4e84()
+	C._wrap_aiDetachAllLogStreams_aig_ad8534e24299c30d()
 }
 
 func AiReleaseImport(arg1 AiScene) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiReleaseImport_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiReleaseImport_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiGetErrorString() (_swig_ret string) {
 	var swig_r string
-	swig_r_p := C._wrap_aiGetErrorString_aig_29567bba180e4e84()
+	swig_r_p := C._wrap_aiGetErrorString_aig_ad8534e24299c30d()
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -1074,7 +1645,7 @@ func AiGetErrorString() (_swig_ret string) {
 func AiIsExtensionSupported(arg1 string) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_aiIsExtensionSupported_aig_29567bba180e4e84(*(*C.swig_type_14)(unsafe.Pointer(&_swig_i_0))))
+	swig_r = (int)(C._wrap_aiIsExtensionSupported_aig_ad8534e24299c30d(*(*C.swig_type_14)(unsafe.Pointer(&_swig_i_0))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -1083,41 +1654,41 @@ func AiIsExtensionSupported(arg1 string) (_swig_ret int) {
 
 func AiGetExtensionList(arg1 AiString) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiGetExtensionList_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiGetExtensionList_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiGetMemoryRequirements(arg1 AiScene, arg2 AiMemoryInfo) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiGetMemoryRequirements_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiGetMemoryRequirements_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiCreatePropertyStore() (_swig_ret AiPropertyStore) {
 	var swig_r AiPropertyStore
-	swig_r = (AiPropertyStore)(SwigcptrAiPropertyStore(C._wrap_aiCreatePropertyStore_aig_29567bba180e4e84()))
+	swig_r = (AiPropertyStore)(SwigcptrAiPropertyStore(C._wrap_aiCreatePropertyStore_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func AiReleasePropertyStore(arg1 AiPropertyStore) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiReleasePropertyStore_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiReleasePropertyStore_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiSetImportPropertyInteger(arg1 AiPropertyStore, arg2 string, arg3 int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_aiSetImportPropertyInteger_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_15)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2))
+	C._wrap_aiSetImportPropertyInteger_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_15)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
 }
 
-func AiSetImportPropertyFloat(arg1 AiPropertyStore, arg2 string, arg3 Ai_real) {
+func AiSetImportPropertyFloat(arg1 AiPropertyStore, arg2 string, arg3 float32) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiSetImportPropertyFloat_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_16)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	_swig_i_2 := arg3
+	C._wrap_aiSetImportPropertyFloat_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_16)(unsafe.Pointer(&_swig_i_1)), C.float(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1127,7 +1698,7 @@ func AiSetImportPropertyString(arg1 AiPropertyStore, arg2 string, arg3 AiString)
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiSetImportPropertyString_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_17)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_aiSetImportPropertyString_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_17)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1137,7 +1708,7 @@ func AiSetImportPropertyMatrix(arg1 AiPropertyStore, arg2 string, arg3 AiMatrix4
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiSetImportPropertyMatrix_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_18)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
+	C._wrap_aiSetImportPropertyMatrix_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_18)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1146,7 +1717,7 @@ func AiSetImportPropertyMatrix(arg1 AiPropertyStore, arg2 string, arg3 AiMatrix4
 func AiCreateQuaternionFromMatrix(arg1 AiQuaternion, arg2 AiMatrix3x3) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiCreateQuaternionFromMatrix_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiCreateQuaternionFromMatrix_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiDecomposeMatrix(arg1 AiMatrix4x4, arg2 AiVector3D, arg3 AiQuaternion, arg4 AiVector3D) {
@@ -1154,63 +1725,63 @@ func AiDecomposeMatrix(arg1 AiMatrix4x4, arg2 AiVector3D, arg3 AiQuaternion, arg
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3.Swigcptr()
 	_swig_i_3 := arg4.Swigcptr()
-	C._wrap_aiDecomposeMatrix_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), C.uintptr_t(_swig_i_3))
+	C._wrap_aiDecomposeMatrix_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.uintptr_t(_swig_i_2), C.uintptr_t(_swig_i_3))
 }
 
 func AiTransposeMatrix4(arg1 AiMatrix4x4) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiTransposeMatrix4_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiTransposeMatrix4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiTransposeMatrix3(arg1 AiMatrix3x3) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiTransposeMatrix3_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiTransposeMatrix3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiTransformVecByMatrix3(arg1 AiVector3D, arg2 AiMatrix3x3) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiTransformVecByMatrix3_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiTransformVecByMatrix3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiTransformVecByMatrix4(arg1 AiVector3D, arg2 AiMatrix4x4) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiTransformVecByMatrix4_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiTransformVecByMatrix4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiMultiplyMatrix4(arg1 AiMatrix4x4, arg2 AiMatrix4x4) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMultiplyMatrix4_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMultiplyMatrix4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiMultiplyMatrix3(arg1 AiMatrix3x3, arg2 AiMatrix3x3) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMultiplyMatrix3_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMultiplyMatrix3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func AiIdentityMatrix3(arg1 AiMatrix3x3) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiIdentityMatrix3_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiIdentityMatrix3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiIdentityMatrix4(arg1 AiMatrix4x4) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_aiIdentityMatrix4_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiIdentityMatrix4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func AiGetImportFormatCount() (_swig_ret int64) {
 	var swig_r int64
-	swig_r = (int64)(C._wrap_aiGetImportFormatCount_aig_29567bba180e4e84())
+	swig_r = (int64)(C._wrap_aiGetImportFormatCount_aig_ad8534e24299c30d())
 	return swig_r
 }
 
 func AiGetImportFormatDescription(arg1 int64) (_swig_ret AiImporterDesc) {
 	var swig_r AiImporterDesc
 	_swig_i_0 := arg1
-	swig_r = (AiImporterDesc)(SwigcptrAiImporterDesc(C._wrap_aiGetImportFormatDescription_aig_29567bba180e4e84(C.swig_type_20(_swig_i_0))))
+	swig_r = (AiImporterDesc)(SwigcptrAiImporterDesc(C._wrap_aiGetImportFormatDescription_aig_ad8534e24299c30d(C.swig_type_20(_swig_i_0))))
 	return swig_r
 }
 
@@ -1226,91 +1797,91 @@ func (p SwigcptrAiNode) SwigIsAiNode() {
 func (arg1 SwigcptrAiNode) SetMName(arg2 AiString) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNode_mName_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNode_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMName() (_swig_ret AiString) {
 	var swig_r AiString
 	_swig_i_0 := arg1
-	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiNode_mName_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiNode_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) SetMTransformation(arg2 AiMatrix4x4) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNode_mTransformation_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNode_mTransformation_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMTransformation() (_swig_ret AiMatrix4x4) {
 	var swig_r AiMatrix4x4
 	_swig_i_0 := arg1
-	swig_r = (AiMatrix4x4)(SwigcptrAiMatrix4x4(C._wrap_aiNode_mTransformation_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMatrix4x4)(SwigcptrAiMatrix4x4(C._wrap_aiNode_mTransformation_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) SetMParent(arg2 AiNode) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNode_mParent_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNode_mParent_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMParent() (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_mParent_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_mParent_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) SetMNumChildren(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiNode_mNumChildren_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiNode_mNumChildren_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMNumChildren() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiNode_mNumChildren_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiNode_mNumChildren_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) SetMNumMeshes(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiNode_mNumMeshes_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiNode_mNumMeshes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMNumMeshes() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiNode_mNumMeshes_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiNode_mNumMeshes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) SetMMetaData(arg2 AiMetadata) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNode_mMetaData_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNode_mMetaData_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNode) GetMMetaData() (_swig_ret AiMetadata) {
 	var swig_r AiMetadata
 	_swig_i_0 := arg1
-	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_aiNode_mMetaData_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_aiNode_mMetaData_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiNode__SWIG_0() (_swig_ret AiNode) {
 	var swig_r AiNode
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_new_aiNode__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_new_aiNode__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiNode__SWIG_1(arg1 string) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_new_aiNode__SWIG_1_aig_29567bba180e4e84(*(*C.swig_type_21)(unsafe.Pointer(&_swig_i_0)))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_new_aiNode__SWIG_1_aig_ad8534e24299c30d(*(*C.swig_type_21)(unsafe.Pointer(&_swig_i_0)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -1330,14 +1901,14 @@ func NewAiNode(a ...interface{}) AiNode {
 
 func DeleteAiNode(arg1 AiNode) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiNode_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiNode_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiNode) FindNode__SWIG_0(arg2 AiString) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_0_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
 	return swig_r
 }
 
@@ -1345,7 +1916,7 @@ func (arg1 SwigcptrAiNode) FindNode__SWIG_1(arg2 AiString) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
 	return swig_r
 }
 
@@ -1353,7 +1924,7 @@ func (arg1 SwigcptrAiNode) FindNode__SWIG_2(arg2 string) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_22)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_22)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1364,7 +1935,7 @@ func (arg1 SwigcptrAiNode) FindNode__SWIG_3(arg2 string) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_3_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_23)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNode_FindNode__SWIG_3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_23)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1400,20 +1971,20 @@ func (arg1 SwigcptrAiNode) AddChildren(arg2 uint, arg3 AiNode) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiNode_addChildren_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiNode_addChildren_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func (arg1 SwigcptrAiNode) MChildren() (_swig_ret AiNodeVector) {
 	var swig_r AiNodeVector
 	_swig_i_0 := arg1
-	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_aiNode_mChildren_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_aiNode_mChildren_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNode) MMeshes() (_swig_ret UintVector) {
 	var swig_r UintVector
 	_swig_i_0 := arg1
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiNode_mMeshes_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiNode_mMeshes_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1457,177 +2028,177 @@ func (p SwigcptrAiScene) SwigIsAiScene() {
 func (arg1 SwigcptrAiScene) SetMFlags(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mFlags_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mFlags_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMFlags() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mFlags_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mFlags_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMRootNode(arg2 AiNode) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiScene_mRootNode_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiScene_mRootNode_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMRootNode() (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiScene_mRootNode_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiScene_mRootNode_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumMeshes(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumMeshes_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumMeshes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumMeshes() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumMeshes_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumMeshes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumMaterials(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumMaterials_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumMaterials_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumMaterials() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumMaterials_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumMaterials_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumAnimations(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumAnimations_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumAnimations_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumAnimations() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumAnimations_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumAnimations_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumTextures(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumTextures_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumTextures_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumTextures() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumTextures_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumTextures_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumLights(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumLights_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumLights_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumLights() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumLights_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumLights_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMNumCameras(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mNumCameras_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiScene_mNumCameras_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMNumCameras() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiScene_mNumCameras_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiScene_mNumCameras_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) SetMMetaData(arg2 AiMetadata) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiScene_mMetaData_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiScene_mMetaData_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMMetaData() (_swig_ret AiMetadata) {
 	var swig_r AiMetadata
 	_swig_i_0 := arg1
-	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_aiScene_mMetaData_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_aiScene_mMetaData_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiScene() (_swig_ret AiScene) {
 	var swig_r AiScene
-	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_new_aiScene_aig_29567bba180e4e84()))
+	swig_r = (AiScene)(SwigcptrAiScene(C._wrap_new_aiScene_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiScene(arg1 AiScene) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiScene_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiScene_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiScene) HasMeshes() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasMeshes_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasMeshes_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) HasMaterials() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasMaterials_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasMaterials_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) HasLights() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasLights_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasLights_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) HasTextures() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasTextures_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasTextures_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) HasCameras() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasCameras_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasCameras_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) HasAnimations() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiScene_HasAnimations_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiScene_HasAnimations_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func AiSceneGetShortFilename(arg1 string) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_aiScene_GetShortFilename_aig_29567bba180e4e84(*(*C.swig_type_25)(unsafe.Pointer(&_swig_i_0)))
+	swig_r_p := C._wrap_aiScene_GetShortFilename_aig_ad8534e24299c30d(*(*C.swig_type_25)(unsafe.Pointer(&_swig_i_0)))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
@@ -1641,7 +2212,7 @@ func (arg1 SwigcptrAiScene) GetEmbeddedTexture(arg2 string) (_swig_ret AiTexture
 	var swig_r AiTexture
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiTexture)(SwigcptrAiTexture(C._wrap_aiScene_GetEmbeddedTexture_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_26)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (AiTexture)(SwigcptrAiTexture(C._wrap_aiScene_GetEmbeddedTexture_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_26)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -1651,55 +2222,55 @@ func (arg1 SwigcptrAiScene) GetEmbeddedTexture(arg2 string) (_swig_ret AiTexture
 func (arg1 SwigcptrAiScene) SetMPrivate(arg2 uintptr) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiScene_mPrivate_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiScene_mPrivate_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiScene) GetMPrivate() (_swig_ret uintptr) {
 	var swig_r uintptr
 	_swig_i_0 := arg1
-	swig_r = (uintptr)(C._wrap_aiScene_mPrivate_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uintptr)(C._wrap_aiScene_mPrivate_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MAnimations() (_swig_ret AiAnimationVector) {
 	var swig_r AiAnimationVector
 	_swig_i_0 := arg1
-	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_aiScene_mAnimations_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_aiScene_mAnimations_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MCameras() (_swig_ret AiCameraVector) {
 	var swig_r AiCameraVector
 	_swig_i_0 := arg1
-	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_aiScene_mCameras_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_aiScene_mCameras_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MLights() (_swig_ret AiLightVector) {
 	var swig_r AiLightVector
 	_swig_i_0 := arg1
-	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_aiScene_mLights_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_aiScene_mLights_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MMaterials() (_swig_ret AiMaterialVector) {
 	var swig_r AiMaterialVector
 	_swig_i_0 := arg1
-	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_aiScene_mMaterials_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_aiScene_mMaterials_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MMeshes() (_swig_ret AiMeshVector) {
 	var swig_r AiMeshVector
 	_swig_i_0 := arg1
-	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_aiScene_mMeshes_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_aiScene_mMeshes_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiScene) MTextures() (_swig_ret AiTextureVector) {
 	var swig_r AiTextureVector
 	_swig_i_0 := arg1
-	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_aiScene_mTextures_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_aiScene_mTextures_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1760,31 +2331,31 @@ func (p SwigcptrAiFace) SwigIsAiFace() {
 func (arg1 SwigcptrAiFace) SetMNumIndices(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiFace_mNumIndices_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiFace_mNumIndices_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiFace) GetMNumIndices() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiFace_mNumIndices_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiFace_mNumIndices_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewAiFace__SWIG_0() (_swig_ret AiFace) {
 	var swig_r AiFace
-	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_new_aiFace__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_new_aiFace__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiFace(arg1 AiFace) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiFace_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiFace_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func NewAiFace__SWIG_1(arg1 AiFace) (_swig_ret AiFace) {
 	var swig_r AiFace
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_new_aiFace__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_new_aiFace__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1802,7 +2373,7 @@ func NewAiFace(a ...interface{}) AiFace {
 func (arg1 SwigcptrAiFace) MIndices() (_swig_ret UintVector) {
 	var swig_r UintVector
 	_swig_i_0 := arg1
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiFace_mIndices_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiFace_mIndices_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1826,32 +2397,32 @@ func (p SwigcptrAiVertexWeight) SwigIsAiVertexWeight() {
 func (arg1 SwigcptrAiVertexWeight) SetMVertexId(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiVertexWeight_mVertexId_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiVertexWeight_mVertexId_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVertexWeight) GetMVertexId() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiVertexWeight_mVertexId_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiVertexWeight_mVertexId_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVertexWeight) SetMWeight(arg2 float32) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiVertexWeight_mWeight_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+	C._wrap_aiVertexWeight_mWeight_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVertexWeight) GetMWeight() (_swig_ret float32) {
 	var swig_r float32
 	_swig_i_0 := arg1
-	swig_r = (float32)(C._wrap_aiVertexWeight_mWeight_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (float32)(C._wrap_aiVertexWeight_mWeight_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewAiVertexWeight__SWIG_0() (_swig_ret AiVertexWeight) {
 	var swig_r AiVertexWeight
-	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_new_aiVertexWeight__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_new_aiVertexWeight__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
@@ -1859,7 +2430,7 @@ func NewAiVertexWeight__SWIG_1(arg1 uint, arg2 float32) (_swig_ret AiVertexWeigh
 	var swig_r AiVertexWeight
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_new_aiVertexWeight__SWIG_1_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0), C.float(_swig_i_1))))
+	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_new_aiVertexWeight__SWIG_1_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0), C.float(_swig_i_1))))
 	return swig_r
 }
 
@@ -1876,7 +2447,7 @@ func NewAiVertexWeight(a ...interface{}) AiVertexWeight {
 
 func DeleteAiVertexWeight(arg1 AiVertexWeight) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiVertexWeight_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiVertexWeight_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiVertexWeight interface {
@@ -1900,52 +2471,52 @@ func (p SwigcptrAiBone) SwigIsAiBone() {
 func (arg1 SwigcptrAiBone) SetMName(arg2 AiString) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiBone_mName_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiBone_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiBone) GetMName() (_swig_ret AiString) {
 	var swig_r AiString
 	_swig_i_0 := arg1
-	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiBone_mName_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiBone_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiBone) SetMNumWeights(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiBone_mNumWeights_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiBone_mNumWeights_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiBone) GetMNumWeights() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiBone_mNumWeights_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiBone_mNumWeights_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiBone) SetMOffsetMatrix(arg2 AiMatrix4x4) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiBone_mOffsetMatrix_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiBone_mOffsetMatrix_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiBone) GetMOffsetMatrix() (_swig_ret AiMatrix4x4) {
 	var swig_r AiMatrix4x4
 	_swig_i_0 := arg1
-	swig_r = (AiMatrix4x4)(SwigcptrAiMatrix4x4(C._wrap_aiBone_mOffsetMatrix_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMatrix4x4)(SwigcptrAiMatrix4x4(C._wrap_aiBone_mOffsetMatrix_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiBone__SWIG_0() (_swig_ret AiBone) {
 	var swig_r AiBone
-	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_new_aiBone__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_new_aiBone__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiBone__SWIG_1(arg1 AiBone) (_swig_ret AiBone) {
 	var swig_r AiBone
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_new_aiBone__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_new_aiBone__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1962,13 +2533,13 @@ func NewAiBone(a ...interface{}) AiBone {
 
 func DeleteAiBone(arg1 AiBone) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiBone_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiBone_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiBone) MWeights() (_swig_ret AiVertexWeightVector) {
 	var swig_r AiVertexWeightVector
 	_swig_i_0 := arg1
-	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_aiBone_mWeights_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_aiBone_mWeights_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -1988,7 +2559,7 @@ type AiPrimitiveType int
 
 func _swig_getaiPrimitiveType_POINT() (_swig_ret AiPrimitiveType) {
 	var swig_r AiPrimitiveType
-	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_POINT_aig_29567bba180e4e84())
+	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_POINT_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -1996,7 +2567,7 @@ var AiPrimitiveType_POINT AiPrimitiveType = _swig_getaiPrimitiveType_POINT()
 
 func _swig_getaiPrimitiveType_LINE() (_swig_ret AiPrimitiveType) {
 	var swig_r AiPrimitiveType
-	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_LINE_aig_29567bba180e4e84())
+	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_LINE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2004,7 +2575,7 @@ var AiPrimitiveType_LINE AiPrimitiveType = _swig_getaiPrimitiveType_LINE()
 
 func _swig_getaiPrimitiveType_TRIANGLE() (_swig_ret AiPrimitiveType) {
 	var swig_r AiPrimitiveType
-	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_TRIANGLE_aig_29567bba180e4e84())
+	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_TRIANGLE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2012,7 +2583,7 @@ var AiPrimitiveType_TRIANGLE AiPrimitiveType = _swig_getaiPrimitiveType_TRIANGLE
 
 func _swig_getaiPrimitiveType_POLYGON() (_swig_ret AiPrimitiveType) {
 	var swig_r AiPrimitiveType
-	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_POLYGON_aig_29567bba180e4e84())
+	swig_r = (AiPrimitiveType)(C._wrap_aiPrimitiveType_POLYGON_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2030,71 +2601,71 @@ func (p SwigcptrAiAnimMesh) SwigIsAiAnimMesh() {
 func (arg1 SwigcptrAiAnimMesh) SetMName(arg2 AiString) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiAnimMesh_mName_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiAnimMesh_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimMesh) GetMName() (_swig_ret AiString) {
 	var swig_r AiString
 	_swig_i_0 := arg1
-	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiAnimMesh_mName_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiAnimMesh_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) SetMNumVertices(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiAnimMesh_mNumVertices_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiAnimMesh_mNumVertices_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimMesh) GetMNumVertices() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiAnimMesh_mNumVertices_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiAnimMesh_mNumVertices_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) SetMWeight(arg2 float32) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiAnimMesh_mWeight_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+	C._wrap_aiAnimMesh_mWeight_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimMesh) GetMWeight() (_swig_ret float32) {
 	var swig_r float32
 	_swig_i_0 := arg1
-	swig_r = (float32)(C._wrap_aiAnimMesh_mWeight_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (float32)(C._wrap_aiAnimMesh_mWeight_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewAiAnimMesh() (_swig_ret AiAnimMesh) {
 	var swig_r AiAnimMesh
-	swig_r = (AiAnimMesh)(SwigcptrAiAnimMesh(C._wrap_new_aiAnimMesh_aig_29567bba180e4e84()))
+	swig_r = (AiAnimMesh)(SwigcptrAiAnimMesh(C._wrap_new_aiAnimMesh_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiAnimMesh(arg1 AiAnimMesh) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiAnimMesh_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiAnimMesh_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiAnimMesh) HasPositions() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiAnimMesh_HasPositions_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiAnimMesh_HasPositions_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) HasNormals() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiAnimMesh_HasNormals_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiAnimMesh_HasNormals_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) HasTangentsAndBitangents() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiAnimMesh_HasTangentsAndBitangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiAnimMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -2102,7 +2673,7 @@ func (arg1 SwigcptrAiAnimMesh) HasVertexColors(arg2 uint) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_aiAnimMesh_HasVertexColors_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (bool)(C._wrap_aiAnimMesh_HasVertexColors_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -2110,49 +2681,49 @@ func (arg1 SwigcptrAiAnimMesh) HasTextureCoords(arg2 uint) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_aiAnimMesh_HasTextureCoords_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (bool)(C._wrap_aiAnimMesh_HasTextureCoords_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MVertices() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mVertices_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mVertices_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MNormals() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mNormals_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mNormals_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MTangents() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mTangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mTangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MBitangents() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mBitangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiAnimMesh_mBitangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MTextureCoords() (_swig_ret AiVector3DVectorVector) {
 	var swig_r AiVector3DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_aiAnimMesh_mTextureCoords_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_aiAnimMesh_mTextureCoords_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMesh) MColors() (_swig_ret AiColor4DVectorVector) {
 	var swig_r AiColor4DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_aiAnimMesh_mColors_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_aiAnimMesh_mColors_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -2182,7 +2753,7 @@ type AiMorphingMethod int
 
 func _swig_getaiMorphingMethod_VERTEX_BLEND() (_swig_ret AiMorphingMethod) {
 	var swig_r AiMorphingMethod
-	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_VERTEX_BLEND_aig_29567bba180e4e84())
+	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_VERTEX_BLEND_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2190,7 +2761,7 @@ var AiMorphingMethod_VERTEX_BLEND AiMorphingMethod = _swig_getaiMorphingMethod_V
 
 func _swig_getaiMorphingMethod_MORPH_NORMALIZED() (_swig_ret AiMorphingMethod) {
 	var swig_r AiMorphingMethod
-	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_29567bba180e4e84())
+	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2198,7 +2769,7 @@ var AiMorphingMethod_MORPH_NORMALIZED AiMorphingMethod = _swig_getaiMorphingMeth
 
 func _swig_getaiMorphingMethod_MORPH_RELATIVE() (_swig_ret AiMorphingMethod) {
 	var swig_r AiMorphingMethod
-	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_MORPH_RELATIVE_aig_29567bba180e4e84())
+	swig_r = (AiMorphingMethod)(C._wrap_aiMorphingMethod_MORPH_RELATIVE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -2216,156 +2787,156 @@ func (p SwigcptrAiMesh) SwigIsAiMesh() {
 func (arg1 SwigcptrAiMesh) SetMPrimitiveTypes(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mPrimitiveTypes_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mPrimitiveTypes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMPrimitiveTypes() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mPrimitiveTypes_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mPrimitiveTypes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMNumVertices(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mNumVertices_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mNumVertices_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMNumVertices() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mNumVertices_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mNumVertices_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMNumFaces(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mNumFaces_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mNumFaces_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMNumFaces() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mNumFaces_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mNumFaces_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMNumBones(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mNumBones_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mNumBones_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMNumBones() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mNumBones_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mNumBones_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMMaterialIndex(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mMaterialIndex_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mMaterialIndex_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMMaterialIndex() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mMaterialIndex_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mMaterialIndex_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMName(arg2 AiString) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMesh_mName_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMesh_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMName() (_swig_ret AiString) {
 	var swig_r AiString
 	_swig_i_0 := arg1
-	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMesh_mName_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMesh_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMNumAnimMeshes(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mNumAnimMeshes_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mNumAnimMeshes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMNumAnimMeshes() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mNumAnimMeshes_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mNumAnimMeshes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMMethod(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMesh_mMethod_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_aiMesh_mMethod_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMMethod() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_mMethod_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_mMethod_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) SetMAABB(arg2 AiAABB) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMesh_mAABB_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMesh_mAABB_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMesh) GetMAABB() (_swig_ret AiAABB) {
 	var swig_r AiAABB
 	_swig_i_0 := arg1
-	swig_r = (AiAABB)(SwigcptrAiAABB(C._wrap_aiMesh_mAABB_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiAABB)(SwigcptrAiAABB(C._wrap_aiMesh_mAABB_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiMesh() (_swig_ret AiMesh) {
 	var swig_r AiMesh
-	swig_r = (AiMesh)(SwigcptrAiMesh(C._wrap_new_aiMesh_aig_29567bba180e4e84()))
+	swig_r = (AiMesh)(SwigcptrAiMesh(C._wrap_new_aiMesh_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteAiMesh(arg1 AiMesh) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiMesh_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiMesh_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiMesh) HasPositions() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMesh_HasPositions_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMesh_HasPositions_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) HasFaces() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMesh_HasFaces_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMesh_HasFaces_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) HasNormals() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMesh_HasNormals_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMesh_HasNormals_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) HasTangentsAndBitangents() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMesh_HasTangentsAndBitangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -2373,7 +2944,7 @@ func (arg1 SwigcptrAiMesh) HasVertexColors(arg2 uint) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_aiMesh_HasVertexColors_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (bool)(C._wrap_aiMesh_HasVertexColors_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -2381,98 +2952,98 @@ func (arg1 SwigcptrAiMesh) HasTextureCoords(arg2 uint) (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (bool)(C._wrap_aiMesh_HasTextureCoords_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (bool)(C._wrap_aiMesh_HasTextureCoords_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) GetNumUVChannels() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_GetNumUVChannels_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_GetNumUVChannels_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) GetNumColorChannels() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_aiMesh_GetNumColorChannels_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_aiMesh_GetNumColorChannels_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) HasBones() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMesh_HasBones_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMesh_HasBones_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MAnimMeshes() (_swig_ret AiAnimMeshVector) {
 	var swig_r AiAnimMeshVector
 	_swig_i_0 := arg1
-	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_aiMesh_mAnimMeshes_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_aiMesh_mAnimMeshes_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MBones() (_swig_ret AiBonesVector) {
 	var swig_r AiBonesVector
 	_swig_i_0 := arg1
-	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_aiMesh_mBones_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_aiMesh_mBones_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MNumUVComponents() (_swig_ret UintVector) {
 	var swig_r UintVector
 	_swig_i_0 := arg1
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiMesh_mNumUVComponents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_aiMesh_mNumUVComponents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MVertices() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mVertices_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mVertices_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MNormals() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mNormals_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mNormals_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MTangents() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mTangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mTangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MBitangents() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mBitangents_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiMesh_mBitangents_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MFaces() (_swig_ret AiFaceVector) {
 	var swig_r AiFaceVector
 	_swig_i_0 := arg1
-	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_aiMesh_mFaces_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_aiMesh_mFaces_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MTextureCoords() (_swig_ret AiVector3DVectorVector) {
 	var swig_r AiVector3DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_aiMesh_mTextureCoords_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_aiMesh_mTextureCoords_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMesh) MColors() (_swig_ret AiColor4DVectorVector) {
 	var swig_r AiColor4DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_aiMesh_mColors_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_aiMesh_mColors_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -2518,6 +3089,4771 @@ type AiMesh interface {
 	MColors() (_swig_ret AiColor4DVectorVector)
 }
 
+func GetMAXLEN() (_swig_ret int64) {
+	var swig_r int64
+	swig_r = (int64)(C._wrap_MAXLEN_get_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+type SwigcptrAiPlane uintptr
+
+func (p SwigcptrAiPlane) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiPlane) SwigIsAiPlane() {
+}
+
+func NewAiPlane__SWIG_0() (_swig_ret AiPlane) {
+	var swig_r AiPlane
+	swig_r = (AiPlane)(SwigcptrAiPlane(C._wrap_new_aiPlane__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiPlane__SWIG_1(arg1 float32, arg2 float32, arg3 float32, arg4 float32) (_swig_ret AiPlane) {
+	var swig_r AiPlane
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiPlane)(SwigcptrAiPlane(C._wrap_new_aiPlane__SWIG_1_aig_ad8534e24299c30d(C.float(_swig_i_0), C.float(_swig_i_1), C.float(_swig_i_2), C.float(_swig_i_3))))
+	return swig_r
+}
+
+func NewAiPlane__SWIG_2(arg1 AiPlane) (_swig_ret AiPlane) {
+	var swig_r AiPlane
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiPlane)(SwigcptrAiPlane(C._wrap_new_aiPlane__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiPlane(a ...interface{}) AiPlane {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiPlane__SWIG_0()
+	}
+	if argc == 1 {
+		return NewAiPlane__SWIG_2(a[0].(AiPlane))
+	}
+	if argc == 4 {
+		return NewAiPlane__SWIG_1(a[0].(float32), a[1].(float32), a[2].(float32), a[3].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiPlane) SetA(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiPlane_a_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiPlane) GetA() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiPlane_a_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiPlane) SetB(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiPlane_b_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiPlane) GetB() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiPlane_b_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiPlane) SetC(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiPlane_c_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiPlane) GetC() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiPlane_c_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiPlane) SetD(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiPlane_d_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiPlane) GetD() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiPlane_d_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func DeleteAiPlane(arg1 AiPlane) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiPlane_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiPlane interface {
+	Swigcptr() uintptr
+	SwigIsAiPlane()
+	SetA(arg2 float32)
+	GetA() (_swig_ret float32)
+	SetB(arg2 float32)
+	GetB() (_swig_ret float32)
+	SetC(arg2 float32)
+	GetC() (_swig_ret float32)
+	SetD(arg2 float32)
+	GetD() (_swig_ret float32)
+}
+
+type SwigcptrAiRay uintptr
+
+func (p SwigcptrAiRay) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiRay) SwigIsAiRay() {
+}
+
+func NewAiRay__SWIG_0() (_swig_ret AiRay) {
+	var swig_r AiRay
+	swig_r = (AiRay)(SwigcptrAiRay(C._wrap_new_aiRay__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiRay__SWIG_1(arg1 AiVector3D, arg2 AiVector3D) (_swig_ret AiRay) {
+	var swig_r AiRay
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (AiRay)(SwigcptrAiRay(C._wrap_new_aiRay__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	return swig_r
+}
+
+func NewAiRay__SWIG_2(arg1 AiRay) (_swig_ret AiRay) {
+	var swig_r AiRay
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiRay)(SwigcptrAiRay(C._wrap_new_aiRay__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiRay(a ...interface{}) AiRay {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiRay__SWIG_0()
+	}
+	if argc == 1 {
+		return NewAiRay__SWIG_2(a[0].(AiRay))
+	}
+	if argc == 2 {
+		return NewAiRay__SWIG_1(a[0].(AiVector3D), a[1].(AiVector3D))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiRay) SetPos(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiRay_pos_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiRay) GetPos() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiRay_pos_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiRay) SetDir(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiRay_dir_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiRay) GetDir() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiRay_dir_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func DeleteAiRay(arg1 AiRay) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiRay_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiRay interface {
+	Swigcptr() uintptr
+	SwigIsAiRay()
+	SetPos(arg2 AiVector3D)
+	GetPos() (_swig_ret AiVector3D)
+	SetDir(arg2 AiVector3D)
+	GetDir() (_swig_ret AiVector3D)
+}
+
+type SwigcptrAiColor3D uintptr
+
+func (p SwigcptrAiColor3D) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiColor3D) SwigIsAiColor3D() {
+}
+
+func NewAiColor3D__SWIG_0() (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_new_aiColor3D__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiColor3D__SWIG_1(arg1 float32, arg2 float32, arg3 float32) (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_new_aiColor3D__SWIG_1_aig_ad8534e24299c30d(C.float(_swig_i_0), C.float(_swig_i_1), C.float(_swig_i_2))))
+	return swig_r
+}
+
+func NewAiColor3D__SWIG_2(arg1 float32) (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_new_aiColor3D__SWIG_2_aig_ad8534e24299c30d(C.float(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiColor3D__SWIG_3(arg1 AiColor3D) (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_new_aiColor3D__SWIG_3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiColor3D(a ...interface{}) AiColor3D {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiColor3D__SWIG_0()
+	}
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiColor3D); !ok {
+			goto check_2
+		}
+		return NewAiColor3D__SWIG_3(a[0].(AiColor3D))
+	}
+check_2:
+	if argc == 1 {
+		return NewAiColor3D__SWIG_2(a[0].(float32))
+	}
+	if argc == 3 {
+		return NewAiColor3D__SWIG_1(a[0].(float32), a[1].(float32), a[2].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiColor3D) IsBlack() (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	swig_r = (bool)(C._wrap_aiColor3D_IsBlack_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiColor3D) SetR(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiColor3D_r_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiColor3D) GetR() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiColor3D_r_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiColor3D) SetG(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiColor3D_g_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiColor3D) GetG() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiColor3D_g_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiColor3D) SetB(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiColor3D_b_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiColor3D) GetB() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiColor3D_b_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func DeleteAiColor3D(arg1 AiColor3D) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiColor3D_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiColor3D interface {
+	Swigcptr() uintptr
+	SwigIsAiColor3D()
+	IsBlack() (_swig_ret bool)
+	SetR(arg2 float32)
+	GetR() (_swig_ret float32)
+	SetG(arg2 float32)
+	GetG() (_swig_ret float32)
+	SetB(arg2 float32)
+	GetB() (_swig_ret float32)
+}
+
+type SwigcptrAiString uintptr
+
+func (p SwigcptrAiString) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiString) SwigIsAiString() {
+}
+
+func NewAiString__SWIG_0() (_swig_ret AiString) {
+	var swig_r AiString
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_new_aiString__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiString__SWIG_1(arg1 AiString) (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_new_aiString__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiString__SWIG_2(arg1 string) (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_new_aiString__SWIG_2_aig_ad8534e24299c30d(*(*C.swig_type_28)(unsafe.Pointer(&_swig_i_0)))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg1
+	}
+	return swig_r
+}
+
+func NewAiString(a ...interface{}) AiString {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiString__SWIG_0()
+	}
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiString); !ok {
+			goto check_2
+		}
+		return NewAiString__SWIG_1(a[0].(AiString))
+	}
+check_2:
+	if argc == 1 {
+		return NewAiString__SWIG_2(a[0].(string))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiString) Set(arg2 string) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiString_Set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_29)(unsafe.Pointer(&_swig_i_1)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+}
+
+func (arg1 SwigcptrAiString) Append(arg2 string) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiString_Append_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_30)(unsafe.Pointer(&_swig_i_1)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+}
+
+func (arg1 SwigcptrAiString) Clear() {
+	_swig_i_0 := arg1
+	C._wrap_aiString_Clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+func (arg1 SwigcptrAiString) C_Str() (_swig_ret string) {
+	var swig_r string
+	_swig_i_0 := arg1
+	swig_r_p := C._wrap_aiString_C_Str_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
+	var swig_r_1 string
+	swig_r_1 = swigCopyString(swig_r)
+	return swig_r_1
+}
+
+func (arg1 SwigcptrAiString) SetLength(arg2 Uint32_t) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiString_length_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiString) GetLength() (_swig_ret Uint32_t) {
+	var swig_r Uint32_t
+	_swig_i_0 := arg1
+	swig_r = (Uint32_t)(SwigcptrUint32_t(C._wrap_aiString_length_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiString) SetData(arg2 string) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiString_data_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_32)(unsafe.Pointer(&_swig_i_1)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+}
+
+func (arg1 SwigcptrAiString) GetData() (_swig_ret string) {
+	var swig_r string
+	_swig_i_0 := arg1
+	swig_r_p := C._wrap_aiString_data_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
+	var swig_r_1 string
+	swig_r_1 = swigCopyString(swig_r)
+	return swig_r_1
+}
+
+func DeleteAiString(arg1 AiString) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiString_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiString interface {
+	Swigcptr() uintptr
+	SwigIsAiString()
+	Set(arg2 string)
+	Append(arg2 string)
+	Clear()
+	C_Str() (_swig_ret string)
+	SetLength(arg2 Uint32_t)
+	GetLength() (_swig_ret Uint32_t)
+	SetData(arg2 string)
+	GetData() (_swig_ret string)
+}
+
+type AiReturn int
+
+func _swig_getaiReturn_SUCCESS() (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	swig_r = (AiReturn)(C._wrap_aiReturn_SUCCESS_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiReturn_SUCCESS AiReturn = _swig_getaiReturn_SUCCESS()
+
+func _swig_getaiReturn_FAILURE() (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	swig_r = (AiReturn)(C._wrap_aiReturn_FAILURE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiReturn_FAILURE AiReturn = _swig_getaiReturn_FAILURE()
+
+func _swig_getaiReturn_OUTOFMEMORY() (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	swig_r = (AiReturn)(C._wrap_aiReturn_OUTOFMEMORY_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiReturn_OUTOFMEMORY AiReturn = _swig_getaiReturn_OUTOFMEMORY()
+
+func _swig_get_AI_ENFORCE_ENUM_SIZE() (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	swig_r = (AiReturn)(C._wrap__AI_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var X_AI_ENFORCE_ENUM_SIZE AiReturn = _swig_get_AI_ENFORCE_ENUM_SIZE()
+
+type AiOrigin int
+
+func _swig_getaiOrigin_SET() (_swig_ret AiOrigin) {
+	var swig_r AiOrigin
+	swig_r = (AiOrigin)(C._wrap_aiOrigin_SET_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiOrigin_SET AiOrigin = _swig_getaiOrigin_SET()
+
+func _swig_getaiOrigin_CUR() (_swig_ret AiOrigin) {
+	var swig_r AiOrigin
+	swig_r = (AiOrigin)(C._wrap_aiOrigin_CUR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiOrigin_CUR AiOrigin = _swig_getaiOrigin_CUR()
+
+func _swig_getaiOrigin_END() (_swig_ret AiOrigin) {
+	var swig_r AiOrigin
+	swig_r = (AiOrigin)(C._wrap_aiOrigin_END_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiOrigin_END AiOrigin = _swig_getaiOrigin_END()
+
+func _swig_get_AI_ORIGIN_ENFORCE_ENUM_SIZE() (_swig_ret AiOrigin) {
+	var swig_r AiOrigin
+	swig_r = (AiOrigin)(C._wrap__AI_ORIGIN_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var X_AI_ORIGIN_ENFORCE_ENUM_SIZE AiOrigin = _swig_get_AI_ORIGIN_ENFORCE_ENUM_SIZE()
+
+type AiDefaultLogStream int
+
+func _swig_getaiDefaultLogStream_FILE() (_swig_ret AiDefaultLogStream) {
+	var swig_r AiDefaultLogStream
+	swig_r = (AiDefaultLogStream)(C._wrap_aiDefaultLogStream_FILE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiDefaultLogStream_FILE AiDefaultLogStream = _swig_getaiDefaultLogStream_FILE()
+
+func _swig_getaiDefaultLogStream_STDOUT() (_swig_ret AiDefaultLogStream) {
+	var swig_r AiDefaultLogStream
+	swig_r = (AiDefaultLogStream)(C._wrap_aiDefaultLogStream_STDOUT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiDefaultLogStream_STDOUT AiDefaultLogStream = _swig_getaiDefaultLogStream_STDOUT()
+
+func _swig_getaiDefaultLogStream_STDERR() (_swig_ret AiDefaultLogStream) {
+	var swig_r AiDefaultLogStream
+	swig_r = (AiDefaultLogStream)(C._wrap_aiDefaultLogStream_STDERR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiDefaultLogStream_STDERR AiDefaultLogStream = _swig_getaiDefaultLogStream_STDERR()
+
+func _swig_getaiDefaultLogStream_DEBUGGER() (_swig_ret AiDefaultLogStream) {
+	var swig_r AiDefaultLogStream
+	swig_r = (AiDefaultLogStream)(C._wrap_aiDefaultLogStream_DEBUGGER_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiDefaultLogStream_DEBUGGER AiDefaultLogStream = _swig_getaiDefaultLogStream_DEBUGGER()
+
+func _swig_get_AI_DLS_ENFORCE_ENUM_SIZE() (_swig_ret AiDefaultLogStream) {
+	var swig_r AiDefaultLogStream
+	swig_r = (AiDefaultLogStream)(C._wrap__AI_DLS_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var X_AI_DLS_ENFORCE_ENUM_SIZE AiDefaultLogStream = _swig_get_AI_DLS_ENFORCE_ENUM_SIZE()
+
+type SwigcptrAiMemoryInfo uintptr
+
+func (p SwigcptrAiMemoryInfo) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMemoryInfo) SwigIsAiMemoryInfo() {
+}
+
+func NewAiMemoryInfo() (_swig_ret AiMemoryInfo) {
+	var swig_r AiMemoryInfo
+	swig_r = (AiMemoryInfo)(SwigcptrAiMemoryInfo(C._wrap_new_aiMemoryInfo_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetTextures(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_textures_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetTextures() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_textures_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetMaterials(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_materials_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetMaterials() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_materials_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetMeshes(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_meshes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetMeshes() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_meshes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetNodes(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_nodes_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetNodes() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_nodes_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetAnimations(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_animations_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetAnimations() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_animations_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetCameras(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_cameras_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetCameras() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_cameras_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetLights(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_lights_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetLights() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_lights_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMemoryInfo) SetTotal(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMemoryInfo_total_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMemoryInfo) GetTotal() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMemoryInfo_total_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func DeleteAiMemoryInfo(arg1 AiMemoryInfo) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMemoryInfo_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMemoryInfo interface {
+	Swigcptr() uintptr
+	SwigIsAiMemoryInfo()
+	SetTextures(arg2 uint)
+	GetTextures() (_swig_ret uint)
+	SetMaterials(arg2 uint)
+	GetMaterials() (_swig_ret uint)
+	SetMeshes(arg2 uint)
+	GetMeshes() (_swig_ret uint)
+	SetNodes(arg2 uint)
+	GetNodes() (_swig_ret uint)
+	SetAnimations(arg2 uint)
+	GetAnimations() (_swig_ret uint)
+	SetCameras(arg2 uint)
+	GetCameras() (_swig_ret uint)
+	SetLights(arg2 uint)
+	GetLights() (_swig_ret uint)
+	SetTotal(arg2 uint)
+	GetTotal() (_swig_ret uint)
+}
+
+const AI_EMBEDDED_TEXNAME_PREFIX string = "*"
+
+type SwigcptrAiTexel uintptr
+
+func (p SwigcptrAiTexel) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiTexel) SwigIsAiTexel() {
+}
+
+func (arg1 SwigcptrAiTexel) SetB(arg2 byte) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexel_b_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexel) GetB() (_swig_ret byte) {
+	var swig_r byte
+	_swig_i_0 := arg1
+	swig_r = (byte)(C._wrap_aiTexel_b_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexel) SetG(arg2 byte) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexel_g_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexel) GetG() (_swig_ret byte) {
+	var swig_r byte
+	_swig_i_0 := arg1
+	swig_r = (byte)(C._wrap_aiTexel_g_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexel) SetR(arg2 byte) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexel_r_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexel) GetR() (_swig_ret byte) {
+	var swig_r byte
+	_swig_i_0 := arg1
+	swig_r = (byte)(C._wrap_aiTexel_r_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexel) SetA(arg2 byte) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexel_a_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.char(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexel) GetA() (_swig_ret byte) {
+	var swig_r byte
+	_swig_i_0 := arg1
+	swig_r = (byte)(C._wrap_aiTexel_a_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiTexel() (_swig_ret AiTexel) {
+	var swig_r AiTexel
+	swig_r = (AiTexel)(SwigcptrAiTexel(C._wrap_new_aiTexel_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiTexel(arg1 AiTexel) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiTexel_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiTexel interface {
+	Swigcptr() uintptr
+	SwigIsAiTexel()
+	SetB(arg2 byte)
+	GetB() (_swig_ret byte)
+	SetG(arg2 byte)
+	GetG() (_swig_ret byte)
+	SetR(arg2 byte)
+	GetR() (_swig_ret byte)
+	SetA(arg2 byte)
+	GetA() (_swig_ret byte)
+}
+
+const HINTMAXTEXTURELEN int = 9
+
+type SwigcptrAiTexture uintptr
+
+func (p SwigcptrAiTexture) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiTexture) SwigIsAiTexture() {
+}
+
+func (arg1 SwigcptrAiTexture) SetMWidth(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexture_mWidth_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexture) GetMWidth() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiTexture_mWidth_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexture) SetMHeight(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexture_mHeight_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexture) GetMHeight() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiTexture_mHeight_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexture) SetAchFormatHint(arg2 string) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiTexture_achFormatHint_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_34)(unsafe.Pointer(&_swig_i_1)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+}
+
+func (arg1 SwigcptrAiTexture) GetAchFormatHint() (_swig_ret string) {
+	var swig_r string
+	_swig_i_0 := arg1
+	swig_r_p := C._wrap_aiTexture_achFormatHint_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
+	var swig_r_1 string
+	swig_r_1 = swigCopyString(swig_r)
+	return swig_r_1
+}
+
+func (arg1 SwigcptrAiTexture) SetPcData(arg2 AiTexel) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiTexture_pcData_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexture) GetPcData() (_swig_ret AiTexel) {
+	var swig_r AiTexel
+	_swig_i_0 := arg1
+	swig_r = (AiTexel)(SwigcptrAiTexel(C._wrap_aiTexture_pcData_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexture) SetMFilename(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiTexture_mFilename_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiTexture) GetMFilename() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiTexture_mFilename_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiTexture) CheckFormat(arg2 string) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (bool)(C._wrap_aiTexture_CheckFormat_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_36)(unsafe.Pointer(&_swig_i_1))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func NewAiTexture() (_swig_ret AiTexture) {
+	var swig_r AiTexture
+	swig_r = (AiTexture)(SwigcptrAiTexture(C._wrap_new_aiTexture_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiTexture(arg1 AiTexture) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiTexture_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiTexture interface {
+	Swigcptr() uintptr
+	SwigIsAiTexture()
+	SetMWidth(arg2 uint)
+	GetMWidth() (_swig_ret uint)
+	SetMHeight(arg2 uint)
+	GetMHeight() (_swig_ret uint)
+	SetAchFormatHint(arg2 string)
+	GetAchFormatHint() (_swig_ret string)
+	SetPcData(arg2 AiTexel)
+	GetPcData() (_swig_ret AiTexel)
+	SetMFilename(arg2 AiString)
+	GetMFilename() (_swig_ret AiString)
+	CheckFormat(arg2 string) (_swig_ret bool)
+}
+
+type AiLightSourceType int
+
+func _swig_getaiLightSource_UNDEFINED() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_UNDEFINED_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_UNDEFINED AiLightSourceType = _swig_getaiLightSource_UNDEFINED()
+
+func _swig_getaiLightSource_DIRECTIONAL() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_DIRECTIONAL_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_DIRECTIONAL AiLightSourceType = _swig_getaiLightSource_DIRECTIONAL()
+
+func _swig_getaiLightSource_POINT() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_POINT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_POINT AiLightSourceType = _swig_getaiLightSource_POINT()
+
+func _swig_getaiLightSource_SPOT() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_SPOT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_SPOT AiLightSourceType = _swig_getaiLightSource_SPOT()
+
+func _swig_getaiLightSource_AMBIENT() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_AMBIENT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_AMBIENT AiLightSourceType = _swig_getaiLightSource_AMBIENT()
+
+func _swig_getaiLightSource_AREA() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	swig_r = (AiLightSourceType)(C._wrap_aiLightSource_AREA_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiLightSource_AREA AiLightSourceType = _swig_getaiLightSource_AREA()
+
+type SwigcptrAiLight uintptr
+
+func (p SwigcptrAiLight) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiLight) SwigIsAiLight() {
+}
+
+func (arg1 SwigcptrAiLight) SetMName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiLight_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMType(arg2 AiLightSourceType) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mType_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMType() (_swig_ret AiLightSourceType) {
+	var swig_r AiLightSourceType
+	_swig_i_0 := arg1
+	swig_r = (AiLightSourceType)(C._wrap_aiLight_mType_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMPosition(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mPosition_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMPosition() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiLight_mPosition_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMDirection(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mDirection_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMDirection() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiLight_mDirection_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMUp(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mUp_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMUp() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiLight_mUp_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMAttenuationConstant(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mAttenuationConstant_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMAttenuationConstant() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiLight_mAttenuationConstant_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMAttenuationLinear(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mAttenuationLinear_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMAttenuationLinear() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiLight_mAttenuationLinear_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMAttenuationQuadratic(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mAttenuationQuadratic_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMAttenuationQuadratic() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiLight_mAttenuationQuadratic_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMColorDiffuse(arg2 AiColor3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mColorDiffuse_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMColorDiffuse() (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_aiLight_mColorDiffuse_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMColorSpecular(arg2 AiColor3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mColorSpecular_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMColorSpecular() (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_aiLight_mColorSpecular_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMColorAmbient(arg2 AiColor3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mColorAmbient_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMColorAmbient() (_swig_ret AiColor3D) {
+	var swig_r AiColor3D
+	_swig_i_0 := arg1
+	swig_r = (AiColor3D)(SwigcptrAiColor3D(C._wrap_aiLight_mColorAmbient_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMAngleInnerCone(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mAngleInnerCone_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMAngleInnerCone() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiLight_mAngleInnerCone_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMAngleOuterCone(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiLight_mAngleOuterCone_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMAngleOuterCone() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiLight_mAngleOuterCone_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiLight) SetMSize(arg2 AiVector2D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiLight_mSize_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiLight) GetMSize() (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_aiLight_mSize_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiLight() (_swig_ret AiLight) {
+	var swig_r AiLight
+	swig_r = (AiLight)(SwigcptrAiLight(C._wrap_new_aiLight_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiLight(arg1 AiLight) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiLight_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiLight interface {
+	Swigcptr() uintptr
+	SwigIsAiLight()
+	SetMName(arg2 AiString)
+	GetMName() (_swig_ret AiString)
+	SetMType(arg2 AiLightSourceType)
+	GetMType() (_swig_ret AiLightSourceType)
+	SetMPosition(arg2 AiVector3D)
+	GetMPosition() (_swig_ret AiVector3D)
+	SetMDirection(arg2 AiVector3D)
+	GetMDirection() (_swig_ret AiVector3D)
+	SetMUp(arg2 AiVector3D)
+	GetMUp() (_swig_ret AiVector3D)
+	SetMAttenuationConstant(arg2 float32)
+	GetMAttenuationConstant() (_swig_ret float32)
+	SetMAttenuationLinear(arg2 float32)
+	GetMAttenuationLinear() (_swig_ret float32)
+	SetMAttenuationQuadratic(arg2 float32)
+	GetMAttenuationQuadratic() (_swig_ret float32)
+	SetMColorDiffuse(arg2 AiColor3D)
+	GetMColorDiffuse() (_swig_ret AiColor3D)
+	SetMColorSpecular(arg2 AiColor3D)
+	GetMColorSpecular() (_swig_ret AiColor3D)
+	SetMColorAmbient(arg2 AiColor3D)
+	GetMColorAmbient() (_swig_ret AiColor3D)
+	SetMAngleInnerCone(arg2 float32)
+	GetMAngleInnerCone() (_swig_ret float32)
+	SetMAngleOuterCone(arg2 float32)
+	GetMAngleOuterCone() (_swig_ret float32)
+	SetMSize(arg2 AiVector2D)
+	GetMSize() (_swig_ret AiVector2D)
+}
+
+type SwigcptrAiCamera uintptr
+
+func (p SwigcptrAiCamera) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiCamera) SwigIsAiCamera() {
+}
+
+func (arg1 SwigcptrAiCamera) SetMName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiCamera_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiCamera_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMPosition(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiCamera_mPosition_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMPosition() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiCamera_mPosition_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMUp(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiCamera_mUp_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMUp() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiCamera_mUp_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMLookAt(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiCamera_mLookAt_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMLookAt() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiCamera_mLookAt_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMHorizontalFOV(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiCamera_mHorizontalFOV_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMHorizontalFOV() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiCamera_mHorizontalFOV_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMClipPlaneNear(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiCamera_mClipPlaneNear_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMClipPlaneNear() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiCamera_mClipPlaneNear_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMClipPlaneFar(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiCamera_mClipPlaneFar_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMClipPlaneFar() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiCamera_mClipPlaneFar_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) SetMAspect(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiCamera_mAspect_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiCamera) GetMAspect() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiCamera_mAspect_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiCamera() (_swig_ret AiCamera) {
+	var swig_r AiCamera
+	swig_r = (AiCamera)(SwigcptrAiCamera(C._wrap_new_aiCamera_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiCamera) GetCameraMatrix(arg2 AiMatrix4x4) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiCamera_GetCameraMatrix_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func DeleteAiCamera(arg1 AiCamera) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiCamera_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiCamera interface {
+	Swigcptr() uintptr
+	SwigIsAiCamera()
+	SetMName(arg2 AiString)
+	GetMName() (_swig_ret AiString)
+	SetMPosition(arg2 AiVector3D)
+	GetMPosition() (_swig_ret AiVector3D)
+	SetMUp(arg2 AiVector3D)
+	GetMUp() (_swig_ret AiVector3D)
+	SetMLookAt(arg2 AiVector3D)
+	GetMLookAt() (_swig_ret AiVector3D)
+	SetMHorizontalFOV(arg2 float32)
+	GetMHorizontalFOV() (_swig_ret float32)
+	SetMClipPlaneNear(arg2 float32)
+	GetMClipPlaneNear() (_swig_ret float32)
+	SetMClipPlaneFar(arg2 float32)
+	GetMClipPlaneFar() (_swig_ret float32)
+	SetMAspect(arg2 float32)
+	GetMAspect() (_swig_ret float32)
+	GetCameraMatrix(arg2 AiMatrix4x4)
+}
+
+const AI_DEFAULT_MATERIAL_NAME string = "DefaultMaterial"
+
+type AiTextureOp int
+
+func _swig_getaiTextureOp_Multiply() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_Multiply_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_Multiply AiTextureOp = _swig_getaiTextureOp_Multiply()
+
+func _swig_getaiTextureOp_Add() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_Add_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_Add AiTextureOp = _swig_getaiTextureOp_Add()
+
+func _swig_getaiTextureOp_Subtract() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_Subtract_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_Subtract AiTextureOp = _swig_getaiTextureOp_Subtract()
+
+func _swig_getaiTextureOp_Divide() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_Divide_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_Divide AiTextureOp = _swig_getaiTextureOp_Divide()
+
+func _swig_getaiTextureOp_SmoothAdd() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_SmoothAdd_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_SmoothAdd AiTextureOp = _swig_getaiTextureOp_SmoothAdd()
+
+func _swig_getaiTextureOp_SignedAdd() (_swig_ret AiTextureOp) {
+	var swig_r AiTextureOp
+	swig_r = (AiTextureOp)(C._wrap_aiTextureOp_SignedAdd_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureOp_SignedAdd AiTextureOp = _swig_getaiTextureOp_SignedAdd()
+
+type AiTextureMapMode int
+
+func _swig_getaiTextureMapMode_Wrap() (_swig_ret AiTextureMapMode) {
+	var swig_r AiTextureMapMode
+	swig_r = (AiTextureMapMode)(C._wrap_aiTextureMapMode_Wrap_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapMode_Wrap AiTextureMapMode = _swig_getaiTextureMapMode_Wrap()
+
+func _swig_getaiTextureMapMode_Clamp() (_swig_ret AiTextureMapMode) {
+	var swig_r AiTextureMapMode
+	swig_r = (AiTextureMapMode)(C._wrap_aiTextureMapMode_Clamp_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapMode_Clamp AiTextureMapMode = _swig_getaiTextureMapMode_Clamp()
+
+func _swig_getaiTextureMapMode_Decal() (_swig_ret AiTextureMapMode) {
+	var swig_r AiTextureMapMode
+	swig_r = (AiTextureMapMode)(C._wrap_aiTextureMapMode_Decal_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapMode_Decal AiTextureMapMode = _swig_getaiTextureMapMode_Decal()
+
+func _swig_getaiTextureMapMode_Mirror() (_swig_ret AiTextureMapMode) {
+	var swig_r AiTextureMapMode
+	swig_r = (AiTextureMapMode)(C._wrap_aiTextureMapMode_Mirror_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapMode_Mirror AiTextureMapMode = _swig_getaiTextureMapMode_Mirror()
+
+type AiTextureMapping int
+
+func _swig_getaiTextureMapping_UV() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_UV_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_UV AiTextureMapping = _swig_getaiTextureMapping_UV()
+
+func _swig_getaiTextureMapping_SPHERE() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_SPHERE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_SPHERE AiTextureMapping = _swig_getaiTextureMapping_SPHERE()
+
+func _swig_getaiTextureMapping_CYLINDER() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_CYLINDER_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_CYLINDER AiTextureMapping = _swig_getaiTextureMapping_CYLINDER()
+
+func _swig_getaiTextureMapping_BOX() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_BOX_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_BOX AiTextureMapping = _swig_getaiTextureMapping_BOX()
+
+func _swig_getaiTextureMapping_PLANE() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_PLANE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_PLANE AiTextureMapping = _swig_getaiTextureMapping_PLANE()
+
+func _swig_getaiTextureMapping_OTHER() (_swig_ret AiTextureMapping) {
+	var swig_r AiTextureMapping
+	swig_r = (AiTextureMapping)(C._wrap_aiTextureMapping_OTHER_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureMapping_OTHER AiTextureMapping = _swig_getaiTextureMapping_OTHER()
+
+type AiTextureType int
+
+func _swig_getaiTextureType_NONE() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_NONE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_NONE AiTextureType = _swig_getaiTextureType_NONE()
+
+func _swig_getaiTextureType_DIFFUSE() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_DIFFUSE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_DIFFUSE AiTextureType = _swig_getaiTextureType_DIFFUSE()
+
+func _swig_getaiTextureType_SPECULAR() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_SPECULAR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_SPECULAR AiTextureType = _swig_getaiTextureType_SPECULAR()
+
+func _swig_getaiTextureType_AMBIENT() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_AMBIENT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_AMBIENT AiTextureType = _swig_getaiTextureType_AMBIENT()
+
+func _swig_getaiTextureType_EMISSIVE() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_EMISSIVE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_EMISSIVE AiTextureType = _swig_getaiTextureType_EMISSIVE()
+
+func _swig_getaiTextureType_HEIGHT() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_HEIGHT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_HEIGHT AiTextureType = _swig_getaiTextureType_HEIGHT()
+
+func _swig_getaiTextureType_NORMALS() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_NORMALS_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_NORMALS AiTextureType = _swig_getaiTextureType_NORMALS()
+
+func _swig_getaiTextureType_SHININESS() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_SHININESS_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_SHININESS AiTextureType = _swig_getaiTextureType_SHININESS()
+
+func _swig_getaiTextureType_OPACITY() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_OPACITY_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_OPACITY AiTextureType = _swig_getaiTextureType_OPACITY()
+
+func _swig_getaiTextureType_DISPLACEMENT() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_DISPLACEMENT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_DISPLACEMENT AiTextureType = _swig_getaiTextureType_DISPLACEMENT()
+
+func _swig_getaiTextureType_LIGHTMAP() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_LIGHTMAP_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_LIGHTMAP AiTextureType = _swig_getaiTextureType_LIGHTMAP()
+
+func _swig_getaiTextureType_REFLECTION() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_REFLECTION_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_REFLECTION AiTextureType = _swig_getaiTextureType_REFLECTION()
+
+func _swig_getaiTextureType_BASE_COLOR() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_BASE_COLOR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_BASE_COLOR AiTextureType = _swig_getaiTextureType_BASE_COLOR()
+
+func _swig_getaiTextureType_NORMAL_CAMERA() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_NORMAL_CAMERA_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_NORMAL_CAMERA AiTextureType = _swig_getaiTextureType_NORMAL_CAMERA()
+
+func _swig_getaiTextureType_EMISSION_COLOR() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_EMISSION_COLOR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_EMISSION_COLOR AiTextureType = _swig_getaiTextureType_EMISSION_COLOR()
+
+func _swig_getaiTextureType_METALNESS() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_METALNESS_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_METALNESS AiTextureType = _swig_getaiTextureType_METALNESS()
+
+func _swig_getaiTextureType_DIFFUSE_ROUGHNESS() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_DIFFUSE_ROUGHNESS_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_DIFFUSE_ROUGHNESS AiTextureType = _swig_getaiTextureType_DIFFUSE_ROUGHNESS()
+
+func _swig_getaiTextureType_AMBIENT_OCCLUSION() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_AMBIENT_OCCLUSION_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_AMBIENT_OCCLUSION AiTextureType = _swig_getaiTextureType_AMBIENT_OCCLUSION()
+
+func _swig_getaiTextureType_UNKNOWN() (_swig_ret AiTextureType) {
+	var swig_r AiTextureType
+	swig_r = (AiTextureType)(C._wrap_aiTextureType_UNKNOWN_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureType_UNKNOWN AiTextureType = _swig_getaiTextureType_UNKNOWN()
+
+type AiShadingMode int
+
+func _swig_getaiShadingMode_Flat() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Flat_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Flat AiShadingMode = _swig_getaiShadingMode_Flat()
+
+func _swig_getaiShadingMode_Gouraud() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Gouraud_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Gouraud AiShadingMode = _swig_getaiShadingMode_Gouraud()
+
+func _swig_getaiShadingMode_Phong() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Phong_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Phong AiShadingMode = _swig_getaiShadingMode_Phong()
+
+func _swig_getaiShadingMode_Blinn() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Blinn_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Blinn AiShadingMode = _swig_getaiShadingMode_Blinn()
+
+func _swig_getaiShadingMode_Toon() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Toon_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Toon AiShadingMode = _swig_getaiShadingMode_Toon()
+
+func _swig_getaiShadingMode_OrenNayar() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_OrenNayar_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_OrenNayar AiShadingMode = _swig_getaiShadingMode_OrenNayar()
+
+func _swig_getaiShadingMode_Minnaert() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Minnaert_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Minnaert AiShadingMode = _swig_getaiShadingMode_Minnaert()
+
+func _swig_getaiShadingMode_CookTorrance() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_CookTorrance_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_CookTorrance AiShadingMode = _swig_getaiShadingMode_CookTorrance()
+
+func _swig_getaiShadingMode_NoShading() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_NoShading_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_NoShading AiShadingMode = _swig_getaiShadingMode_NoShading()
+
+func _swig_getaiShadingMode_Fresnel() (_swig_ret AiShadingMode) {
+	var swig_r AiShadingMode
+	swig_r = (AiShadingMode)(C._wrap_aiShadingMode_Fresnel_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiShadingMode_Fresnel AiShadingMode = _swig_getaiShadingMode_Fresnel()
+
+type AiTextureFlags int
+
+func _swig_getaiTextureFlags_Invert() (_swig_ret AiTextureFlags) {
+	var swig_r AiTextureFlags
+	swig_r = (AiTextureFlags)(C._wrap_aiTextureFlags_Invert_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureFlags_Invert AiTextureFlags = _swig_getaiTextureFlags_Invert()
+
+func _swig_getaiTextureFlags_UseAlpha() (_swig_ret AiTextureFlags) {
+	var swig_r AiTextureFlags
+	swig_r = (AiTextureFlags)(C._wrap_aiTextureFlags_UseAlpha_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureFlags_UseAlpha AiTextureFlags = _swig_getaiTextureFlags_UseAlpha()
+
+func _swig_getaiTextureFlags_IgnoreAlpha() (_swig_ret AiTextureFlags) {
+	var swig_r AiTextureFlags
+	swig_r = (AiTextureFlags)(C._wrap_aiTextureFlags_IgnoreAlpha_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiTextureFlags_IgnoreAlpha AiTextureFlags = _swig_getaiTextureFlags_IgnoreAlpha()
+
+type AiBlendMode int
+
+func _swig_getaiBlendMode_Default() (_swig_ret AiBlendMode) {
+	var swig_r AiBlendMode
+	swig_r = (AiBlendMode)(C._wrap_aiBlendMode_Default_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiBlendMode_Default AiBlendMode = _swig_getaiBlendMode_Default()
+
+func _swig_getaiBlendMode_Additive() (_swig_ret AiBlendMode) {
+	var swig_r AiBlendMode
+	swig_r = (AiBlendMode)(C._wrap_aiBlendMode_Additive_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiBlendMode_Additive AiBlendMode = _swig_getaiBlendMode_Additive()
+
+type SwigcptrAiUVTransform uintptr
+
+func (p SwigcptrAiUVTransform) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiUVTransform) SwigIsAiUVTransform() {
+}
+
+func (arg1 SwigcptrAiUVTransform) SetMTranslation(arg2 AiVector2D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiUVTransform_mTranslation_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiUVTransform) GetMTranslation() (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_aiUVTransform_mTranslation_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiUVTransform) SetMScaling(arg2 AiVector2D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiUVTransform_mScaling_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiUVTransform) GetMScaling() (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_aiUVTransform_mScaling_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiUVTransform) SetMRotation(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiUVTransform_mRotation_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiUVTransform) GetMRotation() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiUVTransform_mRotation_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiUVTransform() (_swig_ret AiUVTransform) {
+	var swig_r AiUVTransform
+	swig_r = (AiUVTransform)(SwigcptrAiUVTransform(C._wrap_new_aiUVTransform_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiUVTransform(arg1 AiUVTransform) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiUVTransform_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiUVTransform interface {
+	Swigcptr() uintptr
+	SwigIsAiUVTransform()
+	SetMTranslation(arg2 AiVector2D)
+	GetMTranslation() (_swig_ret AiVector2D)
+	SetMScaling(arg2 AiVector2D)
+	GetMScaling() (_swig_ret AiVector2D)
+	SetMRotation(arg2 float32)
+	GetMRotation() (_swig_ret float32)
+}
+
+type AiPropertyTypeInfo int
+
+func _swig_getaiPTI_Float() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiPTI_Float_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiPTI_Float AiPropertyTypeInfo = _swig_getaiPTI_Float()
+
+func _swig_getaiPTI_Double() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiPTI_Double_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiPTI_Double AiPropertyTypeInfo = _swig_getaiPTI_Double()
+
+func _swig_getaiPTI_String() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiPTI_String_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiPTI_String AiPropertyTypeInfo = _swig_getaiPTI_String()
+
+func _swig_getaiPTI_Integer() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiPTI_Integer_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiPTI_Integer AiPropertyTypeInfo = _swig_getaiPTI_Integer()
+
+func _swig_getaiPTI_Buffer() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiPTI_Buffer_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiPTI_Buffer AiPropertyTypeInfo = _swig_getaiPTI_Buffer()
+
+type SwigcptrAiMaterialProperty uintptr
+
+func (p SwigcptrAiMaterialProperty) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMaterialProperty) SwigIsAiMaterialProperty() {
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMKey(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMaterialProperty_mKey_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMKey() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMaterialProperty_mKey_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMSemantic(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterialProperty_mSemantic_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMSemantic() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMaterialProperty_mSemantic_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMIndex(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterialProperty_mIndex_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMIndex() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMaterialProperty_mIndex_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMDataLength(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterialProperty_mDataLength_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMDataLength() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMaterialProperty_mDataLength_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMType(arg2 AiPropertyTypeInfo) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterialProperty_mType_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMType() (_swig_ret AiPropertyTypeInfo) {
+	var swig_r AiPropertyTypeInfo
+	_swig_i_0 := arg1
+	swig_r = (AiPropertyTypeInfo)(C._wrap_aiMaterialProperty_mType_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterialProperty) SetMData(arg2 string) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterialProperty_mData_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_37)(unsafe.Pointer(&_swig_i_1)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+}
+
+func (arg1 SwigcptrAiMaterialProperty) GetMData() (_swig_ret string) {
+	var swig_r string
+	_swig_i_0 := arg1
+	swig_r_p := C._wrap_aiMaterialProperty_mData_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
+	var swig_r_1 string
+	swig_r_1 = swigCopyString(swig_r)
+	return swig_r_1
+}
+
+func NewAiMaterialProperty() (_swig_ret AiMaterialProperty) {
+	var swig_r AiMaterialProperty
+	swig_r = (AiMaterialProperty)(SwigcptrAiMaterialProperty(C._wrap_new_aiMaterialProperty_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMaterialProperty(arg1 AiMaterialProperty) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMaterialProperty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMaterialProperty interface {
+	Swigcptr() uintptr
+	SwigIsAiMaterialProperty()
+	SetMKey(arg2 AiString)
+	GetMKey() (_swig_ret AiString)
+	SetMSemantic(arg2 uint)
+	GetMSemantic() (_swig_ret uint)
+	SetMIndex(arg2 uint)
+	GetMIndex() (_swig_ret uint)
+	SetMDataLength(arg2 uint)
+	GetMDataLength() (_swig_ret uint)
+	SetMType(arg2 AiPropertyTypeInfo)
+	GetMType() (_swig_ret AiPropertyTypeInfo)
+	SetMData(arg2 string)
+	GetMData() (_swig_ret string)
+}
+
+type SwigcptrAiMaterial uintptr
+
+func (p SwigcptrAiMaterial) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMaterial) SwigIsAiMaterial() {
+}
+
+func NewAiMaterial() (_swig_ret AiMaterial) {
+	var swig_r AiMaterial
+	swig_r = (AiMaterial)(SwigcptrAiMaterial(C._wrap_new_aiMaterial_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMaterial(arg1 AiMaterial) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMaterial_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+func (arg1 SwigcptrAiMaterial) GetName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMaterial_GetName_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 *int, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_39)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_2(arg2 string, arg3 uint, arg4 uint, arg5 *float32, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_40)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_4(arg2 string, arg3 uint, arg4 uint, arg5 *int) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_41)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_5(arg2 string, arg3 uint, arg4 uint, arg5 *float32) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_5_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_42)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_6(arg2 string, arg3 uint, arg4 uint, arg5 AiString) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_6_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_43)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_7(arg2 string, arg3 uint, arg4 uint, arg5 AiColor3D) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_7_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_44)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_8(arg2 string, arg3 uint, arg4 uint, arg5 AiColor4t_Sl_float_Sg_) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_8_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_45)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) Get__SWIG_9(arg2 string, arg3 uint, arg4 uint, arg5 AiUVTransform) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_Get__SWIG_9_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_46)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) Get(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		if _, ok := a[3].(*int); !ok {
+			goto check_1
+		}
+		return p.Get__SWIG_4(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*int))
+	}
+check_1:
+	if argc == 4 {
+		if _, ok := a[3].(*float32); !ok {
+			goto check_2
+		}
+		return p.Get__SWIG_5(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*float32))
+	}
+check_2:
+	if argc == 4 {
+		if _, ok := a[3].(SwigcptrAiString); !ok {
+			goto check_3
+		}
+		return p.Get__SWIG_6(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiString))
+	}
+check_3:
+	if argc == 4 {
+		if _, ok := a[3].(SwigcptrAiColor3D); !ok {
+			goto check_4
+		}
+		return p.Get__SWIG_7(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor3D))
+	}
+check_4:
+	if argc == 4 {
+		if _, ok := a[3].(SwigcptrAiColor4t_Sl_float_Sg_); !ok {
+			goto check_5
+		}
+		return p.Get__SWIG_8(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor4t_Sl_float_Sg_))
+	}
+check_5:
+	if argc == 4 {
+		return p.Get__SWIG_9(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiUVTransform))
+	}
+	if argc == 5 {
+		if _, ok := a[3].(*int); !ok {
+			goto check_7
+		}
+		return p.Get__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*int), a[4].(*uint))
+	}
+check_7:
+	if argc == 5 {
+		return p.Get__SWIG_2(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*float32), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) GetTextureCount(arg2 AiTextureType) (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (uint)(C._wrap_aiMaterial_GetTextureCount_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_0(arg2 AiTextureType, arg3 uint, arg4 AiString, arg5 *AiTextureMapping, arg6 []uint, arg7 []float32, arg8 *AiTextureOp, arg9 *AiTextureMapMode) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	_swig_i_6 := arg7
+	_swig_i_7 := arg8
+	_swig_i_8 := arg9
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4), *(*C.swig_type_47)(unsafe.Pointer(&_swig_i_5)), *(*C.swig_type_48)(unsafe.Pointer(&_swig_i_6)), C.swig_voidp(_swig_i_7), C.swig_voidp(_swig_i_8)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg6
+	}
+	if Swig_escape_always_false {
+		Swig_escape_val = arg7
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_1(arg2 AiTextureType, arg3 uint, arg4 AiString, arg5 *AiTextureMapping, arg6 []uint, arg7 []float32, arg8 *AiTextureOp) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	_swig_i_6 := arg7
+	_swig_i_7 := arg8
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4), *(*C.swig_type_49)(unsafe.Pointer(&_swig_i_5)), *(*C.swig_type_50)(unsafe.Pointer(&_swig_i_6)), C.swig_voidp(_swig_i_7)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg6
+	}
+	if Swig_escape_always_false {
+		Swig_escape_val = arg7
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_2(arg2 AiTextureType, arg3 uint, arg4 AiString, arg5 *AiTextureMapping, arg6 []uint, arg7 []float32) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	_swig_i_6 := arg7
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4), *(*C.swig_type_51)(unsafe.Pointer(&_swig_i_5)), *(*C.swig_type_52)(unsafe.Pointer(&_swig_i_6))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg6
+	}
+	if Swig_escape_always_false {
+		Swig_escape_val = arg7
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_3(arg2 AiTextureType, arg3 uint, arg4 AiString, arg5 *AiTextureMapping, arg6 []uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4), *(*C.swig_type_53)(unsafe.Pointer(&_swig_i_5))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg6
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_4(arg2 AiTextureType, arg3 uint, arg4 AiString, arg5 *AiTextureMapping) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_4_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetTexture__SWIG_5(arg2 AiTextureType, arg3 uint, arg4 AiString) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetTexture__SWIG_5_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3)))
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetTexture(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 3 {
+		return p.GetTexture__SWIG_5(a[0].(AiTextureType), a[1].(uint), a[2].(AiString))
+	}
+	if argc == 4 {
+		return p.GetTexture__SWIG_4(a[0].(AiTextureType), a[1].(uint), a[2].(AiString), a[3].(*AiTextureMapping))
+	}
+	if argc == 5 {
+		return p.GetTexture__SWIG_3(a[0].(AiTextureType), a[1].(uint), a[2].(AiString), a[3].(*AiTextureMapping), a[4].([]uint))
+	}
+	if argc == 6 {
+		return p.GetTexture__SWIG_2(a[0].(AiTextureType), a[1].(uint), a[2].(AiString), a[3].(*AiTextureMapping), a[4].([]uint), a[5].([]float32))
+	}
+	if argc == 7 {
+		return p.GetTexture__SWIG_1(a[0].(AiTextureType), a[1].(uint), a[2].(AiString), a[3].(*AiTextureMapping), a[4].([]uint), a[5].([]float32), a[6].(*AiTextureOp))
+	}
+	if argc == 8 {
+		return p.GetTexture__SWIG_0(a[0].(AiTextureType), a[1].(uint), a[2].(AiString), a[3].(*AiTextureMapping), a[4].([]uint), a[5].([]float32), a[6].(*AiTextureOp), a[7].(*AiTextureMapMode))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) AddBinaryProperty(arg2 uintptr, arg3 uint, arg4 string, arg5 uint, arg6 uint, arg7 AiPropertyTypeInfo) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	_swig_i_6 := arg7
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddBinaryProperty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_54)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5), C.swig_intgo(_swig_i_6)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_0(arg2 AiString, arg3 string, arg4 uint, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_55)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg3
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_1(arg2 AiString, arg3 string, arg4 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_56)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg3
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_2(arg2 AiString, arg3 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), *(*C.swig_type_57)(unsafe.Pointer(&_swig_i_2))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg3
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_6(arg2 AiVector3D, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_6_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_58)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_7(arg2 AiVector3D, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_7_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_59)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_8(arg2 AiVector3D, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_8_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_60)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_9(arg2 AiColor3D, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_9_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_61)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_10(arg2 AiColor3D, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_10_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_62)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_11(arg2 AiColor3D, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_11_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_63)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_12(arg2 AiColor4t_Sl_float_Sg_, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_12_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_64)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_13(arg2 AiColor4t_Sl_float_Sg_, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_13_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_65)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_14(arg2 AiColor4t_Sl_float_Sg_, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_14_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_66)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_15(arg2 *int, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_15_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_67)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_16(arg2 *int, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_16_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_68)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_17(arg2 *int, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_17_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_69)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_18(arg2 *float32, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_18_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_70)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_19(arg2 *float32, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_19_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_71)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_20(arg2 *float32, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_20_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_72)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_21(arg2 *float64, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_21_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_73)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_22(arg2 *float64, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_22_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_74)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_23(arg2 *float64, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_23_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_75)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_24(arg2 AiUVTransform, arg3 uint, arg4 string, arg5 uint, arg6 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_24_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_76)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_25(arg2 AiUVTransform, arg3 uint, arg4 string, arg5 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_25_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_77)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) AddProperty__SWIG_26(arg2 AiUVTransform, arg3 uint, arg4 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_AddProperty__SWIG_26_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2), *(*C.swig_type_78)(unsafe.Pointer(&_swig_i_3))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg4
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) AddProperty(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 2 {
+		return p.AddProperty__SWIG_2(a[0].(AiString), a[1].(string))
+	}
+	if argc == 3 {
+		if _, ok := a[0].(SwigcptrAiString); !ok {
+			goto check_2
+		}
+		if _, ok := a[1].(string); !ok {
+			goto check_2
+		}
+		if _, ok := a[2].(uint); !ok {
+			goto check_2
+		}
+		return p.AddProperty__SWIG_1(a[0].(AiString), a[1].(string), a[2].(uint))
+	}
+check_2:
+	if argc == 3 {
+		if _, ok := a[0].(SwigcptrAiVector3D); !ok {
+			goto check_3
+		}
+		return p.AddProperty__SWIG_8(a[0].(AiVector3D), a[1].(uint), a[2].(string))
+	}
+check_3:
+	if argc == 3 {
+		if _, ok := a[0].(SwigcptrAiColor3D); !ok {
+			goto check_4
+		}
+		return p.AddProperty__SWIG_11(a[0].(AiColor3D), a[1].(uint), a[2].(string))
+	}
+check_4:
+	if argc == 3 {
+		if _, ok := a[0].(SwigcptrAiColor4t_Sl_float_Sg_); !ok {
+			goto check_5
+		}
+		return p.AddProperty__SWIG_14(a[0].(AiColor4t_Sl_float_Sg_), a[1].(uint), a[2].(string))
+	}
+check_5:
+	if argc == 3 {
+		if _, ok := a[0].(*int); !ok {
+			goto check_6
+		}
+		return p.AddProperty__SWIG_17(a[0].(*int), a[1].(uint), a[2].(string))
+	}
+check_6:
+	if argc == 3 {
+		if _, ok := a[0].(*float32); !ok {
+			goto check_7
+		}
+		return p.AddProperty__SWIG_20(a[0].(*float32), a[1].(uint), a[2].(string))
+	}
+check_7:
+	if argc == 3 {
+		if _, ok := a[0].(*float64); !ok {
+			goto check_8
+		}
+		return p.AddProperty__SWIG_23(a[0].(*float64), a[1].(uint), a[2].(string))
+	}
+check_8:
+	if argc == 3 {
+		return p.AddProperty__SWIG_26(a[0].(AiUVTransform), a[1].(uint), a[2].(string))
+	}
+	if argc == 4 {
+		if _, ok := a[0].(*int); !ok {
+			goto check_10
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_10
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_10
+		}
+		return p.AddProperty__SWIG_16(a[0].(*int), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_10:
+	if argc == 4 {
+		if _, ok := a[0].(SwigcptrAiColor3D); !ok {
+			goto check_11
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_11
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_11
+		}
+		return p.AddProperty__SWIG_10(a[0].(AiColor3D), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_11:
+	if argc == 4 {
+		if _, ok := a[0].(*float32); !ok {
+			goto check_12
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_12
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_12
+		}
+		return p.AddProperty__SWIG_19(a[0].(*float32), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_12:
+	if argc == 4 {
+		if _, ok := a[0].(SwigcptrAiVector3D); !ok {
+			goto check_13
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_13
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_13
+		}
+		return p.AddProperty__SWIG_7(a[0].(AiVector3D), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_13:
+	if argc == 4 {
+		if _, ok := a[0].(*float64); !ok {
+			goto check_14
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_14
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_14
+		}
+		return p.AddProperty__SWIG_22(a[0].(*float64), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_14:
+	if argc == 4 {
+		if _, ok := a[0].(SwigcptrAiColor4t_Sl_float_Sg_); !ok {
+			goto check_15
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_15
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_15
+		}
+		return p.AddProperty__SWIG_13(a[0].(AiColor4t_Sl_float_Sg_), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_15:
+	if argc == 4 {
+		if _, ok := a[0].(SwigcptrAiUVTransform); !ok {
+			goto check_16
+		}
+		if _, ok := a[1].(uint); !ok {
+			goto check_16
+		}
+		if _, ok := a[2].(string); !ok {
+			goto check_16
+		}
+		return p.AddProperty__SWIG_25(a[0].(AiUVTransform), a[1].(uint), a[2].(string), a[3].(uint))
+	}
+check_16:
+	if argc == 4 {
+		return p.AddProperty__SWIG_0(a[0].(AiString), a[1].(string), a[2].(uint), a[3].(uint))
+	}
+	if argc == 5 {
+		if _, ok := a[0].(*int); !ok {
+			goto check_18
+		}
+		return p.AddProperty__SWIG_15(a[0].(*int), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_18:
+	if argc == 5 {
+		if _, ok := a[0].(*float64); !ok {
+			goto check_19
+		}
+		return p.AddProperty__SWIG_21(a[0].(*float64), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_19:
+	if argc == 5 {
+		if _, ok := a[0].(SwigcptrAiColor4t_Sl_float_Sg_); !ok {
+			goto check_20
+		}
+		return p.AddProperty__SWIG_12(a[0].(AiColor4t_Sl_float_Sg_), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_20:
+	if argc == 5 {
+		if _, ok := a[0].(SwigcptrAiVector3D); !ok {
+			goto check_21
+		}
+		return p.AddProperty__SWIG_6(a[0].(AiVector3D), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_21:
+	if argc == 5 {
+		if _, ok := a[0].(SwigcptrAiUVTransform); !ok {
+			goto check_22
+		}
+		return p.AddProperty__SWIG_24(a[0].(AiUVTransform), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_22:
+	if argc == 5 {
+		if _, ok := a[0].(*float32); !ok {
+			goto check_23
+		}
+		return p.AddProperty__SWIG_18(a[0].(*float32), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+check_23:
+	if argc == 5 {
+		return p.AddProperty__SWIG_9(a[0].(AiColor3D), a[1].(uint), a[2].(string), a[3].(uint), a[4].(uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) RemoveProperty__SWIG_0(arg2 string, arg3 uint, arg4 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	swig_r = (AiReturn)(C._wrap_aiMaterial_RemoveProperty__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_79)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) RemoveProperty__SWIG_1(arg2 string, arg3 uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	swig_r = (AiReturn)(C._wrap_aiMaterial_RemoveProperty__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_80)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) RemoveProperty__SWIG_2(arg2 string) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (AiReturn)(C._wrap_aiMaterial_RemoveProperty__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_81)(unsafe.Pointer(&_swig_i_1))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) RemoveProperty(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 1 {
+		return p.RemoveProperty__SWIG_2(a[0].(string))
+	}
+	if argc == 2 {
+		return p.RemoveProperty__SWIG_1(a[0].(string), a[1].(uint))
+	}
+	if argc == 3 {
+		return p.RemoveProperty__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) Clear() {
+	_swig_i_0 := arg1
+	C._wrap_aiMaterial_Clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+func AiMaterialCopyPropertyList(arg1 AiMaterial, arg2 AiMaterial) {
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMaterial_CopyPropertyList_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterial) SetMNumProperties(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterial_mNumProperties_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterial) GetMNumProperties() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMaterial_mNumProperties_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) SetMNumAllocated(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMaterial_mNumAllocated_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMaterial) GetMNumAllocated() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMaterial_mNumAllocated_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) MProperties() (_swig_ret AiMaterialPropertyVector) {
+	var swig_r AiMaterialPropertyVector
+	_swig_i_0 := arg1
+	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_aiMaterial_mProperties_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetInteger__SWIG_0(arg2 string, arg3 uint, arg4 uint, arg5 *int, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetInteger__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_82)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetInteger__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 *int) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetInteger__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_83)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetInteger(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		return p.GetInteger__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*int))
+	}
+	if argc == 5 {
+		return p.GetInteger__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*int), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) GetFloat__SWIG_0(arg2 string, arg3 uint, arg4 uint, arg5 *float32, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetFloat__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_84)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetFloat__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 *float32) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetFloat__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_85)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetFloat(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		return p.GetFloat__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*float32))
+	}
+	if argc == 5 {
+		return p.GetFloat__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint), a[3].(*float32), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) GetColor4D__SWIG_0(arg2 string, arg3 uint, arg4 uint, arg5 AiColor4t_Sl_float_Sg_, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetColor4D__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_86)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetColor4D__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 AiColor4t_Sl_float_Sg_) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetColor4D__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_87)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetColor4D(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		return p.GetColor4D__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor4t_Sl_float_Sg_))
+	}
+	if argc == 5 {
+		return p.GetColor4D__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor4t_Sl_float_Sg_), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) GetColor3D__SWIG_0(arg2 string, arg3 uint, arg4 uint, arg5 AiColor3D, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetColor3D__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_88)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetColor3D__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 AiColor3D) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetColor3D__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_89)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetColor3D(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		return p.GetColor3D__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor3D))
+	}
+	if argc == 5 {
+		return p.GetColor3D__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiColor3D), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiMaterial) GetString__SWIG_0(arg2 string, arg3 uint, arg4 uint, arg5 AiString, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetString__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_90)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMaterial) GetString__SWIG_1(arg2 string, arg3 uint, arg4 uint, arg5 AiString) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiMaterial_GetString__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_91)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func (p SwigcptrAiMaterial) GetString(a ...interface{}) AiReturn {
+	argc := len(a)
+	if argc == 4 {
+		return p.GetString__SWIG_1(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiString))
+	}
+	if argc == 5 {
+		return p.GetString__SWIG_0(a[0].(string), a[1].(uint), a[2].(uint), a[3].(AiString), a[4].(*uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+type AiMaterial interface {
+	Swigcptr() uintptr
+	SwigIsAiMaterial()
+	GetName() (_swig_ret AiString)
+	Get(a ...interface{}) AiReturn
+	GetTextureCount(arg2 AiTextureType) (_swig_ret uint)
+	GetTexture(a ...interface{}) AiReturn
+	AddBinaryProperty(arg2 uintptr, arg3 uint, arg4 string, arg5 uint, arg6 uint, arg7 AiPropertyTypeInfo) (_swig_ret AiReturn)
+	AddProperty(a ...interface{}) AiReturn
+	RemoveProperty(a ...interface{}) AiReturn
+	Clear()
+	SetMNumProperties(arg2 uint)
+	GetMNumProperties() (_swig_ret uint)
+	SetMNumAllocated(arg2 uint)
+	GetMNumAllocated() (_swig_ret uint)
+	MProperties() (_swig_ret AiMaterialPropertyVector)
+	GetInteger(a ...interface{}) AiReturn
+	GetFloat(a ...interface{}) AiReturn
+	GetColor4D(a ...interface{}) AiReturn
+	GetColor3D(a ...interface{}) AiReturn
+	GetString(a ...interface{}) AiReturn
+}
+
+const X_AI_MATKEY_TEXTURE_BASE string = "$tex.file"
+const X_AI_MATKEY_UVWSRC_BASE string = "$tex.uvwsrc"
+const X_AI_MATKEY_TEXOP_BASE string = "$tex.op"
+const X_AI_MATKEY_MAPPING_BASE string = "$tex.mapping"
+const X_AI_MATKEY_TEXBLEND_BASE string = "$tex.blend"
+const X_AI_MATKEY_MAPPINGMODE_U_BASE string = "$tex.mapmodeu"
+const X_AI_MATKEY_MAPPINGMODE_V_BASE string = "$tex.mapmodev"
+const X_AI_MATKEY_TEXMAP_AXIS_BASE string = "$tex.mapaxis"
+const X_AI_MATKEY_UVTRANSFORM_BASE string = "$tex.uvtrafo"
+const X_AI_MATKEY_TEXFLAGS_BASE string = "$tex.flags"
+
+func AiGetMaterialProperty(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 AiMaterialProperty) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialProperty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_92)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialFloatArray(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 *float32, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialFloatArray_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_93)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialFloat(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 *float32) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialFloat_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_94)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialIntegerArray(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 *int, arg6 *uint) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialIntegerArray_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_95)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4), C.swig_voidp(_swig_i_5)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialInteger(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 *int) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialInteger_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_96)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_voidp(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialColor(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 AiColor4t_Sl_float_Sg_) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialColor_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_97)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialUVTransform(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 AiUVTransform) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialUVTransform_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_98)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialString(arg1 AiMaterial, arg2 string, arg3 uint, arg4 uint, arg5 AiString) (_swig_ret AiReturn) {
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	_swig_i_4 := arg5.Swigcptr()
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialString_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_99)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg2
+	}
+	return swig_r
+}
+
+func AiGetMaterialTextureCount(arg1 AiMaterial, arg2 AiTextureType) (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	swig_r = (uint)(C._wrap_aiGetMaterialTextureCount_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	return swig_r
+}
+
+func AiGetMaterialTexture(arg1 AiMaterial, arg2 AiTextureType, arg3 uint, arg4 AiString, _swig_args ...interface{}) (_swig_ret AiReturn) {
+	var arg5 *AiTextureMapping
+	if len(_swig_args) > 0 {
+		arg5 = _swig_args[0].(*AiTextureMapping)
+	}
+	var arg6 []uint
+	if len(_swig_args) > 1 {
+		arg6 = _swig_args[1].([]uint)
+	}
+	var arg7 []float32
+	if len(_swig_args) > 2 {
+		arg7 = _swig_args[2].([]float32)
+	}
+	var arg8 *AiTextureOp
+	if len(_swig_args) > 3 {
+		arg8 = _swig_args[3].(*AiTextureOp)
+	}
+	var arg9 *AiTextureMapMode
+	if len(_swig_args) > 4 {
+		arg9 = _swig_args[4].(*AiTextureMapMode)
+	}
+	var arg10 []uint
+	if len(_swig_args) > 5 {
+		arg10 = _swig_args[5].([]uint)
+	}
+	var swig_r AiReturn
+	_swig_i_0 := arg1.Swigcptr()
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4.Swigcptr()
+	_swig_i_4 := arg5
+	_swig_i_5 := arg6
+	_swig_i_6 := arg7
+	_swig_i_7 := arg8
+	_swig_i_8 := arg9
+	_swig_i_9 := arg10
+	swig_r = (AiReturn)(C._wrap_aiGetMaterialTexture_aig_ad8534e24299c30d(C.swig_intgo(len(_swig_args)), C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.uintptr_t(_swig_i_3), C.swig_voidp(_swig_i_4), *(*C.swig_type_100)(unsafe.Pointer(&_swig_i_5)), *(*C.swig_type_101)(unsafe.Pointer(&_swig_i_6)), C.swig_voidp(_swig_i_7), C.swig_voidp(_swig_i_8), *(*C.swig_type_102)(unsafe.Pointer(&_swig_i_9))))
+	if Swig_escape_always_false {
+		Swig_escape_val = arg6
+	}
+	if Swig_escape_always_false {
+		Swig_escape_val = arg7
+	}
+	if Swig_escape_always_false {
+		Swig_escape_val = arg10
+	}
+	return swig_r
+}
+
+type SwigcptrAiVectorKey uintptr
+
+func (p SwigcptrAiVectorKey) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiVectorKey) SwigIsAiVectorKey() {
+}
+
+func (arg1 SwigcptrAiVectorKey) SetMTime(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVectorKey_mTime_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVectorKey) GetMTime() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiVectorKey_mTime_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVectorKey) SetMValue(arg2 AiVector3D) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiVectorKey_mValue_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVectorKey) GetMValue() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVectorKey_mValue_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiVectorKey__SWIG_0() (_swig_ret AiVectorKey) {
+	var swig_r AiVectorKey
+	swig_r = (AiVectorKey)(SwigcptrAiVectorKey(C._wrap_new_aiVectorKey__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiVectorKey__SWIG_1(arg1 float64, arg2 AiVector3D) (_swig_ret AiVectorKey) {
+	var swig_r AiVectorKey
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (AiVectorKey)(SwigcptrAiVectorKey(C._wrap_new_aiVectorKey__SWIG_1_aig_ad8534e24299c30d(C.double(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	return swig_r
+}
+
+func NewAiVectorKey(a ...interface{}) AiVectorKey {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiVectorKey__SWIG_0()
+	}
+	if argc == 2 {
+		return NewAiVectorKey__SWIG_1(a[0].(float64), a[1].(AiVector3D))
+	}
+	panic("No match for overloaded function call")
+}
+
+func DeleteAiVectorKey(arg1 AiVectorKey) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiVectorKey_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiVectorKey interface {
+	Swigcptr() uintptr
+	SwigIsAiVectorKey()
+	SetMTime(arg2 float64)
+	GetMTime() (_swig_ret float64)
+	SetMValue(arg2 AiVector3D)
+	GetMValue() (_swig_ret AiVector3D)
+}
+
+type SwigcptrAiQuatKey uintptr
+
+func (p SwigcptrAiQuatKey) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiQuatKey) SwigIsAiQuatKey() {
+}
+
+func (arg1 SwigcptrAiQuatKey) SetMTime(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiQuatKey_mTime_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiQuatKey) GetMTime() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiQuatKey_mTime_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiQuatKey) SetMValue(arg2 AiQuaternion) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiQuatKey_mValue_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiQuatKey) GetMValue() (_swig_ret AiQuaternion) {
+	var swig_r AiQuaternion
+	_swig_i_0 := arg1
+	swig_r = (AiQuaternion)(SwigcptrAiQuaternion(C._wrap_aiQuatKey_mValue_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiQuatKey__SWIG_0() (_swig_ret AiQuatKey) {
+	var swig_r AiQuatKey
+	swig_r = (AiQuatKey)(SwigcptrAiQuatKey(C._wrap_new_aiQuatKey__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiQuatKey__SWIG_1(arg1 float64, arg2 AiQuaternion) (_swig_ret AiQuatKey) {
+	var swig_r AiQuatKey
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (AiQuatKey)(SwigcptrAiQuatKey(C._wrap_new_aiQuatKey__SWIG_1_aig_ad8534e24299c30d(C.double(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	return swig_r
+}
+
+func NewAiQuatKey(a ...interface{}) AiQuatKey {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiQuatKey__SWIG_0()
+	}
+	if argc == 2 {
+		return NewAiQuatKey__SWIG_1(a[0].(float64), a[1].(AiQuaternion))
+	}
+	panic("No match for overloaded function call")
+}
+
+func DeleteAiQuatKey(arg1 AiQuatKey) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiQuatKey_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiQuatKey interface {
+	Swigcptr() uintptr
+	SwigIsAiQuatKey()
+	SetMTime(arg2 float64)
+	GetMTime() (_swig_ret float64)
+	SetMValue(arg2 AiQuaternion)
+	GetMValue() (_swig_ret AiQuaternion)
+}
+
+type SwigcptrAiMeshKey uintptr
+
+func (p SwigcptrAiMeshKey) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMeshKey) SwigIsAiMeshKey() {
+}
+
+func (arg1 SwigcptrAiMeshKey) SetMTime(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshKey_mTime_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshKey) GetMTime() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiMeshKey_mTime_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshKey) SetMValue(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshKey_mValue_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshKey) GetMValue() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMeshKey_mValue_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiMeshKey__SWIG_0() (_swig_ret AiMeshKey) {
+	var swig_r AiMeshKey
+	swig_r = (AiMeshKey)(SwigcptrAiMeshKey(C._wrap_new_aiMeshKey__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiMeshKey__SWIG_1(arg1 float64, arg2 uint) (_swig_ret AiMeshKey) {
+	var swig_r AiMeshKey
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (AiMeshKey)(SwigcptrAiMeshKey(C._wrap_new_aiMeshKey__SWIG_1_aig_ad8534e24299c30d(C.double(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	return swig_r
+}
+
+func NewAiMeshKey(a ...interface{}) AiMeshKey {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiMeshKey__SWIG_0()
+	}
+	if argc == 2 {
+		return NewAiMeshKey__SWIG_1(a[0].(float64), a[1].(uint))
+	}
+	panic("No match for overloaded function call")
+}
+
+func DeleteAiMeshKey(arg1 AiMeshKey) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMeshKey_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMeshKey interface {
+	Swigcptr() uintptr
+	SwigIsAiMeshKey()
+	SetMTime(arg2 float64)
+	GetMTime() (_swig_ret float64)
+	SetMValue(arg2 uint)
+	GetMValue() (_swig_ret uint)
+}
+
+type SwigcptrAiMeshMorphKey uintptr
+
+func (p SwigcptrAiMeshMorphKey) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMeshMorphKey) SwigIsAiMeshMorphKey() {
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) SetMTime(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshMorphKey_mTime_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) GetMTime() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiMeshMorphKey_mTime_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) SetMValues(arg2 *uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshMorphKey_mValues_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) GetMValues() (_swig_ret *uint) {
+	var swig_r *uint
+	_swig_i_0 := arg1
+	swig_r = (*uint)(C._wrap_aiMeshMorphKey_mValues_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) SetMWeights(arg2 *float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshMorphKey_mWeights_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) GetMWeights() (_swig_ret *float64) {
+	var swig_r *float64
+	_swig_i_0 := arg1
+	swig_r = (*float64)(C._wrap_aiMeshMorphKey_mWeights_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) SetMNumValuesAndWeights(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshMorphKey_mNumValuesAndWeights_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphKey) GetMNumValuesAndWeights() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMeshMorphKey_mNumValuesAndWeights_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiMeshMorphKey() (_swig_ret AiMeshMorphKey) {
+	var swig_r AiMeshMorphKey
+	swig_r = (AiMeshMorphKey)(SwigcptrAiMeshMorphKey(C._wrap_new_aiMeshMorphKey_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMeshMorphKey(arg1 AiMeshMorphKey) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMeshMorphKey_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMeshMorphKey interface {
+	Swigcptr() uintptr
+	SwigIsAiMeshMorphKey()
+	SetMTime(arg2 float64)
+	GetMTime() (_swig_ret float64)
+	SetMValues(arg2 *uint)
+	GetMValues() (_swig_ret *uint)
+	SetMWeights(arg2 *float64)
+	GetMWeights() (_swig_ret *float64)
+	SetMNumValuesAndWeights(arg2 uint)
+	GetMNumValuesAndWeights() (_swig_ret uint)
+}
+
+type AiAnimBehaviour int
+
+func _swig_getaiAnimBehaviour_DEFAULT() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	swig_r = (AiAnimBehaviour)(C._wrap_aiAnimBehaviour_DEFAULT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiAnimBehaviour_DEFAULT AiAnimBehaviour = _swig_getaiAnimBehaviour_DEFAULT()
+
+func _swig_getaiAnimBehaviour_CONSTANT() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	swig_r = (AiAnimBehaviour)(C._wrap_aiAnimBehaviour_CONSTANT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiAnimBehaviour_CONSTANT AiAnimBehaviour = _swig_getaiAnimBehaviour_CONSTANT()
+
+func _swig_getaiAnimBehaviour_LINEAR() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	swig_r = (AiAnimBehaviour)(C._wrap_aiAnimBehaviour_LINEAR_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiAnimBehaviour_LINEAR AiAnimBehaviour = _swig_getaiAnimBehaviour_LINEAR()
+
+func _swig_getaiAnimBehaviour_REPEAT() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	swig_r = (AiAnimBehaviour)(C._wrap_aiAnimBehaviour_REPEAT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiAnimBehaviour_REPEAT AiAnimBehaviour = _swig_getaiAnimBehaviour_REPEAT()
+
+type SwigcptrAiNodeAnim uintptr
+
+func (p SwigcptrAiNodeAnim) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiNodeAnim) SwigIsAiNodeAnim() {
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMNodeName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiNodeAnim_mNodeName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMNodeName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiNodeAnim_mNodeName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMNumPositionKeys(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiNodeAnim_mNumPositionKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMNumPositionKeys() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiNodeAnim_mNumPositionKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMPositionKeys(arg2 AiVectorKey) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiNodeAnim_mPositionKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMPositionKeys() (_swig_ret AiVectorKey) {
+	var swig_r AiVectorKey
+	_swig_i_0 := arg1
+	swig_r = (AiVectorKey)(SwigcptrAiVectorKey(C._wrap_aiNodeAnim_mPositionKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMNumRotationKeys(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiNodeAnim_mNumRotationKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMNumRotationKeys() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiNodeAnim_mNumRotationKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMRotationKeys(arg2 AiQuatKey) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiNodeAnim_mRotationKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMRotationKeys() (_swig_ret AiQuatKey) {
+	var swig_r AiQuatKey
+	_swig_i_0 := arg1
+	swig_r = (AiQuatKey)(SwigcptrAiQuatKey(C._wrap_aiNodeAnim_mRotationKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMNumScalingKeys(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiNodeAnim_mNumScalingKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMNumScalingKeys() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiNodeAnim_mNumScalingKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMScalingKeys(arg2 AiVectorKey) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiNodeAnim_mScalingKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMScalingKeys() (_swig_ret AiVectorKey) {
+	var swig_r AiVectorKey
+	_swig_i_0 := arg1
+	swig_r = (AiVectorKey)(SwigcptrAiVectorKey(C._wrap_aiNodeAnim_mScalingKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMPreState(arg2 AiAnimBehaviour) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiNodeAnim_mPreState_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMPreState() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	_swig_i_0 := arg1
+	swig_r = (AiAnimBehaviour)(C._wrap_aiNodeAnim_mPreState_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiNodeAnim) SetMPostState(arg2 AiAnimBehaviour) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiNodeAnim_mPostState_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiNodeAnim) GetMPostState() (_swig_ret AiAnimBehaviour) {
+	var swig_r AiAnimBehaviour
+	_swig_i_0 := arg1
+	swig_r = (AiAnimBehaviour)(C._wrap_aiNodeAnim_mPostState_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiNodeAnim() (_swig_ret AiNodeAnim) {
+	var swig_r AiNodeAnim
+	swig_r = (AiNodeAnim)(SwigcptrAiNodeAnim(C._wrap_new_aiNodeAnim_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiNodeAnim(arg1 AiNodeAnim) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiNodeAnim_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiNodeAnim interface {
+	Swigcptr() uintptr
+	SwigIsAiNodeAnim()
+	SetMNodeName(arg2 AiString)
+	GetMNodeName() (_swig_ret AiString)
+	SetMNumPositionKeys(arg2 uint)
+	GetMNumPositionKeys() (_swig_ret uint)
+	SetMPositionKeys(arg2 AiVectorKey)
+	GetMPositionKeys() (_swig_ret AiVectorKey)
+	SetMNumRotationKeys(arg2 uint)
+	GetMNumRotationKeys() (_swig_ret uint)
+	SetMRotationKeys(arg2 AiQuatKey)
+	GetMRotationKeys() (_swig_ret AiQuatKey)
+	SetMNumScalingKeys(arg2 uint)
+	GetMNumScalingKeys() (_swig_ret uint)
+	SetMScalingKeys(arg2 AiVectorKey)
+	GetMScalingKeys() (_swig_ret AiVectorKey)
+	SetMPreState(arg2 AiAnimBehaviour)
+	GetMPreState() (_swig_ret AiAnimBehaviour)
+	SetMPostState(arg2 AiAnimBehaviour)
+	GetMPostState() (_swig_ret AiAnimBehaviour)
+}
+
+type SwigcptrAiMeshAnim uintptr
+
+func (p SwigcptrAiMeshAnim) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMeshAnim) SwigIsAiMeshAnim() {
+}
+
+func (arg1 SwigcptrAiMeshAnim) SetMName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMeshAnim_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshAnim) GetMName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMeshAnim_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshAnim) SetMNumKeys(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshAnim_mNumKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshAnim) GetMNumKeys() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMeshAnim_mNumKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshAnim) SetMKeys(arg2 AiMeshKey) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMeshAnim_mKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshAnim) GetMKeys() (_swig_ret AiMeshKey) {
+	var swig_r AiMeshKey
+	_swig_i_0 := arg1
+	swig_r = (AiMeshKey)(SwigcptrAiMeshKey(C._wrap_aiMeshAnim_mKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiMeshAnim() (_swig_ret AiMeshAnim) {
+	var swig_r AiMeshAnim
+	swig_r = (AiMeshAnim)(SwigcptrAiMeshAnim(C._wrap_new_aiMeshAnim_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMeshAnim(arg1 AiMeshAnim) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMeshAnim_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMeshAnim interface {
+	Swigcptr() uintptr
+	SwigIsAiMeshAnim()
+	SetMName(arg2 AiString)
+	GetMName() (_swig_ret AiString)
+	SetMNumKeys(arg2 uint)
+	GetMNumKeys() (_swig_ret uint)
+	SetMKeys(arg2 AiMeshKey)
+	GetMKeys() (_swig_ret AiMeshKey)
+}
+
+type SwigcptrAiMeshMorphAnim uintptr
+
+func (p SwigcptrAiMeshMorphAnim) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMeshMorphAnim) SwigIsAiMeshMorphAnim() {
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) SetMName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMeshMorphAnim_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) GetMName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMeshMorphAnim_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) SetMNumKeys(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMeshMorphAnim_mNumKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) GetMNumKeys() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMeshMorphAnim_mNumKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) SetMKeys(arg2 AiMeshMorphKey) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMeshMorphAnim_mKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMeshMorphAnim) GetMKeys() (_swig_ret AiMeshMorphKey) {
+	var swig_r AiMeshMorphKey
+	_swig_i_0 := arg1
+	swig_r = (AiMeshMorphKey)(SwigcptrAiMeshMorphKey(C._wrap_aiMeshMorphAnim_mKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiMeshMorphAnim() (_swig_ret AiMeshMorphAnim) {
+	var swig_r AiMeshMorphAnim
+	swig_r = (AiMeshMorphAnim)(SwigcptrAiMeshMorphAnim(C._wrap_new_aiMeshMorphAnim_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMeshMorphAnim(arg1 AiMeshMorphAnim) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMeshMorphAnim_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMeshMorphAnim interface {
+	Swigcptr() uintptr
+	SwigIsAiMeshMorphAnim()
+	SetMName(arg2 AiString)
+	GetMName() (_swig_ret AiString)
+	SetMNumKeys(arg2 uint)
+	GetMNumKeys() (_swig_ret uint)
+	SetMKeys(arg2 AiMeshMorphKey)
+	GetMKeys() (_swig_ret AiMeshMorphKey)
+}
+
+type SwigcptrAiAnimation uintptr
+
+func (p SwigcptrAiAnimation) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiAnimation) SwigIsAiAnimation() {
+}
+
+func (arg1 SwigcptrAiAnimation) SetMName(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiAnimation_mName_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMName() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiAnimation_mName_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMDuration(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiAnimation_mDuration_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMDuration() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiAnimation_mDuration_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMTicksPerSecond(arg2 float64) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiAnimation_mTicksPerSecond_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.double(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMTicksPerSecond() (_swig_ret float64) {
+	var swig_r float64
+	_swig_i_0 := arg1
+	swig_r = (float64)(C._wrap_aiAnimation_mTicksPerSecond_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMNumChannels(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiAnimation_mNumChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMNumChannels() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiAnimation_mNumChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMChannels(arg2 AiNodeAnim) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiAnimation_mChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMChannels() (_swig_ret AiNodeAnim) {
+	var swig_r AiNodeAnim
+	_swig_i_0 := arg1
+	swig_r = (AiNodeAnim)(SwigcptrAiNodeAnim(C._wrap_aiAnimation_mChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMNumMeshChannels(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiAnimation_mNumMeshChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMNumMeshChannels() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiAnimation_mNumMeshChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMMeshChannels(arg2 AiMeshAnim) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiAnimation_mMeshChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMMeshChannels() (_swig_ret AiMeshAnim) {
+	var swig_r AiMeshAnim
+	_swig_i_0 := arg1
+	swig_r = (AiMeshAnim)(SwigcptrAiMeshAnim(C._wrap_aiAnimation_mMeshChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMNumMorphMeshChannels(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiAnimation_mNumMorphMeshChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMNumMorphMeshChannels() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiAnimation_mNumMorphMeshChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiAnimation) SetMMorphMeshChannels(arg2 AiMeshMorphAnim) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiAnimation_mMorphMeshChannels_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiAnimation) GetMMorphMeshChannels() (_swig_ret AiMeshMorphAnim) {
+	var swig_r AiMeshMorphAnim
+	_swig_i_0 := arg1
+	swig_r = (AiMeshMorphAnim)(SwigcptrAiMeshMorphAnim(C._wrap_aiAnimation_mMorphMeshChannels_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiAnimation() (_swig_ret AiAnimation) {
+	var swig_r AiAnimation
+	swig_r = (AiAnimation)(SwigcptrAiAnimation(C._wrap_new_aiAnimation_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiAnimation(arg1 AiAnimation) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiAnimation_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiAnimation interface {
+	Swigcptr() uintptr
+	SwigIsAiAnimation()
+	SetMName(arg2 AiString)
+	GetMName() (_swig_ret AiString)
+	SetMDuration(arg2 float64)
+	GetMDuration() (_swig_ret float64)
+	SetMTicksPerSecond(arg2 float64)
+	GetMTicksPerSecond() (_swig_ret float64)
+	SetMNumChannels(arg2 uint)
+	GetMNumChannels() (_swig_ret uint)
+	SetMChannels(arg2 AiNodeAnim)
+	GetMChannels() (_swig_ret AiNodeAnim)
+	SetMNumMeshChannels(arg2 uint)
+	GetMNumMeshChannels() (_swig_ret uint)
+	SetMMeshChannels(arg2 AiMeshAnim)
+	GetMMeshChannels() (_swig_ret AiMeshAnim)
+	SetMNumMorphMeshChannels(arg2 uint)
+	GetMNumMorphMeshChannels() (_swig_ret uint)
+	SetMMorphMeshChannels(arg2 AiMeshMorphAnim)
+	GetMMorphMeshChannels() (_swig_ret AiMeshMorphAnim)
+}
+
+type AiMetadataType int
+
+func _swig_getAI_BOOL() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_BOOL_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_BOOL AiMetadataType = _swig_getAI_BOOL()
+
+func _swig_getAI_INT32() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_INT32_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_INT32 AiMetadataType = _swig_getAI_INT32()
+
+func _swig_getAI_UINT64() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_UINT64_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_UINT64 AiMetadataType = _swig_getAI_UINT64()
+
+func _swig_getAI_FLOAT() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_FLOAT_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_FLOAT AiMetadataType = _swig_getAI_FLOAT()
+
+func _swig_getAI_DOUBLE() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_DOUBLE_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_DOUBLE AiMetadataType = _swig_getAI_DOUBLE()
+
+func _swig_getAI_AISTRING() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_AISTRING_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_AISTRING AiMetadataType = _swig_getAI_AISTRING()
+
+func _swig_getAI_AIVECTOR3D() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_AIVECTOR3D_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_AIVECTOR3D AiMetadataType = _swig_getAI_AIVECTOR3D()
+
+func _swig_getAI_META_MAX() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	swig_r = (AiMetadataType)(C._wrap_AI_META_MAX_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AI_META_MAX AiMetadataType = _swig_getAI_META_MAX()
+
+type SwigcptrAiMetadataEntry uintptr
+
+func (p SwigcptrAiMetadataEntry) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMetadataEntry) SwigIsAiMetadataEntry() {
+}
+
+func (arg1 SwigcptrAiMetadataEntry) SetMType(arg2 AiMetadataType) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMetadataEntry_mType_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMetadataEntry) GetMType() (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1
+	swig_r = (AiMetadataType)(C._wrap_aiMetadataEntry_mType_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMetadataEntry) SetMData(arg2 uintptr) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMetadataEntry_mData_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMetadataEntry) GetMData() (_swig_ret uintptr) {
+	var swig_r uintptr
+	_swig_i_0 := arg1
+	swig_r = (uintptr)(C._wrap_aiMetadataEntry_mData_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func NewAiMetadataEntry() (_swig_ret AiMetadataEntry) {
+	var swig_r AiMetadataEntry
+	swig_r = (AiMetadataEntry)(SwigcptrAiMetadataEntry(C._wrap_new_aiMetadataEntry_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func DeleteAiMetadataEntry(arg1 AiMetadataEntry) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMetadataEntry_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiMetadataEntry interface {
+	Swigcptr() uintptr
+	SwigIsAiMetadataEntry()
+	SetMType(arg2 AiMetadataType)
+	GetMType() (_swig_ret AiMetadataType)
+	SetMData(arg2 uintptr)
+	GetMData() (_swig_ret uintptr)
+}
+
+func GetAiType__SWIG_0(arg1 bool) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_0_aig_ad8534e24299c30d(C._Bool(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_1(arg1 Int32_t) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_2(arg1 Uint64_t) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_3(arg1 float32) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_3_aig_ad8534e24299c30d(C.float(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_4(arg1 float64) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_4_aig_ad8534e24299c30d(C.double(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_5(arg1 AiString) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_5_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType__SWIG_6(arg1 AiVector3D) (_swig_ret AiMetadataType) {
+	var swig_r AiMetadataType
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiMetadataType)(C._wrap_GetAiType__SWIG_6_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func GetAiType(a ...interface{}) AiMetadataType {
+	argc := len(a)
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrInt32_t); !ok {
+			goto check_1
+		}
+		return GetAiType__SWIG_1(a[0].(Int32_t))
+	}
+check_1:
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrUint64_t); !ok {
+			goto check_2
+		}
+		return GetAiType__SWIG_2(a[0].(Uint64_t))
+	}
+check_2:
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiString); !ok {
+			goto check_3
+		}
+		return GetAiType__SWIG_5(a[0].(AiString))
+	}
+check_3:
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiVector3D); !ok {
+			goto check_4
+		}
+		return GetAiType__SWIG_6(a[0].(AiVector3D))
+	}
+check_4:
+	if argc == 1 {
+		if _, ok := a[0].(bool); !ok {
+			goto check_5
+		}
+		return GetAiType__SWIG_0(a[0].(bool))
+	}
+check_5:
+	if argc == 1 {
+		if _, ok := a[0].(float32); !ok {
+			goto check_6
+		}
+		return GetAiType__SWIG_3(a[0].(float32))
+	}
+check_6:
+	if argc == 1 {
+		return GetAiType__SWIG_4(a[0].(float64))
+	}
+	panic("No match for overloaded function call")
+}
+
+type SwigcptrAiMetadata uintptr
+
+func (p SwigcptrAiMetadata) Swigcptr() uintptr {
+	return (uintptr)(p)
+}
+
+func (p SwigcptrAiMetadata) SwigIsAiMetadata() {
+}
+
+func (arg1 SwigcptrAiMetadata) SetMNumProperties(arg2 uint) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiMetadata_mNumProperties_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMetadata) GetMNumProperties() (_swig_ret uint) {
+	var swig_r uint
+	_swig_i_0 := arg1
+	swig_r = (uint)(C._wrap_aiMetadata_mNumProperties_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMetadata) SetMKeys(arg2 AiString) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMetadata_mKeys_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMetadata) GetMKeys() (_swig_ret AiString) {
+	var swig_r AiString
+	_swig_i_0 := arg1
+	swig_r = (AiString)(SwigcptrAiString(C._wrap_aiMetadata_mKeys_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiMetadata) SetMValues(arg2 AiMetadataEntry) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	C._wrap_aiMetadata_mValues_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiMetadata) GetMValues() (_swig_ret AiMetadataEntry) {
+	var swig_r AiMetadataEntry
+	_swig_i_0 := arg1
+	swig_r = (AiMetadataEntry)(SwigcptrAiMetadataEntry(C._wrap_aiMetadata_mValues_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiMetadata__SWIG_0() (_swig_ret AiMetadata) {
+	var swig_r AiMetadata
+	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_new_aiMetadata__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiMetadata__SWIG_1(arg1 AiMetadata) (_swig_ret AiMetadata) {
+	var swig_r AiMetadata
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_new_aiMetadata__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiMetadata(a ...interface{}) AiMetadata {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiMetadata__SWIG_0()
+	}
+	if argc == 1 {
+		return NewAiMetadata__SWIG_1(a[0].(AiMetadata))
+	}
+	panic("No match for overloaded function call")
+}
+
+func DeleteAiMetadata(arg1 AiMetadata) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiMetadata_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+func AiMetadataAlloc(arg1 uint) (_swig_ret AiMetadata) {
+	var swig_r AiMetadata
+	_swig_i_0 := arg1
+	swig_r = (AiMetadata)(SwigcptrAiMetadata(C._wrap_aiMetadata_Alloc_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0))))
+	return swig_r
+}
+
+func AiMetadataDealloc(arg1 AiMetadata) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_aiMetadata_Dealloc_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+func (arg1 SwigcptrAiMetadata) Get(arg2 int64, arg3 AiString, arg4 AiMetadataEntry) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3.Swigcptr()
+	_swig_i_3 := arg4.Swigcptr()
+	swig_r = (bool)(C._wrap_aiMetadata_Get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_103(_swig_i_1), C.uintptr_t(_swig_i_2), C.uintptr_t(_swig_i_3)))
+	return swig_r
+}
+
+type AiMetadata interface {
+	Swigcptr() uintptr
+	SwigIsAiMetadata()
+	SetMNumProperties(arg2 uint)
+	GetMNumProperties() (_swig_ret uint)
+	SetMKeys(arg2 AiString)
+	GetMKeys() (_swig_ret AiString)
+	SetMValues(arg2 AiMetadataEntry)
+	GetMValues() (_swig_ret AiMetadataEntry)
+	Get(arg2 int64, arg3 AiString, arg4 AiMetadataEntry) (_swig_ret bool)
+}
+
+type AiPostProcessSteps int
+
+func _swig_getaiProcess_CalcTangentSpace() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_CalcTangentSpace_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_CalcTangentSpace AiPostProcessSteps = _swig_getaiProcess_CalcTangentSpace()
+
+func _swig_getaiProcess_JoinIdenticalVertices() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_JoinIdenticalVertices_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_JoinIdenticalVertices AiPostProcessSteps = _swig_getaiProcess_JoinIdenticalVertices()
+
+func _swig_getaiProcess_MakeLeftHanded() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_MakeLeftHanded_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_MakeLeftHanded AiPostProcessSteps = _swig_getaiProcess_MakeLeftHanded()
+
+func _swig_getaiProcess_Triangulate() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_Triangulate_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_Triangulate AiPostProcessSteps = _swig_getaiProcess_Triangulate()
+
+func _swig_getaiProcess_RemoveComponent() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_RemoveComponent_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_RemoveComponent AiPostProcessSteps = _swig_getaiProcess_RemoveComponent()
+
+func _swig_getaiProcess_GenNormals() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_GenNormals_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_GenNormals AiPostProcessSteps = _swig_getaiProcess_GenNormals()
+
+func _swig_getaiProcess_GenSmoothNormals() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_GenSmoothNormals_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_GenSmoothNormals AiPostProcessSteps = _swig_getaiProcess_GenSmoothNormals()
+
+func _swig_getaiProcess_SplitLargeMeshes() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_SplitLargeMeshes_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_SplitLargeMeshes AiPostProcessSteps = _swig_getaiProcess_SplitLargeMeshes()
+
+func _swig_getaiProcess_PreTransformVertices() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_PreTransformVertices_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_PreTransformVertices AiPostProcessSteps = _swig_getaiProcess_PreTransformVertices()
+
+func _swig_getaiProcess_LimitBoneWeights() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_LimitBoneWeights_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_LimitBoneWeights AiPostProcessSteps = _swig_getaiProcess_LimitBoneWeights()
+
+func _swig_getaiProcess_ValidateDataStructure() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_ValidateDataStructure_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_ValidateDataStructure AiPostProcessSteps = _swig_getaiProcess_ValidateDataStructure()
+
+func _swig_getaiProcess_ImproveCacheLocality() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_ImproveCacheLocality_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_ImproveCacheLocality AiPostProcessSteps = _swig_getaiProcess_ImproveCacheLocality()
+
+func _swig_getaiProcess_RemoveRedundantMaterials() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_RemoveRedundantMaterials_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_RemoveRedundantMaterials AiPostProcessSteps = _swig_getaiProcess_RemoveRedundantMaterials()
+
+func _swig_getaiProcess_FixInfacingNormals() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FixInfacingNormals_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FixInfacingNormals AiPostProcessSteps = _swig_getaiProcess_FixInfacingNormals()
+
+func _swig_getaiProcess_SortByPType() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_SortByPType_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_SortByPType AiPostProcessSteps = _swig_getaiProcess_SortByPType()
+
+func _swig_getaiProcess_FindDegenerates() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FindDegenerates_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FindDegenerates AiPostProcessSteps = _swig_getaiProcess_FindDegenerates()
+
+func _swig_getaiProcess_FindInvalidData() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FindInvalidData_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FindInvalidData AiPostProcessSteps = _swig_getaiProcess_FindInvalidData()
+
+func _swig_getaiProcess_GenUVCoords() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_GenUVCoords_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_GenUVCoords AiPostProcessSteps = _swig_getaiProcess_GenUVCoords()
+
+func _swig_getaiProcess_TransformUVCoords() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_TransformUVCoords_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_TransformUVCoords AiPostProcessSteps = _swig_getaiProcess_TransformUVCoords()
+
+func _swig_getaiProcess_FindInstances() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FindInstances_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FindInstances AiPostProcessSteps = _swig_getaiProcess_FindInstances()
+
+func _swig_getaiProcess_OptimizeMeshes() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_OptimizeMeshes_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_OptimizeMeshes AiPostProcessSteps = _swig_getaiProcess_OptimizeMeshes()
+
+func _swig_getaiProcess_OptimizeGraph() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_OptimizeGraph_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_OptimizeGraph AiPostProcessSteps = _swig_getaiProcess_OptimizeGraph()
+
+func _swig_getaiProcess_FlipUVs() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FlipUVs_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FlipUVs AiPostProcessSteps = _swig_getaiProcess_FlipUVs()
+
+func _swig_getaiProcess_FlipWindingOrder() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_FlipWindingOrder_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_FlipWindingOrder AiPostProcessSteps = _swig_getaiProcess_FlipWindingOrder()
+
+func _swig_getaiProcess_SplitByBoneCount() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_SplitByBoneCount_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_SplitByBoneCount AiPostProcessSteps = _swig_getaiProcess_SplitByBoneCount()
+
+func _swig_getaiProcess_Debone() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_Debone_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_Debone AiPostProcessSteps = _swig_getaiProcess_Debone()
+
+func _swig_getaiProcess_GlobalScale() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_GlobalScale_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_GlobalScale AiPostProcessSteps = _swig_getaiProcess_GlobalScale()
+
+func _swig_getaiProcess_EmbedTextures() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_EmbedTextures_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_EmbedTextures AiPostProcessSteps = _swig_getaiProcess_EmbedTextures()
+
+func _swig_getaiProcess_ForceGenNormals() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_ForceGenNormals_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_ForceGenNormals AiPostProcessSteps = _swig_getaiProcess_ForceGenNormals()
+
+func _swig_getaiProcess_DropNormals() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_DropNormals_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_DropNormals AiPostProcessSteps = _swig_getaiProcess_DropNormals()
+
+func _swig_getaiProcess_GenBoundingBoxes() (_swig_ret AiPostProcessSteps) {
+	var swig_r AiPostProcessSteps
+	swig_r = (AiPostProcessSteps)(C._wrap_aiProcess_GenBoundingBoxes_aig_ad8534e24299c30d())
+	return swig_r
+}
+
+var AiProcess_GenBoundingBoxes AiPostProcessSteps = _swig_getaiProcess_GenBoundingBoxes()
+
 const MAX_MEM_LEVEL int = 9
 const MAX_WBITS int = 15
 const SEEK_SET int = 0
@@ -2542,85 +7878,85 @@ func (p SwigcptrZ_stream) SwigIsZ_stream() {
 func (arg1 SwigcptrZ_stream) SetNext_in(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_next_in_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_z_stream_next_in_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetNext_in() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_z_stream_next_in_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_z_stream_next_in_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetAvail_in(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_avail_in_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_z_stream_avail_in_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetAvail_in() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_z_stream_avail_in_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_z_stream_avail_in_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetTotal_in(arg2 uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_total_in_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_27(_swig_i_1))
+	C._wrap_z_stream_total_in_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_104(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetTotal_in() (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_z_stream_total_in_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_z_stream_total_in_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetNext_out(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_next_out_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_z_stream_next_out_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetNext_out() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_z_stream_next_out_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_z_stream_next_out_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetAvail_out(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_avail_out_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_z_stream_avail_out_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetAvail_out() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_z_stream_avail_out_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_z_stream_avail_out_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetTotal_out(arg2 uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_total_out_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_29(_swig_i_1))
+	C._wrap_z_stream_total_out_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_106(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetTotal_out() (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_z_stream_total_out_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_z_stream_total_out_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetMsg(arg2 string) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_msg_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_31)(unsafe.Pointer(&_swig_i_1)))
+	C._wrap_z_stream_msg_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_108)(unsafe.Pointer(&_swig_i_1)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -2629,7 +7965,7 @@ func (arg1 SwigcptrZ_stream) SetMsg(arg2 string) {
 func (arg1 SwigcptrZ_stream) GetMsg() (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_z_stream_msg_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	swig_r_p := C._wrap_z_stream_msg_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -2639,103 +7975,103 @@ func (arg1 SwigcptrZ_stream) GetMsg() (_swig_ret string) {
 func (arg1 SwigcptrZ_stream) SetState(arg2 Internal_state) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_z_stream_state_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_z_stream_state_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetState() (_swig_ret Internal_state) {
 	var swig_r Internal_state
 	_swig_i_0 := arg1
-	swig_r = (Internal_state)(SwigcptrInternal_state(C._wrap_z_stream_state_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Internal_state)(SwigcptrInternal_state(C._wrap_z_stream_state_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetZalloc(arg2 _swig_fnptr) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_zalloc_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_33(_swig_i_1))
+	C._wrap_z_stream_zalloc_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_110(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetZalloc() (_swig_ret _swig_fnptr) {
 	var swig_r _swig_fnptr
 	_swig_i_0 := arg1
-	swig_r = (_swig_fnptr)(C._wrap_z_stream_zalloc_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (_swig_fnptr)(C._wrap_z_stream_zalloc_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetZfree(arg2 _swig_fnptr) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_zfree_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_35(_swig_i_1))
+	C._wrap_z_stream_zfree_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_112(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetZfree() (_swig_ret _swig_fnptr) {
 	var swig_r _swig_fnptr
 	_swig_i_0 := arg1
-	swig_r = (_swig_fnptr)(C._wrap_z_stream_zfree_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (_swig_fnptr)(C._wrap_z_stream_zfree_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetOpaque(arg2 uintptr) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_opaque_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_z_stream_opaque_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetOpaque() (_swig_ret uintptr) {
 	var swig_r uintptr
 	_swig_i_0 := arg1
-	swig_r = (uintptr)(C._wrap_z_stream_opaque_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uintptr)(C._wrap_z_stream_opaque_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetData_type(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_data_type_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_z_stream_data_type_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetData_type() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_z_stream_data_type_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_z_stream_data_type_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetAdler(arg2 uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_adler_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_37(_swig_i_1))
+	C._wrap_z_stream_adler_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_114(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetAdler() (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_z_stream_adler_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_z_stream_adler_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrZ_stream) SetReserved(arg2 uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_z_stream_reserved_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_39(_swig_i_1))
+	C._wrap_z_stream_reserved_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_116(_swig_i_1))
 }
 
 func (arg1 SwigcptrZ_stream) GetReserved() (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_z_stream_reserved_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_z_stream_reserved_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewZ_stream() (_swig_ret Z_stream) {
 	var swig_r Z_stream
-	swig_r = (Z_stream)(SwigcptrZ_stream(C._wrap_new_z_stream_aig_29567bba180e4e84()))
+	swig_r = (Z_stream)(SwigcptrZ_stream(C._wrap_new_z_stream_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteZ_stream(arg1 Z_stream) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_z_stream_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_z_stream_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type Z_stream interface {
@@ -2783,181 +8119,181 @@ func (p SwigcptrGz_header) SwigIsGz_header() {
 func (arg1 SwigcptrGz_header) SetText(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_text_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_text_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetText() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_gz_header_text_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gz_header_text_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetTime(arg2 uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_time_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_41(_swig_i_1))
+	C._wrap_gz_header_time_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_118(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetTime() (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_gz_header_time_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_gz_header_time_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetXflags(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_xflags_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_xflags_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetXflags() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_gz_header_xflags_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gz_header_xflags_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetOs(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_os_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_os_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetOs() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_gz_header_os_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gz_header_os_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetExtra(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_extra_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_gz_header_extra_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetExtra() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_gz_header_extra_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_gz_header_extra_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetExtra_len(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_extra_len_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_extra_len_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetExtra_len() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_gz_header_extra_len_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_gz_header_extra_len_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetExtra_max(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_extra_max_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_extra_max_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetExtra_max() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_gz_header_extra_max_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_gz_header_extra_max_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetName(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_name_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_gz_header_name_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetName() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_gz_header_name_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_gz_header_name_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetName_max(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_name_max_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_name_max_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetName_max() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_gz_header_name_max_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_gz_header_name_max_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetComment(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_comment_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_gz_header_comment_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetComment() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_gz_header_comment_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_gz_header_comment_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetComm_max(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_comm_max_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_comm_max_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetComm_max() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_gz_header_comm_max_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_gz_header_comm_max_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetHcrc(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_hcrc_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_hcrc_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetHcrc() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_gz_header_hcrc_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gz_header_hcrc_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGz_header) SetDone(arg2 int) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gz_header_done_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gz_header_done_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGz_header) GetDone() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_gz_header_done_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gz_header_done_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func NewGz_header() (_swig_ret Gz_header) {
 	var swig_r Gz_header
-	swig_r = (Gz_header)(SwigcptrGz_header(C._wrap_new_gz_header_aig_29567bba180e4e84()))
+	swig_r = (Gz_header)(SwigcptrGz_header(C._wrap_new_gz_header_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteGz_header(arg1 Gz_header) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_gz_header_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_gz_header_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type Gz_header interface {
@@ -3004,7 +8340,7 @@ const Z_NEED_DICT int = 2
 
 func _swig_getZ_ERRNO() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_ERRNO_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_ERRNO_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3012,7 +8348,7 @@ var Z_ERRNO int = _swig_getZ_ERRNO()
 
 func _swig_getZ_STREAM_ERROR() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_STREAM_ERROR_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_STREAM_ERROR_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3020,7 +8356,7 @@ var Z_STREAM_ERROR int = _swig_getZ_STREAM_ERROR()
 
 func _swig_getZ_DATA_ERROR() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_DATA_ERROR_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_DATA_ERROR_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3028,7 +8364,7 @@ var Z_DATA_ERROR int = _swig_getZ_DATA_ERROR()
 
 func _swig_getZ_MEM_ERROR() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_MEM_ERROR_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_MEM_ERROR_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3036,7 +8372,7 @@ var Z_MEM_ERROR int = _swig_getZ_MEM_ERROR()
 
 func _swig_getZ_BUF_ERROR() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_BUF_ERROR_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_BUF_ERROR_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3044,7 +8380,7 @@ var Z_BUF_ERROR int = _swig_getZ_BUF_ERROR()
 
 func _swig_getZ_VERSION_ERROR() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_VERSION_ERROR_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_VERSION_ERROR_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3056,7 +8392,7 @@ const Z_BEST_COMPRESSION int = 9
 
 func _swig_getZ_DEFAULT_COMPRESSION() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_Z_DEFAULT_COMPRESSION_aig_29567bba180e4e84())
+	swig_r = (int)(C._wrap_Z_DEFAULT_COMPRESSION_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3076,7 +8412,7 @@ const Z_NULL int = 0
 
 func ZlibVersion() (_swig_ret string) {
 	var swig_r string
-	swig_r_p := C._wrap_zlibVersion_aig_29567bba180e4e84()
+	swig_r_p := C._wrap_zlibVersion_aig_ad8534e24299c30d()
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -3087,14 +8423,14 @@ func Deflate(arg1 Z_stream, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_deflate_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_deflate_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func DeflateEnd(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_deflateEnd_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_deflateEnd_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3102,14 +8438,14 @@ func Inflate(arg1 Z_stream, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_inflate_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflate_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func InflateEnd(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateEnd_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateEnd_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3118,7 +8454,7 @@ func DeflateSetDictionary(arg1 Z_stream, arg2 *byte, arg3 uint) (_swig_ret int) 
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_deflateSetDictionary_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_deflateSetDictionary_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3127,7 +8463,7 @@ func DeflateGetDictionary(arg1 Z_stream, arg2 *byte, arg3 *uint) (_swig_ret int)
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_deflateGetDictionary_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
+	swig_r = (int)(C._wrap_deflateGetDictionary_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
 	return swig_r
 }
 
@@ -3135,14 +8471,14 @@ func DeflateCopy(arg1 Z_stream, arg2 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (int)(C._wrap_deflateCopy_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	swig_r = (int)(C._wrap_deflateCopy_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
 	return swig_r
 }
 
 func DeflateReset(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_deflateReset_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_deflateReset_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3151,7 +8487,7 @@ func DeflateParams(arg1 Z_stream, arg2 int, arg3 int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_deflateParams_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_deflateParams_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3162,7 +8498,7 @@ func DeflateTune(arg1 Z_stream, arg2 int, arg3 int, arg4 int, arg5 int) (_swig_r
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (int)(C._wrap_deflateTune_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4)))
+	swig_r = (int)(C._wrap_deflateTune_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4)))
 	return swig_r
 }
 
@@ -3170,7 +8506,7 @@ func DeflateBound(arg1 Z_stream, arg2 uint64) (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (uint64)(C._wrap_deflateBound_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_45(_swig_i_1)))
+	swig_r = (uint64)(C._wrap_deflateBound_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_122(_swig_i_1)))
 	return swig_r
 }
 
@@ -3179,7 +8515,7 @@ func DeflatePending(arg1 Z_stream, arg2 *uint, arg3 *int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_deflatePending_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
+	swig_r = (int)(C._wrap_deflatePending_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
 	return swig_r
 }
 
@@ -3188,7 +8524,7 @@ func DeflatePrime(arg1 Z_stream, arg2 int, arg3 int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_deflatePrime_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_deflatePrime_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3196,7 +8532,7 @@ func DeflateSetHeader(arg1 Z_stream, arg2 Gz_header) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (int)(C._wrap_deflateSetHeader_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	swig_r = (int)(C._wrap_deflateSetHeader_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
 	return swig_r
 }
 
@@ -3205,7 +8541,7 @@ func InflateSetDictionary(arg1 Z_stream, arg2 *byte, arg3 uint) (_swig_ret int) 
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_inflateSetDictionary_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_inflateSetDictionary_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3214,14 +8550,14 @@ func InflateGetDictionary(arg1 Z_stream, arg2 *byte, arg3 *uint) (_swig_ret int)
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_inflateGetDictionary_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
+	swig_r = (int)(C._wrap_inflateGetDictionary_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2)))
 	return swig_r
 }
 
 func InflateSync(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateSync_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateSync_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3229,14 +8565,14 @@ func InflateCopy(arg1 Z_stream, arg2 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (int)(C._wrap_inflateCopy_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflateCopy_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
 	return swig_r
 }
 
 func InflateReset(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateReset_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateReset_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3244,7 +8580,7 @@ func InflateReset2(arg1 Z_stream, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_inflateReset2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflateReset2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -3253,14 +8589,14 @@ func InflatePrime(arg1 Z_stream, arg2 int, arg3 int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_inflatePrime_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_inflatePrime_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
 func InflateMark(arg1 Z_stream) (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int64)(C._wrap_inflateMark_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_inflateMark_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3268,7 +8604,7 @@ func InflateGetHeader(arg1 Z_stream, arg2 Gz_header) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (int)(C._wrap_inflateGetHeader_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflateGetHeader_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
 	return swig_r
 }
 
@@ -3279,20 +8615,20 @@ func InflateBack(arg1 Z_stream, arg2 _swig_fnptr, arg3 uintptr, arg4 _swig_fnptr
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (int)(C._wrap_inflateBack_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_47(_swig_i_1), C.uintptr_t(_swig_i_2), C.swig_type_48(_swig_i_3), C.uintptr_t(_swig_i_4)))
+	swig_r = (int)(C._wrap_inflateBack_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_124(_swig_i_1), C.uintptr_t(_swig_i_2), C.swig_type_125(_swig_i_3), C.uintptr_t(_swig_i_4)))
 	return swig_r
 }
 
 func InflateBackEnd(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateBackEnd_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateBackEnd_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func ZlibCompileFlags() (_swig_ret uint64) {
 	var swig_r uint64
-	swig_r = (uint64)(C._wrap_zlibCompileFlags_aig_29567bba180e4e84())
+	swig_r = (uint64)(C._wrap_zlibCompileFlags_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3302,7 +8638,7 @@ func Compress(arg1 *byte, arg2 *uint64, arg3 *byte, arg4 uint64) (_swig_ret int)
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (int)(C._wrap_compress_aig_29567bba180e4e84(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_50(_swig_i_3)))
+	swig_r = (int)(C._wrap_compress_aig_ad8534e24299c30d(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_127(_swig_i_3)))
 	return swig_r
 }
 
@@ -3313,14 +8649,14 @@ func Compress2(arg1 *byte, arg2 *uint64, arg3 *byte, arg4 uint64, arg5 int) (_sw
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (int)(C._wrap_compress2_aig_29567bba180e4e84(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_51(_swig_i_3), C.swig_intgo(_swig_i_4)))
+	swig_r = (int)(C._wrap_compress2_aig_ad8534e24299c30d(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_128(_swig_i_3), C.swig_intgo(_swig_i_4)))
 	return swig_r
 }
 
 func CompressBound(arg1 uint64) (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1
-	swig_r = (uint64)(C._wrap_compressBound_aig_29567bba180e4e84(C.swig_type_53(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_compressBound_aig_ad8534e24299c30d(C.swig_type_130(_swig_i_0)))
 	return swig_r
 }
 
@@ -3330,7 +8666,7 @@ func Uncompress(arg1 *byte, arg2 *uint64, arg3 *byte, arg4 uint64) (_swig_ret in
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (int)(C._wrap_uncompress_aig_29567bba180e4e84(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_54(_swig_i_3)))
+	swig_r = (int)(C._wrap_uncompress_aig_ad8534e24299c30d(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_type_131(_swig_i_3)))
 	return swig_r
 }
 
@@ -3340,7 +8676,7 @@ func Uncompress2(arg1 *byte, arg2 *uint64, arg3 *byte, arg4 *uint64) (_swig_ret 
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (int)(C._wrap_uncompress2_aig_29567bba180e4e84(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_voidp(_swig_i_3)))
+	swig_r = (int)(C._wrap_uncompress2_aig_ad8534e24299c30d(C.swig_voidp(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_voidp(_swig_i_3)))
 	return swig_r
 }
 
@@ -3348,7 +8684,7 @@ func Gzdopen(arg1 int, arg2 string) (_swig_ret GzFile_s) {
 	var swig_r GzFile_s
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_gzdopen_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0), *(*C.swig_type_55)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_gzdopen_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0), *(*C.swig_type_132)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -3359,7 +8695,7 @@ func Gzbuffer(arg1 GzFile_s, arg2 uint) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_gzbuffer_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_gzbuffer_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -3368,7 +8704,7 @@ func Gzsetparams(arg1 GzFile_s, arg2 int, arg3 int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_gzsetparams_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_gzsetparams_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3377,7 +8713,7 @@ func Gzread(arg1 GzFile_s, arg2 uintptr, arg3 uint) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_gzread_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_gzread_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3387,7 +8723,7 @@ func Gzfread(arg1 uintptr, arg2 int64, arg3 int64, arg4 GzFile_s) (_swig_ret int
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4.Swigcptr()
-	swig_r = (int64)(C._wrap_gzfread_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_57(_swig_i_1), C.swig_type_58(_swig_i_2), C.uintptr_t(_swig_i_3)))
+	swig_r = (int64)(C._wrap_gzfread_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_134(_swig_i_1), C.swig_type_135(_swig_i_2), C.uintptr_t(_swig_i_3)))
 	return swig_r
 }
 
@@ -3396,7 +8732,7 @@ func Gzwrite(arg1 GzFile_s, arg2 uintptr, arg3 uint) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_gzwrite_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_gzwrite_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3406,7 +8742,7 @@ func Gzfwrite(arg1 uintptr, arg2 int64, arg3 int64, arg4 GzFile_s) (_swig_ret in
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4.Swigcptr()
-	swig_r = (int64)(C._wrap_gzfwrite_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_60(_swig_i_1), C.swig_type_61(_swig_i_2), C.uintptr_t(_swig_i_3)))
+	swig_r = (int64)(C._wrap_gzfwrite_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_137(_swig_i_1), C.swig_type_138(_swig_i_2), C.uintptr_t(_swig_i_3)))
 	return swig_r
 }
 
@@ -3414,7 +8750,7 @@ func Gzprintf(arg1 GzFile_s, arg2 string) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_gzprintf_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_62)(unsafe.Pointer(&_swig_i_1))))
+	swig_r = (int)(C._wrap_gzprintf_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_139)(unsafe.Pointer(&_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -3425,7 +8761,7 @@ func Gzputs(arg1 GzFile_s, arg2 string) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_gzputs_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_63)(unsafe.Pointer(&_swig_i_1))))
+	swig_r = (int)(C._wrap_gzputs_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_140)(unsafe.Pointer(&_swig_i_1))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -3437,7 +8773,7 @@ func Gzgets(arg1 GzFile_s, arg2 string, arg3 int) (_swig_ret string) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r_p := C._wrap_gzgets_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_65)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2))
+	swig_r_p := C._wrap_gzgets_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_142)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
@@ -3451,14 +8787,14 @@ func Gzputc(arg1 GzFile_s, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_gzputc_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_gzputc_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func Gzgetc(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzgetc_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzgetc_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3466,7 +8802,7 @@ func Gzungetc(arg1 int, arg2 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	swig_r = (int)(C._wrap_gzungetc_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	swig_r = (int)(C._wrap_gzungetc_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0), C.uintptr_t(_swig_i_1)))
 	return swig_r
 }
 
@@ -3474,49 +8810,49 @@ func Gzflush(arg1 GzFile_s, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_gzflush_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_gzflush_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func Gzrewind(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzrewind_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzrewind_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Gzeof(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzeof_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzeof_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Gzdirect(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzdirect_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzdirect_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Gzclose(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzclose_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzclose_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Gzclose_r(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzclose_r_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzclose_r_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Gzclose_w(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzclose_w_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzclose_w_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3524,7 +8860,7 @@ func Gzerror(arg1 GzFile_s, arg2 *int) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r_p := C._wrap_gzerror_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	swig_r_p := C._wrap_gzerror_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -3533,7 +8869,7 @@ func Gzerror(arg1 GzFile_s, arg2 *int) (_swig_ret string) {
 
 func Gzclearerr(arg1 GzFile_s) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_gzclearerr_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_gzclearerr_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func Adler32(arg1 uint64, arg2 *byte, arg3 uint) (_swig_ret uint64) {
@@ -3541,7 +8877,7 @@ func Adler32(arg1 uint64, arg2 *byte, arg3 uint) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (uint64)(C._wrap_adler32_aig_29567bba180e4e84(C.swig_type_68(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_adler32_aig_ad8534e24299c30d(C.swig_type_145(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3550,7 +8886,7 @@ func Adler32_z(arg1 uint64, arg2 *byte, arg3 int64) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (uint64)(C._wrap_adler32_z_aig_29567bba180e4e84(C.swig_type_70(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_type_71(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_adler32_z_aig_ad8534e24299c30d(C.swig_type_147(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_type_148(_swig_i_2)))
 	return swig_r
 }
 
@@ -3559,7 +8895,7 @@ func Crc32(arg1 uint64, arg2 *byte, arg3 uint) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (uint64)(C._wrap_crc32_aig_29567bba180e4e84(C.swig_type_73(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_crc32_aig_ad8534e24299c30d(C.swig_type_150(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
@@ -3568,7 +8904,7 @@ func Crc32_z(arg1 uint64, arg2 *byte, arg3 int64) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (uint64)(C._wrap_crc32_z_aig_29567bba180e4e84(C.swig_type_75(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_type_76(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_crc32_z_aig_ad8534e24299c30d(C.swig_type_152(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_type_153(_swig_i_2)))
 	return swig_r
 }
 
@@ -3578,7 +8914,7 @@ func DeflateInit_(arg1 Z_stream, arg2 int, arg3 string, arg4 int) (_swig_ret int
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (int)(C._wrap_deflateInit__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_77)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
+	swig_r = (int)(C._wrap_deflateInit__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_154)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -3590,7 +8926,7 @@ func InflateInit_(arg1 Z_stream, arg2 string, arg3 int) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_inflateInit__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_78)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_inflateInit__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_155)(unsafe.Pointer(&_swig_i_1)), C.swig_intgo(_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -3607,7 +8943,7 @@ func DeflateInit2_(arg1 Z_stream, arg2 int, arg3 int, arg4 int, arg5 int, arg6 i
 	_swig_i_5 := arg6
 	_swig_i_6 := arg7
 	_swig_i_7 := arg8
-	swig_r = (int)(C._wrap_deflateInit2__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5), *(*C.swig_type_79)(unsafe.Pointer(&_swig_i_6)), C.swig_intgo(_swig_i_7)))
+	swig_r = (int)(C._wrap_deflateInit2__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.swig_intgo(_swig_i_4), C.swig_intgo(_swig_i_5), *(*C.swig_type_156)(unsafe.Pointer(&_swig_i_6)), C.swig_intgo(_swig_i_7)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg7
 	}
@@ -3620,7 +8956,7 @@ func InflateInit2_(arg1 Z_stream, arg2 int, arg3 string, arg4 int) (_swig_ret in
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
-	swig_r = (int)(C._wrap_inflateInit2__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_80)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
+	swig_r = (int)(C._wrap_inflateInit2__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), *(*C.swig_type_157)(unsafe.Pointer(&_swig_i_2)), C.swig_intgo(_swig_i_3)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg3
 	}
@@ -3634,7 +8970,7 @@ func InflateBackInit_(arg1 Z_stream, arg2 int, arg3 *byte, arg4 string, arg5 int
 	_swig_i_2 := arg3
 	_swig_i_3 := arg4
 	_swig_i_4 := arg5
-	swig_r = (int)(C._wrap_inflateBackInit__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_voidp(_swig_i_2), *(*C.swig_type_81)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
+	swig_r = (int)(C._wrap_inflateBackInit__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_voidp(_swig_i_2), *(*C.swig_type_158)(unsafe.Pointer(&_swig_i_3)), C.swig_intgo(_swig_i_4)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg4
 	}
@@ -3653,51 +8989,51 @@ func (p SwigcptrGzFile_s) SwigIsGzFile_s() {
 func (arg1 SwigcptrGzFile_s) SetHave(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gzFile_s_have_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_gzFile_s_have_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrGzFile_s) GetHave() (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
-	swig_r = (uint)(C._wrap_gzFile_s_have_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint)(C._wrap_gzFile_s_have_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGzFile_s) SetNext(arg2 *byte) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_gzFile_s_next_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
+	C._wrap_gzFile_s_next_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1))
 }
 
 func (arg1 SwigcptrGzFile_s) GetNext() (_swig_ret *byte) {
 	var swig_r *byte
 	_swig_i_0 := arg1
-	swig_r = (*byte)(C._wrap_gzFile_s_next_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (*byte)(C._wrap_gzFile_s_next_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrGzFile_s) SetPos(arg2 Off_t) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_gzFile_s_pos_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_gzFile_s_pos_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrGzFile_s) GetPos() (_swig_ret Off_t) {
 	var swig_r Off_t
 	_swig_i_0 := arg1
-	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzFile_s_pos_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzFile_s_pos_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func NewGzFile_s() (_swig_ret GzFile_s) {
 	var swig_r GzFile_s
-	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_new_gzFile_s_aig_29567bba180e4e84()))
+	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_new_gzFile_s_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteGzFile_s(arg1 GzFile_s) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_gzFile_s_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_gzFile_s_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type GzFile_s interface {
@@ -3714,7 +9050,7 @@ type GzFile_s interface {
 func Gzgetc_(arg1 GzFile_s) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_gzgetc__aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_gzgetc__aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3722,7 +9058,7 @@ func Gzopen(arg1 string, arg2 string) (_swig_ret GzFile_s) {
 	var swig_r GzFile_s
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_gzopen_aig_29567bba180e4e84(*(*C.swig_type_82)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_83)(unsafe.Pointer(&_swig_i_1)))))
+	swig_r = (GzFile_s)(SwigcptrGzFile_s(C._wrap_gzopen_aig_ad8534e24299c30d(*(*C.swig_type_159)(unsafe.Pointer(&_swig_i_0)), *(*C.swig_type_160)(unsafe.Pointer(&_swig_i_1)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -3737,21 +9073,21 @@ func Gzseek(arg1 GzFile_s, arg2 Off_t, arg3 int) (_swig_ret Off_t) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2.Swigcptr()
 	_swig_i_2 := arg3
-	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzseek_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2))))
+	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzseek_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2))))
 	return swig_r
 }
 
 func Gztell(arg1 GzFile_s) (_swig_ret Off_t) {
 	var swig_r Off_t
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gztell_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gztell_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func Gzoffset(arg1 GzFile_s) (_swig_ret Off_t) {
 	var swig_r Off_t
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzoffset_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Off_t)(SwigcptrOff_t(C._wrap_gzoffset_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -3760,7 +9096,7 @@ func Adler32_combine(arg1 uint64, arg2 uint64, arg3 Off_t) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (uint64)(C._wrap_adler32_combine_aig_29567bba180e4e84(C.swig_type_85(_swig_i_0), C.swig_type_86(_swig_i_1), C.uintptr_t(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_adler32_combine_aig_ad8534e24299c30d(C.swig_type_162(_swig_i_0), C.swig_type_163(_swig_i_1), C.uintptr_t(_swig_i_2)))
 	return swig_r
 }
 
@@ -3769,14 +9105,14 @@ func Crc32_combine(arg1 uint64, arg2 uint64, arg3 Off_t) (_swig_ret uint64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (uint64)(C._wrap_crc32_combine_aig_29567bba180e4e84(C.swig_type_88(_swig_i_0), C.swig_type_89(_swig_i_1), C.uintptr_t(_swig_i_2)))
+	swig_r = (uint64)(C._wrap_crc32_combine_aig_ad8534e24299c30d(C.swig_type_165(_swig_i_0), C.swig_type_166(_swig_i_1), C.uintptr_t(_swig_i_2)))
 	return swig_r
 }
 
 func ZError(arg1 int) (_swig_ret string) {
 	var swig_r string
 	_swig_i_0 := arg1
-	swig_r_p := C._wrap_zError_aig_29567bba180e4e84(C.swig_intgo(_swig_i_0))
+	swig_r_p := C._wrap_zError_aig_ad8534e24299c30d(C.swig_intgo(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
 	swig_r_1 = swigCopyString(swig_r)
@@ -3786,13 +9122,13 @@ func ZError(arg1 int) (_swig_ret string) {
 func InflateSyncPoint(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateSyncPoint_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateSyncPoint_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func Get_crc_table() (_swig_ret *uint64) {
 	var swig_r *uint64
-	swig_r = (*uint64)(C._wrap_get_crc_table_aig_29567bba180e4e84())
+	swig_r = (*uint64)(C._wrap_get_crc_table_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3800,7 +9136,7 @@ func InflateUndermine(arg1 Z_stream, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_inflateUndermine_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflateUndermine_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -3808,28 +9144,28 @@ func InflateValidate(arg1 Z_stream, arg2 int) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	swig_r = (int)(C._wrap_inflateValidate_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (int)(C._wrap_inflateValidate_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
 func InflateCodesUsed(arg1 Z_stream) (_swig_ret uint64) {
 	var swig_r uint64
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (uint64)(C._wrap_inflateCodesUsed_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (uint64)(C._wrap_inflateCodesUsed_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func InflateResetKeep(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_inflateResetKeep_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_inflateResetKeep_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func DeflateResetKeep(arg1 Z_stream) (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (int)(C._wrap_deflateResetKeep_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_deflateResetKeep_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -3838,7 +9174,7 @@ func Gzvprintf(arg1 GzFile_s, arg2 string, arg3 Va_list) (_swig_ret int) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	swig_r = (int)(C._wrap_gzvprintf_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), *(*C.swig_type_92)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2)))
+	swig_r = (int)(C._wrap_gzvprintf_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), *(*C.swig_type_169)(unsafe.Pointer(&_swig_i_1)), C.uintptr_t(_swig_i_2)))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg2
 	}
@@ -3849,7 +9185,7 @@ type IrrIoETEXT_FORMAT int
 
 func _swig_getETF_ASCII() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_ASCII_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_ASCII_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3857,7 +9193,7 @@ var ETF_ASCII IrrIoETEXT_FORMAT = _swig_getETF_ASCII()
 
 func _swig_getETF_UTF8() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF8_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF8_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3865,7 +9201,7 @@ var ETF_UTF8 IrrIoETEXT_FORMAT = _swig_getETF_UTF8()
 
 func _swig_getETF_UTF16_BE() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF16_BE_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF16_BE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3873,7 +9209,7 @@ var ETF_UTF16_BE IrrIoETEXT_FORMAT = _swig_getETF_UTF16_BE()
 
 func _swig_getETF_UTF16_LE() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF16_LE_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF16_LE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3881,7 +9217,7 @@ var ETF_UTF16_LE IrrIoETEXT_FORMAT = _swig_getETF_UTF16_LE()
 
 func _swig_getETF_UTF32_BE() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF32_BE_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF32_BE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3889,7 +9225,7 @@ var ETF_UTF32_BE IrrIoETEXT_FORMAT = _swig_getETF_UTF32_BE()
 
 func _swig_getETF_UTF32_LE() (_swig_ret IrrIoETEXT_FORMAT) {
 	var swig_r IrrIoETEXT_FORMAT
-	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF32_LE_aig_29567bba180e4e84())
+	swig_r = (IrrIoETEXT_FORMAT)(C._wrap_ETF_UTF32_LE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3899,7 +9235,7 @@ type IrrIoEXML_NODE int
 
 func _swig_getEXN_NONE() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_NONE_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_NONE_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3907,7 +9243,7 @@ var EXN_NONE IrrIoEXML_NODE = _swig_getEXN_NONE()
 
 func _swig_getEXN_ELEMENT() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_ELEMENT_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_ELEMENT_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3915,7 +9251,7 @@ var EXN_ELEMENT IrrIoEXML_NODE = _swig_getEXN_ELEMENT()
 
 func _swig_getEXN_ELEMENT_END() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_ELEMENT_END_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_ELEMENT_END_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3923,7 +9259,7 @@ var EXN_ELEMENT_END IrrIoEXML_NODE = _swig_getEXN_ELEMENT_END()
 
 func _swig_getEXN_TEXT() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_TEXT_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_TEXT_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3931,7 +9267,7 @@ var EXN_TEXT IrrIoEXML_NODE = _swig_getEXN_TEXT()
 
 func _swig_getEXN_COMMENT() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_COMMENT_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_COMMENT_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3939,7 +9275,7 @@ var EXN_COMMENT IrrIoEXML_NODE = _swig_getEXN_COMMENT()
 
 func _swig_getEXN_CDATA() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_CDATA_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_CDATA_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3947,7 +9283,7 @@ var EXN_CDATA IrrIoEXML_NODE = _swig_getEXN_CDATA()
 
 func _swig_getEXN_UNKNOWN() (_swig_ret IrrIoEXML_NODE) {
 	var swig_r IrrIoEXML_NODE
-	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_UNKNOWN_aig_29567bba180e4e84())
+	swig_r = (IrrIoEXML_NODE)(C._wrap_EXN_UNKNOWN_aig_ad8534e24299c30d())
 	return swig_r
 }
 
@@ -3964,7 +9300,7 @@ func (p SwigcptrIFileReadCallBack) SwigIsIFileReadCallBack() {
 
 func DeleteIFileReadCallBack(arg1 IFileReadCallBack) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_IFileReadCallBack_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_IFileReadCallBack_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrIFileReadCallBack) Read(arg2 uintptr, arg3 int) (_swig_ret int) {
@@ -3972,14 +9308,14 @@ func (arg1 SwigcptrIFileReadCallBack) Read(arg2 uintptr, arg3 int) (_swig_ret in
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	swig_r = (int)(C._wrap_IFileReadCallBack_read_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
+	swig_r = (int)(C._wrap_IFileReadCallBack_read_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.swig_intgo(_swig_i_2)))
 	return swig_r
 }
 
 func (arg1 SwigcptrIFileReadCallBack) GetSize() (_swig_ret int) {
 	var swig_r int
 	_swig_i_0 := arg1
-	swig_r = (int)(C._wrap_IFileReadCallBack_getSize_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int)(C._wrap_IFileReadCallBack_getSize_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
@@ -4001,13 +9337,13 @@ func (p SwigcptrIXMLBase) SwigIsIXMLBase() {
 
 func NewIXMLBase() (_swig_ret IXMLBase) {
 	var swig_r IXMLBase
-	swig_r = (IXMLBase)(SwigcptrIXMLBase(C._wrap_new_IXMLBase_aig_29567bba180e4e84()))
+	swig_r = (IXMLBase)(SwigcptrIXMLBase(C._wrap_new_IXMLBase_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func DeleteIXMLBase(arg1 IXMLBase) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_IXMLBase_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_IXMLBase_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type IXMLBase interface {
@@ -4018,7 +9354,7 @@ type IXMLBase interface {
 func CreateIrrXMLReader__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1
-	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_0_aig_29567bba180e4e84(*(*C.swig_type_93)(unsafe.Pointer(&_swig_i_0)))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_0_aig_ad8534e24299c30d(*(*C.swig_type_170)(unsafe.Pointer(&_swig_i_0)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -4028,14 +9364,14 @@ func CreateIrrXMLReader__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReader_Sl_
 func CreateIrrXMLReader__SWIG_1(arg1 FILE) (_swig_ret Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func CreateIrrXMLReader__SWIG_2(arg1 IFileReadCallBack) (_swig_ret Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReader__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4064,7 +9400,7 @@ check_2:
 func CreateIrrXMLReaderUTF16__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_0_aig_29567bba180e4e84(*(*C.swig_type_94)(unsafe.Pointer(&_swig_i_0)))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_0_aig_ad8534e24299c30d(*(*C.swig_type_171)(unsafe.Pointer(&_swig_i_0)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -4074,14 +9410,14 @@ func CreateIrrXMLReaderUTF16__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReade
 func CreateIrrXMLReaderUTF16__SWIG_1(arg1 FILE) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func CreateIrrXMLReaderUTF16__SWIG_2(arg1 IFileReadCallBack) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF16__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4110,7 +9446,7 @@ check_2:
 func CreateIrrXMLReaderUTF32__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_0_aig_29567bba180e4e84(*(*C.swig_type_95)(unsafe.Pointer(&_swig_i_0)))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_0_aig_ad8534e24299c30d(*(*C.swig_type_172)(unsafe.Pointer(&_swig_i_0)))))
 	if Swig_escape_always_false {
 		Swig_escape_val = arg1
 	}
@@ -4120,14 +9456,14 @@ func CreateIrrXMLReaderUTF32__SWIG_0(arg1 string) (_swig_ret Irr_io_IIrrXMLReade
 func CreateIrrXMLReaderUTF32__SWIG_1(arg1 FILE) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_1_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
 func CreateIrrXMLReaderUTF32__SWIG_2(arg1 IFileReadCallBack) (_swig_ret Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_) {
 	var swig_r Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_)(SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_(C._wrap_createIrrXMLReaderUTF32__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4164,21 +9500,21 @@ func (p SwigcptrUintVector) SwigIsUintVector() {
 
 func NewUintVector__SWIG_0() (_swig_ret UintVector) {
 	var swig_r UintVector
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewUintVector__SWIG_1(arg1 int64) (_swig_ret UintVector) {
 	var swig_r UintVector
 	_swig_i_0 := arg1
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_96(_swig_i_0))))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_173(_swig_i_0))))
 	return swig_r
 }
 
 func NewUintVector__SWIG_2(arg1 UintVector) (_swig_ret UintVector) {
 	var swig_r UintVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (UintVector)(SwigcptrUintVector(C._wrap_new_UintVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4203,46 +9539,46 @@ check_2:
 func (arg1 SwigcptrUintVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_UintVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_UintVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrUintVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_UintVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_UintVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrUintVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_UintVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_99(_swig_i_1))
+	C._wrap_UintVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_176(_swig_i_1))
 }
 
 func (arg1 SwigcptrUintVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_UintVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_UintVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrUintVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_UintVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_UintVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrUintVector) Add(arg2 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_UintVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
+	C._wrap_UintVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))
 }
 
 func (arg1 SwigcptrUintVector) Get(arg2 int) (_swig_ret uint) {
 	var swig_r uint
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (uint)(C._wrap_UintVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
+	swig_r = (uint)(C._wrap_UintVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1)))
 	return swig_r
 }
 
@@ -4250,12 +9586,12 @@ func (arg1 SwigcptrUintVector) Set(arg2 int, arg3 uint) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3
-	C._wrap_UintVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2))
+	C._wrap_UintVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2))
 }
 
 func DeleteUintVector(arg1 UintVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_UintVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_UintVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type UintVector interface {
@@ -4282,21 +9618,21 @@ func (p SwigcptrAiAnimationVector) SwigIsAiAnimationVector() {
 
 func NewAiAnimationVector__SWIG_0() (_swig_ret AiAnimationVector) {
 	var swig_r AiAnimationVector
-	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiAnimationVector__SWIG_1(arg1 int64) (_swig_ret AiAnimationVector) {
 	var swig_r AiAnimationVector
 	_swig_i_0 := arg1
-	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_100(_swig_i_0))))
+	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_177(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiAnimationVector__SWIG_2(arg1 AiAnimationVector) (_swig_ret AiAnimationVector) {
 	var swig_r AiAnimationVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiAnimationVector)(SwigcptrAiAnimationVector(C._wrap_new_aiAnimationVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4321,46 +9657,46 @@ check_2:
 func (arg1 SwigcptrAiAnimationVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiAnimationVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiAnimationVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimationVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiAnimationVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiAnimationVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimationVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiAnimationVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_103(_swig_i_1))
+	C._wrap_aiAnimationVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_180(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimationVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiAnimationVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiAnimationVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimationVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiAnimationVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiAnimationVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiAnimationVector) Add(arg2 AiAnimation) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiAnimationVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiAnimationVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimationVector) Get(arg2 int) (_swig_ret AiAnimation) {
 	var swig_r AiAnimation
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiAnimation)(SwigcptrAiAnimation(C._wrap_aiAnimationVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiAnimation)(SwigcptrAiAnimation(C._wrap_aiAnimationVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -4368,12 +9704,12 @@ func (arg1 SwigcptrAiAnimationVector) Set(arg2 int, arg3 AiAnimation) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiAnimationVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiAnimationVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiAnimationVector(arg1 AiAnimationVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiAnimationVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiAnimationVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiAnimationVector interface {
@@ -4400,21 +9736,21 @@ func (p SwigcptrAiAnimMeshVector) SwigIsAiAnimMeshVector() {
 
 func NewAiAnimMeshVector__SWIG_0() (_swig_ret AiAnimMeshVector) {
 	var swig_r AiAnimMeshVector
-	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiAnimMeshVector__SWIG_1(arg1 int64) (_swig_ret AiAnimMeshVector) {
 	var swig_r AiAnimMeshVector
 	_swig_i_0 := arg1
-	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_104(_swig_i_0))))
+	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_181(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiAnimMeshVector__SWIG_2(arg1 AiAnimMeshVector) (_swig_ret AiAnimMeshVector) {
 	var swig_r AiAnimMeshVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiAnimMeshVector)(SwigcptrAiAnimMeshVector(C._wrap_new_aiAnimMeshVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4439,46 +9775,46 @@ check_2:
 func (arg1 SwigcptrAiAnimMeshVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiAnimMeshVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiAnimMeshVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiAnimMeshVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiAnimMeshVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiAnimMeshVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_107(_swig_i_1))
+	C._wrap_aiAnimMeshVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_184(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiAnimMeshVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiAnimMeshVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiAnimMeshVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiAnimMeshVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) Add(arg2 AiAnimMesh) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiAnimMeshVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiAnimMeshVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiAnimMeshVector) Get(arg2 int) (_swig_ret AiAnimMesh) {
 	var swig_r AiAnimMesh
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiAnimMesh)(SwigcptrAiAnimMesh(C._wrap_aiAnimMeshVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiAnimMesh)(SwigcptrAiAnimMesh(C._wrap_aiAnimMeshVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -4486,12 +9822,12 @@ func (arg1 SwigcptrAiAnimMeshVector) Set(arg2 int, arg3 AiAnimMesh) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiAnimMeshVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiAnimMeshVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiAnimMeshVector(arg1 AiAnimMeshVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiAnimMeshVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiAnimMeshVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiAnimMeshVector interface {
@@ -4518,21 +9854,21 @@ func (p SwigcptrAiBonesVector) SwigIsAiBonesVector() {
 
 func NewAiBonesVector__SWIG_0() (_swig_ret AiBonesVector) {
 	var swig_r AiBonesVector
-	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiBonesVector__SWIG_1(arg1 int64) (_swig_ret AiBonesVector) {
 	var swig_r AiBonesVector
 	_swig_i_0 := arg1
-	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_108(_swig_i_0))))
+	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_185(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiBonesVector__SWIG_2(arg1 AiBonesVector) (_swig_ret AiBonesVector) {
 	var swig_r AiBonesVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiBonesVector)(SwigcptrAiBonesVector(C._wrap_new_aiBonesVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4557,46 +9893,46 @@ check_2:
 func (arg1 SwigcptrAiBonesVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiBonesVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiBonesVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiBonesVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiBonesVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiBonesVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiBonesVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiBonesVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_111(_swig_i_1))
+	C._wrap_aiBonesVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_188(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiBonesVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiBonesVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiBonesVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiBonesVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiBonesVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiBonesVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiBonesVector) Add(arg2 AiBone) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiBonesVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiBonesVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiBonesVector) Get(arg2 int) (_swig_ret AiBone) {
 	var swig_r AiBone
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_aiBonesVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiBone)(SwigcptrAiBone(C._wrap_aiBonesVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -4604,12 +9940,12 @@ func (arg1 SwigcptrAiBonesVector) Set(arg2 int, arg3 AiBone) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiBonesVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiBonesVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiBonesVector(arg1 AiBonesVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiBonesVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiBonesVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiBonesVector interface {
@@ -4636,21 +9972,21 @@ func (p SwigcptrAiCameraVector) SwigIsAiCameraVector() {
 
 func NewAiCameraVector__SWIG_0() (_swig_ret AiCameraVector) {
 	var swig_r AiCameraVector
-	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiCameraVector__SWIG_1(arg1 int64) (_swig_ret AiCameraVector) {
 	var swig_r AiCameraVector
 	_swig_i_0 := arg1
-	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_112(_swig_i_0))))
+	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_189(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiCameraVector__SWIG_2(arg1 AiCameraVector) (_swig_ret AiCameraVector) {
 	var swig_r AiCameraVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiCameraVector)(SwigcptrAiCameraVector(C._wrap_new_aiCameraVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4675,46 +10011,46 @@ check_2:
 func (arg1 SwigcptrAiCameraVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiCameraVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiCameraVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiCameraVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiCameraVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiCameraVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiCameraVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiCameraVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_115(_swig_i_1))
+	C._wrap_aiCameraVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_192(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiCameraVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiCameraVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiCameraVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiCameraVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiCameraVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiCameraVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiCameraVector) Add(arg2 AiCamera) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiCameraVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiCameraVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiCameraVector) Get(arg2 int) (_swig_ret AiCamera) {
 	var swig_r AiCamera
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiCamera)(SwigcptrAiCamera(C._wrap_aiCameraVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiCamera)(SwigcptrAiCamera(C._wrap_aiCameraVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -4722,12 +10058,12 @@ func (arg1 SwigcptrAiCameraVector) Set(arg2 int, arg3 AiCamera) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiCameraVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiCameraVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiCameraVector(arg1 AiCameraVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiCameraVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiCameraVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiCameraVector interface {
@@ -4754,21 +10090,21 @@ func (p SwigcptrAiColor4DVector) SwigIsAiColor4DVector() {
 
 func NewAiColor4DVector__SWIG_0() (_swig_ret AiColor4DVector) {
 	var swig_r AiColor4DVector
-	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiColor4DVector__SWIG_1(arg1 int64) (_swig_ret AiColor4DVector) {
 	var swig_r AiColor4DVector
 	_swig_i_0 := arg1
-	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_116(_swig_i_0))))
+	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_193(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiColor4DVector__SWIG_2(arg1 AiColor4DVector) (_swig_ret AiColor4DVector) {
 	var swig_r AiColor4DVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_new_aiColor4DVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4793,59 +10129,59 @@ check_2:
 func (arg1 SwigcptrAiColor4DVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiColor4DVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiColor4DVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiColor4DVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiColor4DVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiColor4DVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_119(_swig_i_1))
+	C._wrap_aiColor4DVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_196(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiColor4DVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiColor4DVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiColor4DVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiColor4DVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiColor4DVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
-func (arg1 SwigcptrAiColor4DVector) Add(arg2 AiColor4D) {
+func (arg1 SwigcptrAiColor4DVector) Add(arg2 AiColor4t_Sl_float_Sg_) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiColor4DVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiColor4DVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
-func (arg1 SwigcptrAiColor4DVector) Get(arg2 int) (_swig_ret AiColor4D) {
-	var swig_r AiColor4D
+func (arg1 SwigcptrAiColor4DVector) Get(arg2 int) (_swig_ret AiColor4t_Sl_float_Sg_) {
+	var swig_r AiColor4t_Sl_float_Sg_
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiColor4D)(SwigcptrAiColor4D(C._wrap_aiColor4DVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiColor4t_Sl_float_Sg_)(SwigcptrAiColor4t_Sl_float_Sg_(C._wrap_aiColor4DVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
-func (arg1 SwigcptrAiColor4DVector) Set(arg2 int, arg3 AiColor4D) {
+func (arg1 SwigcptrAiColor4DVector) Set(arg2 int, arg3 AiColor4t_Sl_float_Sg_) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiColor4DVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiColor4DVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiColor4DVector(arg1 AiColor4DVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiColor4DVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiColor4DVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiColor4DVector interface {
@@ -4856,9 +10192,9 @@ type AiColor4DVector interface {
 	Reserve(arg2 int64)
 	IsEmpty() (_swig_ret bool)
 	Clear()
-	Add(arg2 AiColor4D)
-	Get(arg2 int) (_swig_ret AiColor4D)
-	Set(arg2 int, arg3 AiColor4D)
+	Add(arg2 AiColor4t_Sl_float_Sg_)
+	Get(arg2 int) (_swig_ret AiColor4t_Sl_float_Sg_)
+	Set(arg2 int, arg3 AiColor4t_Sl_float_Sg_)
 }
 
 type SwigcptrAiColor4DVectorVector uintptr
@@ -4872,21 +10208,21 @@ func (p SwigcptrAiColor4DVectorVector) SwigIsAiColor4DVectorVector() {
 
 func NewAiColor4DVectorVector__SWIG_0() (_swig_ret AiColor4DVectorVector) {
 	var swig_r AiColor4DVectorVector
-	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiColor4DVectorVector__SWIG_1(arg1 int64) (_swig_ret AiColor4DVectorVector) {
 	var swig_r AiColor4DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_120(_swig_i_0))))
+	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_197(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiColor4DVectorVector__SWIG_2(arg1 AiColor4DVectorVector) (_swig_ret AiColor4DVectorVector) {
 	var swig_r AiColor4DVectorVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiColor4DVectorVector)(SwigcptrAiColor4DVectorVector(C._wrap_new_aiColor4DVectorVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -4911,46 +10247,46 @@ check_2:
 func (arg1 SwigcptrAiColor4DVectorVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiColor4DVectorVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiColor4DVectorVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiColor4DVectorVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiColor4DVectorVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiColor4DVectorVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_123(_swig_i_1))
+	C._wrap_aiColor4DVectorVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_200(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiColor4DVectorVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiColor4DVectorVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiColor4DVectorVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiColor4DVectorVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) Add(arg2 AiColor4DVector) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiColor4DVectorVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiColor4DVectorVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiColor4DVectorVector) Get(arg2 int) (_swig_ret AiColor4DVector) {
 	var swig_r AiColor4DVector
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_aiColor4DVectorVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiColor4DVector)(SwigcptrAiColor4DVector(C._wrap_aiColor4DVectorVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -4958,12 +10294,12 @@ func (arg1 SwigcptrAiColor4DVectorVector) Set(arg2 int, arg3 AiColor4DVector) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiColor4DVectorVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiColor4DVectorVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiColor4DVectorVector(arg1 AiColor4DVectorVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiColor4DVectorVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiColor4DVectorVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiColor4DVectorVector interface {
@@ -4990,21 +10326,21 @@ func (p SwigcptrAiFaceVector) SwigIsAiFaceVector() {
 
 func NewAiFaceVector__SWIG_0() (_swig_ret AiFaceVector) {
 	var swig_r AiFaceVector
-	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiFaceVector__SWIG_1(arg1 int64) (_swig_ret AiFaceVector) {
 	var swig_r AiFaceVector
 	_swig_i_0 := arg1
-	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_124(_swig_i_0))))
+	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_201(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiFaceVector__SWIG_2(arg1 AiFaceVector) (_swig_ret AiFaceVector) {
 	var swig_r AiFaceVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiFaceVector)(SwigcptrAiFaceVector(C._wrap_new_aiFaceVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5029,46 +10365,46 @@ check_2:
 func (arg1 SwigcptrAiFaceVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiFaceVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiFaceVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiFaceVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiFaceVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiFaceVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiFaceVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiFaceVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_127(_swig_i_1))
+	C._wrap_aiFaceVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_204(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiFaceVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiFaceVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiFaceVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiFaceVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiFaceVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiFaceVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiFaceVector) Add(arg2 AiFace) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiFaceVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiFaceVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiFaceVector) Get(arg2 int) (_swig_ret AiFace) {
 	var swig_r AiFace
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_aiFaceVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiFace)(SwigcptrAiFace(C._wrap_aiFaceVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5076,12 +10412,12 @@ func (arg1 SwigcptrAiFaceVector) Set(arg2 int, arg3 AiFace) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiFaceVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiFaceVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiFaceVector(arg1 AiFaceVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiFaceVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiFaceVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiFaceVector interface {
@@ -5108,21 +10444,21 @@ func (p SwigcptrAiLightVector) SwigIsAiLightVector() {
 
 func NewAiLightVector__SWIG_0() (_swig_ret AiLightVector) {
 	var swig_r AiLightVector
-	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiLightVector__SWIG_1(arg1 int64) (_swig_ret AiLightVector) {
 	var swig_r AiLightVector
 	_swig_i_0 := arg1
-	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_128(_swig_i_0))))
+	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_205(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiLightVector__SWIG_2(arg1 AiLightVector) (_swig_ret AiLightVector) {
 	var swig_r AiLightVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiLightVector)(SwigcptrAiLightVector(C._wrap_new_aiLightVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5147,46 +10483,46 @@ check_2:
 func (arg1 SwigcptrAiLightVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiLightVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiLightVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiLightVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiLightVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiLightVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiLightVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiLightVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_131(_swig_i_1))
+	C._wrap_aiLightVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_208(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiLightVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiLightVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiLightVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiLightVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiLightVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiLightVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiLightVector) Add(arg2 AiLight) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiLightVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiLightVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiLightVector) Get(arg2 int) (_swig_ret AiLight) {
 	var swig_r AiLight
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiLight)(SwigcptrAiLight(C._wrap_aiLightVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiLight)(SwigcptrAiLight(C._wrap_aiLightVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5194,12 +10530,12 @@ func (arg1 SwigcptrAiLightVector) Set(arg2 int, arg3 AiLight) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiLightVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiLightVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiLightVector(arg1 AiLightVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiLightVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiLightVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiLightVector interface {
@@ -5226,21 +10562,21 @@ func (p SwigcptrAiMaterialVector) SwigIsAiMaterialVector() {
 
 func NewAiMaterialVector__SWIG_0() (_swig_ret AiMaterialVector) {
 	var swig_r AiMaterialVector
-	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiMaterialVector__SWIG_1(arg1 int64) (_swig_ret AiMaterialVector) {
 	var swig_r AiMaterialVector
 	_swig_i_0 := arg1
-	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_132(_swig_i_0))))
+	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_209(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiMaterialVector__SWIG_2(arg1 AiMaterialVector) (_swig_ret AiMaterialVector) {
 	var swig_r AiMaterialVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMaterialVector)(SwigcptrAiMaterialVector(C._wrap_new_aiMaterialVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5265,46 +10601,46 @@ check_2:
 func (arg1 SwigcptrAiMaterialVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMaterialVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMaterialVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMaterialVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMaterialVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMaterialVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_135(_swig_i_1))
+	C._wrap_aiMaterialVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_212(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMaterialVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMaterialVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMaterialVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiMaterialVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiMaterialVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiMaterialVector) Add(arg2 AiMaterial) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMaterialVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMaterialVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMaterialVector) Get(arg2 int) (_swig_ret AiMaterial) {
 	var swig_r AiMaterial
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiMaterial)(SwigcptrAiMaterial(C._wrap_aiMaterialVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiMaterial)(SwigcptrAiMaterial(C._wrap_aiMaterialVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5312,12 +10648,12 @@ func (arg1 SwigcptrAiMaterialVector) Set(arg2 int, arg3 AiMaterial) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiMaterialVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiMaterialVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiMaterialVector(arg1 AiMaterialVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiMaterialVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiMaterialVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiMaterialVector interface {
@@ -5344,21 +10680,21 @@ func (p SwigcptrAiMaterialPropertyVector) SwigIsAiMaterialPropertyVector() {
 
 func NewAiMaterialPropertyVector__SWIG_0() (_swig_ret AiMaterialPropertyVector) {
 	var swig_r AiMaterialPropertyVector
-	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiMaterialPropertyVector__SWIG_1(arg1 int64) (_swig_ret AiMaterialPropertyVector) {
 	var swig_r AiMaterialPropertyVector
 	_swig_i_0 := arg1
-	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_136(_swig_i_0))))
+	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_213(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiMaterialPropertyVector__SWIG_2(arg1 AiMaterialPropertyVector) (_swig_ret AiMaterialPropertyVector) {
 	var swig_r AiMaterialPropertyVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMaterialPropertyVector)(SwigcptrAiMaterialPropertyVector(C._wrap_new_aiMaterialPropertyVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5383,46 +10719,46 @@ check_2:
 func (arg1 SwigcptrAiMaterialPropertyVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMaterialPropertyVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMaterialPropertyVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMaterialPropertyVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMaterialPropertyVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMaterialPropertyVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_139(_swig_i_1))
+	C._wrap_aiMaterialPropertyVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_216(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMaterialPropertyVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMaterialPropertyVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiMaterialPropertyVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiMaterialPropertyVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) Add(arg2 AiMaterialProperty) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMaterialPropertyVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMaterialPropertyVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMaterialPropertyVector) Get(arg2 int) (_swig_ret AiMaterialProperty) {
 	var swig_r AiMaterialProperty
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiMaterialProperty)(SwigcptrAiMaterialProperty(C._wrap_aiMaterialPropertyVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiMaterialProperty)(SwigcptrAiMaterialProperty(C._wrap_aiMaterialPropertyVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5430,12 +10766,12 @@ func (arg1 SwigcptrAiMaterialPropertyVector) Set(arg2 int, arg3 AiMaterialProper
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiMaterialPropertyVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiMaterialPropertyVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiMaterialPropertyVector(arg1 AiMaterialPropertyVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiMaterialPropertyVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiMaterialPropertyVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiMaterialPropertyVector interface {
@@ -5462,21 +10798,21 @@ func (p SwigcptrAiMeshAnimVector) SwigIsAiMeshAnimVector() {
 
 func NewAiMeshAnimVector__SWIG_0() (_swig_ret AiMeshAnimVector) {
 	var swig_r AiMeshAnimVector
-	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiMeshAnimVector__SWIG_1(arg1 int64) (_swig_ret AiMeshAnimVector) {
 	var swig_r AiMeshAnimVector
 	_swig_i_0 := arg1
-	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_140(_swig_i_0))))
+	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_217(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiMeshAnimVector__SWIG_2(arg1 AiMeshAnimVector) (_swig_ret AiMeshAnimVector) {
 	var swig_r AiMeshAnimVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMeshAnimVector)(SwigcptrAiMeshAnimVector(C._wrap_new_aiMeshAnimVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5501,46 +10837,46 @@ check_2:
 func (arg1 SwigcptrAiMeshAnimVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMeshAnimVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMeshAnimVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMeshAnimVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMeshAnimVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMeshAnimVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_143(_swig_i_1))
+	C._wrap_aiMeshAnimVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_220(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMeshAnimVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMeshAnimVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiMeshAnimVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiMeshAnimVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) Add(arg2 AiMeshAnim) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMeshAnimVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMeshAnimVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMeshAnimVector) Get(arg2 int) (_swig_ret AiMeshAnim) {
 	var swig_r AiMeshAnim
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiMeshAnim)(SwigcptrAiMeshAnim(C._wrap_aiMeshAnimVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiMeshAnim)(SwigcptrAiMeshAnim(C._wrap_aiMeshAnimVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5548,12 +10884,12 @@ func (arg1 SwigcptrAiMeshAnimVector) Set(arg2 int, arg3 AiMeshAnim) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiMeshAnimVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiMeshAnimVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiMeshAnimVector(arg1 AiMeshAnimVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiMeshAnimVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiMeshAnimVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiMeshAnimVector interface {
@@ -5580,21 +10916,21 @@ func (p SwigcptrAiMeshVector) SwigIsAiMeshVector() {
 
 func NewAiMeshVector__SWIG_0() (_swig_ret AiMeshVector) {
 	var swig_r AiMeshVector
-	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiMeshVector__SWIG_1(arg1 int64) (_swig_ret AiMeshVector) {
 	var swig_r AiMeshVector
 	_swig_i_0 := arg1
-	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_144(_swig_i_0))))
+	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_221(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiMeshVector__SWIG_2(arg1 AiMeshVector) (_swig_ret AiMeshVector) {
 	var swig_r AiMeshVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiMeshVector)(SwigcptrAiMeshVector(C._wrap_new_aiMeshVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5619,46 +10955,46 @@ check_2:
 func (arg1 SwigcptrAiMeshVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMeshVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMeshVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiMeshVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiMeshVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiMeshVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_147(_swig_i_1))
+	C._wrap_aiMeshVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_224(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMeshVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiMeshVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiMeshVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiMeshVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiMeshVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiMeshVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiMeshVector) Add(arg2 AiMesh) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiMeshVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiMeshVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiMeshVector) Get(arg2 int) (_swig_ret AiMesh) {
 	var swig_r AiMesh
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiMesh)(SwigcptrAiMesh(C._wrap_aiMeshVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiMesh)(SwigcptrAiMesh(C._wrap_aiMeshVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5666,12 +11002,12 @@ func (arg1 SwigcptrAiMeshVector) Set(arg2 int, arg3 AiMesh) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiMeshVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiMeshVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiMeshVector(arg1 AiMeshVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiMeshVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiMeshVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiMeshVector interface {
@@ -5698,21 +11034,21 @@ func (p SwigcptrAiNodeVector) SwigIsAiNodeVector() {
 
 func NewAiNodeVector__SWIG_0() (_swig_ret AiNodeVector) {
 	var swig_r AiNodeVector
-	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiNodeVector__SWIG_1(arg1 int64) (_swig_ret AiNodeVector) {
 	var swig_r AiNodeVector
 	_swig_i_0 := arg1
-	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_148(_swig_i_0))))
+	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_225(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiNodeVector__SWIG_2(arg1 AiNodeVector) (_swig_ret AiNodeVector) {
 	var swig_r AiNodeVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiNodeVector)(SwigcptrAiNodeVector(C._wrap_new_aiNodeVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5737,46 +11073,46 @@ check_2:
 func (arg1 SwigcptrAiNodeVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiNodeVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiNodeVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiNodeVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiNodeVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiNodeVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_151(_swig_i_1))
+	C._wrap_aiNodeVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_228(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNodeVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiNodeVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiNodeVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiNodeVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiNodeVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiNodeVector) Add(arg2 AiNode) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNodeVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNodeVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNodeVector) Get(arg2 int) (_swig_ret AiNode) {
 	var swig_r AiNode
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNodeVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiNode)(SwigcptrAiNode(C._wrap_aiNodeVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5784,12 +11120,12 @@ func (arg1 SwigcptrAiNodeVector) Set(arg2 int, arg3 AiNode) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiNodeVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiNodeVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiNodeVector(arg1 AiNodeVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiNodeVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiNodeVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiNodeVector interface {
@@ -5816,21 +11152,21 @@ func (p SwigcptrAiNodeAnimVector) SwigIsAiNodeAnimVector() {
 
 func NewAiNodeAnimVector__SWIG_0() (_swig_ret AiNodeAnimVector) {
 	var swig_r AiNodeAnimVector
-	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiNodeAnimVector__SWIG_1(arg1 int64) (_swig_ret AiNodeAnimVector) {
 	var swig_r AiNodeAnimVector
 	_swig_i_0 := arg1
-	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_152(_swig_i_0))))
+	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_229(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiNodeAnimVector__SWIG_2(arg1 AiNodeAnimVector) (_swig_ret AiNodeAnimVector) {
 	var swig_r AiNodeAnimVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiNodeAnimVector)(SwigcptrAiNodeAnimVector(C._wrap_new_aiNodeAnimVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5855,46 +11191,46 @@ check_2:
 func (arg1 SwigcptrAiNodeAnimVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiNodeAnimVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiNodeAnimVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiNodeAnimVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiNodeAnimVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiNodeAnimVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_155(_swig_i_1))
+	C._wrap_aiNodeAnimVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_232(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiNodeAnimVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiNodeAnimVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiNodeAnimVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiNodeAnimVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) Add(arg2 AiNodeAnim) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiNodeAnimVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiNodeAnimVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiNodeAnimVector) Get(arg2 int) (_swig_ret AiNodeAnim) {
 	var swig_r AiNodeAnim
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiNodeAnim)(SwigcptrAiNodeAnim(C._wrap_aiNodeAnimVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiNodeAnim)(SwigcptrAiNodeAnim(C._wrap_aiNodeAnimVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -5902,12 +11238,12 @@ func (arg1 SwigcptrAiNodeAnimVector) Set(arg2 int, arg3 AiNodeAnim) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiNodeAnimVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiNodeAnimVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiNodeAnimVector(arg1 AiNodeAnimVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiNodeAnimVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiNodeAnimVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiNodeAnimVector interface {
@@ -5934,21 +11270,21 @@ func (p SwigcptrAiTextureVector) SwigIsAiTextureVector() {
 
 func NewAiTextureVector__SWIG_0() (_swig_ret AiTextureVector) {
 	var swig_r AiTextureVector
-	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiTextureVector__SWIG_1(arg1 int64) (_swig_ret AiTextureVector) {
 	var swig_r AiTextureVector
 	_swig_i_0 := arg1
-	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_156(_swig_i_0))))
+	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_233(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiTextureVector__SWIG_2(arg1 AiTextureVector) (_swig_ret AiTextureVector) {
 	var swig_r AiTextureVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiTextureVector)(SwigcptrAiTextureVector(C._wrap_new_aiTextureVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -5973,46 +11309,46 @@ check_2:
 func (arg1 SwigcptrAiTextureVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiTextureVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiTextureVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiTextureVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiTextureVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiTextureVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiTextureVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiTextureVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_159(_swig_i_1))
+	C._wrap_aiTextureVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_236(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiTextureVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiTextureVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiTextureVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiTextureVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiTextureVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiTextureVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiTextureVector) Add(arg2 AiTexture) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiTextureVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiTextureVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiTextureVector) Get(arg2 int) (_swig_ret AiTexture) {
 	var swig_r AiTexture
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiTexture)(SwigcptrAiTexture(C._wrap_aiTextureVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiTexture)(SwigcptrAiTexture(C._wrap_aiTextureVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -6020,12 +11356,12 @@ func (arg1 SwigcptrAiTextureVector) Set(arg2 int, arg3 AiTexture) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiTextureVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiTextureVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiTextureVector(arg1 AiTextureVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiTextureVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiTextureVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiTextureVector interface {
@@ -6052,21 +11388,21 @@ func (p SwigcptrAiVector3DVector) SwigIsAiVector3DVector() {
 
 func NewAiVector3DVector__SWIG_0() (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiVector3DVector__SWIG_1(arg1 int64) (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_160(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_237(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiVector3DVector__SWIG_2(arg1 AiVector3DVector) (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_new_aiVector3DVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -6091,46 +11427,46 @@ check_2:
 func (arg1 SwigcptrAiVector3DVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVector3DVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVector3DVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVector3DVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVector3DVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiVector3DVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_163(_swig_i_1))
+	C._wrap_aiVector3DVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_240(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVector3DVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiVector3DVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiVector3DVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiVector3DVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiVector3DVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiVector3DVector) Add(arg2 AiVector3D) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiVector3DVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiVector3DVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVector3DVector) Get(arg2 int) (_swig_ret AiVector3D) {
 	var swig_r AiVector3D
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVector3DVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVector3DVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -6138,12 +11474,12 @@ func (arg1 SwigcptrAiVector3DVector) Set(arg2 int, arg3 AiVector3D) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiVector3DVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiVector3DVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiVector3DVector(arg1 AiVector3DVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiVector3DVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiVector3DVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiVector3DVector interface {
@@ -6170,21 +11506,21 @@ func (p SwigcptrAiVector3DVectorVector) SwigIsAiVector3DVectorVector() {
 
 func NewAiVector3DVectorVector__SWIG_0() (_swig_ret AiVector3DVectorVector) {
 	var swig_r AiVector3DVectorVector
-	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiVector3DVectorVector__SWIG_1(arg1 int64) (_swig_ret AiVector3DVectorVector) {
 	var swig_r AiVector3DVectorVector
 	_swig_i_0 := arg1
-	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_164(_swig_i_0))))
+	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_241(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiVector3DVectorVector__SWIG_2(arg1 AiVector3DVectorVector) (_swig_ret AiVector3DVectorVector) {
 	var swig_r AiVector3DVectorVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVector3DVectorVector)(SwigcptrAiVector3DVectorVector(C._wrap_new_aiVector3DVectorVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -6209,46 +11545,46 @@ check_2:
 func (arg1 SwigcptrAiVector3DVectorVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVector3DVectorVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVector3DVectorVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVector3DVectorVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVector3DVectorVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiVector3DVectorVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_167(_swig_i_1))
+	C._wrap_aiVector3DVectorVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_244(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiVector3DVectorVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiVector3DVectorVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiVector3DVectorVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiVector3DVectorVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) Add(arg2 AiVector3DVector) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiVector3DVectorVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiVector3DVectorVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVector3DVectorVector) Get(arg2 int) (_swig_ret AiVector3DVector) {
 	var swig_r AiVector3DVector
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiVector3DVectorVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiVector3DVector)(SwigcptrAiVector3DVector(C._wrap_aiVector3DVectorVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -6256,12 +11592,12 @@ func (arg1 SwigcptrAiVector3DVectorVector) Set(arg2 int, arg3 AiVector3DVector) 
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiVector3DVectorVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiVector3DVectorVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiVector3DVectorVector(arg1 AiVector3DVectorVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiVector3DVectorVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiVector3DVectorVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiVector3DVectorVector interface {
@@ -6288,21 +11624,21 @@ func (p SwigcptrAiVertexWeightVector) SwigIsAiVertexWeightVector() {
 
 func NewAiVertexWeightVector__SWIG_0() (_swig_ret AiVertexWeightVector) {
 	var swig_r AiVertexWeightVector
-	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_0_aig_29567bba180e4e84()))
+	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_0_aig_ad8534e24299c30d()))
 	return swig_r
 }
 
 func NewAiVertexWeightVector__SWIG_1(arg1 int64) (_swig_ret AiVertexWeightVector) {
 	var swig_r AiVertexWeightVector
 	_swig_i_0 := arg1
-	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_1_aig_29567bba180e4e84(C.swig_type_168(_swig_i_0))))
+	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_1_aig_ad8534e24299c30d(C.swig_type_245(_swig_i_0))))
 	return swig_r
 }
 
 func NewAiVertexWeightVector__SWIG_2(arg1 AiVertexWeightVector) (_swig_ret AiVertexWeightVector) {
 	var swig_r AiVertexWeightVector
 	_swig_i_0 := arg1.Swigcptr()
-	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_2_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))))
+	swig_r = (AiVertexWeightVector)(SwigcptrAiVertexWeightVector(C._wrap_new_aiVertexWeightVector__SWIG_2_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
 	return swig_r
 }
 
@@ -6327,46 +11663,46 @@ check_2:
 func (arg1 SwigcptrAiVertexWeightVector) Size() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVertexWeightVector_size_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVertexWeightVector_size_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) Capacity() (_swig_ret int64) {
 	var swig_r int64
 	_swig_i_0 := arg1
-	swig_r = (int64)(C._wrap_aiVertexWeightVector_capacity_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (int64)(C._wrap_aiVertexWeightVector_capacity_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) Reserve(arg2 int64) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	C._wrap_aiVertexWeightVector_reserve_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_type_171(_swig_i_1))
+	C._wrap_aiVertexWeightVector_reserve_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_type_248(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) IsEmpty() (_swig_ret bool) {
 	var swig_r bool
 	_swig_i_0 := arg1
-	swig_r = (bool)(C._wrap_aiVertexWeightVector_isEmpty_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0)))
+	swig_r = (bool)(C._wrap_aiVertexWeightVector_isEmpty_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
 	return swig_r
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) Clear() {
 	_swig_i_0 := arg1
-	C._wrap_aiVertexWeightVector_clear_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_aiVertexWeightVector_clear_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) Add(arg2 AiVertexWeight) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2.Swigcptr()
-	C._wrap_aiVertexWeightVector_add_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
+	C._wrap_aiVertexWeightVector_add_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))
 }
 
 func (arg1 SwigcptrAiVertexWeightVector) Get(arg2 int) (_swig_ret AiVertexWeight) {
 	var swig_r AiVertexWeight
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_aiVertexWeightVector_get_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (AiVertexWeight)(SwigcptrAiVertexWeight(C._wrap_aiVertexWeightVector_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -6374,12 +11710,12 @@ func (arg1 SwigcptrAiVertexWeightVector) Set(arg2 int, arg3 AiVertexWeight) {
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
 	_swig_i_2 := arg3.Swigcptr()
-	C._wrap_aiVertexWeightVector_set_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
+	C._wrap_aiVertexWeightVector_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.swig_intgo(_swig_i_1), C.uintptr_t(_swig_i_2))
 }
 
 func DeleteAiVertexWeightVector(arg1 AiVertexWeightVector) {
 	_swig_i_0 := arg1.Swigcptr()
-	C._wrap_delete_aiVertexWeightVector_aig_29567bba180e4e84(C.uintptr_t(_swig_i_0))
+	C._wrap_delete_aiVertexWeightVector_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
 }
 
 type AiVertexWeightVector interface {
@@ -6395,69 +11731,373 @@ type AiVertexWeightVector interface {
 	Set(arg2 int, arg3 AiVertexWeight)
 }
 
-type AiDefaultLogStream int
-type AiReturn int
+type SwigcptrAiVector2D uintptr
 
-type SwigcptrInternal_state uintptr
-type Internal_state interface {
-	Swigcptr() uintptr
+func (p SwigcptrAiVector2D) Swigcptr() uintptr {
+	return (uintptr)(p)
 }
 
-func (p SwigcptrInternal_state) Swigcptr() uintptr {
-	return uintptr(p)
+func (p SwigcptrAiVector2D) SwigIsAiVector2D() {
+}
+
+func NewAiVector2D__SWIG_0() (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_new_aiVector2D__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiVector2D__SWIG_1(arg1 float32, arg2 float32) (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_new_aiVector2D__SWIG_1_aig_ad8534e24299c30d(C.float(_swig_i_0), C.float(_swig_i_1))))
+	return swig_r
+}
+
+func NewAiVector2D__SWIG_2(arg1 float32) (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_new_aiVector2D__SWIG_2_aig_ad8534e24299c30d(C.float(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiVector2D__SWIG_3(arg1 AiVector2D) (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_new_aiVector2D__SWIG_3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiVector2D(a ...interface{}) AiVector2D {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiVector2D__SWIG_0()
+	}
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiVector2D); !ok {
+			goto check_2
+		}
+		return NewAiVector2D__SWIG_3(a[0].(AiVector2D))
+	}
+check_2:
+	if argc == 1 {
+		return NewAiVector2D__SWIG_2(a[0].(float32))
+	}
+	if argc == 2 {
+		return NewAiVector2D__SWIG_1(a[0].(float32), a[1].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiVector2D) Set(arg2 float32, arg3 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	C._wrap_aiVector2D_Set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1), C.float(_swig_i_2))
+}
+
+func (arg1 SwigcptrAiVector2D) SquareLength() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector2D_SquareLength_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) Length() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector2D_Length_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) Normalize() (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_aiVector2D_Normalize_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) Equal__SWIG_0(arg2 AiVector2D, arg3 float32) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	swig_r = (bool)(C._wrap_aiVector2D_Equal__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.float(_swig_i_2)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) Equal__SWIG_1(arg2 AiVector2D) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (bool)(C._wrap_aiVector2D_Equal__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	return swig_r
+}
+
+func (p SwigcptrAiVector2D) Equal(a ...interface{}) bool {
+	argc := len(a)
+	if argc == 1 {
+		return p.Equal__SWIG_1(a[0].(AiVector2D))
+	}
+	if argc == 2 {
+		return p.Equal__SWIG_0(a[0].(AiVector2D), a[1].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiVector2D) SymMul(arg2 AiVector2D) (_swig_ret AiVector2D) {
+	var swig_r AiVector2D
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (AiVector2D)(SwigcptrAiVector2D(C._wrap_aiVector2D_SymMul_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) SetX(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVector2D_x_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVector2D) GetX() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector2D_x_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector2D) SetY(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVector2D_y_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVector2D) GetY() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector2D_y_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func DeleteAiVector2D(arg1 AiVector2D) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiVector2D_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiVector2D interface {
+	Swigcptr() uintptr
+	SwigIsAiVector2D()
+	Set(arg2 float32, arg3 float32)
+	SquareLength() (_swig_ret float32)
+	Length() (_swig_ret float32)
+	Normalize() (_swig_ret AiVector2D)
+	Equal(a ...interface{}) bool
+	SymMul(arg2 AiVector2D) (_swig_ret AiVector2D)
+	SetX(arg2 float32)
+	GetX() (_swig_ret float32)
+	SetY(arg2 float32)
+	GetY() (_swig_ret float32)
 }
 
 type SwigcptrAiVector3D uintptr
-type AiVector3D interface {
-	Swigcptr() uintptr
-}
 
 func (p SwigcptrAiVector3D) Swigcptr() uintptr {
-	return uintptr(p)
+	return (uintptr)(p)
 }
 
-type SwigcptrVa_list uintptr
-type Va_list interface {
+func (p SwigcptrAiVector3D) SwigIsAiVector3D() {
+}
+
+func NewAiVector3D__SWIG_0() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_new_aiVector3D__SWIG_0_aig_ad8534e24299c30d()))
+	return swig_r
+}
+
+func NewAiVector3D__SWIG_1(arg1 float32, arg2 float32, arg3 float32) (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_new_aiVector3D__SWIG_1_aig_ad8534e24299c30d(C.float(_swig_i_0), C.float(_swig_i_1), C.float(_swig_i_2))))
+	return swig_r
+}
+
+func NewAiVector3D__SWIG_2(arg1 float32) (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_new_aiVector3D__SWIG_2_aig_ad8534e24299c30d(C.float(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiVector3D__SWIG_3(arg1 AiVector3D) (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1.Swigcptr()
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_new_aiVector3D__SWIG_3_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func NewAiVector3D(a ...interface{}) AiVector3D {
+	argc := len(a)
+	if argc == 0 {
+		return NewAiVector3D__SWIG_0()
+	}
+	if argc == 1 {
+		if _, ok := a[0].(SwigcptrAiVector3D); !ok {
+			goto check_2
+		}
+		return NewAiVector3D__SWIG_3(a[0].(AiVector3D))
+	}
+check_2:
+	if argc == 1 {
+		return NewAiVector3D__SWIG_2(a[0].(float32))
+	}
+	if argc == 3 {
+		return NewAiVector3D__SWIG_1(a[0].(float32), a[1].(float32), a[2].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiVector3D) Equal__SWIG_0(arg2 AiVector3D, arg3 float32) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	_swig_i_2 := arg3
+	swig_r = (bool)(C._wrap_aiVector3D_Equal__SWIG_0_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1), C.float(_swig_i_2)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) Equal__SWIG_1(arg2 AiVector3D) (_swig_ret bool) {
+	var swig_r bool
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (bool)(C._wrap_aiVector3D_Equal__SWIG_1_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1)))
+	return swig_r
+}
+
+func (p SwigcptrAiVector3D) Equal(a ...interface{}) bool {
+	argc := len(a)
+	if argc == 1 {
+		return p.Equal__SWIG_1(a[0].(AiVector3D))
+	}
+	if argc == 2 {
+		return p.Equal__SWIG_0(a[0].(AiVector3D), a[1].(float32))
+	}
+	panic("No match for overloaded function call")
+}
+
+func (arg1 SwigcptrAiVector3D) Set(arg2 float32, arg3 float32, arg4 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	_swig_i_2 := arg3
+	_swig_i_3 := arg4
+	C._wrap_aiVector3D_Set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1), C.float(_swig_i_2), C.float(_swig_i_3))
+}
+
+func (arg1 SwigcptrAiVector3D) SquareLength() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector3D_SquareLength_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) Length() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector3D_Length_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) Normalize() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVector3D_Normalize_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) NormalizeSafe() (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVector3D_NormalizeSafe_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) SymMul(arg2 AiVector3D) (_swig_ret AiVector3D) {
+	var swig_r AiVector3D
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2.Swigcptr()
+	swig_r = (AiVector3D)(SwigcptrAiVector3D(C._wrap_aiVector3D_SymMul_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.uintptr_t(_swig_i_1))))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) SetX(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVector3D_x_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVector3D) GetX() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector3D_x_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) SetY(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVector3D_y_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVector3D) GetY() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector3D_y_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func (arg1 SwigcptrAiVector3D) SetZ(arg2 float32) {
+	_swig_i_0 := arg1
+	_swig_i_1 := arg2
+	C._wrap_aiVector3D_z_set_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+}
+
+func (arg1 SwigcptrAiVector3D) GetZ() (_swig_ret float32) {
+	var swig_r float32
+	_swig_i_0 := arg1
+	swig_r = (float32)(C._wrap_aiVector3D_z_get_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0)))
+	return swig_r
+}
+
+func DeleteAiVector3D(arg1 AiVector3D) {
+	_swig_i_0 := arg1.Swigcptr()
+	C._wrap_delete_aiVector3D_aig_ad8534e24299c30d(C.uintptr_t(_swig_i_0))
+}
+
+type AiVector3D interface {
+	Swigcptr() uintptr
+	SwigIsAiVector3D()
+	Equal(a ...interface{}) bool
+	Set(arg2 float32, arg3 float32, arg4 float32)
+	SquareLength() (_swig_ret float32)
+	Length() (_swig_ret float32)
+	Normalize() (_swig_ret AiVector3D)
+	NormalizeSafe() (_swig_ret AiVector3D)
+	SymMul(arg2 AiVector3D) (_swig_ret AiVector3D)
+	SetX(arg2 float32)
+	GetX() (_swig_ret float32)
+	SetY(arg2 float32)
+	GetY() (_swig_ret float32)
+	SetZ(arg2 float32)
+	GetZ() (_swig_ret float32)
+}
+
+type SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_ uintptr
+type Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_ interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrVa_list) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiColor4D uintptr
-type AiColor4D interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiColor4D) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiImporterDesc uintptr
-type AiImporterDesc interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiImporterDesc) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_ uintptr
-type Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_ interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrFILE uintptr
-type FILE interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrFILE) Swigcptr() uintptr {
+func (p SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
@@ -6470,93 +12110,39 @@ func (p SwigcptrIrr_io_IIrrXMLReader_Sl_char_Sc_irr_io_IXMLBase_Sg_) Swigcptr() 
 	return uintptr(p)
 }
 
-type SwigcptrAiTexture uintptr
-type AiTexture interface {
+type SwigcptrAiColor4t_Sl_float_Sg_ uintptr
+type AiColor4t_Sl_float_Sg_ interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiTexture) Swigcptr() uintptr {
+func (p SwigcptrAiColor4t_Sl_float_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAi_real uintptr
-type Ai_real interface {
+type SwigcptrAiImporterDesc uintptr
+type AiImporterDesc interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAi_real) Swigcptr() uintptr {
+func (p SwigcptrAiImporterDesc) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiMaterial uintptr
-type AiMaterial interface {
+type SwigcptrInt32_t uintptr
+type Int32_t interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiMaterial) Swigcptr() uintptr {
+func (p SwigcptrInt32_t) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiMeshAnim uintptr
-type AiMeshAnim interface {
+type SwigcptrUint32_t uintptr
+type Uint32_t interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiMeshAnim) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiMemoryInfo uintptr
-type AiMemoryInfo interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiMemoryInfo) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiAnimation uintptr
-type AiAnimation interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiAnimation) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiMatrix4x4 uintptr
-type AiMatrix4x4 interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiMatrix4x4) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiLight uintptr
-type AiLight interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiLight) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrOff_t uintptr
-type Off_t interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrOff_t) Swigcptr() uintptr {
-	return uintptr(p)
-}
-
-type SwigcptrAiCamera uintptr
-type AiCamera interface {
-	Swigcptr() uintptr
-}
-
-func (p SwigcptrAiCamera) Swigcptr() uintptr {
+func (p SwigcptrUint32_t) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
@@ -6569,39 +12155,39 @@ func (p SwigcptrAiAABB) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiMaterialProperty uintptr
-type AiMaterialProperty interface {
+type SwigcptrAiQuaternion uintptr
+type AiQuaternion interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiMaterialProperty) Swigcptr() uintptr {
+func (p SwigcptrAiQuaternion) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiNodeAnim uintptr
-type AiNodeAnim interface {
+type SwigcptrUint64_t uintptr
+type Uint64_t interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiNodeAnim) Swigcptr() uintptr {
+func (p SwigcptrUint64_t) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiString uintptr
-type AiString interface {
+type SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_ uintptr
+type Irr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_ interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiString) Swigcptr() uintptr {
+func (p SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_long_Sc_irr_io_IXMLBase_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiFileIO uintptr
-type AiFileIO interface {
+type SwigcptrAiMatrix4x4 uintptr
+type AiMatrix4x4 interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiFileIO) Swigcptr() uintptr {
+func (p SwigcptrAiMatrix4x4) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
@@ -6614,29 +12200,47 @@ func (p SwigcptrAiMatrix3x3) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_ uintptr
-type Irr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_ interface {
+type SwigcptrInternal_state uintptr
+type Internal_state interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrIrr_io_IIrrXMLReader_Sl_unsigned_SS_short_Sc_irr_io_IXMLBase_Sg_) Swigcptr() uintptr {
+func (p SwigcptrInternal_state) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiMetadata uintptr
-type AiMetadata interface {
+type SwigcptrOff_t uintptr
+type Off_t interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiMetadata) Swigcptr() uintptr {
+func (p SwigcptrOff_t) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
-type SwigcptrAiQuaternion uintptr
-type AiQuaternion interface {
+type SwigcptrFILE uintptr
+type FILE interface {
 	Swigcptr() uintptr
 }
 
-func (p SwigcptrAiQuaternion) Swigcptr() uintptr {
+func (p SwigcptrFILE) Swigcptr() uintptr {
+	return uintptr(p)
+}
+
+type SwigcptrVa_list uintptr
+type Va_list interface {
+	Swigcptr() uintptr
+}
+
+func (p SwigcptrVa_list) Swigcptr() uintptr {
+	return uintptr(p)
+}
+
+type SwigcptrAiFileIO uintptr
+type AiFileIO interface {
+	Swigcptr() uintptr
+}
+
+func (p SwigcptrAiFileIO) Swigcptr() uintptr {
 	return uintptr(p)
 }

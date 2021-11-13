@@ -1,6 +1,6 @@
 %module aig
 
-//NOTE: Add this above the 'C' package in aig_wrap.go `#cgo LDFLAGS: -L lib -l assimp`
+//NOTE: Add this above the 'C' package in aig_wrap.go `#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp`
 
 // SWIG helpers for std::string and std::vector wrapping.
 %include <std_string.i>
@@ -82,25 +82,40 @@
 %ignore CLASS::NAME;
 %enddef
 
+//We need these otherwise swig won't generate interfaces for these types correctly
+typedef float ai_real;
+typedef aiVector3t<ai_real> aiVector3D;
+typedef aiVector2t<ai_real> aiVector2D;
+
 %{
   #include "assimp/cimport.h"
   #include "assimp/scene.h"
   #include "assimp/mesh.h"
+  #include "assimp/vector2.h"
+  #include "assimp/vector3.h"
+  #include "assimp/Defines.h"
+  #include "assimp/color4.h"
+  #include "assimp/postprocess.h"
+  #include "assimp/types.h"
+  #include "assimp/texture.h"
+  #include "assimp/light.h"
+  #include "assimp/camera.h"
+  #include "assimp/material.h"
+  #include "assimp/anim.h"
+  #include "assimp/metadata.h"
   
   #include "zlib/zconf.h"
   #include "zlib/zlib.h"
 
   #include "irrxml/irrXML.h"
 
-  // #include "assimp/types.h"
-  // #include "assimp/texture.h"
-  // #include "assimp/light.h"
-  // #include "assimp/camera.h"
-  // #include "assimp/material.h"
-  // #include "assimp/anim.h"
-  // #include "assimp/metadata.h"
-  // #include "assimp/postprocess.h"
 %}
+
+//Features
+%feature("d:stripprefix", "aiProcess_") aiPostProcessSteps;
+
+//Ignores
+%ignore aiString::Set(const std::string& pString);
 
 //aiScene macros
 ASSIMP_ARRAY(aiScene, aiAnimation*, mAnimations, $self->mNumAnimations);
@@ -136,24 +151,39 @@ ASSIMP_POINTER_ARRAY(aiMesh, aiFace, mFaces, $self->mNumFaces);
 ASSIMP_POINTER_ARRAY_ARRAY(aiMesh, aiVector3D, mTextureCoords, AI_MAX_NUMBER_OF_TEXTURECOORDS, $self->mNumVertices);
 ASSIMP_POINTER_ARRAY_ARRAY(aiMesh, aiColor4D, mColors, AI_MAX_NUMBER_OF_COLOR_SETS, $self->mNumVertices);
 
+//Camera macros
+ASSIMP_ARRAY(aiMaterial, aiMaterialProperty*, mProperties, $self->mNumProperties)
+
+//Material settings
+%include <typemaps.i>
+%apply enum SWIGTYPE *OUTPUT { aiTextureMapping* mapping };
+%apply unsigned int *OUTPUT { unsigned int* uvindex };
+%apply float *OUTPUT { float* blend };
+%apply enum SWIGTYPE *OUTPUT { aiTextureOp* op };
+%apply unsigned int *OUTPUT { unsigned int* flags };
+
 //Final includes
 %include "assimp/cimport.h" // Plain-C interface
 %include "assimp/scene.h"   // Output data structure
 %include "assimp/mesh.h"
+%include "assimp/vector2.h"
+%include "assimp/vector3.h"
+%include "assimp/Defines.h"
+%include "assimp/color4.h"
+%include "assimp/types.h"
+%include "assimp/texture.h"
+%include "assimp/light.h"
+%include "assimp/camera.h"
+%include "assimp/material.h"
+%include "assimp/anim.h"
+%include "assimp/metadata.h"
+%include "assimp/postprocess.h"
 
 %include "zlib/zconf.h"
 %include "zlib/zlib.h"
 
 %include "irrxml/irrXML.h"
 
-// %include "assimp/types.h"
-// %include "assimp/texture.h"
-// %include "assimp/light.h"
-// %include "assimp/camera.h"
-// %include "assimp/material.h"
-// %include "assimp/anim.h"
-// %include "assimp/metadata.h"
-// %include "assimp/postprocess.h"
 
 // We have to "instantiate" the templates used by the ASSSIMP_*_ARRAY macros
 // here at the end to avoid running into forward reference issues (SWIG would
@@ -179,3 +209,23 @@ ASSIMP_POINTER_ARRAY_ARRAY(aiMesh, aiColor4D, mColors, AI_MAX_NUMBER_OF_COLOR_SE
 %template(aiVector3DVector) std::vector<aiVector3D *>;
 %template(aiVector3DVectorVector) std::vector<std::vector<aiVector3D *> >;
 %template(aiVertexWeightVector) std::vector<aiVertexWeight *>;
+%template(GetInteger) aiMaterial::Get<int>;
+%template(GetFloat) aiMaterial::Get<float>;
+%template(GetColor4D) aiMaterial::Get<aiColor4D>;
+%template(GetColor3D) aiMaterial::Get<aiColor3D>;
+%template(GetString) aiMaterial::Get<aiString>;
+%template(aiVector2D) aiVector2t<ai_real>;
+%template(aiVector3D) aiVector3t<ai_real>;
+
+//Material settings
+%clear unsigned int* flags;
+%clear aiTextureOp* op;
+%clear float *blend;
+%clear unsigned int* uvindex;
+%clear aiTextureMapping* mapping;
+
+%apply int &OUTPUT { int &pOut };
+%apply float &OUTPUT { float &pOut };
+
+%clear int &pOut;
+%clear float &pOut;

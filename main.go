@@ -13,7 +13,8 @@ func main() {
 
 	meshP := scene.MMeshes()
 	println(meshP.Size())
-	println(meshP.Get(0).MVertices().Get(0))
+	println(meshP.Get(0).GetMNumVertices())
+	println(meshP.Get(0).MVertices().Get(0).GetX())
 	// meshes := meshP
 
 	// println(meshes)
