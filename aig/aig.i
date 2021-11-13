@@ -1,6 +1,6 @@
 %module aig
 
-//NOTE: Add this above the 'C' package in aig_wrap.go `#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp`
+//NOTE: Add this above the 'C' package in aig_wrap.go `#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp` after generating
 
 // SWIG helpers for std::string and std::vector wrapping.
 %include <std_string.i>
@@ -192,7 +192,6 @@ ASSIMP_ARRAY(aiMaterial, aiMaterialProperty*, mProperties, $self->mNumProperties
 %include "zlib/zlib.h"
 
 %include "irrxml/irrXML.h"
-
 
 // We have to "instantiate" the templates used by the ASSSIMP_*_ARRAY macros
 // here at the end to avoid running into forward reference issues (SWIG would

@@ -13,8 +13,7 @@
 package aig
 
 /*
-#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp
-
+#cgo LDFLAGS: -L ./libs -l zlibstatic -l IrrXML -l assimp
 #define intgo swig_intgo
 typedef void *swig_voidp;
 

@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	scene := aig.AiImportFile("obj.obj", uint(aig.AiProcess_OptimizeMeshes))
+	scene := aig.AiImportFile("obj.obj", uint(0))
 	meshes := scene.MMeshes()
 
 	verts := meshes.Get(0).MVertices()
@@ -17,7 +17,7 @@ func main() {
 		fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
 	}
 
-	scene = aig.AiImportFile("obj.fbx", uint(aig.AiProcess_OptimizeMeshes))
+	scene = aig.AiImportFile("obj.fbx", uint(0))
 	meshes = scene.MMeshes()
 
 	verts = meshes.Get(0).MVertices()
