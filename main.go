@@ -1,29 +1,28 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/bloeys/assimp-go/aig"
 )
 
 func main() {
 
-	scene := aig.AiImportFile("obj.obj", 0)
+	scene := aig.AiImportFile("obj.obj", uint(aig.AiProcess_OptimizeMeshes))
+	meshes := scene.MMeshes()
 
-	meshNum := scene.GetMNumMeshes()
-	println("Count:", meshNum)
+	verts := meshes.Get(0).MVertices()
+	for i := 0; i < int(verts.Size()); i++ {
+		v := verts.Get(i)
+		fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
+	}
 
-	meshP := scene.MMeshes()
-	println(meshP.Size())
-	println(meshP.Get(0).GetMNumVertices())
-	println(meshP.Get(0).MVertices().Get(0).GetX())
-	// meshes := meshP
+	scene = aig.AiImportFile("obj.fbx", uint(aig.AiProcess_OptimizeMeshes))
+	meshes = scene.MMeshes()
 
-	// println(meshes)
-	// println("F:", (*meshes[0]).GetMNumFaces())
-	// println("UV:", (*meshes[0]).GetMNumUVComponents())
-	// println("Color:", (*meshes[0]).GetNumColorChannels())
-	// println("Vert:", (*meshes[0]).GetMNumVertices())
-
-	// println("===========")
-	// println("Vert:", meshes[0].Swig)
-
+	verts = meshes.Get(0).MVertices()
+	for i := 0; i < int(verts.Size()); i++ {
+		v := verts.Get(i)
+		fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
+	}
 }

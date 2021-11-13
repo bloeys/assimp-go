@@ -261,6 +261,8 @@ static void* Swig_malloc(int c) {
   #include "assimp/mesh.h"
   #include "assimp/vector2.h"
   #include "assimp/vector3.h"
+  #include "assimp/matrix3x3.h"
+  #include "assimp/matrix4x4.h"
   #include "assimp/Defines.h"
   #include "assimp/color4.h"
   #include "assimp/postprocess.h"
@@ -900,7 +902,7 @@ SWIGINTERN void std_vector_Sl_aiVertexWeight_Sm__Sg__set(std::vector< aiVertexWe
 extern "C" {
 #endif
 
-void _wrap_Swig_free_aig_ad8534e24299c30d(void *_swig_go_0) {
+void _wrap_Swig_free_aig_324a1309ed911fbd(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -910,7 +912,7 @@ void _wrap_Swig_free_aig_ad8534e24299c30d(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_aig_ad8534e24299c30d(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_aig_324a1309ed911fbd(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -923,7 +925,7 @@ void *_wrap_Swig_malloc_aig_ad8534e24299c30d(intgo _swig_go_0) {
 }
 
 
-void _wrap_aiLogStream_callback_set_aig_ad8534e24299c30d(aiLogStream *_swig_go_0, void* _swig_go_1) {
+void _wrap_aiLogStream_callback_set_aig_324a1309ed911fbd(aiLogStream *_swig_go_0, void* _swig_go_1) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   aiLogStreamCallback arg2 = (aiLogStreamCallback) 0 ;
   
@@ -935,7 +937,7 @@ void _wrap_aiLogStream_callback_set_aig_ad8534e24299c30d(aiLogStream *_swig_go_0
 }
 
 
-void* _wrap_aiLogStream_callback_get_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
+void* _wrap_aiLogStream_callback_get_aig_324a1309ed911fbd(aiLogStream *_swig_go_0) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   aiLogStreamCallback result;
   void* _swig_go_result;
@@ -948,7 +950,7 @@ void* _wrap_aiLogStream_callback_get_aig_ad8534e24299c30d(aiLogStream *_swig_go_
 }
 
 
-void _wrap_aiLogStream_user_set_aig_ad8534e24299c30d(aiLogStream *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiLogStream_user_set_aig_324a1309ed911fbd(aiLogStream *_swig_go_0, _gostring_ _swig_go_1) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -973,7 +975,7 @@ void _wrap_aiLogStream_user_set_aig_ad8534e24299c30d(aiLogStream *_swig_go_0, _g
 }
 
 
-_gostring_ _wrap_aiLogStream_user_get_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
+_gostring_ _wrap_aiLogStream_user_get_aig_324a1309ed911fbd(aiLogStream *_swig_go_0) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -986,7 +988,7 @@ _gostring_ _wrap_aiLogStream_user_get_aig_ad8534e24299c30d(aiLogStream *_swig_go
 }
 
 
-aiLogStream *_wrap_new_aiLogStream_aig_ad8534e24299c30d() {
+aiLogStream *_wrap_new_aiLogStream_aig_324a1309ed911fbd() {
   aiLogStream *result = 0 ;
   aiLogStream *_swig_go_result;
   
@@ -997,7 +999,7 @@ aiLogStream *_wrap_new_aiLogStream_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
+void _wrap_delete_aiLogStream_aig_324a1309ed911fbd(aiLogStream *_swig_go_0) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   
   arg1 = *(aiLogStream **)&_swig_go_0; 
@@ -1007,7 +1009,7 @@ void _wrap_delete_aiLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
 }
 
 
-void _wrap_aiPropertyStore_sentinel_set_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0, char _swig_go_1) {
+void _wrap_aiPropertyStore_sentinel_set_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0, char _swig_go_1) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char arg2 ;
   
@@ -1019,7 +1021,7 @@ void _wrap_aiPropertyStore_sentinel_set_aig_ad8534e24299c30d(aiPropertyStore *_s
 }
 
 
-char _wrap_aiPropertyStore_sentinel_get_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0) {
+char _wrap_aiPropertyStore_sentinel_get_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char result;
   char _swig_go_result;
@@ -1032,7 +1034,7 @@ char _wrap_aiPropertyStore_sentinel_get_aig_ad8534e24299c30d(aiPropertyStore *_s
 }
 
 
-aiPropertyStore *_wrap_new_aiPropertyStore_aig_ad8534e24299c30d() {
+aiPropertyStore *_wrap_new_aiPropertyStore_aig_324a1309ed911fbd() {
   aiPropertyStore *result = 0 ;
   aiPropertyStore *_swig_go_result;
   
@@ -1043,7 +1045,7 @@ aiPropertyStore *_wrap_new_aiPropertyStore_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiPropertyStore_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0) {
+void _wrap_delete_aiPropertyStore_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   
   arg1 = *(aiPropertyStore **)&_swig_go_0; 
@@ -1053,7 +1055,7 @@ void _wrap_delete_aiPropertyStore_aig_ad8534e24299c30d(aiPropertyStore *_swig_go
 }
 
 
-aiScene *_wrap_aiImportFile_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _swig_go_1) {
+aiScene *_wrap_aiImportFile_aig_324a1309ed911fbd(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   aiScene *result = 0 ;
@@ -1073,7 +1075,7 @@ aiScene *_wrap_aiImportFile_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _s
 }
 
 
-aiScene *_wrap_aiImportFileEx_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _swig_go_1, aiFileIO *_swig_go_2) {
+aiScene *_wrap_aiImportFileEx_aig_324a1309ed911fbd(_gostring_ _swig_go_0, intgo _swig_go_1, aiFileIO *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   aiFileIO *arg3 = (aiFileIO *) 0 ;
@@ -1095,7 +1097,7 @@ aiScene *_wrap_aiImportFileEx_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo 
 }
 
 
-aiScene *_wrap_aiImportFileExWithProperties_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _swig_go_1, aiFileIO *_swig_go_2, aiPropertyStore *_swig_go_3) {
+aiScene *_wrap_aiImportFileExWithProperties_aig_324a1309ed911fbd(_gostring_ _swig_go_0, intgo _swig_go_1, aiFileIO *_swig_go_2, aiPropertyStore *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   aiFileIO *arg3 = (aiFileIO *) 0 ;
@@ -1119,7 +1121,7 @@ aiScene *_wrap_aiImportFileExWithProperties_aig_ad8534e24299c30d(_gostring_ _swi
 }
 
 
-aiScene *_wrap_aiImportFileFromMemory_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+aiScene *_wrap_aiImportFileFromMemory_aig_324a1309ed911fbd(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -1148,7 +1150,7 @@ aiScene *_wrap_aiImportFileFromMemory_aig_ad8534e24299c30d(_gostring_ _swig_go_0
 }
 
 
-aiScene *_wrap_aiImportFileFromMemoryWithProperties_aig_ad8534e24299c30d(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, aiPropertyStore *_swig_go_4) {
+aiScene *_wrap_aiImportFileFromMemoryWithProperties_aig_324a1309ed911fbd(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, aiPropertyStore *_swig_go_4) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -1179,7 +1181,7 @@ aiScene *_wrap_aiImportFileFromMemoryWithProperties_aig_ad8534e24299c30d(_gostri
 }
 
 
-aiScene *_wrap_aiApplyPostProcessing_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+aiScene *_wrap_aiApplyPostProcessing_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   aiScene *result = 0 ;
@@ -1194,7 +1196,7 @@ aiScene *_wrap_aiApplyPostProcessing_aig_ad8534e24299c30d(aiScene *_swig_go_0, i
 }
 
 
-aiLogStream *_wrap_aiGetPredefinedLogStream_aig_ad8534e24299c30d(intgo _swig_go_0, _gostring_ _swig_go_1) {
+aiLogStream *_wrap_aiGetPredefinedLogStream_aig_324a1309ed911fbd(intgo _swig_go_0, _gostring_ _swig_go_1) {
   enum aiDefaultLogStream arg1 ;
   char *arg2 = (char *) 0 ;
   aiLogStream result;
@@ -1214,7 +1216,7 @@ aiLogStream *_wrap_aiGetPredefinedLogStream_aig_ad8534e24299c30d(intgo _swig_go_
 }
 
 
-void _wrap_aiAttachLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
+void _wrap_aiAttachLogStream_aig_324a1309ed911fbd(aiLogStream *_swig_go_0) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   
   arg1 = *(aiLogStream **)&_swig_go_0; 
@@ -1224,7 +1226,7 @@ void _wrap_aiAttachLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
 }
 
 
-void _wrap_aiEnableVerboseLogging_aig_ad8534e24299c30d(intgo _swig_go_0) {
+void _wrap_aiEnableVerboseLogging_aig_324a1309ed911fbd(intgo _swig_go_0) {
   aiBool arg1 ;
   
   arg1 = (aiBool)_swig_go_0; 
@@ -1234,7 +1236,7 @@ void _wrap_aiEnableVerboseLogging_aig_ad8534e24299c30d(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_aiDetachLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
+intgo _wrap_aiDetachLogStream_aig_324a1309ed911fbd(aiLogStream *_swig_go_0) {
   aiLogStream *arg1 = (aiLogStream *) 0 ;
   enum aiReturn result;
   intgo _swig_go_result;
@@ -1247,13 +1249,13 @@ intgo _wrap_aiDetachLogStream_aig_ad8534e24299c30d(aiLogStream *_swig_go_0) {
 }
 
 
-void _wrap_aiDetachAllLogStreams_aig_ad8534e24299c30d() {
+void _wrap_aiDetachAllLogStreams_aig_324a1309ed911fbd() {
   aiDetachAllLogStreams();
   
 }
 
 
-void _wrap_aiReleaseImport_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+void _wrap_aiReleaseImport_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   
   arg1 = *(aiScene **)&_swig_go_0; 
@@ -1263,7 +1265,7 @@ void _wrap_aiReleaseImport_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-_gostring_ _wrap_aiGetErrorString_aig_ad8534e24299c30d() {
+_gostring_ _wrap_aiGetErrorString_aig_324a1309ed911fbd() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -1274,7 +1276,7 @@ _gostring_ _wrap_aiGetErrorString_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiIsExtensionSupported_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+intgo _wrap_aiIsExtensionSupported_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   aiBool result;
   intgo _swig_go_result;
@@ -1292,7 +1294,7 @@ intgo _wrap_aiIsExtensionSupported_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_aiGetExtensionList_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+void _wrap_aiGetExtensionList_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   
   arg1 = *(aiString **)&_swig_go_0; 
@@ -1302,7 +1304,7 @@ void _wrap_aiGetExtensionList_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-void _wrap_aiGetMemoryRequirements_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiMemoryInfo *_swig_go_1) {
+void _wrap_aiGetMemoryRequirements_aig_324a1309ed911fbd(aiScene *_swig_go_0, aiMemoryInfo *_swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   aiMemoryInfo *arg2 = (aiMemoryInfo *) 0 ;
   
@@ -1314,7 +1316,7 @@ void _wrap_aiGetMemoryRequirements_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiM
 }
 
 
-aiPropertyStore *_wrap_aiCreatePropertyStore_aig_ad8534e24299c30d() {
+aiPropertyStore *_wrap_aiCreatePropertyStore_aig_324a1309ed911fbd() {
   aiPropertyStore *result = 0 ;
   aiPropertyStore *_swig_go_result;
   
@@ -1325,7 +1327,7 @@ aiPropertyStore *_wrap_aiCreatePropertyStore_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiReleasePropertyStore_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0) {
+void _wrap_aiReleasePropertyStore_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   
   arg1 = *(aiPropertyStore **)&_swig_go_0; 
@@ -1335,7 +1337,7 @@ void _wrap_aiReleasePropertyStore_aig_ad8534e24299c30d(aiPropertyStore *_swig_go
 }
 
 
-void _wrap_aiSetImportPropertyInteger_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
+void _wrap_aiSetImportPropertyInteger_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char *arg2 = (char *) 0 ;
   int arg3 ;
@@ -1354,7 +1356,7 @@ void _wrap_aiSetImportPropertyInteger_aig_ad8534e24299c30d(aiPropertyStore *_swi
 }
 
 
-void _wrap_aiSetImportPropertyFloat_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
+void _wrap_aiSetImportPropertyFloat_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char *arg2 = (char *) 0 ;
   ai_real arg3 ;
@@ -1373,7 +1375,7 @@ void _wrap_aiSetImportPropertyFloat_aig_ad8534e24299c30d(aiPropertyStore *_swig_
 }
 
 
-void _wrap_aiSetImportPropertyString_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, aiString *_swig_go_2) {
+void _wrap_aiSetImportPropertyString_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, aiString *_swig_go_2) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char *arg2 = (char *) 0 ;
   aiString *arg3 = (aiString *) 0 ;
@@ -1392,7 +1394,7 @@ void _wrap_aiSetImportPropertyString_aig_ad8534e24299c30d(aiPropertyStore *_swig
 }
 
 
-void _wrap_aiSetImportPropertyMatrix_aig_ad8534e24299c30d(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, aiMatrix4x4 *_swig_go_2) {
+void _wrap_aiSetImportPropertyMatrix_aig_324a1309ed911fbd(aiPropertyStore *_swig_go_0, _gostring_ _swig_go_1, aiMatrix4x4t< float > *_swig_go_2) {
   aiPropertyStore *arg1 = (aiPropertyStore *) 0 ;
   char *arg2 = (char *) 0 ;
   aiMatrix4x4 *arg3 = (aiMatrix4x4 *) 0 ;
@@ -1405,25 +1407,25 @@ void _wrap_aiSetImportPropertyMatrix_aig_ad8534e24299c30d(aiPropertyStore *_swig
   
   arg3 = *(aiMatrix4x4 **)&_swig_go_2; 
   
-  aiSetImportPropertyMatrix(arg1,(char const *)arg2,(aiMatrix4x4 const *)arg3);
+  aiSetImportPropertyMatrix(arg1,(char const *)arg2,(aiMatrix4x4t< float > const *)arg3);
   
   free(arg2); 
 }
 
 
-void _wrap_aiCreateQuaternionFromMatrix_aig_ad8534e24299c30d(aiQuaternion *_swig_go_0, aiMatrix3x3 *_swig_go_1) {
+void _wrap_aiCreateQuaternionFromMatrix_aig_324a1309ed911fbd(aiQuaternion *_swig_go_0, aiMatrix3x3t< float > *_swig_go_1) {
   aiQuaternion *arg1 = (aiQuaternion *) 0 ;
   aiMatrix3x3 *arg2 = (aiMatrix3x3 *) 0 ;
   
   arg1 = *(aiQuaternion **)&_swig_go_0; 
   arg2 = *(aiMatrix3x3 **)&_swig_go_1; 
   
-  aiCreateQuaternionFromMatrix(arg1,(aiMatrix3x3 const *)arg2);
+  aiCreateQuaternionFromMatrix(arg1,(aiMatrix3x3t< float > const *)arg2);
   
 }
 
 
-void _wrap_aiDecomposeMatrix_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0, aiVector3t< float > *_swig_go_1, aiQuaternion *_swig_go_2, aiVector3t< float > *_swig_go_3) {
+void _wrap_aiDecomposeMatrix_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiQuaternion *_swig_go_2, aiVector3t< float > *_swig_go_3) {
   aiMatrix4x4 *arg1 = (aiMatrix4x4 *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   aiQuaternion *arg3 = (aiQuaternion *) 0 ;
@@ -1434,12 +1436,12 @@ void _wrap_aiDecomposeMatrix_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0, aiVec
   arg3 = *(aiQuaternion **)&_swig_go_2; 
   arg4 = *(aiVector3D **)&_swig_go_3; 
   
-  aiDecomposeMatrix((aiMatrix4x4 const *)arg1,arg2,arg3,arg4);
+  aiDecomposeMatrix((aiMatrix4x4t< float > const *)arg1,arg2,arg3,arg4);
   
 }
 
 
-void _wrap_aiTransposeMatrix4_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0) {
+void _wrap_aiTransposeMatrix4_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
   aiMatrix4x4 *arg1 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiMatrix4x4 **)&_swig_go_0; 
@@ -1449,7 +1451,7 @@ void _wrap_aiTransposeMatrix4_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0) {
 }
 
 
-void _wrap_aiTransposeMatrix3_aig_ad8534e24299c30d(aiMatrix3x3 *_swig_go_0) {
+void _wrap_aiTransposeMatrix3_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
   aiMatrix3x3 *arg1 = (aiMatrix3x3 *) 0 ;
   
   arg1 = *(aiMatrix3x3 **)&_swig_go_0; 
@@ -1459,55 +1461,55 @@ void _wrap_aiTransposeMatrix3_aig_ad8534e24299c30d(aiMatrix3x3 *_swig_go_0) {
 }
 
 
-void _wrap_aiTransformVecByMatrix3_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiMatrix3x3 *_swig_go_1) {
+void _wrap_aiTransformVecByMatrix3_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiMatrix3x3t< float > *_swig_go_1) {
   aiVector3D *arg1 = (aiVector3D *) 0 ;
   aiMatrix3x3 *arg2 = (aiMatrix3x3 *) 0 ;
   
   arg1 = *(aiVector3D **)&_swig_go_0; 
   arg2 = *(aiMatrix3x3 **)&_swig_go_1; 
   
-  aiTransformVecByMatrix3(arg1,(aiMatrix3x3 const *)arg2);
+  aiTransformVecByMatrix3(arg1,(aiMatrix3x3t< float > const *)arg2);
   
 }
 
 
-void _wrap_aiTransformVecByMatrix4_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiMatrix4x4 *_swig_go_1) {
+void _wrap_aiTransformVecByMatrix4_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
   aiVector3D *arg1 = (aiVector3D *) 0 ;
   aiMatrix4x4 *arg2 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiVector3D **)&_swig_go_0; 
   arg2 = *(aiMatrix4x4 **)&_swig_go_1; 
   
-  aiTransformVecByMatrix4(arg1,(aiMatrix4x4 const *)arg2);
+  aiTransformVecByMatrix4(arg1,(aiMatrix4x4t< float > const *)arg2);
   
 }
 
 
-void _wrap_aiMultiplyMatrix4_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0, aiMatrix4x4 *_swig_go_1) {
+void _wrap_aiMultiplyMatrix4_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
   aiMatrix4x4 *arg1 = (aiMatrix4x4 *) 0 ;
   aiMatrix4x4 *arg2 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiMatrix4x4 **)&_swig_go_0; 
   arg2 = *(aiMatrix4x4 **)&_swig_go_1; 
   
-  aiMultiplyMatrix4(arg1,(aiMatrix4x4 const *)arg2);
+  aiMultiplyMatrix4(arg1,(aiMatrix4x4t< float > const *)arg2);
   
 }
 
 
-void _wrap_aiMultiplyMatrix3_aig_ad8534e24299c30d(aiMatrix3x3 *_swig_go_0, aiMatrix3x3 *_swig_go_1) {
+void _wrap_aiMultiplyMatrix3_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, aiMatrix3x3t< float > *_swig_go_1) {
   aiMatrix3x3 *arg1 = (aiMatrix3x3 *) 0 ;
   aiMatrix3x3 *arg2 = (aiMatrix3x3 *) 0 ;
   
   arg1 = *(aiMatrix3x3 **)&_swig_go_0; 
   arg2 = *(aiMatrix3x3 **)&_swig_go_1; 
   
-  aiMultiplyMatrix3(arg1,(aiMatrix3x3 const *)arg2);
+  aiMultiplyMatrix3(arg1,(aiMatrix3x3t< float > const *)arg2);
   
 }
 
 
-void _wrap_aiIdentityMatrix3_aig_ad8534e24299c30d(aiMatrix3x3 *_swig_go_0) {
+void _wrap_aiIdentityMatrix3_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
   aiMatrix3x3 *arg1 = (aiMatrix3x3 *) 0 ;
   
   arg1 = *(aiMatrix3x3 **)&_swig_go_0; 
@@ -1517,7 +1519,7 @@ void _wrap_aiIdentityMatrix3_aig_ad8534e24299c30d(aiMatrix3x3 *_swig_go_0) {
 }
 
 
-void _wrap_aiIdentityMatrix4_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0) {
+void _wrap_aiIdentityMatrix4_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
   aiMatrix4x4 *arg1 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiMatrix4x4 **)&_swig_go_0; 
@@ -1527,7 +1529,7 @@ void _wrap_aiIdentityMatrix4_aig_ad8534e24299c30d(aiMatrix4x4 *_swig_go_0) {
 }
 
 
-long long _wrap_aiGetImportFormatCount_aig_ad8534e24299c30d() {
+long long _wrap_aiGetImportFormatCount_aig_324a1309ed911fbd() {
   size_t result;
   long long _swig_go_result;
   
@@ -1538,7 +1540,7 @@ long long _wrap_aiGetImportFormatCount_aig_ad8534e24299c30d() {
 }
 
 
-aiImporterDesc *_wrap_aiGetImportFormatDescription_aig_ad8534e24299c30d(long long _swig_go_0) {
+aiImporterDesc *_wrap_aiGetImportFormatDescription_aig_324a1309ed911fbd(long long _swig_go_0) {
   size_t arg1 ;
   aiImporterDesc *result = 0 ;
   aiImporterDesc *_swig_go_result;
@@ -1551,7 +1553,7 @@ aiImporterDesc *_wrap_aiGetImportFormatDescription_aig_ad8534e24299c30d(long lon
 }
 
 
-void _wrap_aiNode_mName_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiNode_mName_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiString *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -1563,7 +1565,7 @@ void _wrap_aiNode_mName_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiString *_
 }
 
 
-aiString *_wrap_aiNode_mName_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+aiString *_wrap_aiNode_mName_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -1576,39 +1578,32 @@ aiString *_wrap_aiNode_mName_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
 }
 
 
-void _wrap_aiNode_mTransformation_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiMatrix4x4 *_swig_go_1) {
+void _wrap_aiNode_mTransformation_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
-  aiMatrix4x4 arg2 ;
-  aiMatrix4x4 *argp2 ;
+  aiMatrix4x4 *arg2 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiNode **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4 **)&_swig_go_1; 
   
-  argp2 = (aiMatrix4x4 *)_swig_go_1;
-  if (argp2 == NULL) {
-    _swig_gopanic("Attempt to dereference null aiMatrix4x4");
-  }
-  arg2 = (aiMatrix4x4)*argp2;
-  
-  
-  if (arg1) (arg1)->mTransformation = arg2;
+  if (arg1) (arg1)->mTransformation = *arg2;
   
 }
 
 
-aiMatrix4x4 *_wrap_aiNode_mTransformation_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+aiMatrix4x4t< float > *_wrap_aiNode_mTransformation_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
-  aiMatrix4x4 result;
-  aiMatrix4x4 *_swig_go_result;
+  aiMatrix4x4 *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
   
   arg1 = *(aiNode **)&_swig_go_0; 
   
-  result =  ((arg1)->mTransformation);
-  *(aiMatrix4x4 **)&_swig_go_result = new aiMatrix4x4(result); 
+  result = (aiMatrix4x4 *)& ((arg1)->mTransformation);
+  *(aiMatrix4x4 **)&_swig_go_result = (aiMatrix4x4 *)result; 
   return _swig_go_result;
 }
 
 
-void _wrap_aiNode_mParent_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiNode *_swig_go_1) {
+void _wrap_aiNode_mParent_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiNode *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiNode *arg2 = (aiNode *) 0 ;
   
@@ -1620,7 +1615,7 @@ void _wrap_aiNode_mParent_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiNode *_
 }
 
 
-aiNode *_wrap_aiNode_mParent_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+aiNode *_wrap_aiNode_mParent_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiNode *result = 0 ;
   aiNode *_swig_go_result;
@@ -1633,7 +1628,7 @@ aiNode *_wrap_aiNode_mParent_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
 }
 
 
-void _wrap_aiNode_mNumChildren_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNode_mNumChildren_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, intgo _swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   unsigned int arg2 ;
   
@@ -1645,7 +1640,7 @@ void _wrap_aiNode_mNumChildren_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiNode_mNumChildren_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+intgo _wrap_aiNode_mNumChildren_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1658,7 +1653,7 @@ intgo _wrap_aiNode_mNumChildren_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
 }
 
 
-void _wrap_aiNode_mNumMeshes_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNode_mNumMeshes_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, intgo _swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   unsigned int arg2 ;
   
@@ -1670,7 +1665,7 @@ void _wrap_aiNode_mNumMeshes_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, intgo 
 }
 
 
-intgo _wrap_aiNode_mNumMeshes_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+intgo _wrap_aiNode_mNumMeshes_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1683,7 +1678,7 @@ intgo _wrap_aiNode_mNumMeshes_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
 }
 
 
-void _wrap_aiNode_mMetaData_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiMetadata *_swig_go_1) {
+void _wrap_aiNode_mMetaData_set_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiMetadata *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiMetadata *arg2 = (aiMetadata *) 0 ;
   
@@ -1695,7 +1690,7 @@ void _wrap_aiNode_mMetaData_set_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiMetad
 }
 
 
-aiMetadata *_wrap_aiNode_mMetaData_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+aiMetadata *_wrap_aiNode_mMetaData_get_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiMetadata *result = 0 ;
   aiMetadata *_swig_go_result;
@@ -1708,7 +1703,7 @@ aiMetadata *_wrap_aiNode_mMetaData_get_aig_ad8534e24299c30d(aiNode *_swig_go_0) 
 }
 
 
-aiNode *_wrap_new_aiNode__SWIG_0_aig_ad8534e24299c30d() {
+aiNode *_wrap_new_aiNode__SWIG_0_aig_324a1309ed911fbd() {
   aiNode *result = 0 ;
   aiNode *_swig_go_result;
   
@@ -1719,7 +1714,7 @@ aiNode *_wrap_new_aiNode__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiNode *_wrap_new_aiNode__SWIG_1_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+aiNode *_wrap_new_aiNode__SWIG_1_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   std::string *arg1 = 0 ;
   aiNode *result = 0 ;
   aiNode *_swig_go_result;
@@ -1735,7 +1730,7 @@ aiNode *_wrap_new_aiNode__SWIG_1_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_delete_aiNode_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+void _wrap_delete_aiNode_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   
   arg1 = *(aiNode **)&_swig_go_0; 
@@ -1745,7 +1740,7 @@ void _wrap_delete_aiNode_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
 }
 
 
-aiNode *_wrap_aiNode_FindNode__SWIG_0_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiString *_swig_go_1) {
+aiNode *_wrap_aiNode_FindNode__SWIG_0_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiString *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiString *arg2 = 0 ;
   aiNode *result = 0 ;
@@ -1760,7 +1755,7 @@ aiNode *_wrap_aiNode_FindNode__SWIG_0_aig_ad8534e24299c30d(aiNode *_swig_go_0, a
 }
 
 
-aiNode *_wrap_aiNode_FindNode__SWIG_1_aig_ad8534e24299c30d(aiNode *_swig_go_0, aiString *_swig_go_1) {
+aiNode *_wrap_aiNode_FindNode__SWIG_1_aig_324a1309ed911fbd(aiNode *_swig_go_0, aiString *_swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   aiString *arg2 = 0 ;
   aiNode *result = 0 ;
@@ -1775,7 +1770,7 @@ aiNode *_wrap_aiNode_FindNode__SWIG_1_aig_ad8534e24299c30d(aiNode *_swig_go_0, a
 }
 
 
-aiNode *_wrap_aiNode_FindNode__SWIG_2_aig_ad8534e24299c30d(aiNode *_swig_go_0, _gostring_ _swig_go_1) {
+aiNode *_wrap_aiNode_FindNode__SWIG_2_aig_324a1309ed911fbd(aiNode *_swig_go_0, _gostring_ _swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   char *arg2 = (char *) 0 ;
   aiNode *result = 0 ;
@@ -1795,7 +1790,7 @@ aiNode *_wrap_aiNode_FindNode__SWIG_2_aig_ad8534e24299c30d(aiNode *_swig_go_0, _
 }
 
 
-aiNode *_wrap_aiNode_FindNode__SWIG_3_aig_ad8534e24299c30d(aiNode *_swig_go_0, _gostring_ _swig_go_1) {
+aiNode *_wrap_aiNode_FindNode__SWIG_3_aig_324a1309ed911fbd(aiNode *_swig_go_0, _gostring_ _swig_go_1) {
   aiNode *arg1 = (aiNode *) 0 ;
   char *arg2 = (char *) 0 ;
   aiNode *result = 0 ;
@@ -1815,7 +1810,7 @@ aiNode *_wrap_aiNode_FindNode__SWIG_3_aig_ad8534e24299c30d(aiNode *_swig_go_0, _
 }
 
 
-void _wrap_aiNode_addChildren_aig_ad8534e24299c30d(aiNode *_swig_go_0, intgo _swig_go_1, aiNode **_swig_go_2) {
+void _wrap_aiNode_addChildren_aig_324a1309ed911fbd(aiNode *_swig_go_0, intgo _swig_go_1, aiNode **_swig_go_2) {
   aiNode *arg1 = (aiNode *) 0 ;
   unsigned int arg2 ;
   aiNode **arg3 = (aiNode **) 0 ;
@@ -1829,7 +1824,7 @@ void _wrap_aiNode_addChildren_aig_ad8534e24299c30d(aiNode *_swig_go_0, intgo _sw
 }
 
 
-std::vector< aiNode * > *_wrap_aiNode_mChildren_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+std::vector< aiNode * > *_wrap_aiNode_mChildren_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   std::vector< aiNode * > *result = 0 ;
   std::vector< aiNode * > *_swig_go_result;
@@ -1842,7 +1837,7 @@ std::vector< aiNode * > *_wrap_aiNode_mChildren_aig_ad8534e24299c30d(aiNode *_sw
 }
 
 
-std::vector< unsigned int > *_wrap_aiNode_mMeshes_aig_ad8534e24299c30d(aiNode *_swig_go_0) {
+std::vector< unsigned int > *_wrap_aiNode_mMeshes_aig_324a1309ed911fbd(aiNode *_swig_go_0) {
   aiNode *arg1 = (aiNode *) 0 ;
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
@@ -1855,7 +1850,7 @@ std::vector< unsigned int > *_wrap_aiNode_mMeshes_aig_ad8534e24299c30d(aiNode *_
 }
 
 
-void _wrap_aiScene_mFlags_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mFlags_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -1867,7 +1862,7 @@ void _wrap_aiScene_mFlags_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _s
 }
 
 
-intgo _wrap_aiScene_mFlags_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mFlags_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1880,7 +1875,7 @@ intgo _wrap_aiScene_mFlags_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mRootNode_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiNode *_swig_go_1) {
+void _wrap_aiScene_mRootNode_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, aiNode *_swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   aiNode *arg2 = (aiNode *) 0 ;
   
@@ -1892,7 +1887,7 @@ void _wrap_aiScene_mRootNode_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiNod
 }
 
 
-aiNode *_wrap_aiScene_mRootNode_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+aiNode *_wrap_aiScene_mRootNode_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   aiNode *result = 0 ;
   aiNode *_swig_go_result;
@@ -1905,7 +1900,7 @@ aiNode *_wrap_aiScene_mRootNode_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mNumMeshes_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumMeshes_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -1917,7 +1912,7 @@ void _wrap_aiScene_mNumMeshes_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiScene_mNumMeshes_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumMeshes_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1930,7 +1925,7 @@ intgo _wrap_aiScene_mNumMeshes_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mNumMaterials_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumMaterials_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -1942,7 +1937,7 @@ void _wrap_aiScene_mNumMaterials_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, i
 }
 
 
-intgo _wrap_aiScene_mNumMaterials_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumMaterials_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1955,7 +1950,7 @@ intgo _wrap_aiScene_mNumMaterials_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) 
 }
 
 
-void _wrap_aiScene_mNumAnimations_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumAnimations_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -1967,7 +1962,7 @@ void _wrap_aiScene_mNumAnimations_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, 
 }
 
 
-intgo _wrap_aiScene_mNumAnimations_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumAnimations_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1980,7 +1975,7 @@ intgo _wrap_aiScene_mNumAnimations_get_aig_ad8534e24299c30d(aiScene *_swig_go_0)
 }
 
 
-void _wrap_aiScene_mNumTextures_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumTextures_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -1992,7 +1987,7 @@ void _wrap_aiScene_mNumTextures_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, in
 }
 
 
-intgo _wrap_aiScene_mNumTextures_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumTextures_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2005,7 +2000,7 @@ intgo _wrap_aiScene_mNumTextures_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mNumLights_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumLights_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -2017,7 +2012,7 @@ void _wrap_aiScene_mNumLights_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiScene_mNumLights_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumLights_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2030,7 +2025,7 @@ intgo _wrap_aiScene_mNumLights_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mNumCameras_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiScene_mNumCameras_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, intgo _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int arg2 ;
   
@@ -2042,7 +2037,7 @@ void _wrap_aiScene_mNumCameras_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, int
 }
 
 
-intgo _wrap_aiScene_mNumCameras_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+intgo _wrap_aiScene_mNumCameras_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2055,7 +2050,7 @@ intgo _wrap_aiScene_mNumCameras_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-void _wrap_aiScene_mMetaData_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiMetadata *_swig_go_1) {
+void _wrap_aiScene_mMetaData_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, aiMetadata *_swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   aiMetadata *arg2 = (aiMetadata *) 0 ;
   
@@ -2067,7 +2062,7 @@ void _wrap_aiScene_mMetaData_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, aiMet
 }
 
 
-aiMetadata *_wrap_aiScene_mMetaData_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+aiMetadata *_wrap_aiScene_mMetaData_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   aiMetadata *result = 0 ;
   aiMetadata *_swig_go_result;
@@ -2080,7 +2075,7 @@ aiMetadata *_wrap_aiScene_mMetaData_get_aig_ad8534e24299c30d(aiScene *_swig_go_0
 }
 
 
-aiScene *_wrap_new_aiScene_aig_ad8534e24299c30d() {
+aiScene *_wrap_new_aiScene_aig_324a1309ed911fbd() {
   aiScene *result = 0 ;
   aiScene *_swig_go_result;
   
@@ -2091,7 +2086,7 @@ aiScene *_wrap_new_aiScene_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiScene_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+void _wrap_delete_aiScene_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   
   arg1 = *(aiScene **)&_swig_go_0; 
@@ -2101,7 +2096,7 @@ void _wrap_delete_aiScene_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasMeshes_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasMeshes_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2114,7 +2109,7 @@ bool _wrap_aiScene_HasMeshes_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasMaterials_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasMaterials_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2127,7 +2122,7 @@ bool _wrap_aiScene_HasMaterials_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasLights_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasLights_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2140,7 +2135,7 @@ bool _wrap_aiScene_HasLights_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasTextures_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasTextures_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2153,7 +2148,7 @@ bool _wrap_aiScene_HasTextures_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasCameras_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasCameras_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2166,7 +2161,7 @@ bool _wrap_aiScene_HasCameras_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-bool _wrap_aiScene_HasAnimations_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+bool _wrap_aiScene_HasAnimations_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2179,7 +2174,7 @@ bool _wrap_aiScene_HasAnimations_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-_gostring_ _wrap_aiScene_GetShortFilename_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+_gostring_ _wrap_aiScene_GetShortFilename_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -2197,7 +2192,7 @@ _gostring_ _wrap_aiScene_GetShortFilename_aig_ad8534e24299c30d(_gostring_ _swig_
 }
 
 
-aiTexture *_wrap_aiScene_GetEmbeddedTexture_aig_ad8534e24299c30d(aiScene *_swig_go_0, _gostring_ _swig_go_1) {
+aiTexture *_wrap_aiScene_GetEmbeddedTexture_aig_324a1309ed911fbd(aiScene *_swig_go_0, _gostring_ _swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   char *arg2 = (char *) 0 ;
   aiTexture *result = 0 ;
@@ -2217,7 +2212,7 @@ aiTexture *_wrap_aiScene_GetEmbeddedTexture_aig_ad8534e24299c30d(aiScene *_swig_
 }
 
 
-void _wrap_aiScene_mPrivate_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, void *_swig_go_1) {
+void _wrap_aiScene_mPrivate_set_aig_324a1309ed911fbd(aiScene *_swig_go_0, void *_swig_go_1) {
   aiScene *arg1 = (aiScene *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -2229,7 +2224,7 @@ void _wrap_aiScene_mPrivate_set_aig_ad8534e24299c30d(aiScene *_swig_go_0, void *
 }
 
 
-void *_wrap_aiScene_mPrivate_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+void *_wrap_aiScene_mPrivate_get_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -2242,7 +2237,7 @@ void *_wrap_aiScene_mPrivate_get_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
 }
 
 
-std::vector< aiAnimation * > *_wrap_aiScene_mAnimations_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiAnimation * > *_wrap_aiScene_mAnimations_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiAnimation * > *result = 0 ;
   std::vector< aiAnimation * > *_swig_go_result;
@@ -2255,7 +2250,7 @@ std::vector< aiAnimation * > *_wrap_aiScene_mAnimations_aig_ad8534e24299c30d(aiS
 }
 
 
-std::vector< aiCamera * > *_wrap_aiScene_mCameras_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiCamera * > *_wrap_aiScene_mCameras_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiCamera * > *result = 0 ;
   std::vector< aiCamera * > *_swig_go_result;
@@ -2268,7 +2263,7 @@ std::vector< aiCamera * > *_wrap_aiScene_mCameras_aig_ad8534e24299c30d(aiScene *
 }
 
 
-std::vector< aiLight * > *_wrap_aiScene_mLights_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiLight * > *_wrap_aiScene_mLights_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiLight * > *result = 0 ;
   std::vector< aiLight * > *_swig_go_result;
@@ -2281,7 +2276,7 @@ std::vector< aiLight * > *_wrap_aiScene_mLights_aig_ad8534e24299c30d(aiScene *_s
 }
 
 
-std::vector< aiMaterial * > *_wrap_aiScene_mMaterials_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiMaterial * > *_wrap_aiScene_mMaterials_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiMaterial * > *result = 0 ;
   std::vector< aiMaterial * > *_swig_go_result;
@@ -2294,7 +2289,7 @@ std::vector< aiMaterial * > *_wrap_aiScene_mMaterials_aig_ad8534e24299c30d(aiSce
 }
 
 
-std::vector< aiMesh * > *_wrap_aiScene_mMeshes_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiMesh * > *_wrap_aiScene_mMeshes_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiMesh * > *result = 0 ;
   std::vector< aiMesh * > *_swig_go_result;
@@ -2307,7 +2302,7 @@ std::vector< aiMesh * > *_wrap_aiScene_mMeshes_aig_ad8534e24299c30d(aiScene *_sw
 }
 
 
-std::vector< aiTexture * > *_wrap_aiScene_mTextures_aig_ad8534e24299c30d(aiScene *_swig_go_0) {
+std::vector< aiTexture * > *_wrap_aiScene_mTextures_aig_324a1309ed911fbd(aiScene *_swig_go_0) {
   aiScene *arg1 = (aiScene *) 0 ;
   std::vector< aiTexture * > *result = 0 ;
   std::vector< aiTexture * > *_swig_go_result;
@@ -2320,7 +2315,7 @@ std::vector< aiTexture * > *_wrap_aiScene_mTextures_aig_ad8534e24299c30d(aiScene
 }
 
 
-void _wrap_aiFace_mNumIndices_set_aig_ad8534e24299c30d(aiFace *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiFace_mNumIndices_set_aig_324a1309ed911fbd(aiFace *_swig_go_0, intgo _swig_go_1) {
   aiFace *arg1 = (aiFace *) 0 ;
   unsigned int arg2 ;
   
@@ -2332,7 +2327,7 @@ void _wrap_aiFace_mNumIndices_set_aig_ad8534e24299c30d(aiFace *_swig_go_0, intgo
 }
 
 
-intgo _wrap_aiFace_mNumIndices_get_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
+intgo _wrap_aiFace_mNumIndices_get_aig_324a1309ed911fbd(aiFace *_swig_go_0) {
   aiFace *arg1 = (aiFace *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2345,7 +2340,7 @@ intgo _wrap_aiFace_mNumIndices_get_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
 }
 
 
-aiFace *_wrap_new_aiFace__SWIG_0_aig_ad8534e24299c30d() {
+aiFace *_wrap_new_aiFace__SWIG_0_aig_324a1309ed911fbd() {
   aiFace *result = 0 ;
   aiFace *_swig_go_result;
   
@@ -2356,7 +2351,7 @@ aiFace *_wrap_new_aiFace__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiFace_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
+void _wrap_delete_aiFace_aig_324a1309ed911fbd(aiFace *_swig_go_0) {
   aiFace *arg1 = (aiFace *) 0 ;
   
   arg1 = *(aiFace **)&_swig_go_0; 
@@ -2366,7 +2361,7 @@ void _wrap_delete_aiFace_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
 }
 
 
-aiFace *_wrap_new_aiFace__SWIG_1_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
+aiFace *_wrap_new_aiFace__SWIG_1_aig_324a1309ed911fbd(aiFace *_swig_go_0) {
   aiFace *arg1 = 0 ;
   aiFace *result = 0 ;
   aiFace *_swig_go_result;
@@ -2379,7 +2374,7 @@ aiFace *_wrap_new_aiFace__SWIG_1_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
 }
 
 
-std::vector< unsigned int > *_wrap_aiFace_mIndices_aig_ad8534e24299c30d(aiFace *_swig_go_0) {
+std::vector< unsigned int > *_wrap_aiFace_mIndices_aig_324a1309ed911fbd(aiFace *_swig_go_0) {
   aiFace *arg1 = (aiFace *) 0 ;
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
@@ -2392,7 +2387,7 @@ std::vector< unsigned int > *_wrap_aiFace_mIndices_aig_ad8534e24299c30d(aiFace *
 }
 
 
-void _wrap_aiVertexWeight_mVertexId_set_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiVertexWeight_mVertexId_set_aig_324a1309ed911fbd(aiVertexWeight *_swig_go_0, intgo _swig_go_1) {
   aiVertexWeight *arg1 = (aiVertexWeight *) 0 ;
   unsigned int arg2 ;
   
@@ -2404,7 +2399,7 @@ void _wrap_aiVertexWeight_mVertexId_set_aig_ad8534e24299c30d(aiVertexWeight *_sw
 }
 
 
-intgo _wrap_aiVertexWeight_mVertexId_get_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0) {
+intgo _wrap_aiVertexWeight_mVertexId_get_aig_324a1309ed911fbd(aiVertexWeight *_swig_go_0) {
   aiVertexWeight *arg1 = (aiVertexWeight *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2417,7 +2412,7 @@ intgo _wrap_aiVertexWeight_mVertexId_get_aig_ad8534e24299c30d(aiVertexWeight *_s
 }
 
 
-void _wrap_aiVertexWeight_mWeight_set_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVertexWeight_mWeight_set_aig_324a1309ed911fbd(aiVertexWeight *_swig_go_0, float _swig_go_1) {
   aiVertexWeight *arg1 = (aiVertexWeight *) 0 ;
   float arg2 ;
   
@@ -2429,7 +2424,7 @@ void _wrap_aiVertexWeight_mWeight_set_aig_ad8534e24299c30d(aiVertexWeight *_swig
 }
 
 
-float _wrap_aiVertexWeight_mWeight_get_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0) {
+float _wrap_aiVertexWeight_mWeight_get_aig_324a1309ed911fbd(aiVertexWeight *_swig_go_0) {
   aiVertexWeight *arg1 = (aiVertexWeight *) 0 ;
   float result;
   float _swig_go_result;
@@ -2442,7 +2437,7 @@ float _wrap_aiVertexWeight_mWeight_get_aig_ad8534e24299c30d(aiVertexWeight *_swi
 }
 
 
-aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_0_aig_ad8534e24299c30d() {
+aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_0_aig_324a1309ed911fbd() {
   aiVertexWeight *result = 0 ;
   aiVertexWeight *_swig_go_result;
   
@@ -2453,7 +2448,7 @@ aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_1_aig_ad8534e24299c30d(intgo _swig_go_0, float _swig_go_1) {
+aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_1_aig_324a1309ed911fbd(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   aiVertexWeight *result = 0 ;
@@ -2468,7 +2463,7 @@ aiVertexWeight *_wrap_new_aiVertexWeight__SWIG_1_aig_ad8534e24299c30d(intgo _swi
 }
 
 
-void _wrap_delete_aiVertexWeight_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0) {
+void _wrap_delete_aiVertexWeight_aig_324a1309ed911fbd(aiVertexWeight *_swig_go_0) {
   aiVertexWeight *arg1 = (aiVertexWeight *) 0 ;
   
   arg1 = *(aiVertexWeight **)&_swig_go_0; 
@@ -2478,7 +2473,7 @@ void _wrap_delete_aiVertexWeight_aig_ad8534e24299c30d(aiVertexWeight *_swig_go_0
 }
 
 
-void _wrap_aiBone_mName_set_aig_ad8534e24299c30d(aiBone *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiBone_mName_set_aig_324a1309ed911fbd(aiBone *_swig_go_0, aiString *_swig_go_1) {
   aiBone *arg1 = (aiBone *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -2490,7 +2485,7 @@ void _wrap_aiBone_mName_set_aig_ad8534e24299c30d(aiBone *_swig_go_0, aiString *_
 }
 
 
-aiString *_wrap_aiBone_mName_get_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+aiString *_wrap_aiBone_mName_get_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = (aiBone *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -2503,7 +2498,7 @@ aiString *_wrap_aiBone_mName_get_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
 }
 
 
-void _wrap_aiBone_mNumWeights_set_aig_ad8534e24299c30d(aiBone *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiBone_mNumWeights_set_aig_324a1309ed911fbd(aiBone *_swig_go_0, intgo _swig_go_1) {
   aiBone *arg1 = (aiBone *) 0 ;
   unsigned int arg2 ;
   
@@ -2515,7 +2510,7 @@ void _wrap_aiBone_mNumWeights_set_aig_ad8534e24299c30d(aiBone *_swig_go_0, intgo
 }
 
 
-intgo _wrap_aiBone_mNumWeights_get_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+intgo _wrap_aiBone_mNumWeights_get_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = (aiBone *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2528,39 +2523,32 @@ intgo _wrap_aiBone_mNumWeights_get_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
 }
 
 
-void _wrap_aiBone_mOffsetMatrix_set_aig_ad8534e24299c30d(aiBone *_swig_go_0, aiMatrix4x4 *_swig_go_1) {
+void _wrap_aiBone_mOffsetMatrix_set_aig_324a1309ed911fbd(aiBone *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
   aiBone *arg1 = (aiBone *) 0 ;
-  aiMatrix4x4 arg2 ;
-  aiMatrix4x4 *argp2 ;
+  aiMatrix4x4 *arg2 = (aiMatrix4x4 *) 0 ;
   
   arg1 = *(aiBone **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4 **)&_swig_go_1; 
   
-  argp2 = (aiMatrix4x4 *)_swig_go_1;
-  if (argp2 == NULL) {
-    _swig_gopanic("Attempt to dereference null aiMatrix4x4");
-  }
-  arg2 = (aiMatrix4x4)*argp2;
-  
-  
-  if (arg1) (arg1)->mOffsetMatrix = arg2;
+  if (arg1) (arg1)->mOffsetMatrix = *arg2;
   
 }
 
 
-aiMatrix4x4 *_wrap_aiBone_mOffsetMatrix_get_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+aiMatrix4x4t< float > *_wrap_aiBone_mOffsetMatrix_get_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = (aiBone *) 0 ;
-  aiMatrix4x4 result;
-  aiMatrix4x4 *_swig_go_result;
+  aiMatrix4x4 *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
   
   arg1 = *(aiBone **)&_swig_go_0; 
   
-  result =  ((arg1)->mOffsetMatrix);
-  *(aiMatrix4x4 **)&_swig_go_result = new aiMatrix4x4(result); 
+  result = (aiMatrix4x4 *)& ((arg1)->mOffsetMatrix);
+  *(aiMatrix4x4 **)&_swig_go_result = (aiMatrix4x4 *)result; 
   return _swig_go_result;
 }
 
 
-aiBone *_wrap_new_aiBone__SWIG_0_aig_ad8534e24299c30d() {
+aiBone *_wrap_new_aiBone__SWIG_0_aig_324a1309ed911fbd() {
   aiBone *result = 0 ;
   aiBone *_swig_go_result;
   
@@ -2571,7 +2559,7 @@ aiBone *_wrap_new_aiBone__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiBone *_wrap_new_aiBone__SWIG_1_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+aiBone *_wrap_new_aiBone__SWIG_1_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = 0 ;
   aiBone *result = 0 ;
   aiBone *_swig_go_result;
@@ -2584,7 +2572,7 @@ aiBone *_wrap_new_aiBone__SWIG_1_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
 }
 
 
-void _wrap_delete_aiBone_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+void _wrap_delete_aiBone_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = (aiBone *) 0 ;
   
   arg1 = *(aiBone **)&_swig_go_0; 
@@ -2594,7 +2582,7 @@ void _wrap_delete_aiBone_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
 }
 
 
-std::vector< aiVertexWeight * > *_wrap_aiBone_mWeights_aig_ad8534e24299c30d(aiBone *_swig_go_0) {
+std::vector< aiVertexWeight * > *_wrap_aiBone_mWeights_aig_324a1309ed911fbd(aiBone *_swig_go_0) {
   aiBone *arg1 = (aiBone *) 0 ;
   std::vector< aiVertexWeight * > *result = 0 ;
   std::vector< aiVertexWeight * > *_swig_go_result;
@@ -2607,7 +2595,7 @@ std::vector< aiVertexWeight * > *_wrap_aiBone_mWeights_aig_ad8534e24299c30d(aiBo
 }
 
 
-intgo _wrap_aiPrimitiveType_POINT_aig_ad8534e24299c30d() {
+intgo _wrap_aiPrimitiveType_POINT_aig_324a1309ed911fbd() {
   aiPrimitiveType result;
   intgo _swig_go_result;
   
@@ -2619,7 +2607,7 @@ intgo _wrap_aiPrimitiveType_POINT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPrimitiveType_LINE_aig_ad8534e24299c30d() {
+intgo _wrap_aiPrimitiveType_LINE_aig_324a1309ed911fbd() {
   aiPrimitiveType result;
   intgo _swig_go_result;
   
@@ -2631,7 +2619,7 @@ intgo _wrap_aiPrimitiveType_LINE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPrimitiveType_TRIANGLE_aig_ad8534e24299c30d() {
+intgo _wrap_aiPrimitiveType_TRIANGLE_aig_324a1309ed911fbd() {
   aiPrimitiveType result;
   intgo _swig_go_result;
   
@@ -2643,7 +2631,7 @@ intgo _wrap_aiPrimitiveType_TRIANGLE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPrimitiveType_POLYGON_aig_ad8534e24299c30d() {
+intgo _wrap_aiPrimitiveType_POLYGON_aig_324a1309ed911fbd() {
   aiPrimitiveType result;
   intgo _swig_go_result;
   
@@ -2655,7 +2643,7 @@ intgo _wrap_aiPrimitiveType_POLYGON_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiAnimMesh_mName_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiAnimMesh_mName_set_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0, aiString *_swig_go_1) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -2667,7 +2655,7 @@ void _wrap_aiAnimMesh_mName_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, aiS
 }
 
 
-aiString *_wrap_aiAnimMesh_mName_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+aiString *_wrap_aiAnimMesh_mName_get_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -2680,7 +2668,7 @@ aiString *_wrap_aiAnimMesh_mName_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0
 }
 
 
-void _wrap_aiAnimMesh_mNumVertices_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiAnimMesh_mNumVertices_set_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -2692,7 +2680,7 @@ void _wrap_aiAnimMesh_mNumVertices_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go
 }
 
 
-intgo _wrap_aiAnimMesh_mNumVertices_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+intgo _wrap_aiAnimMesh_mNumVertices_get_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2705,7 +2693,7 @@ intgo _wrap_aiAnimMesh_mNumVertices_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_g
 }
 
 
-void _wrap_aiAnimMesh_mWeight_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, float _swig_go_1) {
+void _wrap_aiAnimMesh_mWeight_set_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0, float _swig_go_1) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   float arg2 ;
   
@@ -2717,7 +2705,7 @@ void _wrap_aiAnimMesh_mWeight_set_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, f
 }
 
 
-float _wrap_aiAnimMesh_mWeight_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+float _wrap_aiAnimMesh_mWeight_get_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   float result;
   float _swig_go_result;
@@ -2730,7 +2718,7 @@ float _wrap_aiAnimMesh_mWeight_get_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) 
 }
 
 
-aiAnimMesh *_wrap_new_aiAnimMesh_aig_ad8534e24299c30d() {
+aiAnimMesh *_wrap_new_aiAnimMesh_aig_324a1309ed911fbd() {
   aiAnimMesh *result = 0 ;
   aiAnimMesh *_swig_go_result;
   
@@ -2741,7 +2729,7 @@ aiAnimMesh *_wrap_new_aiAnimMesh_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiAnimMesh_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+void _wrap_delete_aiAnimMesh_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   
   arg1 = *(aiAnimMesh **)&_swig_go_0; 
@@ -2751,7 +2739,7 @@ void _wrap_delete_aiAnimMesh_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiAnimMesh_HasPositions_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+bool _wrap_aiAnimMesh_HasPositions_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2764,7 +2752,7 @@ bool _wrap_aiAnimMesh_HasPositions_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) 
 }
 
 
-bool _wrap_aiAnimMesh_HasNormals_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+bool _wrap_aiAnimMesh_HasNormals_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2777,7 +2765,7 @@ bool _wrap_aiAnimMesh_HasNormals_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiAnimMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+bool _wrap_aiAnimMesh_HasTangentsAndBitangents_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2790,7 +2778,7 @@ bool _wrap_aiAnimMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(aiAnimMesh *
 }
 
 
-bool _wrap_aiAnimMesh_HasVertexColors_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
+bool _wrap_aiAnimMesh_HasVertexColors_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   unsigned int arg2 ;
   bool result;
@@ -2805,7 +2793,7 @@ bool _wrap_aiAnimMesh_HasVertexColors_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_
 }
 
 
-bool _wrap_aiAnimMesh_HasTextureCoords_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
+bool _wrap_aiAnimMesh_HasTextureCoords_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0, intgo _swig_go_1) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   unsigned int arg2 ;
   bool result;
@@ -2820,7 +2808,7 @@ bool _wrap_aiAnimMesh_HasTextureCoords_aig_ad8534e24299c30d(aiAnimMesh *_swig_go
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mVertices_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mVertices_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -2833,7 +2821,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mVertices_aig_ad8534e2429
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mNormals_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mNormals_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -2846,7 +2834,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mNormals_aig_ad8534e24299
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mTangents_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mTangents_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -2859,7 +2847,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mTangents_aig_ad8534e2429
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mBitangents_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mBitangents_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -2872,7 +2860,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiAnimMesh_mBitangents_aig_ad8534e24
 }
 
 
-std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiAnimMesh_mTextureCoords_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiAnimMesh_mTextureCoords_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< std::vector< aiVector3D * > > *result = 0 ;
   std::vector< std::vector< aiVector3t< float > * > > *_swig_go_result;
@@ -2885,7 +2873,7 @@ std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiAnimMesh_mTextureCo
 }
 
 
-std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiAnimMesh_mColors_aig_ad8534e24299c30d(aiAnimMesh *_swig_go_0) {
+std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiAnimMesh_mColors_aig_324a1309ed911fbd(aiAnimMesh *_swig_go_0) {
   aiAnimMesh *arg1 = (aiAnimMesh *) 0 ;
   std::vector< std::vector< aiColor4D * > > *result = 0 ;
   std::vector< std::vector< aiColor4t< float > * > > *_swig_go_result;
@@ -2898,7 +2886,7 @@ std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiAnimMesh_mColors_aig
 }
 
 
-intgo _wrap_aiMorphingMethod_VERTEX_BLEND_aig_ad8534e24299c30d() {
+intgo _wrap_aiMorphingMethod_VERTEX_BLEND_aig_324a1309ed911fbd() {
   aiMorphingMethod result;
   intgo _swig_go_result;
   
@@ -2910,7 +2898,7 @@ intgo _wrap_aiMorphingMethod_VERTEX_BLEND_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_ad8534e24299c30d() {
+intgo _wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_324a1309ed911fbd() {
   aiMorphingMethod result;
   intgo _swig_go_result;
   
@@ -2922,7 +2910,7 @@ intgo _wrap_aiMorphingMethod_MORPH_NORMALIZED_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiMorphingMethod_MORPH_RELATIVE_aig_ad8534e24299c30d() {
+intgo _wrap_aiMorphingMethod_MORPH_RELATIVE_aig_324a1309ed911fbd() {
   aiMorphingMethod result;
   intgo _swig_go_result;
   
@@ -2934,7 +2922,7 @@ intgo _wrap_aiMorphingMethod_MORPH_RELATIVE_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiMesh_mPrimitiveTypes_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mPrimitiveTypes_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -2946,7 +2934,7 @@ void _wrap_aiMesh_mPrimitiveTypes_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, i
 }
 
 
-intgo _wrap_aiMesh_mPrimitiveTypes_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mPrimitiveTypes_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2959,7 +2947,7 @@ intgo _wrap_aiMesh_mPrimitiveTypes_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) 
 }
 
 
-void _wrap_aiMesh_mNumVertices_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mNumVertices_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -2971,7 +2959,7 @@ void _wrap_aiMesh_mNumVertices_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiMesh_mNumVertices_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mNumVertices_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -2984,7 +2972,7 @@ intgo _wrap_aiMesh_mNumVertices_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mNumFaces_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mNumFaces_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -2996,7 +2984,7 @@ void _wrap_aiMesh_mNumFaces_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _
 }
 
 
-intgo _wrap_aiMesh_mNumFaces_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mNumFaces_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3009,7 +2997,7 @@ intgo _wrap_aiMesh_mNumFaces_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mNumBones_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mNumBones_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -3021,7 +3009,7 @@ void _wrap_aiMesh_mNumBones_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _
 }
 
 
-intgo _wrap_aiMesh_mNumBones_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mNumBones_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3034,7 +3022,7 @@ intgo _wrap_aiMesh_mNumBones_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mMaterialIndex_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mMaterialIndex_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -3046,7 +3034,7 @@ void _wrap_aiMesh_mMaterialIndex_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, in
 }
 
 
-intgo _wrap_aiMesh_mMaterialIndex_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mMaterialIndex_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3059,7 +3047,7 @@ intgo _wrap_aiMesh_mMaterialIndex_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mName_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiMesh_mName_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, aiString *_swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -3071,7 +3059,7 @@ void _wrap_aiMesh_mName_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, aiString *_
 }
 
 
-aiString *_wrap_aiMesh_mName_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+aiString *_wrap_aiMesh_mName_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -3084,7 +3072,7 @@ aiString *_wrap_aiMesh_mName_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mNumAnimMeshes_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mNumAnimMeshes_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -3096,7 +3084,7 @@ void _wrap_aiMesh_mNumAnimMeshes_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, in
 }
 
 
-intgo _wrap_aiMesh_mNumAnimMeshes_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mNumAnimMeshes_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3109,7 +3097,7 @@ intgo _wrap_aiMesh_mNumAnimMeshes_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mMethod_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMesh_mMethod_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   
@@ -3121,7 +3109,7 @@ void _wrap_aiMesh_mMethod_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_aiMesh_mMethod_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_mMethod_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3134,7 +3122,7 @@ intgo _wrap_aiMesh_mMethod_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-void _wrap_aiMesh_mAABB_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, aiAABB *_swig_go_1) {
+void _wrap_aiMesh_mAABB_set_aig_324a1309ed911fbd(aiMesh *_swig_go_0, aiAABB *_swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   aiAABB arg2 ;
   aiAABB *argp2 ;
@@ -3153,7 +3141,7 @@ void _wrap_aiMesh_mAABB_set_aig_ad8534e24299c30d(aiMesh *_swig_go_0, aiAABB *_sw
 }
 
 
-aiAABB *_wrap_aiMesh_mAABB_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+aiAABB *_wrap_aiMesh_mAABB_get_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   aiAABB result;
   aiAABB *_swig_go_result;
@@ -3166,7 +3154,7 @@ aiAABB *_wrap_aiMesh_mAABB_get_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-aiMesh *_wrap_new_aiMesh_aig_ad8534e24299c30d() {
+aiMesh *_wrap_new_aiMesh_aig_324a1309ed911fbd() {
   aiMesh *result = 0 ;
   aiMesh *_swig_go_result;
   
@@ -3177,7 +3165,7 @@ aiMesh *_wrap_new_aiMesh_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMesh_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+void _wrap_delete_aiMesh_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   
   arg1 = *(aiMesh **)&_swig_go_0; 
@@ -3187,7 +3175,7 @@ void _wrap_delete_aiMesh_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiMesh_HasPositions_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+bool _wrap_aiMesh_HasPositions_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3200,7 +3188,7 @@ bool _wrap_aiMesh_HasPositions_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiMesh_HasFaces_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+bool _wrap_aiMesh_HasFaces_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3213,7 +3201,7 @@ bool _wrap_aiMesh_HasFaces_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiMesh_HasNormals_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+bool _wrap_aiMesh_HasNormals_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3226,7 +3214,7 @@ bool _wrap_aiMesh_HasNormals_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-bool _wrap_aiMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+bool _wrap_aiMesh_HasTangentsAndBitangents_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3239,7 +3227,7 @@ bool _wrap_aiMesh_HasTangentsAndBitangents_aig_ad8534e24299c30d(aiMesh *_swig_go
 }
 
 
-bool _wrap_aiMesh_HasVertexColors_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+bool _wrap_aiMesh_HasVertexColors_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   bool result;
@@ -3254,7 +3242,7 @@ bool _wrap_aiMesh_HasVertexColors_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo
 }
 
 
-bool _wrap_aiMesh_HasTextureCoords_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intgo _swig_go_1) {
+bool _wrap_aiMesh_HasTextureCoords_aig_324a1309ed911fbd(aiMesh *_swig_go_0, intgo _swig_go_1) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int arg2 ;
   bool result;
@@ -3269,7 +3257,7 @@ bool _wrap_aiMesh_HasTextureCoords_aig_ad8534e24299c30d(aiMesh *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiMesh_GetNumUVChannels_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_GetNumUVChannels_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3282,7 +3270,7 @@ intgo _wrap_aiMesh_GetNumUVChannels_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-intgo _wrap_aiMesh_GetNumColorChannels_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+intgo _wrap_aiMesh_GetNumColorChannels_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3295,7 +3283,7 @@ intgo _wrap_aiMesh_GetNumColorChannels_aig_ad8534e24299c30d(aiMesh *_swig_go_0) 
 }
 
 
-bool _wrap_aiMesh_HasBones_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+bool _wrap_aiMesh_HasBones_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3308,7 +3296,7 @@ bool _wrap_aiMesh_HasBones_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
 }
 
 
-std::vector< aiAnimMesh * > *_wrap_aiMesh_mAnimMeshes_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiAnimMesh * > *_wrap_aiMesh_mAnimMeshes_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiAnimMesh * > *result = 0 ;
   std::vector< aiAnimMesh * > *_swig_go_result;
@@ -3321,7 +3309,7 @@ std::vector< aiAnimMesh * > *_wrap_aiMesh_mAnimMeshes_aig_ad8534e24299c30d(aiMes
 }
 
 
-std::vector< aiBone * > *_wrap_aiMesh_mBones_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiBone * > *_wrap_aiMesh_mBones_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiBone * > *result = 0 ;
   std::vector< aiBone * > *_swig_go_result;
@@ -3334,7 +3322,7 @@ std::vector< aiBone * > *_wrap_aiMesh_mBones_aig_ad8534e24299c30d(aiMesh *_swig_
 }
 
 
-std::vector< unsigned int > *_wrap_aiMesh_mNumUVComponents_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< unsigned int > *_wrap_aiMesh_mNumUVComponents_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
@@ -3347,7 +3335,7 @@ std::vector< unsigned int > *_wrap_aiMesh_mNumUVComponents_aig_ad8534e24299c30d(
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiMesh_mVertices_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiMesh_mVertices_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -3360,7 +3348,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiMesh_mVertices_aig_ad8534e24299c30
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiMesh_mNormals_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiMesh_mNormals_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -3373,7 +3361,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiMesh_mNormals_aig_ad8534e24299c30d
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiMesh_mTangents_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiMesh_mTangents_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -3386,7 +3374,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiMesh_mTangents_aig_ad8534e24299c30
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiMesh_mBitangents_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_aiMesh_mBitangents_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -3399,7 +3387,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiMesh_mBitangents_aig_ad8534e24299c
 }
 
 
-std::vector< aiFace * > *_wrap_aiMesh_mFaces_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< aiFace * > *_wrap_aiMesh_mFaces_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< aiFace * > *result = 0 ;
   std::vector< aiFace * > *_swig_go_result;
@@ -3412,7 +3400,7 @@ std::vector< aiFace * > *_wrap_aiMesh_mFaces_aig_ad8534e24299c30d(aiMesh *_swig_
 }
 
 
-std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiMesh_mTextureCoords_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiMesh_mTextureCoords_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< std::vector< aiVector3D * > > *result = 0 ;
   std::vector< std::vector< aiVector3t< float > * > > *_swig_go_result;
@@ -3425,7 +3413,7 @@ std::vector< std::vector< aiVector3t< float > * > > *_wrap_aiMesh_mTextureCoords
 }
 
 
-std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiMesh_mColors_aig_ad8534e24299c30d(aiMesh *_swig_go_0) {
+std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiMesh_mColors_aig_324a1309ed911fbd(aiMesh *_swig_go_0) {
   aiMesh *arg1 = (aiMesh *) 0 ;
   std::vector< std::vector< aiColor4D * > > *result = 0 ;
   std::vector< std::vector< aiColor4t< float > * > > *_swig_go_result;
@@ -3438,7 +3426,7 @@ std::vector< std::vector< aiColor4t< float > * > > *_wrap_aiMesh_mColors_aig_ad8
 }
 
 
-long long _wrap_MAXLEN_get_aig_ad8534e24299c30d() {
+long long _wrap_MAXLEN_get_aig_324a1309ed911fbd() {
   size_t result;
   long long _swig_go_result;
   
@@ -3449,7 +3437,7 @@ long long _wrap_MAXLEN_get_aig_ad8534e24299c30d() {
 }
 
 
-aiPlane *_wrap_new_aiPlane__SWIG_0_aig_ad8534e24299c30d() {
+aiPlane *_wrap_new_aiPlane__SWIG_0_aig_324a1309ed911fbd() {
   aiPlane *result = 0 ;
   aiPlane *_swig_go_result;
   
@@ -3460,7 +3448,7 @@ aiPlane *_wrap_new_aiPlane__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiPlane *_wrap_new_aiPlane__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+aiPlane *_wrap_new_aiPlane__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   ai_real arg1 ;
   ai_real arg2 ;
   ai_real arg3 ;
@@ -3479,7 +3467,7 @@ aiPlane *_wrap_new_aiPlane__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, float 
 }
 
 
-aiPlane *_wrap_new_aiPlane__SWIG_2_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+aiPlane *_wrap_new_aiPlane__SWIG_2_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = 0 ;
   aiPlane *result = 0 ;
   aiPlane *_swig_go_result;
@@ -3492,7 +3480,7 @@ aiPlane *_wrap_new_aiPlane__SWIG_2_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-void _wrap_aiPlane_a_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_go_1) {
+void _wrap_aiPlane_a_set_aig_324a1309ed911fbd(aiPlane *_swig_go_0, float _swig_go_1) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real arg2 ;
   
@@ -3504,7 +3492,7 @@ void _wrap_aiPlane_a_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_g
 }
 
 
-float _wrap_aiPlane_a_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+float _wrap_aiPlane_a_get_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3517,7 +3505,7 @@ float _wrap_aiPlane_a_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-void _wrap_aiPlane_b_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_go_1) {
+void _wrap_aiPlane_b_set_aig_324a1309ed911fbd(aiPlane *_swig_go_0, float _swig_go_1) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real arg2 ;
   
@@ -3529,7 +3517,7 @@ void _wrap_aiPlane_b_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_g
 }
 
 
-float _wrap_aiPlane_b_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+float _wrap_aiPlane_b_get_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3542,7 +3530,7 @@ float _wrap_aiPlane_b_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-void _wrap_aiPlane_c_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_go_1) {
+void _wrap_aiPlane_c_set_aig_324a1309ed911fbd(aiPlane *_swig_go_0, float _swig_go_1) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real arg2 ;
   
@@ -3554,7 +3542,7 @@ void _wrap_aiPlane_c_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_g
 }
 
 
-float _wrap_aiPlane_c_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+float _wrap_aiPlane_c_get_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3567,7 +3555,7 @@ float _wrap_aiPlane_c_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-void _wrap_aiPlane_d_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_go_1) {
+void _wrap_aiPlane_d_set_aig_324a1309ed911fbd(aiPlane *_swig_go_0, float _swig_go_1) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real arg2 ;
   
@@ -3579,7 +3567,7 @@ void _wrap_aiPlane_d_set_aig_ad8534e24299c30d(aiPlane *_swig_go_0, float _swig_g
 }
 
 
-float _wrap_aiPlane_d_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+float _wrap_aiPlane_d_get_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3592,7 +3580,7 @@ float _wrap_aiPlane_d_get_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-void _wrap_delete_aiPlane_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
+void _wrap_delete_aiPlane_aig_324a1309ed911fbd(aiPlane *_swig_go_0) {
   aiPlane *arg1 = (aiPlane *) 0 ;
   
   arg1 = *(aiPlane **)&_swig_go_0; 
@@ -3602,7 +3590,7 @@ void _wrap_delete_aiPlane_aig_ad8534e24299c30d(aiPlane *_swig_go_0) {
 }
 
 
-aiRay *_wrap_new_aiRay__SWIG_0_aig_ad8534e24299c30d() {
+aiRay *_wrap_new_aiRay__SWIG_0_aig_324a1309ed911fbd() {
   aiRay *result = 0 ;
   aiRay *_swig_go_result;
   
@@ -3613,7 +3601,7 @@ aiRay *_wrap_new_aiRay__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiRay *_wrap_new_aiRay__SWIG_1_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+aiRay *_wrap_new_aiRay__SWIG_1_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiVector3D *arg1 = 0 ;
   aiVector3D *arg2 = 0 ;
   aiRay *result = 0 ;
@@ -3628,7 +3616,7 @@ aiRay *_wrap_new_aiRay__SWIG_1_aig_ad8534e24299c30d(aiVector3t< float > *_swig_g
 }
 
 
-aiRay *_wrap_new_aiRay__SWIG_2_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
+aiRay *_wrap_new_aiRay__SWIG_2_aig_324a1309ed911fbd(aiRay *_swig_go_0) {
   aiRay *arg1 = 0 ;
   aiRay *result = 0 ;
   aiRay *_swig_go_result;
@@ -3641,7 +3629,7 @@ aiRay *_wrap_new_aiRay__SWIG_2_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
 }
 
 
-void _wrap_aiRay_pos_set_aig_ad8534e24299c30d(aiRay *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiRay_pos_set_aig_324a1309ed911fbd(aiRay *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiRay *arg1 = (aiRay *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -3653,7 +3641,7 @@ void _wrap_aiRay_pos_set_aig_ad8534e24299c30d(aiRay *_swig_go_0, aiVector3t< flo
 }
 
 
-aiVector3t< float > *_wrap_aiRay_pos_get_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
+aiVector3t< float > *_wrap_aiRay_pos_get_aig_324a1309ed911fbd(aiRay *_swig_go_0) {
   aiRay *arg1 = (aiRay *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -3666,7 +3654,7 @@ aiVector3t< float > *_wrap_aiRay_pos_get_aig_ad8534e24299c30d(aiRay *_swig_go_0)
 }
 
 
-void _wrap_aiRay_dir_set_aig_ad8534e24299c30d(aiRay *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiRay_dir_set_aig_324a1309ed911fbd(aiRay *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiRay *arg1 = (aiRay *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -3678,7 +3666,7 @@ void _wrap_aiRay_dir_set_aig_ad8534e24299c30d(aiRay *_swig_go_0, aiVector3t< flo
 }
 
 
-aiVector3t< float > *_wrap_aiRay_dir_get_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
+aiVector3t< float > *_wrap_aiRay_dir_get_aig_324a1309ed911fbd(aiRay *_swig_go_0) {
   aiRay *arg1 = (aiRay *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -3691,7 +3679,7 @@ aiVector3t< float > *_wrap_aiRay_dir_get_aig_ad8534e24299c30d(aiRay *_swig_go_0)
 }
 
 
-void _wrap_delete_aiRay_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
+void _wrap_delete_aiRay_aig_324a1309ed911fbd(aiRay *_swig_go_0) {
   aiRay *arg1 = (aiRay *) 0 ;
   
   arg1 = *(aiRay **)&_swig_go_0; 
@@ -3701,7 +3689,7 @@ void _wrap_delete_aiRay_aig_ad8534e24299c30d(aiRay *_swig_go_0) {
 }
 
 
-aiColor3D *_wrap_new_aiColor3D__SWIG_0_aig_ad8534e24299c30d() {
+aiColor3D *_wrap_new_aiColor3D__SWIG_0_aig_324a1309ed911fbd() {
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
   
@@ -3712,7 +3700,7 @@ aiColor3D *_wrap_new_aiColor3D__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiColor3D *_wrap_new_aiColor3D__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+aiColor3D *_wrap_new_aiColor3D__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   ai_real arg1 ;
   ai_real arg2 ;
   ai_real arg3 ;
@@ -3729,7 +3717,7 @@ aiColor3D *_wrap_new_aiColor3D__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, fl
 }
 
 
-aiColor3D *_wrap_new_aiColor3D__SWIG_2_aig_ad8534e24299c30d(float _swig_go_0) {
+aiColor3D *_wrap_new_aiColor3D__SWIG_2_aig_324a1309ed911fbd(float _swig_go_0) {
   ai_real arg1 ;
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
@@ -3742,7 +3730,7 @@ aiColor3D *_wrap_new_aiColor3D__SWIG_2_aig_ad8534e24299c30d(float _swig_go_0) {
 }
 
 
-aiColor3D *_wrap_new_aiColor3D__SWIG_3_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+aiColor3D *_wrap_new_aiColor3D__SWIG_3_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = 0 ;
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
@@ -3755,7 +3743,7 @@ aiColor3D *_wrap_new_aiColor3D__SWIG_3_aig_ad8534e24299c30d(aiColor3D *_swig_go_
 }
 
 
-bool _wrap_aiColor3D_IsBlack_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+bool _wrap_aiColor3D_IsBlack_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -3768,7 +3756,7 @@ bool _wrap_aiColor3D_IsBlack_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
 }
 
 
-void _wrap_aiColor3D_r_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _swig_go_1) {
+void _wrap_aiColor3D_r_set_aig_324a1309ed911fbd(aiColor3D *_swig_go_0, float _swig_go_1) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real arg2 ;
   
@@ -3780,7 +3768,7 @@ void _wrap_aiColor3D_r_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _sw
 }
 
 
-float _wrap_aiColor3D_r_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+float _wrap_aiColor3D_r_get_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3793,7 +3781,7 @@ float _wrap_aiColor3D_r_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
 }
 
 
-void _wrap_aiColor3D_g_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _swig_go_1) {
+void _wrap_aiColor3D_g_set_aig_324a1309ed911fbd(aiColor3D *_swig_go_0, float _swig_go_1) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real arg2 ;
   
@@ -3805,7 +3793,7 @@ void _wrap_aiColor3D_g_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _sw
 }
 
 
-float _wrap_aiColor3D_g_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+float _wrap_aiColor3D_g_get_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3818,7 +3806,7 @@ float _wrap_aiColor3D_g_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
 }
 
 
-void _wrap_aiColor3D_b_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _swig_go_1) {
+void _wrap_aiColor3D_b_set_aig_324a1309ed911fbd(aiColor3D *_swig_go_0, float _swig_go_1) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real arg2 ;
   
@@ -3830,7 +3818,7 @@ void _wrap_aiColor3D_b_set_aig_ad8534e24299c30d(aiColor3D *_swig_go_0, float _sw
 }
 
 
-float _wrap_aiColor3D_b_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+float _wrap_aiColor3D_b_get_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -3843,7 +3831,7 @@ float _wrap_aiColor3D_b_get_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
 }
 
 
-void _wrap_delete_aiColor3D_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
+void _wrap_delete_aiColor3D_aig_324a1309ed911fbd(aiColor3D *_swig_go_0) {
   aiColor3D *arg1 = (aiColor3D *) 0 ;
   
   arg1 = *(aiColor3D **)&_swig_go_0; 
@@ -3853,7 +3841,7 @@ void _wrap_delete_aiColor3D_aig_ad8534e24299c30d(aiColor3D *_swig_go_0) {
 }
 
 
-aiString *_wrap_new_aiString__SWIG_0_aig_ad8534e24299c30d() {
+aiString *_wrap_new_aiString__SWIG_0_aig_324a1309ed911fbd() {
   aiString *result = 0 ;
   aiString *_swig_go_result;
   
@@ -3864,7 +3852,7 @@ aiString *_wrap_new_aiString__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiString *_wrap_new_aiString__SWIG_1_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+aiString *_wrap_new_aiString__SWIG_1_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -3877,7 +3865,7 @@ aiString *_wrap_new_aiString__SWIG_1_aig_ad8534e24299c30d(aiString *_swig_go_0) 
 }
 
 
-aiString *_wrap_new_aiString__SWIG_2_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+aiString *_wrap_new_aiString__SWIG_2_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   std::string *arg1 = 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -3893,7 +3881,7 @@ aiString *_wrap_new_aiString__SWIG_2_aig_ad8534e24299c30d(_gostring_ _swig_go_0)
 }
 
 
-void _wrap_aiString_Set_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiString_Set_aig_324a1309ed911fbd(aiString *_swig_go_0, _gostring_ _swig_go_1) {
   aiString *arg1 = (aiString *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -3910,7 +3898,7 @@ void _wrap_aiString_Set_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostring_ _s
 }
 
 
-void _wrap_aiString_Append_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiString_Append_aig_324a1309ed911fbd(aiString *_swig_go_0, _gostring_ _swig_go_1) {
   aiString *arg1 = (aiString *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -3927,7 +3915,7 @@ void _wrap_aiString_Append_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostring_
 }
 
 
-void _wrap_aiString_Clear_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+void _wrap_aiString_Clear_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   
   arg1 = *(aiString **)&_swig_go_0; 
@@ -3937,7 +3925,7 @@ void _wrap_aiString_Clear_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-_gostring_ _wrap_aiString_C_Str_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+_gostring_ _wrap_aiString_C_Str_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -3950,7 +3938,7 @@ _gostring_ _wrap_aiString_C_Str_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-void _wrap_aiString_length_set_aig_ad8534e24299c30d(aiString *_swig_go_0, uint32_t *_swig_go_1) {
+void _wrap_aiString_length_set_aig_324a1309ed911fbd(aiString *_swig_go_0, uint32_t *_swig_go_1) {
   aiString *arg1 = (aiString *) 0 ;
   ai_uint32 arg2 ;
   ai_uint32 *argp2 ;
@@ -3969,7 +3957,7 @@ void _wrap_aiString_length_set_aig_ad8534e24299c30d(aiString *_swig_go_0, uint32
 }
 
 
-uint32_t *_wrap_aiString_length_get_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+uint32_t *_wrap_aiString_length_get_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   ai_uint32 result;
   uint32_t *_swig_go_result;
@@ -3982,7 +3970,7 @@ uint32_t *_wrap_aiString_length_get_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-void _wrap_aiString_data_set_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiString_data_set_aig_324a1309ed911fbd(aiString *_swig_go_0, _gostring_ _swig_go_1) {
   aiString *arg1 = (aiString *) 0 ;
   char *arg2 ;
   
@@ -4006,7 +3994,7 @@ void _wrap_aiString_data_set_aig_ad8534e24299c30d(aiString *_swig_go_0, _gostrin
 }
 
 
-_gostring_ _wrap_aiString_data_get_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+_gostring_ _wrap_aiString_data_get_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -4019,7 +4007,7 @@ _gostring_ _wrap_aiString_data_get_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-void _wrap_delete_aiString_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+void _wrap_delete_aiString_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = (aiString *) 0 ;
   
   arg1 = *(aiString **)&_swig_go_0; 
@@ -4029,7 +4017,7 @@ void _wrap_delete_aiString_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-intgo _wrap_aiReturn_SUCCESS_aig_ad8534e24299c30d() {
+intgo _wrap_aiReturn_SUCCESS_aig_324a1309ed911fbd() {
   aiReturn result;
   intgo _swig_go_result;
   
@@ -4041,7 +4029,7 @@ intgo _wrap_aiReturn_SUCCESS_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiReturn_FAILURE_aig_ad8534e24299c30d() {
+intgo _wrap_aiReturn_FAILURE_aig_324a1309ed911fbd() {
   aiReturn result;
   intgo _swig_go_result;
   
@@ -4053,7 +4041,7 @@ intgo _wrap_aiReturn_FAILURE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiReturn_OUTOFMEMORY_aig_ad8534e24299c30d() {
+intgo _wrap_aiReturn_OUTOFMEMORY_aig_324a1309ed911fbd() {
   aiReturn result;
   intgo _swig_go_result;
   
@@ -4065,7 +4053,7 @@ intgo _wrap_aiReturn_OUTOFMEMORY_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap__AI_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
+intgo _wrap__AI_ENFORCE_ENUM_SIZE_aig_324a1309ed911fbd() {
   aiReturn result;
   intgo _swig_go_result;
   
@@ -4077,7 +4065,7 @@ intgo _wrap__AI_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiOrigin_SET_aig_ad8534e24299c30d() {
+intgo _wrap_aiOrigin_SET_aig_324a1309ed911fbd() {
   aiOrigin result;
   intgo _swig_go_result;
   
@@ -4089,7 +4077,7 @@ intgo _wrap_aiOrigin_SET_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiOrigin_CUR_aig_ad8534e24299c30d() {
+intgo _wrap_aiOrigin_CUR_aig_324a1309ed911fbd() {
   aiOrigin result;
   intgo _swig_go_result;
   
@@ -4101,7 +4089,7 @@ intgo _wrap_aiOrigin_CUR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiOrigin_END_aig_ad8534e24299c30d() {
+intgo _wrap_aiOrigin_END_aig_324a1309ed911fbd() {
   aiOrigin result;
   intgo _swig_go_result;
   
@@ -4113,7 +4101,7 @@ intgo _wrap_aiOrigin_END_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap__AI_ORIGIN_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
+intgo _wrap__AI_ORIGIN_ENFORCE_ENUM_SIZE_aig_324a1309ed911fbd() {
   aiOrigin result;
   intgo _swig_go_result;
   
@@ -4125,7 +4113,7 @@ intgo _wrap__AI_ORIGIN_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiDefaultLogStream_FILE_aig_ad8534e24299c30d() {
+intgo _wrap_aiDefaultLogStream_FILE_aig_324a1309ed911fbd() {
   aiDefaultLogStream result;
   intgo _swig_go_result;
   
@@ -4137,7 +4125,7 @@ intgo _wrap_aiDefaultLogStream_FILE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiDefaultLogStream_STDOUT_aig_ad8534e24299c30d() {
+intgo _wrap_aiDefaultLogStream_STDOUT_aig_324a1309ed911fbd() {
   aiDefaultLogStream result;
   intgo _swig_go_result;
   
@@ -4149,7 +4137,7 @@ intgo _wrap_aiDefaultLogStream_STDOUT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiDefaultLogStream_STDERR_aig_ad8534e24299c30d() {
+intgo _wrap_aiDefaultLogStream_STDERR_aig_324a1309ed911fbd() {
   aiDefaultLogStream result;
   intgo _swig_go_result;
   
@@ -4161,7 +4149,7 @@ intgo _wrap_aiDefaultLogStream_STDERR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiDefaultLogStream_DEBUGGER_aig_ad8534e24299c30d() {
+intgo _wrap_aiDefaultLogStream_DEBUGGER_aig_324a1309ed911fbd() {
   aiDefaultLogStream result;
   intgo _swig_go_result;
   
@@ -4173,7 +4161,7 @@ intgo _wrap_aiDefaultLogStream_DEBUGGER_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap__AI_DLS_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
+intgo _wrap__AI_DLS_ENFORCE_ENUM_SIZE_aig_324a1309ed911fbd() {
   aiDefaultLogStream result;
   intgo _swig_go_result;
   
@@ -4185,7 +4173,7 @@ intgo _wrap__AI_DLS_ENFORCE_ENUM_SIZE_aig_ad8534e24299c30d() {
 }
 
 
-aiMemoryInfo *_wrap_new_aiMemoryInfo_aig_ad8534e24299c30d() {
+aiMemoryInfo *_wrap_new_aiMemoryInfo_aig_324a1309ed911fbd() {
   aiMemoryInfo *result = 0 ;
   aiMemoryInfo *_swig_go_result;
   
@@ -4196,7 +4184,7 @@ aiMemoryInfo *_wrap_new_aiMemoryInfo_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiMemoryInfo_textures_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_textures_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4208,7 +4196,7 @@ void _wrap_aiMemoryInfo_textures_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go
 }
 
 
-intgo _wrap_aiMemoryInfo_textures_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_textures_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4221,7 +4209,7 @@ intgo _wrap_aiMemoryInfo_textures_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_g
 }
 
 
-void _wrap_aiMemoryInfo_materials_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_materials_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4233,7 +4221,7 @@ void _wrap_aiMemoryInfo_materials_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_g
 }
 
 
-intgo _wrap_aiMemoryInfo_materials_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_materials_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4246,7 +4234,7 @@ intgo _wrap_aiMemoryInfo_materials_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_
 }
 
 
-void _wrap_aiMemoryInfo_meshes_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_meshes_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4258,7 +4246,7 @@ void _wrap_aiMemoryInfo_meshes_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0
 }
 
 
-intgo _wrap_aiMemoryInfo_meshes_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_meshes_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4271,7 +4259,7 @@ intgo _wrap_aiMemoryInfo_meshes_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_
 }
 
 
-void _wrap_aiMemoryInfo_nodes_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_nodes_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4283,7 +4271,7 @@ void _wrap_aiMemoryInfo_nodes_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0,
 }
 
 
-intgo _wrap_aiMemoryInfo_nodes_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_nodes_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4296,7 +4284,7 @@ intgo _wrap_aiMemoryInfo_nodes_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0
 }
 
 
-void _wrap_aiMemoryInfo_animations_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_animations_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4308,7 +4296,7 @@ void _wrap_aiMemoryInfo_animations_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_
 }
 
 
-intgo _wrap_aiMemoryInfo_animations_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_animations_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4321,7 +4309,7 @@ intgo _wrap_aiMemoryInfo_animations_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig
 }
 
 
-void _wrap_aiMemoryInfo_cameras_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_cameras_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4333,7 +4321,7 @@ void _wrap_aiMemoryInfo_cameras_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_
 }
 
 
-intgo _wrap_aiMemoryInfo_cameras_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_cameras_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4346,7 +4334,7 @@ intgo _wrap_aiMemoryInfo_cameras_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go
 }
 
 
-void _wrap_aiMemoryInfo_lights_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_lights_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4358,7 +4346,7 @@ void _wrap_aiMemoryInfo_lights_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0
 }
 
 
-intgo _wrap_aiMemoryInfo_lights_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_lights_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4371,7 +4359,7 @@ intgo _wrap_aiMemoryInfo_lights_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_
 }
 
 
-void _wrap_aiMemoryInfo_total_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMemoryInfo_total_set_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0, intgo _swig_go_1) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int arg2 ;
   
@@ -4383,7 +4371,7 @@ void _wrap_aiMemoryInfo_total_set_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0,
 }
 
 
-intgo _wrap_aiMemoryInfo_total_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+intgo _wrap_aiMemoryInfo_total_get_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4396,7 +4384,7 @@ intgo _wrap_aiMemoryInfo_total_get_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0
 }
 
 
-void _wrap_delete_aiMemoryInfo_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
+void _wrap_delete_aiMemoryInfo_aig_324a1309ed911fbd(aiMemoryInfo *_swig_go_0) {
   aiMemoryInfo *arg1 = (aiMemoryInfo *) 0 ;
   
   arg1 = *(aiMemoryInfo **)&_swig_go_0; 
@@ -4406,7 +4394,7 @@ void _wrap_delete_aiMemoryInfo_aig_ad8534e24299c30d(aiMemoryInfo *_swig_go_0) {
 }
 
 
-void _wrap_aiTexel_b_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go_1) {
+void _wrap_aiTexel_b_set_aig_324a1309ed911fbd(aiTexel *_swig_go_0, char _swig_go_1) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char arg2 ;
   
@@ -4418,7 +4406,7 @@ void _wrap_aiTexel_b_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go
 }
 
 
-char _wrap_aiTexel_b_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
+char _wrap_aiTexel_b_get_aig_324a1309ed911fbd(aiTexel *_swig_go_0) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char result;
   char _swig_go_result;
@@ -4431,7 +4419,7 @@ char _wrap_aiTexel_b_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
 }
 
 
-void _wrap_aiTexel_g_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go_1) {
+void _wrap_aiTexel_g_set_aig_324a1309ed911fbd(aiTexel *_swig_go_0, char _swig_go_1) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char arg2 ;
   
@@ -4443,7 +4431,7 @@ void _wrap_aiTexel_g_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go
 }
 
 
-char _wrap_aiTexel_g_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
+char _wrap_aiTexel_g_get_aig_324a1309ed911fbd(aiTexel *_swig_go_0) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char result;
   char _swig_go_result;
@@ -4456,7 +4444,7 @@ char _wrap_aiTexel_g_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
 }
 
 
-void _wrap_aiTexel_r_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go_1) {
+void _wrap_aiTexel_r_set_aig_324a1309ed911fbd(aiTexel *_swig_go_0, char _swig_go_1) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char arg2 ;
   
@@ -4468,7 +4456,7 @@ void _wrap_aiTexel_r_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go
 }
 
 
-char _wrap_aiTexel_r_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
+char _wrap_aiTexel_r_get_aig_324a1309ed911fbd(aiTexel *_swig_go_0) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char result;
   char _swig_go_result;
@@ -4481,7 +4469,7 @@ char _wrap_aiTexel_r_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
 }
 
 
-void _wrap_aiTexel_a_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go_1) {
+void _wrap_aiTexel_a_set_aig_324a1309ed911fbd(aiTexel *_swig_go_0, char _swig_go_1) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char arg2 ;
   
@@ -4493,7 +4481,7 @@ void _wrap_aiTexel_a_set_aig_ad8534e24299c30d(aiTexel *_swig_go_0, char _swig_go
 }
 
 
-char _wrap_aiTexel_a_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
+char _wrap_aiTexel_a_get_aig_324a1309ed911fbd(aiTexel *_swig_go_0) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   unsigned char result;
   char _swig_go_result;
@@ -4506,7 +4494,7 @@ char _wrap_aiTexel_a_get_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
 }
 
 
-aiTexel *_wrap_new_aiTexel_aig_ad8534e24299c30d() {
+aiTexel *_wrap_new_aiTexel_aig_324a1309ed911fbd() {
   aiTexel *result = 0 ;
   aiTexel *_swig_go_result;
   
@@ -4517,7 +4505,7 @@ aiTexel *_wrap_new_aiTexel_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiTexel_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
+void _wrap_delete_aiTexel_aig_324a1309ed911fbd(aiTexel *_swig_go_0) {
   aiTexel *arg1 = (aiTexel *) 0 ;
   
   arg1 = *(aiTexel **)&_swig_go_0; 
@@ -4527,7 +4515,7 @@ void _wrap_delete_aiTexel_aig_ad8534e24299c30d(aiTexel *_swig_go_0) {
 }
 
 
-void _wrap_aiTexture_mWidth_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiTexture_mWidth_set_aig_324a1309ed911fbd(aiTexture *_swig_go_0, intgo _swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   unsigned int arg2 ;
   
@@ -4539,7 +4527,7 @@ void _wrap_aiTexture_mWidth_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiTexture_mWidth_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+intgo _wrap_aiTexture_mWidth_get_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4552,7 +4540,7 @@ intgo _wrap_aiTexture_mWidth_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
 }
 
 
-void _wrap_aiTexture_mHeight_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiTexture_mHeight_set_aig_324a1309ed911fbd(aiTexture *_swig_go_0, intgo _swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   unsigned int arg2 ;
   
@@ -4564,7 +4552,7 @@ void _wrap_aiTexture_mHeight_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, int
 }
 
 
-intgo _wrap_aiTexture_mHeight_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+intgo _wrap_aiTexture_mHeight_get_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4577,7 +4565,7 @@ intgo _wrap_aiTexture_mHeight_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
 }
 
 
-void _wrap_aiTexture_achFormatHint_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiTexture_achFormatHint_set_aig_324a1309ed911fbd(aiTexture *_swig_go_0, _gostring_ _swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   char *arg2 ;
   
@@ -4601,7 +4589,7 @@ void _wrap_aiTexture_achFormatHint_set_aig_ad8534e24299c30d(aiTexture *_swig_go_
 }
 
 
-_gostring_ _wrap_aiTexture_achFormatHint_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+_gostring_ _wrap_aiTexture_achFormatHint_get_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -4614,7 +4602,7 @@ _gostring_ _wrap_aiTexture_achFormatHint_get_aig_ad8534e24299c30d(aiTexture *_sw
 }
 
 
-void _wrap_aiTexture_pcData_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, aiTexel *_swig_go_1) {
+void _wrap_aiTexture_pcData_set_aig_324a1309ed911fbd(aiTexture *_swig_go_0, aiTexel *_swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   aiTexel *arg2 = (aiTexel *) 0 ;
   
@@ -4626,7 +4614,7 @@ void _wrap_aiTexture_pcData_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, aiTe
 }
 
 
-aiTexel *_wrap_aiTexture_pcData_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+aiTexel *_wrap_aiTexture_pcData_get_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   aiTexel *result = 0 ;
   aiTexel *_swig_go_result;
@@ -4639,7 +4627,7 @@ aiTexel *_wrap_aiTexture_pcData_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) 
 }
 
 
-void _wrap_aiTexture_mFilename_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiTexture_mFilename_set_aig_324a1309ed911fbd(aiTexture *_swig_go_0, aiString *_swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -4651,7 +4639,7 @@ void _wrap_aiTexture_mFilename_set_aig_ad8534e24299c30d(aiTexture *_swig_go_0, a
 }
 
 
-aiString *_wrap_aiTexture_mFilename_get_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+aiString *_wrap_aiTexture_mFilename_get_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -4664,7 +4652,7 @@ aiString *_wrap_aiTexture_mFilename_get_aig_ad8534e24299c30d(aiTexture *_swig_go
 }
 
 
-bool _wrap_aiTexture_CheckFormat_aig_ad8534e24299c30d(aiTexture *_swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_aiTexture_CheckFormat_aig_324a1309ed911fbd(aiTexture *_swig_go_0, _gostring_ _swig_go_1) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   char *arg2 = (char *) 0 ;
   bool result;
@@ -4684,7 +4672,7 @@ bool _wrap_aiTexture_CheckFormat_aig_ad8534e24299c30d(aiTexture *_swig_go_0, _go
 }
 
 
-aiTexture *_wrap_new_aiTexture_aig_ad8534e24299c30d() {
+aiTexture *_wrap_new_aiTexture_aig_324a1309ed911fbd() {
   aiTexture *result = 0 ;
   aiTexture *_swig_go_result;
   
@@ -4695,7 +4683,7 @@ aiTexture *_wrap_new_aiTexture_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiTexture_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
+void _wrap_delete_aiTexture_aig_324a1309ed911fbd(aiTexture *_swig_go_0) {
   aiTexture *arg1 = (aiTexture *) 0 ;
   
   arg1 = *(aiTexture **)&_swig_go_0; 
@@ -4705,7 +4693,7 @@ void _wrap_delete_aiTexture_aig_ad8534e24299c30d(aiTexture *_swig_go_0) {
 }
 
 
-intgo _wrap_aiLightSource_UNDEFINED_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_UNDEFINED_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4717,7 +4705,7 @@ intgo _wrap_aiLightSource_UNDEFINED_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiLightSource_DIRECTIONAL_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_DIRECTIONAL_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4729,7 +4717,7 @@ intgo _wrap_aiLightSource_DIRECTIONAL_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiLightSource_POINT_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_POINT_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4741,7 +4729,7 @@ intgo _wrap_aiLightSource_POINT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiLightSource_SPOT_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_SPOT_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4753,7 +4741,7 @@ intgo _wrap_aiLightSource_SPOT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiLightSource_AMBIENT_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_AMBIENT_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4765,7 +4753,7 @@ intgo _wrap_aiLightSource_AMBIENT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiLightSource_AREA_aig_ad8534e24299c30d() {
+intgo _wrap_aiLightSource_AREA_aig_324a1309ed911fbd() {
   aiLightSourceType result;
   intgo _swig_go_result;
   
@@ -4777,7 +4765,7 @@ intgo _wrap_aiLightSource_AREA_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiLight_mName_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiLight_mName_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiString *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -4789,7 +4777,7 @@ void _wrap_aiLight_mName_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiString 
 }
 
 
-aiString *_wrap_aiLight_mName_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiString *_wrap_aiLight_mName_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -4802,7 +4790,7 @@ aiString *_wrap_aiLight_mName_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
 }
 
 
-void _wrap_aiLight_mType_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiLight_mType_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, intgo _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   enum aiLightSourceType arg2 ;
   
@@ -4814,7 +4802,7 @@ void _wrap_aiLight_mType_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_aiLight_mType_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+intgo _wrap_aiLight_mType_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   enum aiLightSourceType result;
   intgo _swig_go_result;
@@ -4827,7 +4815,7 @@ intgo _wrap_aiLight_mType_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
 }
 
 
-void _wrap_aiLight_mPosition_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiLight_mPosition_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -4839,7 +4827,7 @@ void _wrap_aiLight_mPosition_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVec
 }
 
 
-aiVector3t< float > *_wrap_aiLight_mPosition_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiVector3t< float > *_wrap_aiLight_mPosition_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -4852,7 +4840,7 @@ aiVector3t< float > *_wrap_aiLight_mPosition_get_aig_ad8534e24299c30d(aiLight *_
 }
 
 
-void _wrap_aiLight_mDirection_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiLight_mDirection_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -4864,7 +4852,7 @@ void _wrap_aiLight_mDirection_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVe
 }
 
 
-aiVector3t< float > *_wrap_aiLight_mDirection_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiVector3t< float > *_wrap_aiLight_mDirection_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -4877,7 +4865,7 @@ aiVector3t< float > *_wrap_aiLight_mDirection_get_aig_ad8534e24299c30d(aiLight *
 }
 
 
-void _wrap_aiLight_mUp_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiLight_mUp_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -4889,7 +4877,7 @@ void _wrap_aiLight_mUp_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector3t<
 }
 
 
-aiVector3t< float > *_wrap_aiLight_mUp_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiVector3t< float > *_wrap_aiLight_mUp_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -4902,7 +4890,7 @@ aiVector3t< float > *_wrap_aiLight_mUp_get_aig_ad8534e24299c30d(aiLight *_swig_g
 }
 
 
-void _wrap_aiLight_mAttenuationConstant_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiLight_mAttenuationConstant_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, float _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   float arg2 ;
   
@@ -4914,7 +4902,7 @@ void _wrap_aiLight_mAttenuationConstant_set_aig_ad8534e24299c30d(aiLight *_swig_
 }
 
 
-float _wrap_aiLight_mAttenuationConstant_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+float _wrap_aiLight_mAttenuationConstant_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   float result;
   float _swig_go_result;
@@ -4927,7 +4915,7 @@ float _wrap_aiLight_mAttenuationConstant_get_aig_ad8534e24299c30d(aiLight *_swig
 }
 
 
-void _wrap_aiLight_mAttenuationLinear_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiLight_mAttenuationLinear_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, float _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   float arg2 ;
   
@@ -4939,7 +4927,7 @@ void _wrap_aiLight_mAttenuationLinear_set_aig_ad8534e24299c30d(aiLight *_swig_go
 }
 
 
-float _wrap_aiLight_mAttenuationLinear_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+float _wrap_aiLight_mAttenuationLinear_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   float result;
   float _swig_go_result;
@@ -4952,7 +4940,7 @@ float _wrap_aiLight_mAttenuationLinear_get_aig_ad8534e24299c30d(aiLight *_swig_g
 }
 
 
-void _wrap_aiLight_mAttenuationQuadratic_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiLight_mAttenuationQuadratic_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, float _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   float arg2 ;
   
@@ -4964,7 +4952,7 @@ void _wrap_aiLight_mAttenuationQuadratic_set_aig_ad8534e24299c30d(aiLight *_swig
 }
 
 
-float _wrap_aiLight_mAttenuationQuadratic_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+float _wrap_aiLight_mAttenuationQuadratic_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   float result;
   float _swig_go_result;
@@ -4977,7 +4965,7 @@ float _wrap_aiLight_mAttenuationQuadratic_get_aig_ad8534e24299c30d(aiLight *_swi
 }
 
 
-void _wrap_aiLight_mColorDiffuse_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
+void _wrap_aiLight_mColorDiffuse_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   
@@ -4989,7 +4977,7 @@ void _wrap_aiLight_mColorDiffuse_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, a
 }
 
 
-aiColor3D *_wrap_aiLight_mColorDiffuse_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiColor3D *_wrap_aiLight_mColorDiffuse_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
@@ -5002,7 +4990,7 @@ aiColor3D *_wrap_aiLight_mColorDiffuse_get_aig_ad8534e24299c30d(aiLight *_swig_g
 }
 
 
-void _wrap_aiLight_mColorSpecular_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
+void _wrap_aiLight_mColorSpecular_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   
@@ -5014,7 +5002,7 @@ void _wrap_aiLight_mColorSpecular_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, 
 }
 
 
-aiColor3D *_wrap_aiLight_mColorSpecular_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiColor3D *_wrap_aiLight_mColorSpecular_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
@@ -5027,7 +5015,7 @@ aiColor3D *_wrap_aiLight_mColorSpecular_get_aig_ad8534e24299c30d(aiLight *_swig_
 }
 
 
-void _wrap_aiLight_mColorAmbient_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
+void _wrap_aiLight_mColorAmbient_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiColor3D *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   
@@ -5039,7 +5027,7 @@ void _wrap_aiLight_mColorAmbient_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, a
 }
 
 
-aiColor3D *_wrap_aiLight_mColorAmbient_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiColor3D *_wrap_aiLight_mColorAmbient_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiColor3D *result = 0 ;
   aiColor3D *_swig_go_result;
@@ -5052,7 +5040,7 @@ aiColor3D *_wrap_aiLight_mColorAmbient_get_aig_ad8534e24299c30d(aiLight *_swig_g
 }
 
 
-void _wrap_aiLight_mAngleInnerCone_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiLight_mAngleInnerCone_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, float _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   float arg2 ;
   
@@ -5064,7 +5052,7 @@ void _wrap_aiLight_mAngleInnerCone_set_aig_ad8534e24299c30d(aiLight *_swig_go_0,
 }
 
 
-float _wrap_aiLight_mAngleInnerCone_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+float _wrap_aiLight_mAngleInnerCone_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   float result;
   float _swig_go_result;
@@ -5077,7 +5065,7 @@ float _wrap_aiLight_mAngleInnerCone_get_aig_ad8534e24299c30d(aiLight *_swig_go_0
 }
 
 
-void _wrap_aiLight_mAngleOuterCone_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, float _swig_go_1) {
+void _wrap_aiLight_mAngleOuterCone_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, float _swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   float arg2 ;
   
@@ -5089,7 +5077,7 @@ void _wrap_aiLight_mAngleOuterCone_set_aig_ad8534e24299c30d(aiLight *_swig_go_0,
 }
 
 
-float _wrap_aiLight_mAngleOuterCone_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+float _wrap_aiLight_mAngleOuterCone_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   float result;
   float _swig_go_result;
@@ -5102,7 +5090,7 @@ float _wrap_aiLight_mAngleOuterCone_get_aig_ad8534e24299c30d(aiLight *_swig_go_0
 }
 
 
-void _wrap_aiLight_mSize_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector2t< float > *_swig_go_1) {
+void _wrap_aiLight_mSize_set_aig_324a1309ed911fbd(aiLight *_swig_go_0, aiVector2t< float > *_swig_go_1) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector2D *arg2 = (aiVector2D *) 0 ;
   
@@ -5114,7 +5102,7 @@ void _wrap_aiLight_mSize_set_aig_ad8534e24299c30d(aiLight *_swig_go_0, aiVector2
 }
 
 
-aiVector2t< float > *_wrap_aiLight_mSize_get_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+aiVector2t< float > *_wrap_aiLight_mSize_get_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   aiVector2D *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -5127,7 +5115,7 @@ aiVector2t< float > *_wrap_aiLight_mSize_get_aig_ad8534e24299c30d(aiLight *_swig
 }
 
 
-aiLight *_wrap_new_aiLight_aig_ad8534e24299c30d() {
+aiLight *_wrap_new_aiLight_aig_324a1309ed911fbd() {
   aiLight *result = 0 ;
   aiLight *_swig_go_result;
   
@@ -5138,7 +5126,7 @@ aiLight *_wrap_new_aiLight_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiLight_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
+void _wrap_delete_aiLight_aig_324a1309ed911fbd(aiLight *_swig_go_0) {
   aiLight *arg1 = (aiLight *) 0 ;
   
   arg1 = *(aiLight **)&_swig_go_0; 
@@ -5148,7 +5136,7 @@ void _wrap_delete_aiLight_aig_ad8534e24299c30d(aiLight *_swig_go_0) {
 }
 
 
-void _wrap_aiCamera_mName_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiCamera_mName_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, aiString *_swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -5160,7 +5148,7 @@ void _wrap_aiCamera_mName_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiStrin
 }
 
 
-aiString *_wrap_aiCamera_mName_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+aiString *_wrap_aiCamera_mName_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -5173,7 +5161,7 @@ aiString *_wrap_aiCamera_mName_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
 }
 
 
-void _wrap_aiCamera_mPosition_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiCamera_mPosition_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -5185,7 +5173,7 @@ void _wrap_aiCamera_mPosition_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiV
 }
 
 
-aiVector3t< float > *_wrap_aiCamera_mPosition_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+aiVector3t< float > *_wrap_aiCamera_mPosition_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -5198,7 +5186,7 @@ aiVector3t< float > *_wrap_aiCamera_mPosition_get_aig_ad8534e24299c30d(aiCamera 
 }
 
 
-void _wrap_aiCamera_mUp_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiCamera_mUp_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -5210,7 +5198,7 @@ void _wrap_aiCamera_mUp_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiVector3
 }
 
 
-aiVector3t< float > *_wrap_aiCamera_mUp_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+aiVector3t< float > *_wrap_aiCamera_mUp_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -5223,7 +5211,7 @@ aiVector3t< float > *_wrap_aiCamera_mUp_get_aig_ad8534e24299c30d(aiCamera *_swig
 }
 
 
-void _wrap_aiCamera_mLookAt_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiCamera_mLookAt_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -5235,7 +5223,7 @@ void _wrap_aiCamera_mLookAt_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiVec
 }
 
 
-aiVector3t< float > *_wrap_aiCamera_mLookAt_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+aiVector3t< float > *_wrap_aiCamera_mLookAt_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -5248,7 +5236,7 @@ aiVector3t< float > *_wrap_aiCamera_mLookAt_get_aig_ad8534e24299c30d(aiCamera *_
 }
 
 
-void _wrap_aiCamera_mHorizontalFOV_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, float _swig_go_1) {
+void _wrap_aiCamera_mHorizontalFOV_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, float _swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float arg2 ;
   
@@ -5260,7 +5248,7 @@ void _wrap_aiCamera_mHorizontalFOV_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0
 }
 
 
-float _wrap_aiCamera_mHorizontalFOV_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+float _wrap_aiCamera_mHorizontalFOV_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float result;
   float _swig_go_result;
@@ -5273,7 +5261,7 @@ float _wrap_aiCamera_mHorizontalFOV_get_aig_ad8534e24299c30d(aiCamera *_swig_go_
 }
 
 
-void _wrap_aiCamera_mClipPlaneNear_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, float _swig_go_1) {
+void _wrap_aiCamera_mClipPlaneNear_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, float _swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float arg2 ;
   
@@ -5285,7 +5273,7 @@ void _wrap_aiCamera_mClipPlaneNear_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0
 }
 
 
-float _wrap_aiCamera_mClipPlaneNear_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+float _wrap_aiCamera_mClipPlaneNear_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float result;
   float _swig_go_result;
@@ -5298,7 +5286,7 @@ float _wrap_aiCamera_mClipPlaneNear_get_aig_ad8534e24299c30d(aiCamera *_swig_go_
 }
 
 
-void _wrap_aiCamera_mClipPlaneFar_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, float _swig_go_1) {
+void _wrap_aiCamera_mClipPlaneFar_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, float _swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float arg2 ;
   
@@ -5310,7 +5298,7 @@ void _wrap_aiCamera_mClipPlaneFar_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0,
 }
 
 
-float _wrap_aiCamera_mClipPlaneFar_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+float _wrap_aiCamera_mClipPlaneFar_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float result;
   float _swig_go_result;
@@ -5323,7 +5311,7 @@ float _wrap_aiCamera_mClipPlaneFar_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0
 }
 
 
-void _wrap_aiCamera_mAspect_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, float _swig_go_1) {
+void _wrap_aiCamera_mAspect_set_aig_324a1309ed911fbd(aiCamera *_swig_go_0, float _swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float arg2 ;
   
@@ -5335,7 +5323,7 @@ void _wrap_aiCamera_mAspect_set_aig_ad8534e24299c30d(aiCamera *_swig_go_0, float
 }
 
 
-float _wrap_aiCamera_mAspect_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+float _wrap_aiCamera_mAspect_get_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   float result;
   float _swig_go_result;
@@ -5348,7 +5336,7 @@ float _wrap_aiCamera_mAspect_get_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
 }
 
 
-aiCamera *_wrap_new_aiCamera_aig_ad8534e24299c30d() {
+aiCamera *_wrap_new_aiCamera_aig_324a1309ed911fbd() {
   aiCamera *result = 0 ;
   aiCamera *_swig_go_result;
   
@@ -5359,7 +5347,7 @@ aiCamera *_wrap_new_aiCamera_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiCamera_GetCameraMatrix_aig_ad8534e24299c30d(aiCamera *_swig_go_0, aiMatrix4x4 *_swig_go_1) {
+void _wrap_aiCamera_GetCameraMatrix_aig_324a1309ed911fbd(aiCamera *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   aiMatrix4x4 *arg2 = 0 ;
   
@@ -5371,7 +5359,7 @@ void _wrap_aiCamera_GetCameraMatrix_aig_ad8534e24299c30d(aiCamera *_swig_go_0, a
 }
 
 
-void _wrap_delete_aiCamera_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
+void _wrap_delete_aiCamera_aig_324a1309ed911fbd(aiCamera *_swig_go_0) {
   aiCamera *arg1 = (aiCamera *) 0 ;
   
   arg1 = *(aiCamera **)&_swig_go_0; 
@@ -5381,7 +5369,7 @@ void _wrap_delete_aiCamera_aig_ad8534e24299c30d(aiCamera *_swig_go_0) {
 }
 
 
-intgo _wrap_aiTextureOp_Multiply_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_Multiply_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5393,7 +5381,7 @@ intgo _wrap_aiTextureOp_Multiply_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureOp_Add_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_Add_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5405,7 +5393,7 @@ intgo _wrap_aiTextureOp_Add_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureOp_Subtract_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_Subtract_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5417,7 +5405,7 @@ intgo _wrap_aiTextureOp_Subtract_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureOp_Divide_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_Divide_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5429,7 +5417,7 @@ intgo _wrap_aiTextureOp_Divide_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureOp_SmoothAdd_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_SmoothAdd_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5441,7 +5429,7 @@ intgo _wrap_aiTextureOp_SmoothAdd_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureOp_SignedAdd_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureOp_SignedAdd_aig_324a1309ed911fbd() {
   aiTextureOp result;
   intgo _swig_go_result;
   
@@ -5453,7 +5441,7 @@ intgo _wrap_aiTextureOp_SignedAdd_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapMode_Wrap_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapMode_Wrap_aig_324a1309ed911fbd() {
   aiTextureMapMode result;
   intgo _swig_go_result;
   
@@ -5465,7 +5453,7 @@ intgo _wrap_aiTextureMapMode_Wrap_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapMode_Clamp_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapMode_Clamp_aig_324a1309ed911fbd() {
   aiTextureMapMode result;
   intgo _swig_go_result;
   
@@ -5477,7 +5465,7 @@ intgo _wrap_aiTextureMapMode_Clamp_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapMode_Decal_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapMode_Decal_aig_324a1309ed911fbd() {
   aiTextureMapMode result;
   intgo _swig_go_result;
   
@@ -5489,7 +5477,7 @@ intgo _wrap_aiTextureMapMode_Decal_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapMode_Mirror_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapMode_Mirror_aig_324a1309ed911fbd() {
   aiTextureMapMode result;
   intgo _swig_go_result;
   
@@ -5501,7 +5489,7 @@ intgo _wrap_aiTextureMapMode_Mirror_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_UV_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_UV_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5513,7 +5501,7 @@ intgo _wrap_aiTextureMapping_UV_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_SPHERE_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_SPHERE_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5525,7 +5513,7 @@ intgo _wrap_aiTextureMapping_SPHERE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_CYLINDER_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_CYLINDER_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5537,7 +5525,7 @@ intgo _wrap_aiTextureMapping_CYLINDER_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_BOX_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_BOX_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5549,7 +5537,7 @@ intgo _wrap_aiTextureMapping_BOX_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_PLANE_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_PLANE_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5561,7 +5549,7 @@ intgo _wrap_aiTextureMapping_PLANE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureMapping_OTHER_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureMapping_OTHER_aig_324a1309ed911fbd() {
   aiTextureMapping result;
   intgo _swig_go_result;
   
@@ -5573,7 +5561,7 @@ intgo _wrap_aiTextureMapping_OTHER_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_NONE_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_NONE_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5585,7 +5573,7 @@ intgo _wrap_aiTextureType_NONE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_DIFFUSE_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_DIFFUSE_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5597,7 +5585,7 @@ intgo _wrap_aiTextureType_DIFFUSE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_SPECULAR_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_SPECULAR_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5609,7 +5597,7 @@ intgo _wrap_aiTextureType_SPECULAR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_AMBIENT_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_AMBIENT_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5621,7 +5609,7 @@ intgo _wrap_aiTextureType_AMBIENT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_EMISSIVE_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_EMISSIVE_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5633,7 +5621,7 @@ intgo _wrap_aiTextureType_EMISSIVE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_HEIGHT_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_HEIGHT_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5645,7 +5633,7 @@ intgo _wrap_aiTextureType_HEIGHT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_NORMALS_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_NORMALS_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5657,7 +5645,7 @@ intgo _wrap_aiTextureType_NORMALS_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_SHININESS_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_SHININESS_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5669,7 +5657,7 @@ intgo _wrap_aiTextureType_SHININESS_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_OPACITY_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_OPACITY_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5681,7 +5669,7 @@ intgo _wrap_aiTextureType_OPACITY_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_DISPLACEMENT_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_DISPLACEMENT_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5693,7 +5681,7 @@ intgo _wrap_aiTextureType_DISPLACEMENT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_LIGHTMAP_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_LIGHTMAP_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5705,7 +5693,7 @@ intgo _wrap_aiTextureType_LIGHTMAP_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_REFLECTION_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_REFLECTION_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5717,7 +5705,7 @@ intgo _wrap_aiTextureType_REFLECTION_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_BASE_COLOR_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_BASE_COLOR_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5729,7 +5717,7 @@ intgo _wrap_aiTextureType_BASE_COLOR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_NORMAL_CAMERA_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_NORMAL_CAMERA_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5741,7 +5729,7 @@ intgo _wrap_aiTextureType_NORMAL_CAMERA_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_EMISSION_COLOR_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_EMISSION_COLOR_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5753,7 +5741,7 @@ intgo _wrap_aiTextureType_EMISSION_COLOR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_METALNESS_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_METALNESS_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5765,7 +5753,7 @@ intgo _wrap_aiTextureType_METALNESS_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_DIFFUSE_ROUGHNESS_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_DIFFUSE_ROUGHNESS_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5777,7 +5765,7 @@ intgo _wrap_aiTextureType_DIFFUSE_ROUGHNESS_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_AMBIENT_OCCLUSION_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_AMBIENT_OCCLUSION_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5789,7 +5777,7 @@ intgo _wrap_aiTextureType_AMBIENT_OCCLUSION_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureType_UNKNOWN_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureType_UNKNOWN_aig_324a1309ed911fbd() {
   aiTextureType result;
   intgo _swig_go_result;
   
@@ -5801,7 +5789,7 @@ intgo _wrap_aiTextureType_UNKNOWN_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Flat_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Flat_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5813,7 +5801,7 @@ intgo _wrap_aiShadingMode_Flat_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Gouraud_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Gouraud_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5825,7 +5813,7 @@ intgo _wrap_aiShadingMode_Gouraud_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Phong_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Phong_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5837,7 +5825,7 @@ intgo _wrap_aiShadingMode_Phong_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Blinn_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Blinn_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5849,7 +5837,7 @@ intgo _wrap_aiShadingMode_Blinn_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Toon_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Toon_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5861,7 +5849,7 @@ intgo _wrap_aiShadingMode_Toon_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_OrenNayar_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_OrenNayar_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5873,7 +5861,7 @@ intgo _wrap_aiShadingMode_OrenNayar_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Minnaert_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Minnaert_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5885,7 +5873,7 @@ intgo _wrap_aiShadingMode_Minnaert_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_CookTorrance_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_CookTorrance_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5897,7 +5885,7 @@ intgo _wrap_aiShadingMode_CookTorrance_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_NoShading_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_NoShading_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5909,7 +5897,7 @@ intgo _wrap_aiShadingMode_NoShading_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiShadingMode_Fresnel_aig_ad8534e24299c30d() {
+intgo _wrap_aiShadingMode_Fresnel_aig_324a1309ed911fbd() {
   aiShadingMode result;
   intgo _swig_go_result;
   
@@ -5921,7 +5909,7 @@ intgo _wrap_aiShadingMode_Fresnel_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureFlags_Invert_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureFlags_Invert_aig_324a1309ed911fbd() {
   aiTextureFlags result;
   intgo _swig_go_result;
   
@@ -5933,7 +5921,7 @@ intgo _wrap_aiTextureFlags_Invert_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureFlags_UseAlpha_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureFlags_UseAlpha_aig_324a1309ed911fbd() {
   aiTextureFlags result;
   intgo _swig_go_result;
   
@@ -5945,7 +5933,7 @@ intgo _wrap_aiTextureFlags_UseAlpha_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiTextureFlags_IgnoreAlpha_aig_ad8534e24299c30d() {
+intgo _wrap_aiTextureFlags_IgnoreAlpha_aig_324a1309ed911fbd() {
   aiTextureFlags result;
   intgo _swig_go_result;
   
@@ -5957,7 +5945,7 @@ intgo _wrap_aiTextureFlags_IgnoreAlpha_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiBlendMode_Default_aig_ad8534e24299c30d() {
+intgo _wrap_aiBlendMode_Default_aig_324a1309ed911fbd() {
   aiBlendMode result;
   intgo _swig_go_result;
   
@@ -5969,7 +5957,7 @@ intgo _wrap_aiBlendMode_Default_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiBlendMode_Additive_aig_ad8534e24299c30d() {
+intgo _wrap_aiBlendMode_Additive_aig_324a1309ed911fbd() {
   aiBlendMode result;
   intgo _swig_go_result;
   
@@ -5981,7 +5969,7 @@ intgo _wrap_aiBlendMode_Additive_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiUVTransform_mTranslation_set_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0, aiVector2t< float > *_swig_go_1) {
+void _wrap_aiUVTransform_mTranslation_set_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0, aiVector2t< float > *_swig_go_1) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   aiVector2D *arg2 = (aiVector2D *) 0 ;
   
@@ -5993,7 +5981,7 @@ void _wrap_aiUVTransform_mTranslation_set_aig_ad8534e24299c30d(aiUVTransform *_s
 }
 
 
-aiVector2t< float > *_wrap_aiUVTransform_mTranslation_get_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0) {
+aiVector2t< float > *_wrap_aiUVTransform_mTranslation_get_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   aiVector2D *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -6006,7 +5994,7 @@ aiVector2t< float > *_wrap_aiUVTransform_mTranslation_get_aig_ad8534e24299c30d(a
 }
 
 
-void _wrap_aiUVTransform_mScaling_set_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0, aiVector2t< float > *_swig_go_1) {
+void _wrap_aiUVTransform_mScaling_set_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0, aiVector2t< float > *_swig_go_1) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   aiVector2D *arg2 = (aiVector2D *) 0 ;
   
@@ -6018,7 +6006,7 @@ void _wrap_aiUVTransform_mScaling_set_aig_ad8534e24299c30d(aiUVTransform *_swig_
 }
 
 
-aiVector2t< float > *_wrap_aiUVTransform_mScaling_get_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0) {
+aiVector2t< float > *_wrap_aiUVTransform_mScaling_get_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   aiVector2D *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -6031,7 +6019,7 @@ aiVector2t< float > *_wrap_aiUVTransform_mScaling_get_aig_ad8534e24299c30d(aiUVT
 }
 
 
-void _wrap_aiUVTransform_mRotation_set_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0, float _swig_go_1) {
+void _wrap_aiUVTransform_mRotation_set_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0, float _swig_go_1) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   ai_real arg2 ;
   
@@ -6043,7 +6031,7 @@ void _wrap_aiUVTransform_mRotation_set_aig_ad8534e24299c30d(aiUVTransform *_swig
 }
 
 
-float _wrap_aiUVTransform_mRotation_get_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0) {
+float _wrap_aiUVTransform_mRotation_get_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   ai_real result;
   float _swig_go_result;
@@ -6056,7 +6044,7 @@ float _wrap_aiUVTransform_mRotation_get_aig_ad8534e24299c30d(aiUVTransform *_swi
 }
 
 
-aiUVTransform *_wrap_new_aiUVTransform_aig_ad8534e24299c30d() {
+aiUVTransform *_wrap_new_aiUVTransform_aig_324a1309ed911fbd() {
   aiUVTransform *result = 0 ;
   aiUVTransform *_swig_go_result;
   
@@ -6067,7 +6055,7 @@ aiUVTransform *_wrap_new_aiUVTransform_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiUVTransform_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0) {
+void _wrap_delete_aiUVTransform_aig_324a1309ed911fbd(aiUVTransform *_swig_go_0) {
   aiUVTransform *arg1 = (aiUVTransform *) 0 ;
   
   arg1 = *(aiUVTransform **)&_swig_go_0; 
@@ -6077,7 +6065,7 @@ void _wrap_delete_aiUVTransform_aig_ad8534e24299c30d(aiUVTransform *_swig_go_0) 
 }
 
 
-intgo _wrap_aiPTI_Float_aig_ad8534e24299c30d() {
+intgo _wrap_aiPTI_Float_aig_324a1309ed911fbd() {
   aiPropertyTypeInfo result;
   intgo _swig_go_result;
   
@@ -6089,7 +6077,7 @@ intgo _wrap_aiPTI_Float_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPTI_Double_aig_ad8534e24299c30d() {
+intgo _wrap_aiPTI_Double_aig_324a1309ed911fbd() {
   aiPropertyTypeInfo result;
   intgo _swig_go_result;
   
@@ -6101,7 +6089,7 @@ intgo _wrap_aiPTI_Double_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPTI_String_aig_ad8534e24299c30d() {
+intgo _wrap_aiPTI_String_aig_324a1309ed911fbd() {
   aiPropertyTypeInfo result;
   intgo _swig_go_result;
   
@@ -6113,7 +6101,7 @@ intgo _wrap_aiPTI_String_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPTI_Integer_aig_ad8534e24299c30d() {
+intgo _wrap_aiPTI_Integer_aig_324a1309ed911fbd() {
   aiPropertyTypeInfo result;
   intgo _swig_go_result;
   
@@ -6125,7 +6113,7 @@ intgo _wrap_aiPTI_Integer_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiPTI_Buffer_aig_ad8534e24299c30d() {
+intgo _wrap_aiPTI_Buffer_aig_324a1309ed911fbd() {
   aiPropertyTypeInfo result;
   intgo _swig_go_result;
   
@@ -6137,7 +6125,7 @@ intgo _wrap_aiPTI_Buffer_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiMaterialProperty_mKey_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiMaterialProperty_mKey_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, aiString *_swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -6149,7 +6137,7 @@ void _wrap_aiMaterialProperty_mKey_set_aig_ad8534e24299c30d(aiMaterialProperty *
 }
 
 
-aiString *_wrap_aiMaterialProperty_mKey_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+aiString *_wrap_aiMaterialProperty_mKey_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -6162,7 +6150,7 @@ aiString *_wrap_aiMaterialProperty_mKey_get_aig_ad8534e24299c30d(aiMaterialPrope
 }
 
 
-void _wrap_aiMaterialProperty_mSemantic_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterialProperty_mSemantic_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int arg2 ;
   
@@ -6174,7 +6162,7 @@ void _wrap_aiMaterialProperty_mSemantic_set_aig_ad8534e24299c30d(aiMaterialPrope
 }
 
 
-intgo _wrap_aiMaterialProperty_mSemantic_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+intgo _wrap_aiMaterialProperty_mSemantic_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -6187,7 +6175,7 @@ intgo _wrap_aiMaterialProperty_mSemantic_get_aig_ad8534e24299c30d(aiMaterialProp
 }
 
 
-void _wrap_aiMaterialProperty_mIndex_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterialProperty_mIndex_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int arg2 ;
   
@@ -6199,7 +6187,7 @@ void _wrap_aiMaterialProperty_mIndex_set_aig_ad8534e24299c30d(aiMaterialProperty
 }
 
 
-intgo _wrap_aiMaterialProperty_mIndex_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+intgo _wrap_aiMaterialProperty_mIndex_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -6212,7 +6200,7 @@ intgo _wrap_aiMaterialProperty_mIndex_get_aig_ad8534e24299c30d(aiMaterialPropert
 }
 
 
-void _wrap_aiMaterialProperty_mDataLength_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterialProperty_mDataLength_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int arg2 ;
   
@@ -6224,7 +6212,7 @@ void _wrap_aiMaterialProperty_mDataLength_set_aig_ad8534e24299c30d(aiMaterialPro
 }
 
 
-intgo _wrap_aiMaterialProperty_mDataLength_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+intgo _wrap_aiMaterialProperty_mDataLength_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -6237,7 +6225,7 @@ intgo _wrap_aiMaterialProperty_mDataLength_get_aig_ad8534e24299c30d(aiMaterialPr
 }
 
 
-void _wrap_aiMaterialProperty_mType_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterialProperty_mType_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, intgo _swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   enum aiPropertyTypeInfo arg2 ;
   
@@ -6249,7 +6237,7 @@ void _wrap_aiMaterialProperty_mType_set_aig_ad8534e24299c30d(aiMaterialProperty 
 }
 
 
-intgo _wrap_aiMaterialProperty_mType_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+intgo _wrap_aiMaterialProperty_mType_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   enum aiPropertyTypeInfo result;
   intgo _swig_go_result;
@@ -6262,7 +6250,7 @@ intgo _wrap_aiMaterialProperty_mType_get_aig_ad8534e24299c30d(aiMaterialProperty
 }
 
 
-void _wrap_aiMaterialProperty_mData_set_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_aiMaterialProperty_mData_set_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0, _gostring_ _swig_go_1) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -6287,7 +6275,7 @@ void _wrap_aiMaterialProperty_mData_set_aig_ad8534e24299c30d(aiMaterialProperty 
 }
 
 
-_gostring_ _wrap_aiMaterialProperty_mData_get_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+_gostring_ _wrap_aiMaterialProperty_mData_get_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -6300,7 +6288,7 @@ _gostring_ _wrap_aiMaterialProperty_mData_get_aig_ad8534e24299c30d(aiMaterialPro
 }
 
 
-aiMaterialProperty *_wrap_new_aiMaterialProperty_aig_ad8534e24299c30d() {
+aiMaterialProperty *_wrap_new_aiMaterialProperty_aig_324a1309ed911fbd() {
   aiMaterialProperty *result = 0 ;
   aiMaterialProperty *_swig_go_result;
   
@@ -6311,7 +6299,7 @@ aiMaterialProperty *_wrap_new_aiMaterialProperty_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMaterialProperty_aig_ad8534e24299c30d(aiMaterialProperty *_swig_go_0) {
+void _wrap_delete_aiMaterialProperty_aig_324a1309ed911fbd(aiMaterialProperty *_swig_go_0) {
   aiMaterialProperty *arg1 = (aiMaterialProperty *) 0 ;
   
   arg1 = *(aiMaterialProperty **)&_swig_go_0; 
@@ -6321,7 +6309,7 @@ void _wrap_delete_aiMaterialProperty_aig_ad8534e24299c30d(aiMaterialProperty *_s
 }
 
 
-aiMaterial *_wrap_new_aiMaterial_aig_ad8534e24299c30d() {
+aiMaterial *_wrap_new_aiMaterial_aig_324a1309ed911fbd() {
   aiMaterial *result = 0 ;
   aiMaterial *_swig_go_result;
   
@@ -6332,7 +6320,7 @@ aiMaterial *_wrap_new_aiMaterial_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMaterial_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+void _wrap_delete_aiMaterial_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   
   arg1 = *(aiMaterial **)&_swig_go_0; 
@@ -6342,7 +6330,7 @@ void _wrap_delete_aiMaterial_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
 }
 
 
-aiString *_wrap_aiMaterial_GetName_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+aiString *_wrap_aiMaterial_GetName_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiString result;
   aiString *_swig_go_result;
@@ -6355,7 +6343,7 @@ aiString *_wrap_aiMaterial_GetName_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_Get__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6383,7 +6371,7 @@ intgo _wrap_aiMaterial_Get__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_Get__SWIG_2_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6411,7 +6399,7 @@ intgo _wrap_aiMaterial_Get__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_4_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, int *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_4_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, int *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6437,7 +6425,7 @@ intgo _wrap_aiMaterial_Get__SWIG_4_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_5_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, ai_real *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_5_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, ai_real *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6463,7 +6451,7 @@ intgo _wrap_aiMaterial_Get__SWIG_5_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_6_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_6_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6489,7 +6477,7 @@ intgo _wrap_aiMaterial_Get__SWIG_6_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_7_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_7_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6515,7 +6503,7 @@ intgo _wrap_aiMaterial_Get__SWIG_7_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_8_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_8_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6541,7 +6529,7 @@ intgo _wrap_aiMaterial_Get__SWIG_8_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_Get__SWIG_9_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiUVTransform *_swig_go_4) {
+intgo _wrap_aiMaterial_Get__SWIG_9_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiUVTransform *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -6567,7 +6555,7 @@ intgo _wrap_aiMaterial_Get__SWIG_9_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMaterial_GetTextureCount_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_aiMaterial_GetTextureCount_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int result;
@@ -6582,7 +6570,7 @@ intgo _wrap_aiMaterial_GetTextureCount_aig_ad8534e24299c30d(aiMaterial *_swig_go
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7, aiTextureMapMode *_swig_go_8) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7, aiTextureMapMode *_swig_go_8) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6633,7 +6621,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6682,7 +6670,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_2_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6729,7 +6717,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_3_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_3_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6763,7 +6751,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_3_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_4_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_4_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6784,7 +6772,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_4_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetTexture__SWIG_5_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3) {
+intgo _wrap_aiMaterial_GetTexture__SWIG_5_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -6803,7 +6791,7 @@ intgo _wrap_aiMaterial_GetTexture__SWIG_5_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_AddBinaryProperty_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+intgo _wrap_aiMaterial_AddBinaryProperty_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   void *arg2 = (void *) 0 ;
   unsigned int arg3 ;
@@ -6833,7 +6821,7 @@ intgo _wrap_aiMaterial_AddBinaryProperty_aig_ad8534e24299c30d(aiMaterial *_swig_
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -6859,7 +6847,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -6883,7 +6871,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_2_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiString *_swig_go_1, _gostring_ _swig_go_2) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -6905,7 +6893,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_6_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_6_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   unsigned int arg3 ;
@@ -6933,7 +6921,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_6_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_7_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_7_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   unsigned int arg3 ;
@@ -6959,7 +6947,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_7_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_8_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_8_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiVector3t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   unsigned int arg3 ;
@@ -6983,7 +6971,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_8_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_9_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_9_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   unsigned int arg3 ;
@@ -7011,7 +6999,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_9_aig_ad8534e24299c30d(aiMaterial *_swi
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_10_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_10_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   unsigned int arg3 ;
@@ -7037,7 +7025,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_10_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_11_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_11_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor3D *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor3D *arg2 = (aiColor3D *) 0 ;
   unsigned int arg3 ;
@@ -7061,7 +7049,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_11_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_12_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_12_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor4D *arg2 = (aiColor4D *) 0 ;
   unsigned int arg3 ;
@@ -7089,7 +7077,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_12_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_13_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_13_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor4D *arg2 = (aiColor4D *) 0 ;
   unsigned int arg3 ;
@@ -7115,7 +7103,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_13_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_14_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_14_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiColor4t< float > *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiColor4D *arg2 = (aiColor4D *) 0 ;
   unsigned int arg3 ;
@@ -7139,7 +7127,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_14_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_15_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_15_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   int *arg2 = (int *) 0 ;
   unsigned int arg3 ;
@@ -7167,7 +7155,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_15_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_16_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_16_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   int *arg2 = (int *) 0 ;
   unsigned int arg3 ;
@@ -7193,7 +7181,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_16_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_17_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_17_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   int *arg2 = (int *) 0 ;
   unsigned int arg3 ;
@@ -7217,7 +7205,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_17_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_18_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_18_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7245,7 +7233,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_18_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_19_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_19_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7271,7 +7259,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_19_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_20_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_20_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7295,7 +7283,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_20_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_21_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_21_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -7323,7 +7311,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_21_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_22_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_22_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -7349,7 +7337,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_22_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_23_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_23_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -7373,7 +7361,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_23_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_24_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_24_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiUVTransform *arg2 = (aiUVTransform *) 0 ;
   unsigned int arg3 ;
@@ -7401,7 +7389,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_24_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_25_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_25_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiUVTransform *arg2 = (aiUVTransform *) 0 ;
   unsigned int arg3 ;
@@ -7427,7 +7415,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_25_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_AddProperty__SWIG_26_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+intgo _wrap_aiMaterial_AddProperty__SWIG_26_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiUVTransform *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiUVTransform *arg2 = (aiUVTransform *) 0 ;
   unsigned int arg3 ;
@@ -7451,7 +7439,7 @@ intgo _wrap_aiMaterial_AddProperty__SWIG_26_aig_ad8534e24299c30d(aiMaterial *_sw
 }
 
 
-intgo _wrap_aiMaterial_RemoveProperty__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_aiMaterial_RemoveProperty__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7475,7 +7463,7 @@ intgo _wrap_aiMaterial_RemoveProperty__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_
 }
 
 
-intgo _wrap_aiMaterial_RemoveProperty__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_aiMaterial_RemoveProperty__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7497,7 +7485,7 @@ intgo _wrap_aiMaterial_RemoveProperty__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_
 }
 
 
-intgo _wrap_aiMaterial_RemoveProperty__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_aiMaterial_RemoveProperty__SWIG_2_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   aiReturn result;
@@ -7517,7 +7505,7 @@ intgo _wrap_aiMaterial_RemoveProperty__SWIG_2_aig_ad8534e24299c30d(aiMaterial *_
 }
 
 
-void _wrap_aiMaterial_Clear_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+void _wrap_aiMaterial_Clear_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   
   arg1 = *(aiMaterial **)&_swig_go_0; 
@@ -7527,7 +7515,7 @@ void _wrap_aiMaterial_Clear_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
 }
 
 
-void _wrap_aiMaterial_CopyPropertyList_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, aiMaterial *_swig_go_1) {
+void _wrap_aiMaterial_CopyPropertyList_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, aiMaterial *_swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiMaterial *arg2 = (aiMaterial *) 0 ;
   
@@ -7539,7 +7527,7 @@ void _wrap_aiMaterial_CopyPropertyList_aig_ad8534e24299c30d(aiMaterial *_swig_go
 }
 
 
-void _wrap_aiMaterial_mNumProperties_set_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterial_mNumProperties_set_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   unsigned int arg2 ;
   
@@ -7551,7 +7539,7 @@ void _wrap_aiMaterial_mNumProperties_set_aig_ad8534e24299c30d(aiMaterial *_swig_
 }
 
 
-intgo _wrap_aiMaterial_mNumProperties_get_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+intgo _wrap_aiMaterial_mNumProperties_get_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -7564,7 +7552,7 @@ intgo _wrap_aiMaterial_mNumProperties_get_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-void _wrap_aiMaterial_mNumAllocated_set_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMaterial_mNumAllocated_set_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   unsigned int arg2 ;
   
@@ -7576,7 +7564,7 @@ void _wrap_aiMaterial_mNumAllocated_set_aig_ad8534e24299c30d(aiMaterial *_swig_g
 }
 
 
-intgo _wrap_aiMaterial_mNumAllocated_get_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+intgo _wrap_aiMaterial_mNumAllocated_get_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -7589,7 +7577,7 @@ intgo _wrap_aiMaterial_mNumAllocated_get_aig_ad8534e24299c30d(aiMaterial *_swig_
 }
 
 
-std::vector< aiMaterialProperty * > *_wrap_aiMaterial_mProperties_aig_ad8534e24299c30d(aiMaterial *_swig_go_0) {
+std::vector< aiMaterialProperty * > *_wrap_aiMaterial_mProperties_aig_324a1309ed911fbd(aiMaterial *_swig_go_0) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   std::vector< aiMaterialProperty * > *result = 0 ;
   std::vector< aiMaterialProperty * > *_swig_go_result;
@@ -7602,7 +7590,7 @@ std::vector< aiMaterialProperty * > *_wrap_aiMaterial_mProperties_aig_ad8534e242
 }
 
 
-intgo _wrap_aiMaterial_GetInteger__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_GetInteger__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7630,7 +7618,7 @@ intgo _wrap_aiMaterial_GetInteger__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetInteger__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, int *_swig_go_4) {
+intgo _wrap_aiMaterial_GetInteger__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, int *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7656,7 +7644,7 @@ intgo _wrap_aiMaterial_GetInteger__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetFloat__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_GetFloat__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7684,7 +7672,7 @@ intgo _wrap_aiMaterial_GetFloat__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_g
 }
 
 
-intgo _wrap_aiMaterial_GetFloat__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
+intgo _wrap_aiMaterial_GetFloat__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7710,7 +7698,7 @@ intgo _wrap_aiMaterial_GetFloat__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_g
 }
 
 
-intgo _wrap_aiMaterial_GetColor4D__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_GetColor4D__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7738,7 +7726,7 @@ intgo _wrap_aiMaterial_GetColor4D__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetColor4D__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
+intgo _wrap_aiMaterial_GetColor4D__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7764,7 +7752,7 @@ intgo _wrap_aiMaterial_GetColor4D__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetColor3D__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_GetColor3D__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7792,7 +7780,7 @@ intgo _wrap_aiMaterial_GetColor3D__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetColor3D__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4) {
+intgo _wrap_aiMaterial_GetColor3D__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor3D *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7818,7 +7806,7 @@ intgo _wrap_aiMaterial_GetColor3D__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig
 }
 
 
-intgo _wrap_aiMaterial_GetString__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiMaterial_GetString__SWIG_0_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7846,7 +7834,7 @@ intgo _wrap_aiMaterial_GetString__SWIG_0_aig_ad8534e24299c30d(aiMaterial *_swig_
 }
 
 
-intgo _wrap_aiMaterial_GetString__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
+intgo _wrap_aiMaterial_GetString__SWIG_1_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7872,7 +7860,7 @@ intgo _wrap_aiMaterial_GetString__SWIG_1_aig_ad8534e24299c30d(aiMaterial *_swig_
 }
 
 
-intgo _wrap_aiGetMaterialProperty_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiMaterialProperty **_swig_go_4) {
+intgo _wrap_aiGetMaterialProperty_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiMaterialProperty **_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7898,7 +7886,7 @@ intgo _wrap_aiGetMaterialProperty_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _
 }
 
 
-intgo _wrap_aiGetMaterialFloatArray_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiGetMaterialFloatArray_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7926,7 +7914,7 @@ intgo _wrap_aiGetMaterialFloatArray_aig_ad8534e24299c30d(aiMaterial *_swig_go_0,
 }
 
 
-intgo _wrap_aiGetMaterialFloat_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
+intgo _wrap_aiGetMaterialFloat_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7952,7 +7940,7 @@ intgo _wrap_aiGetMaterialFloat_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gos
 }
 
 
-intgo _wrap_aiGetMaterialIntegerArray_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
+intgo _wrap_aiGetMaterialIntegerArray_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4, intgo *_swig_go_5) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -7980,7 +7968,7 @@ intgo _wrap_aiGetMaterialIntegerArray_aig_ad8534e24299c30d(aiMaterial *_swig_go_
 }
 
 
-intgo _wrap_aiGetMaterialInteger_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
+intgo _wrap_aiGetMaterialInteger_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -8006,7 +7994,7 @@ intgo _wrap_aiGetMaterialInteger_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _g
 }
 
 
-intgo _wrap_aiGetMaterialColor_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
+intgo _wrap_aiGetMaterialColor_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiColor4t< float > *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -8032,7 +8020,7 @@ intgo _wrap_aiGetMaterialColor_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gos
 }
 
 
-intgo _wrap_aiGetMaterialUVTransform_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiUVTransform *_swig_go_4) {
+intgo _wrap_aiGetMaterialUVTransform_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiUVTransform *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -8058,7 +8046,7 @@ intgo _wrap_aiGetMaterialUVTransform_aig_ad8534e24299c30d(aiMaterial *_swig_go_0
 }
 
 
-intgo _wrap_aiGetMaterialString_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
+intgo _wrap_aiGetMaterialString_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, aiString *_swig_go_4) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   char *arg2 = (char *) 0 ;
   unsigned int arg3 ;
@@ -8084,7 +8072,7 @@ intgo _wrap_aiGetMaterialString_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, _go
 }
 
 
-intgo _wrap_aiGetMaterialTextureCount_aig_ad8534e24299c30d(aiMaterial *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_aiGetMaterialTextureCount_aig_324a1309ed911fbd(aiMaterial *_swig_go_0, intgo _swig_go_1) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   enum aiTextureType arg2 ;
   unsigned int result;
@@ -8099,7 +8087,7 @@ intgo _wrap_aiGetMaterialTextureCount_aig_ad8534e24299c30d(aiMaterial *_swig_go_
 }
 
 
-intgo _wrap_aiGetMaterialTexture_aig_ad8534e24299c30d(intgo _swig_optargc, aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7, aiTextureMapMode *_swig_go_8, _goslice_ _swig_go_9) {
+intgo _wrap_aiGetMaterialTexture_aig_324a1309ed911fbd(intgo _swig_optargc, aiMaterial *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, aiString *_swig_go_3, aiTextureMapping *_swig_go_4, _goslice_ _swig_go_5, _goslice_ _swig_go_6, aiTextureOp *_swig_go_7, aiTextureMapMode *_swig_go_8, _goslice_ _swig_go_9) {
   aiMaterial *arg1 = (aiMaterial *) 0 ;
   aiTextureType arg2 ;
   unsigned int arg3 ;
@@ -8175,7 +8163,7 @@ intgo _wrap_aiGetMaterialTexture_aig_ad8534e24299c30d(intgo _swig_optargc, aiMat
 }
 
 
-void _wrap_aiVectorKey_mTime_set_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0, double _swig_go_1) {
+void _wrap_aiVectorKey_mTime_set_aig_324a1309ed911fbd(aiVectorKey *_swig_go_0, double _swig_go_1) {
   aiVectorKey *arg1 = (aiVectorKey *) 0 ;
   double arg2 ;
   
@@ -8187,7 +8175,7 @@ void _wrap_aiVectorKey_mTime_set_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0, d
 }
 
 
-double _wrap_aiVectorKey_mTime_get_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0) {
+double _wrap_aiVectorKey_mTime_get_aig_324a1309ed911fbd(aiVectorKey *_swig_go_0) {
   aiVectorKey *arg1 = (aiVectorKey *) 0 ;
   double result;
   double _swig_go_result;
@@ -8200,7 +8188,7 @@ double _wrap_aiVectorKey_mTime_get_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0)
 }
 
 
-void _wrap_aiVectorKey_mValue_set_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+void _wrap_aiVectorKey_mValue_set_aig_324a1309ed911fbd(aiVectorKey *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiVectorKey *arg1 = (aiVectorKey *) 0 ;
   aiVector3D *arg2 = (aiVector3D *) 0 ;
   
@@ -8212,7 +8200,7 @@ void _wrap_aiVectorKey_mValue_set_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0, 
 }
 
 
-aiVector3t< float > *_wrap_aiVectorKey_mValue_get_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0) {
+aiVector3t< float > *_wrap_aiVectorKey_mValue_get_aig_324a1309ed911fbd(aiVectorKey *_swig_go_0) {
   aiVectorKey *arg1 = (aiVectorKey *) 0 ;
   aiVector3D *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -8225,7 +8213,7 @@ aiVector3t< float > *_wrap_aiVectorKey_mValue_get_aig_ad8534e24299c30d(aiVectorK
 }
 
 
-aiVectorKey *_wrap_new_aiVectorKey__SWIG_0_aig_ad8534e24299c30d() {
+aiVectorKey *_wrap_new_aiVectorKey__SWIG_0_aig_324a1309ed911fbd() {
   aiVectorKey *result = 0 ;
   aiVectorKey *_swig_go_result;
   
@@ -8236,7 +8224,7 @@ aiVectorKey *_wrap_new_aiVectorKey__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiVectorKey *_wrap_new_aiVectorKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_0, aiVector3t< float > *_swig_go_1) {
+aiVectorKey *_wrap_new_aiVectorKey__SWIG_1_aig_324a1309ed911fbd(double _swig_go_0, aiVector3t< float > *_swig_go_1) {
   double arg1 ;
   aiVector3D *arg2 = 0 ;
   aiVectorKey *result = 0 ;
@@ -8251,7 +8239,7 @@ aiVectorKey *_wrap_new_aiVectorKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_
 }
 
 
-void _wrap_delete_aiVectorKey_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0) {
+void _wrap_delete_aiVectorKey_aig_324a1309ed911fbd(aiVectorKey *_swig_go_0) {
   aiVectorKey *arg1 = (aiVectorKey *) 0 ;
   
   arg1 = *(aiVectorKey **)&_swig_go_0; 
@@ -8261,7 +8249,7 @@ void _wrap_delete_aiVectorKey_aig_ad8534e24299c30d(aiVectorKey *_swig_go_0) {
 }
 
 
-void _wrap_aiQuatKey_mTime_set_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0, double _swig_go_1) {
+void _wrap_aiQuatKey_mTime_set_aig_324a1309ed911fbd(aiQuatKey *_swig_go_0, double _swig_go_1) {
   aiQuatKey *arg1 = (aiQuatKey *) 0 ;
   double arg2 ;
   
@@ -8273,7 +8261,7 @@ void _wrap_aiQuatKey_mTime_set_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0, doubl
 }
 
 
-double _wrap_aiQuatKey_mTime_get_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0) {
+double _wrap_aiQuatKey_mTime_get_aig_324a1309ed911fbd(aiQuatKey *_swig_go_0) {
   aiQuatKey *arg1 = (aiQuatKey *) 0 ;
   double result;
   double _swig_go_result;
@@ -8286,7 +8274,7 @@ double _wrap_aiQuatKey_mTime_get_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0) {
 }
 
 
-void _wrap_aiQuatKey_mValue_set_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0, aiQuaternion *_swig_go_1) {
+void _wrap_aiQuatKey_mValue_set_aig_324a1309ed911fbd(aiQuatKey *_swig_go_0, aiQuaternion *_swig_go_1) {
   aiQuatKey *arg1 = (aiQuatKey *) 0 ;
   aiQuaternion arg2 ;
   aiQuaternion *argp2 ;
@@ -8305,7 +8293,7 @@ void _wrap_aiQuatKey_mValue_set_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0, aiQu
 }
 
 
-aiQuaternion *_wrap_aiQuatKey_mValue_get_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0) {
+aiQuaternion *_wrap_aiQuatKey_mValue_get_aig_324a1309ed911fbd(aiQuatKey *_swig_go_0) {
   aiQuatKey *arg1 = (aiQuatKey *) 0 ;
   aiQuaternion result;
   aiQuaternion *_swig_go_result;
@@ -8318,7 +8306,7 @@ aiQuaternion *_wrap_aiQuatKey_mValue_get_aig_ad8534e24299c30d(aiQuatKey *_swig_g
 }
 
 
-aiQuatKey *_wrap_new_aiQuatKey__SWIG_0_aig_ad8534e24299c30d() {
+aiQuatKey *_wrap_new_aiQuatKey__SWIG_0_aig_324a1309ed911fbd() {
   aiQuatKey *result = 0 ;
   aiQuatKey *_swig_go_result;
   
@@ -8329,7 +8317,7 @@ aiQuatKey *_wrap_new_aiQuatKey__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiQuatKey *_wrap_new_aiQuatKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_0, aiQuaternion *_swig_go_1) {
+aiQuatKey *_wrap_new_aiQuatKey__SWIG_1_aig_324a1309ed911fbd(double _swig_go_0, aiQuaternion *_swig_go_1) {
   double arg1 ;
   aiQuaternion *arg2 = 0 ;
   aiQuatKey *result = 0 ;
@@ -8344,7 +8332,7 @@ aiQuatKey *_wrap_new_aiQuatKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_0, a
 }
 
 
-void _wrap_delete_aiQuatKey_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0) {
+void _wrap_delete_aiQuatKey_aig_324a1309ed911fbd(aiQuatKey *_swig_go_0) {
   aiQuatKey *arg1 = (aiQuatKey *) 0 ;
   
   arg1 = *(aiQuatKey **)&_swig_go_0; 
@@ -8354,7 +8342,7 @@ void _wrap_delete_aiQuatKey_aig_ad8534e24299c30d(aiQuatKey *_swig_go_0) {
 }
 
 
-void _wrap_aiMeshKey_mTime_set_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0, double _swig_go_1) {
+void _wrap_aiMeshKey_mTime_set_aig_324a1309ed911fbd(aiMeshKey *_swig_go_0, double _swig_go_1) {
   aiMeshKey *arg1 = (aiMeshKey *) 0 ;
   double arg2 ;
   
@@ -8366,7 +8354,7 @@ void _wrap_aiMeshKey_mTime_set_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0, doubl
 }
 
 
-double _wrap_aiMeshKey_mTime_get_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
+double _wrap_aiMeshKey_mTime_get_aig_324a1309ed911fbd(aiMeshKey *_swig_go_0) {
   aiMeshKey *arg1 = (aiMeshKey *) 0 ;
   double result;
   double _swig_go_result;
@@ -8379,7 +8367,7 @@ double _wrap_aiMeshKey_mTime_get_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
 }
 
 
-void _wrap_aiMeshKey_mValue_set_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMeshKey_mValue_set_aig_324a1309ed911fbd(aiMeshKey *_swig_go_0, intgo _swig_go_1) {
   aiMeshKey *arg1 = (aiMeshKey *) 0 ;
   unsigned int arg2 ;
   
@@ -8391,7 +8379,7 @@ void _wrap_aiMeshKey_mValue_set_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0, intg
 }
 
 
-intgo _wrap_aiMeshKey_mValue_get_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
+intgo _wrap_aiMeshKey_mValue_get_aig_324a1309ed911fbd(aiMeshKey *_swig_go_0) {
   aiMeshKey *arg1 = (aiMeshKey *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8404,7 +8392,7 @@ intgo _wrap_aiMeshKey_mValue_get_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
 }
 
 
-aiMeshKey *_wrap_new_aiMeshKey__SWIG_0_aig_ad8534e24299c30d() {
+aiMeshKey *_wrap_new_aiMeshKey__SWIG_0_aig_324a1309ed911fbd() {
   aiMeshKey *result = 0 ;
   aiMeshKey *_swig_go_result;
   
@@ -8415,7 +8403,7 @@ aiMeshKey *_wrap_new_aiMeshKey__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiMeshKey *_wrap_new_aiMeshKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_0, intgo _swig_go_1) {
+aiMeshKey *_wrap_new_aiMeshKey__SWIG_1_aig_324a1309ed911fbd(double _swig_go_0, intgo _swig_go_1) {
   double arg1 ;
   unsigned int arg2 ;
   aiMeshKey *result = 0 ;
@@ -8430,7 +8418,7 @@ aiMeshKey *_wrap_new_aiMeshKey__SWIG_1_aig_ad8534e24299c30d(double _swig_go_0, i
 }
 
 
-void _wrap_delete_aiMeshKey_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
+void _wrap_delete_aiMeshKey_aig_324a1309ed911fbd(aiMeshKey *_swig_go_0) {
   aiMeshKey *arg1 = (aiMeshKey *) 0 ;
   
   arg1 = *(aiMeshKey **)&_swig_go_0; 
@@ -8440,7 +8428,7 @@ void _wrap_delete_aiMeshKey_aig_ad8534e24299c30d(aiMeshKey *_swig_go_0) {
 }
 
 
-void _wrap_aiMeshMorphKey_mTime_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0, double _swig_go_1) {
+void _wrap_aiMeshMorphKey_mTime_set_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0, double _swig_go_1) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   double arg2 ;
   
@@ -8452,7 +8440,7 @@ void _wrap_aiMeshMorphKey_mTime_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_g
 }
 
 
-double _wrap_aiMeshMorphKey_mTime_get_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0) {
+double _wrap_aiMeshMorphKey_mTime_get_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   double result;
   double _swig_go_result;
@@ -8465,7 +8453,7 @@ double _wrap_aiMeshMorphKey_mTime_get_aig_ad8534e24299c30d(aiMeshMorphKey *_swig
 }
 
 
-void _wrap_aiMeshMorphKey_mValues_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0, intgo *_swig_go_1) {
+void _wrap_aiMeshMorphKey_mValues_set_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0, intgo *_swig_go_1) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   
@@ -8477,7 +8465,7 @@ void _wrap_aiMeshMorphKey_mValues_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig
 }
 
 
-intgo *_wrap_aiMeshMorphKey_mValues_get_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0) {
+intgo *_wrap_aiMeshMorphKey_mValues_get_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   unsigned int *result = 0 ;
   intgo *_swig_go_result;
@@ -8490,7 +8478,7 @@ intgo *_wrap_aiMeshMorphKey_mValues_get_aig_ad8534e24299c30d(aiMeshMorphKey *_sw
 }
 
 
-void _wrap_aiMeshMorphKey_mWeights_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0, double *_swig_go_1) {
+void _wrap_aiMeshMorphKey_mWeights_set_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0, double *_swig_go_1) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   double *arg2 = (double *) 0 ;
   
@@ -8502,7 +8490,7 @@ void _wrap_aiMeshMorphKey_mWeights_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swi
 }
 
 
-double *_wrap_aiMeshMorphKey_mWeights_get_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0) {
+double *_wrap_aiMeshMorphKey_mWeights_get_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   double *result = 0 ;
   double *_swig_go_result;
@@ -8515,7 +8503,7 @@ double *_wrap_aiMeshMorphKey_mWeights_get_aig_ad8534e24299c30d(aiMeshMorphKey *_
 }
 
 
-void _wrap_aiMeshMorphKey_mNumValuesAndWeights_set_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMeshMorphKey_mNumValuesAndWeights_set_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0, intgo _swig_go_1) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   unsigned int arg2 ;
   
@@ -8527,7 +8515,7 @@ void _wrap_aiMeshMorphKey_mNumValuesAndWeights_set_aig_ad8534e24299c30d(aiMeshMo
 }
 
 
-intgo _wrap_aiMeshMorphKey_mNumValuesAndWeights_get_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0) {
+intgo _wrap_aiMeshMorphKey_mNumValuesAndWeights_get_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8540,7 +8528,7 @@ intgo _wrap_aiMeshMorphKey_mNumValuesAndWeights_get_aig_ad8534e24299c30d(aiMeshM
 }
 
 
-aiMeshMorphKey *_wrap_new_aiMeshMorphKey_aig_ad8534e24299c30d() {
+aiMeshMorphKey *_wrap_new_aiMeshMorphKey_aig_324a1309ed911fbd() {
   aiMeshMorphKey *result = 0 ;
   aiMeshMorphKey *_swig_go_result;
   
@@ -8551,7 +8539,7 @@ aiMeshMorphKey *_wrap_new_aiMeshMorphKey_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMeshMorphKey_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0) {
+void _wrap_delete_aiMeshMorphKey_aig_324a1309ed911fbd(aiMeshMorphKey *_swig_go_0) {
   aiMeshMorphKey *arg1 = (aiMeshMorphKey *) 0 ;
   
   arg1 = *(aiMeshMorphKey **)&_swig_go_0; 
@@ -8561,7 +8549,7 @@ void _wrap_delete_aiMeshMorphKey_aig_ad8534e24299c30d(aiMeshMorphKey *_swig_go_0
 }
 
 
-intgo _wrap_aiAnimBehaviour_DEFAULT_aig_ad8534e24299c30d() {
+intgo _wrap_aiAnimBehaviour_DEFAULT_aig_324a1309ed911fbd() {
   aiAnimBehaviour result;
   intgo _swig_go_result;
   
@@ -8573,7 +8561,7 @@ intgo _wrap_aiAnimBehaviour_DEFAULT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiAnimBehaviour_CONSTANT_aig_ad8534e24299c30d() {
+intgo _wrap_aiAnimBehaviour_CONSTANT_aig_324a1309ed911fbd() {
   aiAnimBehaviour result;
   intgo _swig_go_result;
   
@@ -8585,7 +8573,7 @@ intgo _wrap_aiAnimBehaviour_CONSTANT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiAnimBehaviour_LINEAR_aig_ad8534e24299c30d() {
+intgo _wrap_aiAnimBehaviour_LINEAR_aig_324a1309ed911fbd() {
   aiAnimBehaviour result;
   intgo _swig_go_result;
   
@@ -8597,7 +8585,7 @@ intgo _wrap_aiAnimBehaviour_LINEAR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiAnimBehaviour_REPEAT_aig_ad8534e24299c30d() {
+intgo _wrap_aiAnimBehaviour_REPEAT_aig_324a1309ed911fbd() {
   aiAnimBehaviour result;
   intgo _swig_go_result;
   
@@ -8609,7 +8597,7 @@ intgo _wrap_aiAnimBehaviour_REPEAT_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiNodeAnim_mNodeName_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiNodeAnim_mNodeName_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, aiString *_swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -8621,7 +8609,7 @@ void _wrap_aiNodeAnim_mNodeName_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0,
 }
 
 
-aiString *_wrap_aiNodeAnim_mNodeName_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+aiString *_wrap_aiNodeAnim_mNodeName_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -8634,7 +8622,7 @@ aiString *_wrap_aiNodeAnim_mNodeName_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_
 }
 
 
-void _wrap_aiNodeAnim_mNumPositionKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNodeAnim_mNumPositionKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int arg2 ;
   
@@ -8646,7 +8634,7 @@ void _wrap_aiNodeAnim_mNumPositionKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swi
 }
 
 
-intgo _wrap_aiNodeAnim_mNumPositionKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+intgo _wrap_aiNodeAnim_mNumPositionKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8659,7 +8647,7 @@ intgo _wrap_aiNodeAnim_mNumPositionKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_sw
 }
 
 
-void _wrap_aiNodeAnim_mPositionKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, aiVectorKey *_swig_go_1) {
+void _wrap_aiNodeAnim_mPositionKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, aiVectorKey *_swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiVectorKey *arg2 = (aiVectorKey *) 0 ;
   
@@ -8671,7 +8659,7 @@ void _wrap_aiNodeAnim_mPositionKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_g
 }
 
 
-aiVectorKey *_wrap_aiNodeAnim_mPositionKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+aiVectorKey *_wrap_aiNodeAnim_mPositionKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiVectorKey *result = 0 ;
   aiVectorKey *_swig_go_result;
@@ -8684,7 +8672,7 @@ aiVectorKey *_wrap_aiNodeAnim_mPositionKeys_get_aig_ad8534e24299c30d(aiNodeAnim 
 }
 
 
-void _wrap_aiNodeAnim_mNumRotationKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNodeAnim_mNumRotationKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int arg2 ;
   
@@ -8696,7 +8684,7 @@ void _wrap_aiNodeAnim_mNumRotationKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swi
 }
 
 
-intgo _wrap_aiNodeAnim_mNumRotationKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+intgo _wrap_aiNodeAnim_mNumRotationKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8709,7 +8697,7 @@ intgo _wrap_aiNodeAnim_mNumRotationKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_sw
 }
 
 
-void _wrap_aiNodeAnim_mRotationKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, aiQuatKey *_swig_go_1) {
+void _wrap_aiNodeAnim_mRotationKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, aiQuatKey *_swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiQuatKey *arg2 = (aiQuatKey *) 0 ;
   
@@ -8721,7 +8709,7 @@ void _wrap_aiNodeAnim_mRotationKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_g
 }
 
 
-aiQuatKey *_wrap_aiNodeAnim_mRotationKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+aiQuatKey *_wrap_aiNodeAnim_mRotationKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiQuatKey *result = 0 ;
   aiQuatKey *_swig_go_result;
@@ -8734,7 +8722,7 @@ aiQuatKey *_wrap_aiNodeAnim_mRotationKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_
 }
 
 
-void _wrap_aiNodeAnim_mNumScalingKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNodeAnim_mNumScalingKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int arg2 ;
   
@@ -8746,7 +8734,7 @@ void _wrap_aiNodeAnim_mNumScalingKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig
 }
 
 
-intgo _wrap_aiNodeAnim_mNumScalingKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+intgo _wrap_aiNodeAnim_mNumScalingKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8759,7 +8747,7 @@ intgo _wrap_aiNodeAnim_mNumScalingKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swi
 }
 
 
-void _wrap_aiNodeAnim_mScalingKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, aiVectorKey *_swig_go_1) {
+void _wrap_aiNodeAnim_mScalingKeys_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, aiVectorKey *_swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiVectorKey *arg2 = (aiVectorKey *) 0 ;
   
@@ -8771,7 +8759,7 @@ void _wrap_aiNodeAnim_mScalingKeys_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go
 }
 
 
-aiVectorKey *_wrap_aiNodeAnim_mScalingKeys_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+aiVectorKey *_wrap_aiNodeAnim_mScalingKeys_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   aiVectorKey *result = 0 ;
   aiVectorKey *_swig_go_result;
@@ -8784,7 +8772,7 @@ aiVectorKey *_wrap_aiNodeAnim_mScalingKeys_get_aig_ad8534e24299c30d(aiNodeAnim *
 }
 
 
-void _wrap_aiNodeAnim_mPreState_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNodeAnim_mPreState_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   enum aiAnimBehaviour arg2 ;
   
@@ -8796,7 +8784,7 @@ void _wrap_aiNodeAnim_mPreState_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0,
 }
 
 
-intgo _wrap_aiNodeAnim_mPreState_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+intgo _wrap_aiNodeAnim_mPreState_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   enum aiAnimBehaviour result;
   intgo _swig_go_result;
@@ -8809,7 +8797,7 @@ intgo _wrap_aiNodeAnim_mPreState_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0
 }
 
 
-void _wrap_aiNodeAnim_mPostState_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiNodeAnim_mPostState_set_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0, intgo _swig_go_1) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   enum aiAnimBehaviour arg2 ;
   
@@ -8821,7 +8809,7 @@ void _wrap_aiNodeAnim_mPostState_set_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0
 }
 
 
-intgo _wrap_aiNodeAnim_mPostState_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+intgo _wrap_aiNodeAnim_mPostState_get_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   enum aiAnimBehaviour result;
   intgo _swig_go_result;
@@ -8834,7 +8822,7 @@ intgo _wrap_aiNodeAnim_mPostState_get_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_
 }
 
 
-aiNodeAnim *_wrap_new_aiNodeAnim_aig_ad8534e24299c30d() {
+aiNodeAnim *_wrap_new_aiNodeAnim_aig_324a1309ed911fbd() {
   aiNodeAnim *result = 0 ;
   aiNodeAnim *_swig_go_result;
   
@@ -8845,7 +8833,7 @@ aiNodeAnim *_wrap_new_aiNodeAnim_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiNodeAnim_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
+void _wrap_delete_aiNodeAnim_aig_324a1309ed911fbd(aiNodeAnim *_swig_go_0) {
   aiNodeAnim *arg1 = (aiNodeAnim *) 0 ;
   
   arg1 = *(aiNodeAnim **)&_swig_go_0; 
@@ -8855,7 +8843,7 @@ void _wrap_delete_aiNodeAnim_aig_ad8534e24299c30d(aiNodeAnim *_swig_go_0) {
 }
 
 
-void _wrap_aiMeshAnim_mName_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiMeshAnim_mName_set_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0, aiString *_swig_go_1) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -8867,7 +8855,7 @@ void _wrap_aiMeshAnim_mName_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, aiS
 }
 
 
-aiString *_wrap_aiMeshAnim_mName_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0) {
+aiString *_wrap_aiMeshAnim_mName_get_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -8880,7 +8868,7 @@ aiString *_wrap_aiMeshAnim_mName_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0
 }
 
 
-void _wrap_aiMeshAnim_mNumKeys_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMeshAnim_mNumKeys_set_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0, intgo _swig_go_1) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   unsigned int arg2 ;
   
@@ -8892,7 +8880,7 @@ void _wrap_aiMeshAnim_mNumKeys_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, 
 }
 
 
-intgo _wrap_aiMeshAnim_mNumKeys_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0) {
+intgo _wrap_aiMeshAnim_mNumKeys_get_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8905,7 +8893,7 @@ intgo _wrap_aiMeshAnim_mNumKeys_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0)
 }
 
 
-void _wrap_aiMeshAnim_mKeys_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, aiMeshKey *_swig_go_1) {
+void _wrap_aiMeshAnim_mKeys_set_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0, aiMeshKey *_swig_go_1) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   aiMeshKey *arg2 = (aiMeshKey *) 0 ;
   
@@ -8917,7 +8905,7 @@ void _wrap_aiMeshAnim_mKeys_set_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0, aiM
 }
 
 
-aiMeshKey *_wrap_aiMeshAnim_mKeys_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0) {
+aiMeshKey *_wrap_aiMeshAnim_mKeys_get_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   aiMeshKey *result = 0 ;
   aiMeshKey *_swig_go_result;
@@ -8930,7 +8918,7 @@ aiMeshKey *_wrap_aiMeshAnim_mKeys_get_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_
 }
 
 
-aiMeshAnim *_wrap_new_aiMeshAnim_aig_ad8534e24299c30d() {
+aiMeshAnim *_wrap_new_aiMeshAnim_aig_324a1309ed911fbd() {
   aiMeshAnim *result = 0 ;
   aiMeshAnim *_swig_go_result;
   
@@ -8941,7 +8929,7 @@ aiMeshAnim *_wrap_new_aiMeshAnim_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMeshAnim_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0) {
+void _wrap_delete_aiMeshAnim_aig_324a1309ed911fbd(aiMeshAnim *_swig_go_0) {
   aiMeshAnim *arg1 = (aiMeshAnim *) 0 ;
   
   arg1 = *(aiMeshAnim **)&_swig_go_0; 
@@ -8951,7 +8939,7 @@ void _wrap_delete_aiMeshAnim_aig_ad8534e24299c30d(aiMeshAnim *_swig_go_0) {
 }
 
 
-void _wrap_aiMeshMorphAnim_mName_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiMeshMorphAnim_mName_set_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0, aiString *_swig_go_1) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -8963,7 +8951,7 @@ void _wrap_aiMeshMorphAnim_mName_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig
 }
 
 
-aiString *_wrap_aiMeshMorphAnim_mName_get_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0) {
+aiString *_wrap_aiMeshMorphAnim_mName_get_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -8976,7 +8964,7 @@ aiString *_wrap_aiMeshMorphAnim_mName_get_aig_ad8534e24299c30d(aiMeshMorphAnim *
 }
 
 
-void _wrap_aiMeshMorphAnim_mNumKeys_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMeshMorphAnim_mNumKeys_set_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0, intgo _swig_go_1) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   unsigned int arg2 ;
   
@@ -8988,7 +8976,7 @@ void _wrap_aiMeshMorphAnim_mNumKeys_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_s
 }
 
 
-intgo _wrap_aiMeshMorphAnim_mNumKeys_get_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0) {
+intgo _wrap_aiMeshMorphAnim_mNumKeys_get_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9001,7 +8989,7 @@ intgo _wrap_aiMeshMorphAnim_mNumKeys_get_aig_ad8534e24299c30d(aiMeshMorphAnim *_
 }
 
 
-void _wrap_aiMeshMorphAnim_mKeys_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0, aiMeshMorphKey *_swig_go_1) {
+void _wrap_aiMeshMorphAnim_mKeys_set_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0, aiMeshMorphKey *_swig_go_1) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   aiMeshMorphKey *arg2 = (aiMeshMorphKey *) 0 ;
   
@@ -9013,7 +9001,7 @@ void _wrap_aiMeshMorphAnim_mKeys_set_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig
 }
 
 
-aiMeshMorphKey *_wrap_aiMeshMorphAnim_mKeys_get_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0) {
+aiMeshMorphKey *_wrap_aiMeshMorphAnim_mKeys_get_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   aiMeshMorphKey *result = 0 ;
   aiMeshMorphKey *_swig_go_result;
@@ -9026,7 +9014,7 @@ aiMeshMorphKey *_wrap_aiMeshMorphAnim_mKeys_get_aig_ad8534e24299c30d(aiMeshMorph
 }
 
 
-aiMeshMorphAnim *_wrap_new_aiMeshMorphAnim_aig_ad8534e24299c30d() {
+aiMeshMorphAnim *_wrap_new_aiMeshMorphAnim_aig_324a1309ed911fbd() {
   aiMeshMorphAnim *result = 0 ;
   aiMeshMorphAnim *_swig_go_result;
   
@@ -9037,7 +9025,7 @@ aiMeshMorphAnim *_wrap_new_aiMeshMorphAnim_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMeshMorphAnim_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go_0) {
+void _wrap_delete_aiMeshMorphAnim_aig_324a1309ed911fbd(aiMeshMorphAnim *_swig_go_0) {
   aiMeshMorphAnim *arg1 = (aiMeshMorphAnim *) 0 ;
   
   arg1 = *(aiMeshMorphAnim **)&_swig_go_0; 
@@ -9047,7 +9035,7 @@ void _wrap_delete_aiMeshMorphAnim_aig_ad8534e24299c30d(aiMeshMorphAnim *_swig_go
 }
 
 
-void _wrap_aiAnimation_mName_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiAnimation_mName_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, aiString *_swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -9059,7 +9047,7 @@ void _wrap_aiAnimation_mName_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, a
 }
 
 
-aiString *_wrap_aiAnimation_mName_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+aiString *_wrap_aiAnimation_mName_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -9072,7 +9060,7 @@ aiString *_wrap_aiAnimation_mName_get_aig_ad8534e24299c30d(aiAnimation *_swig_go
 }
 
 
-void _wrap_aiAnimation_mDuration_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, double _swig_go_1) {
+void _wrap_aiAnimation_mDuration_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, double _swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   double arg2 ;
   
@@ -9084,7 +9072,7 @@ void _wrap_aiAnimation_mDuration_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_
 }
 
 
-double _wrap_aiAnimation_mDuration_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+double _wrap_aiAnimation_mDuration_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   double result;
   double _swig_go_result;
@@ -9097,7 +9085,7 @@ double _wrap_aiAnimation_mDuration_get_aig_ad8534e24299c30d(aiAnimation *_swig_g
 }
 
 
-void _wrap_aiAnimation_mTicksPerSecond_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, double _swig_go_1) {
+void _wrap_aiAnimation_mTicksPerSecond_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, double _swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   double arg2 ;
   
@@ -9109,7 +9097,7 @@ void _wrap_aiAnimation_mTicksPerSecond_set_aig_ad8534e24299c30d(aiAnimation *_sw
 }
 
 
-double _wrap_aiAnimation_mTicksPerSecond_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+double _wrap_aiAnimation_mTicksPerSecond_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   double result;
   double _swig_go_result;
@@ -9122,7 +9110,7 @@ double _wrap_aiAnimation_mTicksPerSecond_get_aig_ad8534e24299c30d(aiAnimation *_
 }
 
 
-void _wrap_aiAnimation_mNumChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiAnimation_mNumChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, intgo _swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int arg2 ;
   
@@ -9134,7 +9122,7 @@ void _wrap_aiAnimation_mNumChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_
 }
 
 
-intgo _wrap_aiAnimation_mNumChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+intgo _wrap_aiAnimation_mNumChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9147,7 +9135,7 @@ intgo _wrap_aiAnimation_mNumChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig
 }
 
 
-void _wrap_aiAnimation_mChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, aiNodeAnim **_swig_go_1) {
+void _wrap_aiAnimation_mChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, aiNodeAnim **_swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiNodeAnim **arg2 = (aiNodeAnim **) 0 ;
   
@@ -9159,7 +9147,7 @@ void _wrap_aiAnimation_mChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_
 }
 
 
-aiNodeAnim **_wrap_aiAnimation_mChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+aiNodeAnim **_wrap_aiAnimation_mChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiNodeAnim **result = 0 ;
   aiNodeAnim **_swig_go_result;
@@ -9172,7 +9160,7 @@ aiNodeAnim **_wrap_aiAnimation_mChannels_get_aig_ad8534e24299c30d(aiAnimation *_
 }
 
 
-void _wrap_aiAnimation_mNumMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiAnimation_mNumMeshChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, intgo _swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int arg2 ;
   
@@ -9184,7 +9172,7 @@ void _wrap_aiAnimation_mNumMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_s
 }
 
 
-intgo _wrap_aiAnimation_mNumMeshChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+intgo _wrap_aiAnimation_mNumMeshChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9197,7 +9185,7 @@ intgo _wrap_aiAnimation_mNumMeshChannels_get_aig_ad8534e24299c30d(aiAnimation *_
 }
 
 
-void _wrap_aiAnimation_mMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, aiMeshAnim **_swig_go_1) {
+void _wrap_aiAnimation_mMeshChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, aiMeshAnim **_swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiMeshAnim **arg2 = (aiMeshAnim **) 0 ;
   
@@ -9209,7 +9197,7 @@ void _wrap_aiAnimation_mMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig
 }
 
 
-aiMeshAnim **_wrap_aiAnimation_mMeshChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+aiMeshAnim **_wrap_aiAnimation_mMeshChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiMeshAnim **result = 0 ;
   aiMeshAnim **_swig_go_result;
@@ -9222,7 +9210,7 @@ aiMeshAnim **_wrap_aiAnimation_mMeshChannels_get_aig_ad8534e24299c30d(aiAnimatio
 }
 
 
-void _wrap_aiAnimation_mNumMorphMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiAnimation_mNumMorphMeshChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, intgo _swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int arg2 ;
   
@@ -9234,7 +9222,7 @@ void _wrap_aiAnimation_mNumMorphMeshChannels_set_aig_ad8534e24299c30d(aiAnimatio
 }
 
 
-intgo _wrap_aiAnimation_mNumMorphMeshChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+intgo _wrap_aiAnimation_mNumMorphMeshChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9247,7 +9235,7 @@ intgo _wrap_aiAnimation_mNumMorphMeshChannels_get_aig_ad8534e24299c30d(aiAnimati
 }
 
 
-void _wrap_aiAnimation_mMorphMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *_swig_go_0, aiMeshMorphAnim **_swig_go_1) {
+void _wrap_aiAnimation_mMorphMeshChannels_set_aig_324a1309ed911fbd(aiAnimation *_swig_go_0, aiMeshMorphAnim **_swig_go_1) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiMeshMorphAnim **arg2 = (aiMeshMorphAnim **) 0 ;
   
@@ -9259,7 +9247,7 @@ void _wrap_aiAnimation_mMorphMeshChannels_set_aig_ad8534e24299c30d(aiAnimation *
 }
 
 
-aiMeshMorphAnim **_wrap_aiAnimation_mMorphMeshChannels_get_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+aiMeshMorphAnim **_wrap_aiAnimation_mMorphMeshChannels_get_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   aiMeshMorphAnim **result = 0 ;
   aiMeshMorphAnim **_swig_go_result;
@@ -9272,7 +9260,7 @@ aiMeshMorphAnim **_wrap_aiAnimation_mMorphMeshChannels_get_aig_ad8534e24299c30d(
 }
 
 
-aiAnimation *_wrap_new_aiAnimation_aig_ad8534e24299c30d() {
+aiAnimation *_wrap_new_aiAnimation_aig_324a1309ed911fbd() {
   aiAnimation *result = 0 ;
   aiAnimation *_swig_go_result;
   
@@ -9283,7 +9271,7 @@ aiAnimation *_wrap_new_aiAnimation_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiAnimation_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
+void _wrap_delete_aiAnimation_aig_324a1309ed911fbd(aiAnimation *_swig_go_0) {
   aiAnimation *arg1 = (aiAnimation *) 0 ;
   
   arg1 = *(aiAnimation **)&_swig_go_0; 
@@ -9293,7 +9281,7 @@ void _wrap_delete_aiAnimation_aig_ad8534e24299c30d(aiAnimation *_swig_go_0) {
 }
 
 
-intgo _wrap_AI_BOOL_aig_ad8534e24299c30d() {
+intgo _wrap_AI_BOOL_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9305,7 +9293,7 @@ intgo _wrap_AI_BOOL_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_INT32_aig_ad8534e24299c30d() {
+intgo _wrap_AI_INT32_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9317,7 +9305,7 @@ intgo _wrap_AI_INT32_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_UINT64_aig_ad8534e24299c30d() {
+intgo _wrap_AI_UINT64_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9329,7 +9317,7 @@ intgo _wrap_AI_UINT64_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_FLOAT_aig_ad8534e24299c30d() {
+intgo _wrap_AI_FLOAT_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9341,7 +9329,7 @@ intgo _wrap_AI_FLOAT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_DOUBLE_aig_ad8534e24299c30d() {
+intgo _wrap_AI_DOUBLE_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9353,7 +9341,7 @@ intgo _wrap_AI_DOUBLE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_AISTRING_aig_ad8534e24299c30d() {
+intgo _wrap_AI_AISTRING_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9365,7 +9353,7 @@ intgo _wrap_AI_AISTRING_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_AIVECTOR3D_aig_ad8534e24299c30d() {
+intgo _wrap_AI_AIVECTOR3D_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9377,7 +9365,7 @@ intgo _wrap_AI_AIVECTOR3D_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_AI_META_MAX_aig_ad8534e24299c30d() {
+intgo _wrap_AI_META_MAX_aig_324a1309ed911fbd() {
   aiMetadataType result;
   intgo _swig_go_result;
   
@@ -9389,7 +9377,7 @@ intgo _wrap_AI_META_MAX_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_aiMetadataEntry_mType_set_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMetadataEntry_mType_set_aig_324a1309ed911fbd(aiMetadataEntry *_swig_go_0, intgo _swig_go_1) {
   aiMetadataEntry *arg1 = (aiMetadataEntry *) 0 ;
   aiMetadataType arg2 ;
   
@@ -9401,7 +9389,7 @@ void _wrap_aiMetadataEntry_mType_set_aig_ad8534e24299c30d(aiMetadataEntry *_swig
 }
 
 
-intgo _wrap_aiMetadataEntry_mType_get_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go_0) {
+intgo _wrap_aiMetadataEntry_mType_get_aig_324a1309ed911fbd(aiMetadataEntry *_swig_go_0) {
   aiMetadataEntry *arg1 = (aiMetadataEntry *) 0 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9414,7 +9402,7 @@ intgo _wrap_aiMetadataEntry_mType_get_aig_ad8534e24299c30d(aiMetadataEntry *_swi
 }
 
 
-void _wrap_aiMetadataEntry_mData_set_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go_0, void *_swig_go_1) {
+void _wrap_aiMetadataEntry_mData_set_aig_324a1309ed911fbd(aiMetadataEntry *_swig_go_0, void *_swig_go_1) {
   aiMetadataEntry *arg1 = (aiMetadataEntry *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -9426,7 +9414,7 @@ void _wrap_aiMetadataEntry_mData_set_aig_ad8534e24299c30d(aiMetadataEntry *_swig
 }
 
 
-void *_wrap_aiMetadataEntry_mData_get_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go_0) {
+void *_wrap_aiMetadataEntry_mData_get_aig_324a1309ed911fbd(aiMetadataEntry *_swig_go_0) {
   aiMetadataEntry *arg1 = (aiMetadataEntry *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -9439,7 +9427,7 @@ void *_wrap_aiMetadataEntry_mData_get_aig_ad8534e24299c30d(aiMetadataEntry *_swi
 }
 
 
-aiMetadataEntry *_wrap_new_aiMetadataEntry_aig_ad8534e24299c30d() {
+aiMetadataEntry *_wrap_new_aiMetadataEntry_aig_324a1309ed911fbd() {
   aiMetadataEntry *result = 0 ;
   aiMetadataEntry *_swig_go_result;
   
@@ -9450,7 +9438,7 @@ aiMetadataEntry *_wrap_new_aiMetadataEntry_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_aiMetadataEntry_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go_0) {
+void _wrap_delete_aiMetadataEntry_aig_324a1309ed911fbd(aiMetadataEntry *_swig_go_0) {
   aiMetadataEntry *arg1 = (aiMetadataEntry *) 0 ;
   
   arg1 = *(aiMetadataEntry **)&_swig_go_0; 
@@ -9460,7 +9448,7 @@ void _wrap_delete_aiMetadataEntry_aig_ad8534e24299c30d(aiMetadataEntry *_swig_go
 }
 
 
-intgo _wrap_GetAiType__SWIG_0_aig_ad8534e24299c30d(bool _swig_go_0) {
+intgo _wrap_GetAiType__SWIG_0_aig_324a1309ed911fbd(bool _swig_go_0) {
   bool arg1 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9473,7 +9461,7 @@ intgo _wrap_GetAiType__SWIG_0_aig_ad8534e24299c30d(bool _swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_1_aig_ad8534e24299c30d(int32_t *_swig_go_0) {
+intgo _wrap_GetAiType__SWIG_1_aig_324a1309ed911fbd(int32_t *_swig_go_0) {
   int32_t arg1 ;
   int32_t *argp1 ;
   aiMetadataType result;
@@ -9493,7 +9481,7 @@ intgo _wrap_GetAiType__SWIG_1_aig_ad8534e24299c30d(int32_t *_swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_2_aig_ad8534e24299c30d(uint64_t *_swig_go_0) {
+intgo _wrap_GetAiType__SWIG_2_aig_324a1309ed911fbd(uint64_t *_swig_go_0) {
   uint64_t arg1 ;
   uint64_t *argp1 ;
   aiMetadataType result;
@@ -9513,7 +9501,7 @@ intgo _wrap_GetAiType__SWIG_2_aig_ad8534e24299c30d(uint64_t *_swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_3_aig_ad8534e24299c30d(float _swig_go_0) {
+intgo _wrap_GetAiType__SWIG_3_aig_324a1309ed911fbd(float _swig_go_0) {
   float arg1 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9526,7 +9514,7 @@ intgo _wrap_GetAiType__SWIG_3_aig_ad8534e24299c30d(float _swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_4_aig_ad8534e24299c30d(double _swig_go_0) {
+intgo _wrap_GetAiType__SWIG_4_aig_324a1309ed911fbd(double _swig_go_0) {
   double arg1 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9539,7 +9527,7 @@ intgo _wrap_GetAiType__SWIG_4_aig_ad8534e24299c30d(double _swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_5_aig_ad8534e24299c30d(aiString *_swig_go_0) {
+intgo _wrap_GetAiType__SWIG_5_aig_324a1309ed911fbd(aiString *_swig_go_0) {
   aiString *arg1 = 0 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9552,7 +9540,7 @@ intgo _wrap_GetAiType__SWIG_5_aig_ad8534e24299c30d(aiString *_swig_go_0) {
 }
 
 
-intgo _wrap_GetAiType__SWIG_6_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+intgo _wrap_GetAiType__SWIG_6_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3D *arg1 = 0 ;
   aiMetadataType result;
   intgo _swig_go_result;
@@ -9565,7 +9553,7 @@ intgo _wrap_GetAiType__SWIG_6_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go
 }
 
 
-void _wrap_aiMetadata_mNumProperties_set_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, intgo _swig_go_1) {
+void _wrap_aiMetadata_mNumProperties_set_aig_324a1309ed911fbd(aiMetadata *_swig_go_0, intgo _swig_go_1) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   unsigned int arg2 ;
   
@@ -9577,7 +9565,7 @@ void _wrap_aiMetadata_mNumProperties_set_aig_ad8534e24299c30d(aiMetadata *_swig_
 }
 
 
-intgo _wrap_aiMetadata_mNumProperties_get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+intgo _wrap_aiMetadata_mNumProperties_get_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9590,7 +9578,7 @@ intgo _wrap_aiMetadata_mNumProperties_get_aig_ad8534e24299c30d(aiMetadata *_swig
 }
 
 
-void _wrap_aiMetadata_mKeys_set_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, aiString *_swig_go_1) {
+void _wrap_aiMetadata_mKeys_set_aig_324a1309ed911fbd(aiMetadata *_swig_go_0, aiString *_swig_go_1) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   aiString *arg2 = (aiString *) 0 ;
   
@@ -9602,7 +9590,7 @@ void _wrap_aiMetadata_mKeys_set_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, aiS
 }
 
 
-aiString *_wrap_aiMetadata_mKeys_get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+aiString *_wrap_aiMetadata_mKeys_get_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   aiString *result = 0 ;
   aiString *_swig_go_result;
@@ -9615,7 +9603,7 @@ aiString *_wrap_aiMetadata_mKeys_get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0
 }
 
 
-void _wrap_aiMetadata_mValues_set_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, aiMetadataEntry *_swig_go_1) {
+void _wrap_aiMetadata_mValues_set_aig_324a1309ed911fbd(aiMetadata *_swig_go_0, aiMetadataEntry *_swig_go_1) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   aiMetadataEntry *arg2 = (aiMetadataEntry *) 0 ;
   
@@ -9627,7 +9615,7 @@ void _wrap_aiMetadata_mValues_set_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, a
 }
 
 
-aiMetadataEntry *_wrap_aiMetadata_mValues_get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+aiMetadataEntry *_wrap_aiMetadata_mValues_get_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   aiMetadataEntry *result = 0 ;
   aiMetadataEntry *_swig_go_result;
@@ -9640,7 +9628,7 @@ aiMetadataEntry *_wrap_aiMetadata_mValues_get_aig_ad8534e24299c30d(aiMetadata *_
 }
 
 
-aiMetadata *_wrap_new_aiMetadata__SWIG_0_aig_ad8534e24299c30d() {
+aiMetadata *_wrap_new_aiMetadata__SWIG_0_aig_324a1309ed911fbd() {
   aiMetadata *result = 0 ;
   aiMetadata *_swig_go_result;
   
@@ -9651,7 +9639,7 @@ aiMetadata *_wrap_new_aiMetadata__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiMetadata *_wrap_new_aiMetadata__SWIG_1_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+aiMetadata *_wrap_new_aiMetadata__SWIG_1_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = 0 ;
   aiMetadata *result = 0 ;
   aiMetadata *_swig_go_result;
@@ -9664,7 +9652,7 @@ aiMetadata *_wrap_new_aiMetadata__SWIG_1_aig_ad8534e24299c30d(aiMetadata *_swig_
 }
 
 
-void _wrap_delete_aiMetadata_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+void _wrap_delete_aiMetadata_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   
   arg1 = *(aiMetadata **)&_swig_go_0; 
@@ -9674,7 +9662,7 @@ void _wrap_delete_aiMetadata_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
 }
 
 
-aiMetadata *_wrap_aiMetadata_Alloc_aig_ad8534e24299c30d(intgo _swig_go_0) {
+aiMetadata *_wrap_aiMetadata_Alloc_aig_324a1309ed911fbd(intgo _swig_go_0) {
   unsigned int arg1 ;
   aiMetadata *result = 0 ;
   aiMetadata *_swig_go_result;
@@ -9687,7 +9675,7 @@ aiMetadata *_wrap_aiMetadata_Alloc_aig_ad8534e24299c30d(intgo _swig_go_0) {
 }
 
 
-void _wrap_aiMetadata_Dealloc_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
+void _wrap_aiMetadata_Dealloc_aig_324a1309ed911fbd(aiMetadata *_swig_go_0) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   
   arg1 = *(aiMetadata **)&_swig_go_0; 
@@ -9697,7 +9685,7 @@ void _wrap_aiMetadata_Dealloc_aig_ad8534e24299c30d(aiMetadata *_swig_go_0) {
 }
 
 
-bool _wrap_aiMetadata_Get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, long long _swig_go_1, aiString **_swig_go_2, aiMetadataEntry **_swig_go_3) {
+bool _wrap_aiMetadata_Get_aig_324a1309ed911fbd(aiMetadata *_swig_go_0, long long _swig_go_1, aiString **_swig_go_2, aiMetadataEntry **_swig_go_3) {
   aiMetadata *arg1 = (aiMetadata *) 0 ;
   size_t arg2 ;
   aiString **arg3 = 0 ;
@@ -9716,7 +9704,7 @@ bool _wrap_aiMetadata_Get_aig_ad8534e24299c30d(aiMetadata *_swig_go_0, long long
 }
 
 
-intgo _wrap_aiProcess_CalcTangentSpace_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_CalcTangentSpace_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9728,7 +9716,7 @@ intgo _wrap_aiProcess_CalcTangentSpace_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_JoinIdenticalVertices_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_JoinIdenticalVertices_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9740,7 +9728,7 @@ intgo _wrap_aiProcess_JoinIdenticalVertices_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_MakeLeftHanded_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_MakeLeftHanded_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9752,7 +9740,7 @@ intgo _wrap_aiProcess_MakeLeftHanded_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_Triangulate_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_Triangulate_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9764,7 +9752,7 @@ intgo _wrap_aiProcess_Triangulate_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_RemoveComponent_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_RemoveComponent_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9776,7 +9764,7 @@ intgo _wrap_aiProcess_RemoveComponent_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_GenNormals_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_GenNormals_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9788,7 +9776,7 @@ intgo _wrap_aiProcess_GenNormals_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_GenSmoothNormals_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_GenSmoothNormals_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9800,7 +9788,7 @@ intgo _wrap_aiProcess_GenSmoothNormals_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_SplitLargeMeshes_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_SplitLargeMeshes_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9812,7 +9800,7 @@ intgo _wrap_aiProcess_SplitLargeMeshes_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_PreTransformVertices_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_PreTransformVertices_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9824,7 +9812,7 @@ intgo _wrap_aiProcess_PreTransformVertices_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_LimitBoneWeights_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_LimitBoneWeights_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9836,7 +9824,7 @@ intgo _wrap_aiProcess_LimitBoneWeights_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_ValidateDataStructure_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_ValidateDataStructure_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9848,7 +9836,7 @@ intgo _wrap_aiProcess_ValidateDataStructure_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_ImproveCacheLocality_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_ImproveCacheLocality_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9860,7 +9848,7 @@ intgo _wrap_aiProcess_ImproveCacheLocality_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_RemoveRedundantMaterials_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_RemoveRedundantMaterials_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9872,7 +9860,7 @@ intgo _wrap_aiProcess_RemoveRedundantMaterials_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FixInfacingNormals_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FixInfacingNormals_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9884,7 +9872,7 @@ intgo _wrap_aiProcess_FixInfacingNormals_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_SortByPType_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_SortByPType_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9896,7 +9884,7 @@ intgo _wrap_aiProcess_SortByPType_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FindDegenerates_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FindDegenerates_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9908,7 +9896,7 @@ intgo _wrap_aiProcess_FindDegenerates_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FindInvalidData_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FindInvalidData_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9920,7 +9908,7 @@ intgo _wrap_aiProcess_FindInvalidData_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_GenUVCoords_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_GenUVCoords_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9932,7 +9920,7 @@ intgo _wrap_aiProcess_GenUVCoords_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_TransformUVCoords_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_TransformUVCoords_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9944,7 +9932,7 @@ intgo _wrap_aiProcess_TransformUVCoords_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FindInstances_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FindInstances_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9956,7 +9944,7 @@ intgo _wrap_aiProcess_FindInstances_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_OptimizeMeshes_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_OptimizeMeshes_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9968,7 +9956,7 @@ intgo _wrap_aiProcess_OptimizeMeshes_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_OptimizeGraph_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_OptimizeGraph_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9980,7 +9968,7 @@ intgo _wrap_aiProcess_OptimizeGraph_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FlipUVs_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FlipUVs_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -9992,7 +9980,7 @@ intgo _wrap_aiProcess_FlipUVs_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_FlipWindingOrder_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_FlipWindingOrder_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10004,7 +9992,7 @@ intgo _wrap_aiProcess_FlipWindingOrder_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_SplitByBoneCount_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_SplitByBoneCount_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10016,7 +10004,7 @@ intgo _wrap_aiProcess_SplitByBoneCount_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_Debone_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_Debone_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10028,7 +10016,7 @@ intgo _wrap_aiProcess_Debone_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_GlobalScale_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_GlobalScale_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10040,7 +10028,7 @@ intgo _wrap_aiProcess_GlobalScale_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_EmbedTextures_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_EmbedTextures_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10052,7 +10040,7 @@ intgo _wrap_aiProcess_EmbedTextures_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_ForceGenNormals_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_ForceGenNormals_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10064,7 +10052,7 @@ intgo _wrap_aiProcess_ForceGenNormals_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_DropNormals_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_DropNormals_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10076,7 +10064,7 @@ intgo _wrap_aiProcess_DropNormals_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_aiProcess_GenBoundingBoxes_aig_ad8534e24299c30d() {
+intgo _wrap_aiProcess_GenBoundingBoxes_aig_324a1309ed911fbd() {
   aiPostProcessSteps result;
   intgo _swig_go_result;
   
@@ -10088,7 +10076,7 @@ intgo _wrap_aiProcess_GenBoundingBoxes_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_z_stream_next_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_z_stream_next_in_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   
@@ -10100,7 +10088,7 @@ void _wrap_z_stream_next_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, cha
 }
 
 
-char *_wrap_z_stream_next_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+char *_wrap_z_stream_next_in_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   Bytef *result = 0 ;
   char *_swig_go_result;
@@ -10113,7 +10101,7 @@ char *_wrap_z_stream_next_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_avail_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_z_stream_avail_in_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uInt arg2 ;
   
@@ -10125,7 +10113,7 @@ void _wrap_z_stream_avail_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, in
 }
 
 
-intgo _wrap_z_stream_avail_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_z_stream_avail_in_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10138,7 +10126,7 @@ intgo _wrap_z_stream_avail_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_total_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_z_stream_total_in_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, long long _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong arg2 ;
   
@@ -10150,7 +10138,7 @@ void _wrap_z_stream_total_in_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, lo
 }
 
 
-long long _wrap_z_stream_total_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_z_stream_total_in_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong result;
   long long _swig_go_result;
@@ -10163,7 +10151,7 @@ long long _wrap_z_stream_total_in_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_
 }
 
 
-void _wrap_z_stream_next_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_z_stream_next_out_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   
@@ -10175,7 +10163,7 @@ void _wrap_z_stream_next_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, ch
 }
 
 
-char *_wrap_z_stream_next_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+char *_wrap_z_stream_next_out_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   Bytef *result = 0 ;
   char *_swig_go_result;
@@ -10188,7 +10176,7 @@ char *_wrap_z_stream_next_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_avail_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_z_stream_avail_out_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uInt arg2 ;
   
@@ -10200,7 +10188,7 @@ void _wrap_z_stream_avail_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, i
 }
 
 
-intgo _wrap_z_stream_avail_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_z_stream_avail_out_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10213,7 +10201,7 @@ intgo _wrap_z_stream_avail_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) 
 }
 
 
-void _wrap_z_stream_total_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_z_stream_total_out_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, long long _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong arg2 ;
   
@@ -10225,7 +10213,7 @@ void _wrap_z_stream_total_out_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, l
 }
 
 
-long long _wrap_z_stream_total_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_z_stream_total_out_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong result;
   long long _swig_go_result;
@@ -10238,7 +10226,7 @@ long long _wrap_z_stream_total_out_get_aig_ad8534e24299c30d(z_stream_s *_swig_go
 }
 
 
-void _wrap_z_stream_msg_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_z_stream_msg_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, _gostring_ _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -10263,7 +10251,7 @@ void _wrap_z_stream_msg_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, _gostri
 }
 
 
-_gostring_ _wrap_z_stream_msg_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+_gostring_ _wrap_z_stream_msg_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -10276,7 +10264,7 @@ _gostring_ _wrap_z_stream_msg_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_state_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, internal_state *_swig_go_1) {
+void _wrap_z_stream_state_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, internal_state *_swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   internal_state *arg2 = (internal_state *) 0 ;
   
@@ -10288,7 +10276,7 @@ void _wrap_z_stream_state_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, inter
 }
 
 
-internal_state *_wrap_z_stream_state_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+internal_state *_wrap_z_stream_state_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   internal_state *result = 0 ;
   internal_state *_swig_go_result;
@@ -10301,7 +10289,7 @@ internal_state *_wrap_z_stream_state_get_aig_ad8534e24299c30d(z_stream_s *_swig_
 }
 
 
-void _wrap_z_stream_zalloc_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void* _swig_go_1) {
+void _wrap_z_stream_zalloc_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, void* _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   alloc_func arg2 = (alloc_func) 0 ;
   
@@ -10313,7 +10301,7 @@ void _wrap_z_stream_zalloc_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void
 }
 
 
-void* _wrap_z_stream_zalloc_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+void* _wrap_z_stream_zalloc_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   alloc_func result;
   void* _swig_go_result;
@@ -10326,7 +10314,7 @@ void* _wrap_z_stream_zalloc_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_zfree_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void* _swig_go_1) {
+void _wrap_z_stream_zfree_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, void* _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   free_func arg2 = (free_func) 0 ;
   
@@ -10338,7 +10326,7 @@ void _wrap_z_stream_zfree_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void*
 }
 
 
-void* _wrap_z_stream_zfree_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+void* _wrap_z_stream_zfree_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   free_func result;
   void* _swig_go_result;
@@ -10351,7 +10339,7 @@ void* _wrap_z_stream_zfree_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_opaque_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, voidpf _swig_go_1) {
+void _wrap_z_stream_opaque_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, voidpf _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   voidpf arg2 = (voidpf) 0 ;
   
@@ -10363,7 +10351,7 @@ void _wrap_z_stream_opaque_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void
 }
 
 
-voidpf _wrap_z_stream_opaque_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+voidpf _wrap_z_stream_opaque_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   voidpf result;
   voidpf _swig_go_result;
@@ -10376,7 +10364,7 @@ voidpf _wrap_z_stream_opaque_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_z_stream_data_type_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_z_stream_data_type_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   int arg2 ;
   
@@ -10388,7 +10376,7 @@ void _wrap_z_stream_data_type_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, i
 }
 
 
-intgo _wrap_z_stream_data_type_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_z_stream_data_type_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10401,7 +10389,7 @@ intgo _wrap_z_stream_data_type_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) 
 }
 
 
-void _wrap_z_stream_adler_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_z_stream_adler_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, long long _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong arg2 ;
   
@@ -10413,7 +10401,7 @@ void _wrap_z_stream_adler_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long 
 }
 
 
-long long _wrap_z_stream_adler_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_z_stream_adler_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong result;
   long long _swig_go_result;
@@ -10426,7 +10414,7 @@ long long _wrap_z_stream_adler_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) 
 }
 
 
-void _wrap_z_stream_reserved_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_z_stream_reserved_set_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, long long _swig_go_1) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong arg2 ;
   
@@ -10438,7 +10426,7 @@ void _wrap_z_stream_reserved_set_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, lo
 }
 
 
-long long _wrap_z_stream_reserved_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_z_stream_reserved_get_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   uLong result;
   long long _swig_go_result;
@@ -10451,7 +10439,7 @@ long long _wrap_z_stream_reserved_get_aig_ad8534e24299c30d(z_stream_s *_swig_go_
 }
 
 
-z_stream_s *_wrap_new_z_stream_aig_ad8534e24299c30d() {
+z_stream_s *_wrap_new_z_stream_aig_324a1309ed911fbd() {
   z_stream_s *result = 0 ;
   z_stream_s *_swig_go_result;
   
@@ -10462,7 +10450,7 @@ z_stream_s *_wrap_new_z_stream_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_z_stream_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+void _wrap_delete_z_stream_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_stream_s *arg1 = (z_stream_s *) 0 ;
   
   arg1 = *(z_stream_s **)&_swig_go_0; 
@@ -10472,7 +10460,7 @@ void _wrap_delete_z_stream_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_text_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_text_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int arg2 ;
   
@@ -10484,7 +10472,7 @@ void _wrap_gz_header_text_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intg
 }
 
 
-intgo _wrap_gz_header_text_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_text_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10497,7 +10485,7 @@ intgo _wrap_gz_header_text_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_time_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_gz_header_time_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, long long _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uLong arg2 ;
   
@@ -10509,7 +10497,7 @@ void _wrap_gz_header_time_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, long
 }
 
 
-long long _wrap_gz_header_time_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+long long _wrap_gz_header_time_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uLong result;
   long long _swig_go_result;
@@ -10522,7 +10510,7 @@ long long _wrap_gz_header_time_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0)
 }
 
 
-void _wrap_gz_header_xflags_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_xflags_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int arg2 ;
   
@@ -10534,7 +10522,7 @@ void _wrap_gz_header_xflags_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, in
 }
 
 
-intgo _wrap_gz_header_xflags_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_xflags_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10547,7 +10535,7 @@ intgo _wrap_gz_header_xflags_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_os_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_os_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int arg2 ;
   
@@ -10559,7 +10547,7 @@ void _wrap_gz_header_os_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo 
 }
 
 
-intgo _wrap_gz_header_os_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_os_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10572,7 +10560,7 @@ intgo _wrap_gz_header_os_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_extra_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_gz_header_extra_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, char *_swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   
@@ -10584,7 +10572,7 @@ void _wrap_gz_header_extra_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, cha
 }
 
 
-char *_wrap_gz_header_extra_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+char *_wrap_gz_header_extra_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *result = 0 ;
   char *_swig_go_result;
@@ -10597,7 +10585,7 @@ char *_wrap_gz_header_extra_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_extra_len_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_extra_len_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt arg2 ;
   
@@ -10609,7 +10597,7 @@ void _wrap_gz_header_extra_len_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0,
 }
 
 
-intgo _wrap_gz_header_extra_len_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_extra_len_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10622,7 +10610,7 @@ intgo _wrap_gz_header_extra_len_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0
 }
 
 
-void _wrap_gz_header_extra_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_extra_max_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt arg2 ;
   
@@ -10634,7 +10622,7 @@ void _wrap_gz_header_extra_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0,
 }
 
 
-intgo _wrap_gz_header_extra_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_extra_max_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10647,7 +10635,7 @@ intgo _wrap_gz_header_extra_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0
 }
 
 
-void _wrap_gz_header_name_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_gz_header_name_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, char *_swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   
@@ -10659,7 +10647,7 @@ void _wrap_gz_header_name_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, char
 }
 
 
-char *_wrap_gz_header_name_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+char *_wrap_gz_header_name_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *result = 0 ;
   char *_swig_go_result;
@@ -10672,7 +10660,7 @@ char *_wrap_gz_header_name_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_name_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_name_max_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt arg2 ;
   
@@ -10684,7 +10672,7 @@ void _wrap_gz_header_name_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, 
 }
 
 
-intgo _wrap_gz_header_name_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_name_max_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10697,7 +10685,7 @@ intgo _wrap_gz_header_name_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0)
 }
 
 
-void _wrap_gz_header_comment_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_gz_header_comment_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, char *_swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   
@@ -10709,7 +10697,7 @@ void _wrap_gz_header_comment_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, c
 }
 
 
-char *_wrap_gz_header_comment_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+char *_wrap_gz_header_comment_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   Bytef *result = 0 ;
   char *_swig_go_result;
@@ -10722,7 +10710,7 @@ char *_wrap_gz_header_comment_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) 
 }
 
 
-void _wrap_gz_header_comm_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_comm_max_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt arg2 ;
   
@@ -10734,7 +10722,7 @@ void _wrap_gz_header_comm_max_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, 
 }
 
 
-intgo _wrap_gz_header_comm_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_comm_max_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   uInt result;
   intgo _swig_go_result;
@@ -10747,7 +10735,7 @@ intgo _wrap_gz_header_comm_max_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0)
 }
 
 
-void _wrap_gz_header_hcrc_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_hcrc_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int arg2 ;
   
@@ -10759,7 +10747,7 @@ void _wrap_gz_header_hcrc_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intg
 }
 
 
-intgo _wrap_gz_header_hcrc_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_hcrc_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10772,7 +10760,7 @@ intgo _wrap_gz_header_hcrc_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-void _wrap_gz_header_done_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gz_header_done_set_aig_324a1309ed911fbd(gz_header_s *_swig_go_0, intgo _swig_go_1) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int arg2 ;
   
@@ -10784,7 +10772,7 @@ void _wrap_gz_header_done_set_aig_ad8534e24299c30d(gz_header_s *_swig_go_0, intg
 }
 
 
-intgo _wrap_gz_header_done_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+intgo _wrap_gz_header_done_get_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10797,7 +10785,7 @@ intgo _wrap_gz_header_done_get_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-gz_header_s *_wrap_new_gz_header_aig_ad8534e24299c30d() {
+gz_header_s *_wrap_new_gz_header_aig_324a1309ed911fbd() {
   gz_header_s *result = 0 ;
   gz_header_s *_swig_go_result;
   
@@ -10808,7 +10796,7 @@ gz_header_s *_wrap_new_gz_header_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_gz_header_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
+void _wrap_delete_gz_header_aig_324a1309ed911fbd(gz_header_s *_swig_go_0) {
   gz_header_s *arg1 = (gz_header_s *) 0 ;
   
   arg1 = *(gz_header_s **)&_swig_go_0; 
@@ -10818,7 +10806,7 @@ void _wrap_delete_gz_header_aig_ad8534e24299c30d(gz_header_s *_swig_go_0) {
 }
 
 
-intgo _wrap_Z_ERRNO_aig_ad8534e24299c30d() {
+intgo _wrap_Z_ERRNO_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10829,7 +10817,7 @@ intgo _wrap_Z_ERRNO_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_STREAM_ERROR_aig_ad8534e24299c30d() {
+intgo _wrap_Z_STREAM_ERROR_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10840,7 +10828,7 @@ intgo _wrap_Z_STREAM_ERROR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_DATA_ERROR_aig_ad8534e24299c30d() {
+intgo _wrap_Z_DATA_ERROR_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10851,7 +10839,7 @@ intgo _wrap_Z_DATA_ERROR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_MEM_ERROR_aig_ad8534e24299c30d() {
+intgo _wrap_Z_MEM_ERROR_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10862,7 +10850,7 @@ intgo _wrap_Z_MEM_ERROR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_BUF_ERROR_aig_ad8534e24299c30d() {
+intgo _wrap_Z_BUF_ERROR_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10873,7 +10861,7 @@ intgo _wrap_Z_BUF_ERROR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_VERSION_ERROR_aig_ad8534e24299c30d() {
+intgo _wrap_Z_VERSION_ERROR_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10884,7 +10872,7 @@ intgo _wrap_Z_VERSION_ERROR_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_Z_DEFAULT_COMPRESSION_aig_ad8534e24299c30d() {
+intgo _wrap_Z_DEFAULT_COMPRESSION_aig_324a1309ed911fbd() {
   int result;
   intgo _swig_go_result;
   
@@ -10895,7 +10883,7 @@ intgo _wrap_Z_DEFAULT_COMPRESSION_aig_ad8534e24299c30d() {
 }
 
 
-_gostring_ _wrap_zlibVersion_aig_ad8534e24299c30d() {
+_gostring_ _wrap_zlibVersion_aig_324a1309ed911fbd() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -10906,7 +10894,7 @@ _gostring_ _wrap_zlibVersion_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_deflate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_deflate_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int result;
@@ -10921,7 +10909,7 @@ intgo _wrap_deflate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_
 }
 
 
-intgo _wrap_deflateEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_deflateEnd_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10934,7 +10922,7 @@ intgo _wrap_deflateEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_inflate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_inflate_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int result;
@@ -10949,7 +10937,7 @@ intgo _wrap_inflate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_
 }
 
 
-intgo _wrap_inflateEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateEnd_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -10962,7 +10950,7 @@ intgo _wrap_inflateEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_deflateSetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_deflateSetDictionary_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt arg3 ;
@@ -10979,7 +10967,7 @@ intgo _wrap_deflateSetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, ch
 }
 
 
-intgo _wrap_deflateGetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1, intgo *_swig_go_2) {
+intgo _wrap_deflateGetDictionary_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1, intgo *_swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt *arg3 = (uInt *) 0 ;
@@ -10996,7 +10984,7 @@ intgo _wrap_deflateGetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, ch
 }
 
 
-intgo _wrap_deflateCopy_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, z_stream_s *_swig_go_1) {
+intgo _wrap_deflateCopy_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, z_stream_s *_swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   z_streamp arg2 = (z_streamp) 0 ;
   int result;
@@ -11011,7 +10999,7 @@ intgo _wrap_deflateCopy_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, z_stream_s 
 }
 
 
-intgo _wrap_deflateReset_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_deflateReset_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11024,7 +11012,7 @@ intgo _wrap_deflateReset_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_deflateParams_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_deflateParams_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11041,7 +11029,7 @@ intgo _wrap_deflateParams_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_deflateTune_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_deflateTune_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11062,7 +11050,7 @@ intgo _wrap_deflateTune_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig
 }
 
 
-long long _wrap_deflateBound_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long long _swig_go_1) {
+long long _wrap_deflateBound_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, long long _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   uLong arg2 ;
   uLong result;
@@ -11077,7 +11065,7 @@ long long _wrap_deflateBound_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, long l
 }
 
 
-intgo _wrap_deflatePending_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+intgo _wrap_deflatePending_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -11094,7 +11082,7 @@ intgo _wrap_deflatePending_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo *_
 }
 
 
-intgo _wrap_deflatePrime_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_deflatePrime_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11111,7 +11099,7 @@ intgo _wrap_deflatePrime_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swi
 }
 
 
-intgo _wrap_deflateSetHeader_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, gz_header_s *_swig_go_1) {
+intgo _wrap_deflateSetHeader_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, gz_header_s *_swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   gz_headerp arg2 = (gz_headerp) 0 ;
   int result;
@@ -11126,7 +11114,7 @@ intgo _wrap_deflateSetHeader_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, gz_hea
 }
 
 
-intgo _wrap_inflateSetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_inflateSetDictionary_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt arg3 ;
@@ -11143,7 +11131,7 @@ intgo _wrap_inflateSetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, ch
 }
 
 
-intgo _wrap_inflateGetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, char *_swig_go_1, intgo *_swig_go_2) {
+intgo _wrap_inflateGetDictionary_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, char *_swig_go_1, intgo *_swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt *arg3 = (uInt *) 0 ;
@@ -11160,7 +11148,7 @@ intgo _wrap_inflateGetDictionary_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, ch
 }
 
 
-intgo _wrap_inflateSync_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateSync_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11173,7 +11161,7 @@ intgo _wrap_inflateSync_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_inflateCopy_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, z_stream_s *_swig_go_1) {
+intgo _wrap_inflateCopy_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, z_stream_s *_swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   z_streamp arg2 = (z_streamp) 0 ;
   int result;
@@ -11188,7 +11176,7 @@ intgo _wrap_inflateCopy_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, z_stream_s 
 }
 
 
-intgo _wrap_inflateReset_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateReset_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11201,7 +11189,7 @@ intgo _wrap_inflateReset_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_inflateReset2_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_inflateReset2_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int result;
@@ -11216,7 +11204,7 @@ intgo _wrap_inflateReset2_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_inflatePrime_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_inflatePrime_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11233,7 +11221,7 @@ intgo _wrap_inflatePrime_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swi
 }
 
 
-long long _wrap_inflateMark_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_inflateMark_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   long result;
   long long _swig_go_result;
@@ -11246,7 +11234,7 @@ long long _wrap_inflateMark_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_inflateGetHeader_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, gz_header_s *_swig_go_1) {
+intgo _wrap_inflateGetHeader_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, gz_header_s *_swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   gz_headerp arg2 = (gz_headerp) 0 ;
   int result;
@@ -11261,7 +11249,7 @@ intgo _wrap_inflateGetHeader_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, gz_hea
 }
 
 
-intgo _wrap_inflateBack_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void* _swig_go_1, void *_swig_go_2, void* _swig_go_3, void *_swig_go_4) {
+intgo _wrap_inflateBack_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, void* _swig_go_1, void *_swig_go_2, void* _swig_go_3, void *_swig_go_4) {
   z_streamp arg1 = (z_streamp) 0 ;
   in_func arg2 = (in_func) 0 ;
   void *arg3 = (void *) 0 ;
@@ -11282,7 +11270,7 @@ intgo _wrap_inflateBack_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, void* _swig
 }
 
 
-intgo _wrap_inflateBackEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateBackEnd_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11295,7 +11283,7 @@ intgo _wrap_inflateBackEnd_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-long long _wrap_zlibCompileFlags_aig_ad8534e24299c30d() {
+long long _wrap_zlibCompileFlags_aig_324a1309ed911fbd() {
   uLong result;
   long long _swig_go_result;
   
@@ -11306,7 +11294,7 @@ long long _wrap_zlibCompileFlags_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_compress_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3) {
+intgo _wrap_compress_aig_324a1309ed911fbd(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3) {
   Bytef *arg1 = (Bytef *) 0 ;
   uLongf *arg2 = (uLongf *) 0 ;
   Bytef *arg3 = (Bytef *) 0 ;
@@ -11325,7 +11313,7 @@ intgo _wrap_compress_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go_
 }
 
 
-intgo _wrap_compress2_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_compress2_aig_324a1309ed911fbd(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3, intgo _swig_go_4) {
   Bytef *arg1 = (Bytef *) 0 ;
   uLongf *arg2 = (uLongf *) 0 ;
   Bytef *arg3 = (Bytef *) 0 ;
@@ -11346,7 +11334,7 @@ intgo _wrap_compress2_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go
 }
 
 
-long long _wrap_compressBound_aig_ad8534e24299c30d(long long _swig_go_0) {
+long long _wrap_compressBound_aig_324a1309ed911fbd(long long _swig_go_0) {
   uLong arg1 ;
   uLong result;
   long long _swig_go_result;
@@ -11359,7 +11347,7 @@ long long _wrap_compressBound_aig_ad8534e24299c30d(long long _swig_go_0) {
 }
 
 
-intgo _wrap_uncompress_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3) {
+intgo _wrap_uncompress_aig_324a1309ed911fbd(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long _swig_go_3) {
   Bytef *arg1 = (Bytef *) 0 ;
   uLongf *arg2 = (uLongf *) 0 ;
   Bytef *arg3 = (Bytef *) 0 ;
@@ -11378,7 +11366,7 @@ intgo _wrap_uncompress_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_g
 }
 
 
-intgo _wrap_uncompress2_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long *_swig_go_3) {
+intgo _wrap_uncompress2_aig_324a1309ed911fbd(char *_swig_go_0, long long *_swig_go_1, char *_swig_go_2, long long *_swig_go_3) {
   Bytef *arg1 = (Bytef *) 0 ;
   uLongf *arg2 = (uLongf *) 0 ;
   Bytef *arg3 = (Bytef *) 0 ;
@@ -11397,7 +11385,7 @@ intgo _wrap_uncompress2_aig_ad8534e24299c30d(char *_swig_go_0, long long *_swig_
 }
 
 
-gzFile_s *_wrap_gzdopen_aig_ad8534e24299c30d(intgo _swig_go_0, _gostring_ _swig_go_1) {
+gzFile_s *_wrap_gzdopen_aig_324a1309ed911fbd(intgo _swig_go_0, _gostring_ _swig_go_1) {
   int arg1 ;
   char *arg2 = (char *) 0 ;
   gzFile result;
@@ -11417,7 +11405,7 @@ gzFile_s *_wrap_gzdopen_aig_ad8534e24299c30d(intgo _swig_go_0, _gostring_ _swig_
 }
 
 
-intgo _wrap_gzbuffer_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_gzbuffer_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo _swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   unsigned int arg2 ;
   int result;
@@ -11432,7 +11420,7 @@ intgo _wrap_gzbuffer_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1
 }
 
 
-intgo _wrap_gzsetparams_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_gzsetparams_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11449,7 +11437,7 @@ intgo _wrap_gzsetparams_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_g
 }
 
 
-intgo _wrap_gzread_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, voidp _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_gzread_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, voidp _swig_go_1, intgo _swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   voidp arg2 = (voidp) 0 ;
   unsigned int arg3 ;
@@ -11466,7 +11454,7 @@ intgo _wrap_gzread_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, voidp _swig_go_1, 
 }
 
 
-long long _wrap_gzfread_aig_ad8534e24299c30d(voidp _swig_go_0, long long _swig_go_1, long long _swig_go_2, gzFile_s *_swig_go_3) {
+long long _wrap_gzfread_aig_324a1309ed911fbd(voidp _swig_go_0, long long _swig_go_1, long long _swig_go_2, gzFile_s *_swig_go_3) {
   voidp arg1 = (voidp) 0 ;
   z_size_t arg2 ;
   z_size_t arg3 ;
@@ -11485,7 +11473,7 @@ long long _wrap_gzfread_aig_ad8534e24299c30d(voidp _swig_go_0, long long _swig_g
 }
 
 
-intgo _wrap_gzwrite_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, voidpc _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_gzwrite_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, voidpc _swig_go_1, intgo _swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   voidpc arg2 = (voidpc) 0 ;
   unsigned int arg3 ;
@@ -11502,7 +11490,7 @@ intgo _wrap_gzwrite_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, voidpc _swig_go_1
 }
 
 
-long long _wrap_gzfwrite_aig_ad8534e24299c30d(voidpc _swig_go_0, long long _swig_go_1, long long _swig_go_2, gzFile_s *_swig_go_3) {
+long long _wrap_gzfwrite_aig_324a1309ed911fbd(voidpc _swig_go_0, long long _swig_go_1, long long _swig_go_2, gzFile_s *_swig_go_3) {
   voidpc arg1 = (voidpc) 0 ;
   z_size_t arg2 ;
   z_size_t arg3 ;
@@ -11521,7 +11509,7 @@ long long _wrap_gzfwrite_aig_ad8534e24299c30d(voidpc _swig_go_0, long long _swig
 }
 
 
-intgo _wrap_gzprintf_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_gzprintf_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, _gostring_ _swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -11542,7 +11530,7 @@ intgo _wrap_gzprintf_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig
 }
 
 
-intgo _wrap_gzputs_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_gzputs_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, _gostring_ _swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -11562,7 +11550,7 @@ intgo _wrap_gzputs_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig_g
 }
 
 
-_gostring_ _wrap_gzgets_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
+_gostring_ _wrap_gzgets_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   char *arg2 = (char *) 0 ;
   int arg3 ;
@@ -11584,7 +11572,7 @@ _gostring_ _wrap_gzgets_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _s
 }
 
 
-intgo _wrap_gzputc_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_gzputc_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo _swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   int arg2 ;
   int result;
@@ -11599,7 +11587,7 @@ intgo _wrap_gzputc_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1) 
 }
 
 
-intgo _wrap_gzgetc_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzgetc_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11612,7 +11600,7 @@ intgo _wrap_gzgetc_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzungetc_aig_ad8534e24299c30d(intgo _swig_go_0, gzFile_s *_swig_go_1) {
+intgo _wrap_gzungetc_aig_324a1309ed911fbd(intgo _swig_go_0, gzFile_s *_swig_go_1) {
   int arg1 ;
   gzFile arg2 = (gzFile) 0 ;
   int result;
@@ -11627,7 +11615,7 @@ intgo _wrap_gzungetc_aig_ad8534e24299c30d(intgo _swig_go_0, gzFile_s *_swig_go_1
 }
 
 
-intgo _wrap_gzflush_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_gzflush_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo _swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   int arg2 ;
   int result;
@@ -11642,7 +11630,7 @@ intgo _wrap_gzflush_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1)
 }
 
 
-intgo _wrap_gzrewind_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzrewind_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11655,7 +11643,7 @@ intgo _wrap_gzrewind_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzeof_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzeof_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11668,7 +11656,7 @@ intgo _wrap_gzeof_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzdirect_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzdirect_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11681,7 +11669,7 @@ intgo _wrap_gzdirect_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzclose_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzclose_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11694,7 +11682,7 @@ intgo _wrap_gzclose_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzclose_r_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzclose_r_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11707,7 +11695,7 @@ intgo _wrap_gzclose_r_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzclose_w_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzclose_w_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -11720,7 +11708,7 @@ intgo _wrap_gzclose_w_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-_gostring_ _wrap_gzerror_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo *_swig_go_1) {
+_gostring_ _wrap_gzerror_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo *_swig_go_1) {
   gzFile arg1 = (gzFile) 0 ;
   int *arg2 = (int *) 0 ;
   char *result = 0 ;
@@ -11735,7 +11723,7 @@ _gostring_ _wrap_gzerror_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo *_swig
 }
 
 
-void _wrap_gzclearerr_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+void _wrap_gzclearerr_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   
   arg1 = *(gzFile *)&_swig_go_0; 
@@ -11745,7 +11733,7 @@ void _wrap_gzclearerr_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-long long _wrap_adler32_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+long long _wrap_adler32_aig_324a1309ed911fbd(long long _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   uLong arg1 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt arg3 ;
@@ -11762,7 +11750,7 @@ long long _wrap_adler32_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_g
 }
 
 
-long long _wrap_adler32_z_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_go_1, long long _swig_go_2) {
+long long _wrap_adler32_z_aig_324a1309ed911fbd(long long _swig_go_0, char *_swig_go_1, long long _swig_go_2) {
   uLong arg1 ;
   Bytef *arg2 = (Bytef *) 0 ;
   z_size_t arg3 ;
@@ -11779,7 +11767,7 @@ long long _wrap_adler32_z_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig
 }
 
 
-long long _wrap_crc32_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+long long _wrap_crc32_aig_324a1309ed911fbd(long long _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   uLong arg1 ;
   Bytef *arg2 = (Bytef *) 0 ;
   uInt arg3 ;
@@ -11796,7 +11784,7 @@ long long _wrap_crc32_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_go_
 }
 
 
-long long _wrap_crc32_z_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_go_1, long long _swig_go_2) {
+long long _wrap_crc32_z_aig_324a1309ed911fbd(long long _swig_go_0, char *_swig_go_1, long long _swig_go_2) {
   uLong arg1 ;
   Bytef *arg2 = (Bytef *) 0 ;
   z_size_t arg3 ;
@@ -11813,7 +11801,7 @@ long long _wrap_crc32_z_aig_ad8534e24299c30d(long long _swig_go_0, char *_swig_g
 }
 
 
-intgo _wrap_deflateInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_deflateInit__aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   char *arg3 = (char *) 0 ;
@@ -11837,7 +11825,7 @@ intgo _wrap_deflateInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swi
 }
 
 
-intgo _wrap_inflateInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_inflateInit__aig_324a1309ed911fbd(z_stream_s *_swig_go_0, _gostring_ _swig_go_1, intgo _swig_go_2) {
   z_streamp arg1 = (z_streamp) 0 ;
   char *arg2 = (char *) 0 ;
   int arg3 ;
@@ -11859,7 +11847,7 @@ intgo _wrap_inflateInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, _gostring_
 }
 
 
-intgo _wrap_deflateInit2__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6, intgo _swig_go_7) {
+intgo _wrap_deflateInit2__aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6, intgo _swig_go_7) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int arg3 ;
@@ -11891,7 +11879,7 @@ intgo _wrap_deflateInit2__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_inflateInit2__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_inflateInit2__aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   char *arg3 = (char *) 0 ;
@@ -11915,7 +11903,7 @@ intgo _wrap_inflateInit2__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_inflateBackInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
+intgo _wrap_inflateBackInit__aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, _gostring_ _swig_go_3, intgo _swig_go_4) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -11941,7 +11929,7 @@ intgo _wrap_inflateBackInit__aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo 
 }
 
 
-void _wrap_gzFile_s_have_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_gzFile_s_have_set_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, intgo _swig_go_1) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   unsigned int arg2 ;
   
@@ -11953,7 +11941,7 @@ void _wrap_gzFile_s_have_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, intgo _s
 }
 
 
-intgo _wrap_gzFile_s_have_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzFile_s_have_get_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -11966,7 +11954,7 @@ intgo _wrap_gzFile_s_have_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-void _wrap_gzFile_s_next_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_gzFile_s_next_set_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, char *_swig_go_1) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   
@@ -11978,7 +11966,7 @@ void _wrap_gzFile_s_next_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, char *_s
 }
 
 
-char *_wrap_gzFile_s_next_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+char *_wrap_gzFile_s_next_get_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   unsigned char *result = 0 ;
   char *_swig_go_result;
@@ -11991,7 +11979,7 @@ char *_wrap_gzFile_s_next_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-void _wrap_gzFile_s_pos_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, off_t *_swig_go_1) {
+void _wrap_gzFile_s_pos_set_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, off_t *_swig_go_1) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   off_t arg2 ;
   off_t *argp2 ;
@@ -12010,7 +11998,7 @@ void _wrap_gzFile_s_pos_set_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, off_t *_s
 }
 
 
-off_t *_wrap_gzFile_s_pos_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+off_t *_wrap_gzFile_s_pos_get_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   off_t result;
   off_t *_swig_go_result;
@@ -12023,7 +12011,7 @@ off_t *_wrap_gzFile_s_pos_get_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-gzFile_s *_wrap_new_gzFile_s_aig_ad8534e24299c30d() {
+gzFile_s *_wrap_new_gzFile_s_aig_324a1309ed911fbd() {
   gzFile_s *result = 0 ;
   gzFile_s *_swig_go_result;
   
@@ -12034,7 +12022,7 @@ gzFile_s *_wrap_new_gzFile_s_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_gzFile_s_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+void _wrap_delete_gzFile_s_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile_s *arg1 = (gzFile_s *) 0 ;
   
   arg1 = *(gzFile_s **)&_swig_go_0; 
@@ -12044,7 +12032,7 @@ void _wrap_delete_gzFile_s_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzgetc__aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+intgo _wrap_gzgetc__aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   int result;
   intgo _swig_go_result;
@@ -12057,7 +12045,7 @@ intgo _wrap_gzgetc__aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-gzFile_s *_wrap_gzopen_aig_ad8534e24299c30d(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+gzFile_s *_wrap_gzopen_aig_324a1309ed911fbd(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   gzFile result;
@@ -12082,7 +12070,7 @@ gzFile_s *_wrap_gzopen_aig_ad8534e24299c30d(_gostring_ _swig_go_0, _gostring_ _s
 }
 
 
-off_t *_wrap_gzseek_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, off_t *_swig_go_1, intgo _swig_go_2) {
+off_t *_wrap_gzseek_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, off_t *_swig_go_1, intgo _swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   off_t arg2 ;
   int arg3 ;
@@ -12106,7 +12094,7 @@ off_t *_wrap_gzseek_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, off_t *_swig_go_1
 }
 
 
-off_t *_wrap_gztell_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+off_t *_wrap_gztell_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   off_t result;
   off_t *_swig_go_result;
@@ -12119,7 +12107,7 @@ off_t *_wrap_gztell_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-off_t *_wrap_gzoffset_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
+off_t *_wrap_gzoffset_aig_324a1309ed911fbd(gzFile_s *_swig_go_0) {
   gzFile arg1 = (gzFile) 0 ;
   off_t result;
   off_t *_swig_go_result;
@@ -12132,7 +12120,7 @@ off_t *_wrap_gzoffset_aig_ad8534e24299c30d(gzFile_s *_swig_go_0) {
 }
 
 
-long long _wrap_adler32_combine_aig_ad8534e24299c30d(long long _swig_go_0, long long _swig_go_1, off_t *_swig_go_2) {
+long long _wrap_adler32_combine_aig_324a1309ed911fbd(long long _swig_go_0, long long _swig_go_1, off_t *_swig_go_2) {
   uLong arg1 ;
   uLong arg2 ;
   off_t arg3 ;
@@ -12156,7 +12144,7 @@ long long _wrap_adler32_combine_aig_ad8534e24299c30d(long long _swig_go_0, long 
 }
 
 
-long long _wrap_crc32_combine_aig_ad8534e24299c30d(long long _swig_go_0, long long _swig_go_1, off_t *_swig_go_2) {
+long long _wrap_crc32_combine_aig_324a1309ed911fbd(long long _swig_go_0, long long _swig_go_1, off_t *_swig_go_2) {
   uLong arg1 ;
   uLong arg2 ;
   off_t arg3 ;
@@ -12180,7 +12168,7 @@ long long _wrap_crc32_combine_aig_ad8534e24299c30d(long long _swig_go_0, long lo
 }
 
 
-_gostring_ _wrap_zError_aig_ad8534e24299c30d(intgo _swig_go_0) {
+_gostring_ _wrap_zError_aig_324a1309ed911fbd(intgo _swig_go_0) {
   int arg1 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -12193,7 +12181,7 @@ _gostring_ _wrap_zError_aig_ad8534e24299c30d(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_inflateSyncPoint_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateSyncPoint_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -12206,7 +12194,7 @@ intgo _wrap_inflateSyncPoint_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-long long *_wrap_get_crc_table_aig_ad8534e24299c30d() {
+long long *_wrap_get_crc_table_aig_324a1309ed911fbd() {
   z_crc_t *result = 0 ;
   long long *_swig_go_result;
   
@@ -12217,7 +12205,7 @@ long long *_wrap_get_crc_table_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_inflateUndermine_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_inflateUndermine_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int result;
@@ -12232,7 +12220,7 @@ intgo _wrap_inflateUndermine_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo 
 }
 
 
-intgo _wrap_inflateValidate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_inflateValidate_aig_324a1309ed911fbd(z_stream_s *_swig_go_0, intgo _swig_go_1) {
   z_streamp arg1 = (z_streamp) 0 ;
   int arg2 ;
   int result;
@@ -12247,7 +12235,7 @@ intgo _wrap_inflateValidate_aig_ad8534e24299c30d(z_stream_s *_swig_go_0, intgo _
 }
 
 
-long long _wrap_inflateCodesUsed_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+long long _wrap_inflateCodesUsed_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   unsigned long result;
   long long _swig_go_result;
@@ -12260,7 +12248,7 @@ long long _wrap_inflateCodesUsed_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_inflateResetKeep_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_inflateResetKeep_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -12273,7 +12261,7 @@ intgo _wrap_inflateResetKeep_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_deflateResetKeep_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
+intgo _wrap_deflateResetKeep_aig_324a1309ed911fbd(z_stream_s *_swig_go_0) {
   z_streamp arg1 = (z_streamp) 0 ;
   int result;
   intgo _swig_go_result;
@@ -12286,7 +12274,7 @@ intgo _wrap_deflateResetKeep_aig_ad8534e24299c30d(z_stream_s *_swig_go_0) {
 }
 
 
-intgo _wrap_gzvprintf_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+intgo _wrap_gzvprintf_aig_324a1309ed911fbd(gzFile_s *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   gzFile arg1 = (gzFile) 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -12315,7 +12303,7 @@ intgo _wrap_gzvprintf_aig_ad8534e24299c30d(gzFile_s *_swig_go_0, _gostring_ _swi
 }
 
 
-intgo _wrap_ETF_ASCII_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_ASCII_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12327,7 +12315,7 @@ intgo _wrap_ETF_ASCII_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_ETF_UTF8_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_UTF8_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12339,7 +12327,7 @@ intgo _wrap_ETF_UTF8_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_ETF_UTF16_BE_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_UTF16_BE_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12351,7 +12339,7 @@ intgo _wrap_ETF_UTF16_BE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_ETF_UTF16_LE_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_UTF16_LE_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12363,7 +12351,7 @@ intgo _wrap_ETF_UTF16_LE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_ETF_UTF32_BE_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_UTF32_BE_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12375,7 +12363,7 @@ intgo _wrap_ETF_UTF32_BE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_ETF_UTF32_LE_aig_ad8534e24299c30d() {
+intgo _wrap_ETF_UTF32_LE_aig_324a1309ed911fbd() {
   irr::io::ETEXT_FORMAT result;
   intgo _swig_go_result;
   
@@ -12387,7 +12375,7 @@ intgo _wrap_ETF_UTF32_LE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_NONE_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_NONE_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12399,7 +12387,7 @@ intgo _wrap_EXN_NONE_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_ELEMENT_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_ELEMENT_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12411,7 +12399,7 @@ intgo _wrap_EXN_ELEMENT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_ELEMENT_END_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_ELEMENT_END_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12423,7 +12411,7 @@ intgo _wrap_EXN_ELEMENT_END_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_TEXT_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_TEXT_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12435,7 +12423,7 @@ intgo _wrap_EXN_TEXT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_COMMENT_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_COMMENT_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12447,7 +12435,7 @@ intgo _wrap_EXN_COMMENT_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_CDATA_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_CDATA_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12459,7 +12447,7 @@ intgo _wrap_EXN_CDATA_aig_ad8534e24299c30d() {
 }
 
 
-intgo _wrap_EXN_UNKNOWN_aig_ad8534e24299c30d() {
+intgo _wrap_EXN_UNKNOWN_aig_324a1309ed911fbd() {
   irr::io::EXML_NODE result;
   intgo _swig_go_result;
   
@@ -12471,7 +12459,7 @@ intgo _wrap_EXN_UNKNOWN_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_IFileReadCallBack_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0) {
+void _wrap_delete_IFileReadCallBack_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   
   arg1 = *(irr::io::IFileReadCallBack **)&_swig_go_0; 
@@ -12481,7 +12469,7 @@ void _wrap_delete_IFileReadCallBack_aig_ad8534e24299c30d(irr::io::IFileReadCallB
 }
 
 
-intgo _wrap_IFileReadCallBack_read_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0, void *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_IFileReadCallBack_read_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0, void *_swig_go_1, intgo _swig_go_2) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -12498,7 +12486,7 @@ intgo _wrap_IFileReadCallBack_read_aig_ad8534e24299c30d(irr::io::IFileReadCallBa
 }
 
 
-intgo _wrap_IFileReadCallBack_getSize_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0) {
+intgo _wrap_IFileReadCallBack_getSize_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -12511,7 +12499,7 @@ intgo _wrap_IFileReadCallBack_getSize_aig_ad8534e24299c30d(irr::io::IFileReadCal
 }
 
 
-irr::io::IXMLBase *_wrap_new_IXMLBase_aig_ad8534e24299c30d() {
+irr::io::IXMLBase *_wrap_new_IXMLBase_aig_324a1309ed911fbd() {
   irr::io::IXMLBase *result = 0 ;
   irr::io::IXMLBase *_swig_go_result;
   
@@ -12522,7 +12510,7 @@ irr::io::IXMLBase *_wrap_new_IXMLBase_aig_ad8534e24299c30d() {
 }
 
 
-void _wrap_delete_IXMLBase_aig_ad8534e24299c30d(irr::io::IXMLBase *_swig_go_0) {
+void _wrap_delete_IXMLBase_aig_324a1309ed911fbd(irr::io::IXMLBase *_swig_go_0) {
   irr::io::IXMLBase *arg1 = (irr::io::IXMLBase *) 0 ;
   
   arg1 = *(irr::io::IXMLBase **)&_swig_go_0; 
@@ -12532,7 +12520,7 @@ void _wrap_delete_IXMLBase_aig_ad8534e24299c30d(irr::io::IXMLBase *_swig_go_0) {
 }
 
 
-irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_0_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_0_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   irr::io::IrrXMLReader *result = 0 ;
   irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_swig_go_result;
@@ -12550,7 +12538,7 @@ irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG
 }
 
 
-irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_1_aig_ad8534e24299c30d(FILE *_swig_go_0) {
+irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_1_aig_324a1309ed911fbd(FILE *_swig_go_0) {
   FILE *arg1 = (FILE *) 0 ;
   irr::io::IrrXMLReader *result = 0 ;
   irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_swig_go_result;
@@ -12563,7 +12551,7 @@ irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG
 }
 
 
-irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_2_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0) {
+irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG_2_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   irr::io::IrrXMLReader *result = 0 ;
   irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_swig_go_result;
@@ -12576,7 +12564,7 @@ irr::io::IIrrXMLReader< char,irr::io::IXMLBase > *_wrap_createIrrXMLReader__SWIG
 }
 
 
-irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_0_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_0_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   irr::io::IrrXMLReaderUTF16 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_swig_go_result;
@@ -12594,7 +12582,7 @@ irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLRe
 }
 
 
-irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_1_aig_ad8534e24299c30d(FILE *_swig_go_0) {
+irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_1_aig_324a1309ed911fbd(FILE *_swig_go_0) {
   FILE *arg1 = (FILE *) 0 ;
   irr::io::IrrXMLReaderUTF16 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_swig_go_result;
@@ -12607,7 +12595,7 @@ irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLRe
 }
 
 
-irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_2_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0) {
+irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF16__SWIG_2_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   irr::io::IrrXMLReaderUTF16 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_swig_go_result;
@@ -12620,7 +12608,7 @@ irr::io::IIrrXMLReader< unsigned short,irr::io::IXMLBase > *_wrap_createIrrXMLRe
 }
 
 
-irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_0_aig_ad8534e24299c30d(_gostring_ _swig_go_0) {
+irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_0_aig_324a1309ed911fbd(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   irr::io::IrrXMLReaderUTF32 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_swig_go_result;
@@ -12638,7 +12626,7 @@ irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLRea
 }
 
 
-irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_1_aig_ad8534e24299c30d(FILE *_swig_go_0) {
+irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_1_aig_324a1309ed911fbd(FILE *_swig_go_0) {
   FILE *arg1 = (FILE *) 0 ;
   irr::io::IrrXMLReaderUTF32 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_swig_go_result;
@@ -12651,7 +12639,7 @@ irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLRea
 }
 
 
-irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_2_aig_ad8534e24299c30d(irr::io::IFileReadCallBack *_swig_go_0) {
+irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLReaderUTF32__SWIG_2_aig_324a1309ed911fbd(irr::io::IFileReadCallBack *_swig_go_0) {
   irr::io::IFileReadCallBack *arg1 = (irr::io::IFileReadCallBack *) 0 ;
   irr::io::IrrXMLReaderUTF32 *result = 0 ;
   irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_swig_go_result;
@@ -12664,7 +12652,7 @@ irr::io::IIrrXMLReader< unsigned long,irr::io::IXMLBase > *_wrap_createIrrXMLRea
 }
 
 
-std::vector< unsigned int > *_wrap_new_UintVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< unsigned int > *_wrap_new_UintVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
   
@@ -12675,7 +12663,7 @@ std::vector< unsigned int > *_wrap_new_UintVector__SWIG_0_aig_ad8534e24299c30d()
 }
 
 
-std::vector< unsigned int > *_wrap_new_UintVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< unsigned int > *_wrap_new_UintVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< unsigned int >::size_type arg1 ;
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
@@ -12688,7 +12676,7 @@ std::vector< unsigned int > *_wrap_new_UintVector__SWIG_1_aig_ad8534e24299c30d(l
 }
 
 
-std::vector< unsigned int > *_wrap_new_UintVector__SWIG_2_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+std::vector< unsigned int > *_wrap_new_UintVector__SWIG_2_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = 0 ;
   std::vector< unsigned int > *result = 0 ;
   std::vector< unsigned int > *_swig_go_result;
@@ -12701,7 +12689,7 @@ std::vector< unsigned int > *_wrap_new_UintVector__SWIG_2_aig_ad8534e24299c30d(s
 }
 
 
-long long _wrap_UintVector_size_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+long long _wrap_UintVector_size_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   std::vector< unsigned int >::size_type result;
   long long _swig_go_result;
@@ -12714,7 +12702,7 @@ long long _wrap_UintVector_size_aig_ad8534e24299c30d(std::vector< unsigned int >
 }
 
 
-long long _wrap_UintVector_capacity_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+long long _wrap_UintVector_capacity_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   std::vector< unsigned int >::size_type result;
   long long _swig_go_result;
@@ -12727,7 +12715,7 @@ long long _wrap_UintVector_capacity_aig_ad8534e24299c30d(std::vector< unsigned i
 }
 
 
-void _wrap_UintVector_reserve_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0, long long _swig_go_1) {
+void _wrap_UintVector_reserve_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0, long long _swig_go_1) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   std::vector< unsigned int >::size_type arg2 ;
   
@@ -12739,7 +12727,7 @@ void _wrap_UintVector_reserve_aig_ad8534e24299c30d(std::vector< unsigned int > *
 }
 
 
-bool _wrap_UintVector_isEmpty_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+bool _wrap_UintVector_isEmpty_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -12752,7 +12740,7 @@ bool _wrap_UintVector_isEmpty_aig_ad8534e24299c30d(std::vector< unsigned int > *
 }
 
 
-void _wrap_UintVector_clear_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+void _wrap_UintVector_clear_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   
   arg1 = *(std::vector< unsigned int > **)&_swig_go_0; 
@@ -12762,7 +12750,7 @@ void _wrap_UintVector_clear_aig_ad8534e24299c30d(std::vector< unsigned int > *_s
 }
 
 
-void _wrap_UintVector_add_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1) {
+void _wrap_UintVector_add_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   std::vector< unsigned int >::value_type *arg2 = 0 ;
   
@@ -12774,7 +12762,7 @@ void _wrap_UintVector_add_aig_ad8534e24299c30d(std::vector< unsigned int > *_swi
 }
 
 
-intgo _wrap_UintVector_get_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_UintVector_get_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   int arg2 ;
   std::vector< unsigned int >::value_type *result = 0 ;
@@ -12795,7 +12783,7 @@ intgo _wrap_UintVector_get_aig_ad8534e24299c30d(std::vector< unsigned int > *_sw
 }
 
 
-void _wrap_UintVector_set_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_UintVector_set_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   int arg2 ;
   std::vector< unsigned int >::value_type *arg3 = 0 ;
@@ -12815,7 +12803,7 @@ void _wrap_UintVector_set_aig_ad8534e24299c30d(std::vector< unsigned int > *_swi
 }
 
 
-void _wrap_delete_UintVector_aig_ad8534e24299c30d(std::vector< unsigned int > *_swig_go_0) {
+void _wrap_delete_UintVector_aig_324a1309ed911fbd(std::vector< unsigned int > *_swig_go_0) {
   std::vector< unsigned int > *arg1 = (std::vector< unsigned int > *) 0 ;
   
   arg1 = *(std::vector< unsigned int > **)&_swig_go_0; 
@@ -12825,7 +12813,7 @@ void _wrap_delete_UintVector_aig_ad8534e24299c30d(std::vector< unsigned int > *_
 }
 
 
-std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiAnimation * > *result = 0 ;
   std::vector< aiAnimation * > *_swig_go_result;
   
@@ -12836,7 +12824,7 @@ std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_0_aig_ad8534e242
 }
 
 
-std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiAnimation * >::size_type arg1 ;
   std::vector< aiAnimation * > *result = 0 ;
   std::vector< aiAnimation * > *_swig_go_result;
@@ -12849,7 +12837,7 @@ std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_1_aig_ad8534e242
 }
 
 
-std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = 0 ;
   std::vector< aiAnimation * > *result = 0 ;
   std::vector< aiAnimation * > *_swig_go_result;
@@ -12862,7 +12850,7 @@ std::vector< aiAnimation * > *_wrap_new_aiAnimationVector__SWIG_2_aig_ad8534e242
 }
 
 
-long long _wrap_aiAnimationVector_size_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+long long _wrap_aiAnimationVector_size_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   std::vector< aiAnimation * >::size_type result;
   long long _swig_go_result;
@@ -12875,7 +12863,7 @@ long long _wrap_aiAnimationVector_size_aig_ad8534e24299c30d(std::vector< aiAnima
 }
 
 
-long long _wrap_aiAnimationVector_capacity_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+long long _wrap_aiAnimationVector_capacity_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   std::vector< aiAnimation * >::size_type result;
   long long _swig_go_result;
@@ -12888,7 +12876,7 @@ long long _wrap_aiAnimationVector_capacity_aig_ad8534e24299c30d(std::vector< aiA
 }
 
 
-void _wrap_aiAnimationVector_reserve_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiAnimationVector_reserve_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   std::vector< aiAnimation * >::size_type arg2 ;
   
@@ -12900,7 +12888,7 @@ void _wrap_aiAnimationVector_reserve_aig_ad8534e24299c30d(std::vector< aiAnimati
 }
 
 
-bool _wrap_aiAnimationVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+bool _wrap_aiAnimationVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -12913,7 +12901,7 @@ bool _wrap_aiAnimationVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiAnimati
 }
 
 
-void _wrap_aiAnimationVector_clear_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+void _wrap_aiAnimationVector_clear_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   
   arg1 = *(std::vector< aiAnimation * > **)&_swig_go_0; 
@@ -12923,7 +12911,7 @@ void _wrap_aiAnimationVector_clear_aig_ad8534e24299c30d(std::vector< aiAnimation
 }
 
 
-void _wrap_aiAnimationVector_add_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0, aiAnimation **_swig_go_1) {
+void _wrap_aiAnimationVector_add_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0, aiAnimation **_swig_go_1) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   std::vector< aiAnimation * >::value_type *arg2 = 0 ;
   std::vector< aiAnimation * >::value_type temp2 = 0 ;
@@ -12939,7 +12927,7 @@ void _wrap_aiAnimationVector_add_aig_ad8534e24299c30d(std::vector< aiAnimation *
 }
 
 
-aiAnimation **_wrap_aiAnimationVector_get_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0, intgo _swig_go_1) {
+aiAnimation **_wrap_aiAnimationVector_get_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   int arg2 ;
   std::vector< aiAnimation * >::value_type *result = 0 ;
@@ -12960,7 +12948,7 @@ aiAnimation **_wrap_aiAnimationVector_get_aig_ad8534e24299c30d(std::vector< aiAn
 }
 
 
-void _wrap_aiAnimationVector_set_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0, intgo _swig_go_1, aiAnimation **_swig_go_2) {
+void _wrap_aiAnimationVector_set_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0, intgo _swig_go_1, aiAnimation **_swig_go_2) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   int arg2 ;
   std::vector< aiAnimation * >::value_type *arg3 = 0 ;
@@ -12984,7 +12972,7 @@ void _wrap_aiAnimationVector_set_aig_ad8534e24299c30d(std::vector< aiAnimation *
 }
 
 
-void _wrap_delete_aiAnimationVector_aig_ad8534e24299c30d(std::vector< aiAnimation * > *_swig_go_0) {
+void _wrap_delete_aiAnimationVector_aig_324a1309ed911fbd(std::vector< aiAnimation * > *_swig_go_0) {
   std::vector< aiAnimation * > *arg1 = (std::vector< aiAnimation * > *) 0 ;
   
   arg1 = *(std::vector< aiAnimation * > **)&_swig_go_0; 
@@ -12994,7 +12982,7 @@ void _wrap_delete_aiAnimationVector_aig_ad8534e24299c30d(std::vector< aiAnimatio
 }
 
 
-std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiAnimMesh * > *result = 0 ;
   std::vector< aiAnimMesh * > *_swig_go_result;
   
@@ -13005,7 +12993,7 @@ std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_0_aig_ad8534e24299
 }
 
 
-std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiAnimMesh * >::size_type arg1 ;
   std::vector< aiAnimMesh * > *result = 0 ;
   std::vector< aiAnimMesh * > *_swig_go_result;
@@ -13018,7 +13006,7 @@ std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_1_aig_ad8534e24299
 }
 
 
-std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = 0 ;
   std::vector< aiAnimMesh * > *result = 0 ;
   std::vector< aiAnimMesh * > *_swig_go_result;
@@ -13031,7 +13019,7 @@ std::vector< aiAnimMesh * > *_wrap_new_aiAnimMeshVector__SWIG_2_aig_ad8534e24299
 }
 
 
-long long _wrap_aiAnimMeshVector_size_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+long long _wrap_aiAnimMeshVector_size_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   std::vector< aiAnimMesh * >::size_type result;
   long long _swig_go_result;
@@ -13044,7 +13032,7 @@ long long _wrap_aiAnimMeshVector_size_aig_ad8534e24299c30d(std::vector< aiAnimMe
 }
 
 
-long long _wrap_aiAnimMeshVector_capacity_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+long long _wrap_aiAnimMeshVector_capacity_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   std::vector< aiAnimMesh * >::size_type result;
   long long _swig_go_result;
@@ -13057,7 +13045,7 @@ long long _wrap_aiAnimMeshVector_capacity_aig_ad8534e24299c30d(std::vector< aiAn
 }
 
 
-void _wrap_aiAnimMeshVector_reserve_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiAnimMeshVector_reserve_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   std::vector< aiAnimMesh * >::size_type arg2 ;
   
@@ -13069,7 +13057,7 @@ void _wrap_aiAnimMeshVector_reserve_aig_ad8534e24299c30d(std::vector< aiAnimMesh
 }
 
 
-bool _wrap_aiAnimMeshVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+bool _wrap_aiAnimMeshVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13082,7 +13070,7 @@ bool _wrap_aiAnimMeshVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiAnimMesh
 }
 
 
-void _wrap_aiAnimMeshVector_clear_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+void _wrap_aiAnimMeshVector_clear_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   
   arg1 = *(std::vector< aiAnimMesh * > **)&_swig_go_0; 
@@ -13092,7 +13080,7 @@ void _wrap_aiAnimMeshVector_clear_aig_ad8534e24299c30d(std::vector< aiAnimMesh *
 }
 
 
-void _wrap_aiAnimMeshVector_add_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0, aiAnimMesh **_swig_go_1) {
+void _wrap_aiAnimMeshVector_add_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0, aiAnimMesh **_swig_go_1) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   std::vector< aiAnimMesh * >::value_type *arg2 = 0 ;
   std::vector< aiAnimMesh * >::value_type temp2 = 0 ;
@@ -13108,7 +13096,7 @@ void _wrap_aiAnimMeshVector_add_aig_ad8534e24299c30d(std::vector< aiAnimMesh * >
 }
 
 
-aiAnimMesh **_wrap_aiAnimMeshVector_get_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0, intgo _swig_go_1) {
+aiAnimMesh **_wrap_aiAnimMeshVector_get_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   int arg2 ;
   std::vector< aiAnimMesh * >::value_type *result = 0 ;
@@ -13129,7 +13117,7 @@ aiAnimMesh **_wrap_aiAnimMeshVector_get_aig_ad8534e24299c30d(std::vector< aiAnim
 }
 
 
-void _wrap_aiAnimMeshVector_set_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0, intgo _swig_go_1, aiAnimMesh **_swig_go_2) {
+void _wrap_aiAnimMeshVector_set_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0, intgo _swig_go_1, aiAnimMesh **_swig_go_2) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   int arg2 ;
   std::vector< aiAnimMesh * >::value_type *arg3 = 0 ;
@@ -13153,7 +13141,7 @@ void _wrap_aiAnimMeshVector_set_aig_ad8534e24299c30d(std::vector< aiAnimMesh * >
 }
 
 
-void _wrap_delete_aiAnimMeshVector_aig_ad8534e24299c30d(std::vector< aiAnimMesh * > *_swig_go_0) {
+void _wrap_delete_aiAnimMeshVector_aig_324a1309ed911fbd(std::vector< aiAnimMesh * > *_swig_go_0) {
   std::vector< aiAnimMesh * > *arg1 = (std::vector< aiAnimMesh * > *) 0 ;
   
   arg1 = *(std::vector< aiAnimMesh * > **)&_swig_go_0; 
@@ -13163,7 +13151,7 @@ void _wrap_delete_aiAnimMeshVector_aig_ad8534e24299c30d(std::vector< aiAnimMesh 
 }
 
 
-std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiBone * > *result = 0 ;
   std::vector< aiBone * > *_swig_go_result;
   
@@ -13174,7 +13162,7 @@ std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_0_aig_ad8534e24299c30d() 
 }
 
 
-std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiBone * >::size_type arg1 ;
   std::vector< aiBone * > *result = 0 ;
   std::vector< aiBone * > *_swig_go_result;
@@ -13187,7 +13175,7 @@ std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_1_aig_ad8534e24299c30d(lo
 }
 
 
-std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = 0 ;
   std::vector< aiBone * > *result = 0 ;
   std::vector< aiBone * > *_swig_go_result;
@@ -13200,7 +13188,7 @@ std::vector< aiBone * > *_wrap_new_aiBonesVector__SWIG_2_aig_ad8534e24299c30d(st
 }
 
 
-long long _wrap_aiBonesVector_size_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+long long _wrap_aiBonesVector_size_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   std::vector< aiBone * >::size_type result;
   long long _swig_go_result;
@@ -13213,7 +13201,7 @@ long long _wrap_aiBonesVector_size_aig_ad8534e24299c30d(std::vector< aiBone * > 
 }
 
 
-long long _wrap_aiBonesVector_capacity_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+long long _wrap_aiBonesVector_capacity_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   std::vector< aiBone * >::size_type result;
   long long _swig_go_result;
@@ -13226,7 +13214,7 @@ long long _wrap_aiBonesVector_capacity_aig_ad8534e24299c30d(std::vector< aiBone 
 }
 
 
-void _wrap_aiBonesVector_reserve_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiBonesVector_reserve_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   std::vector< aiBone * >::size_type arg2 ;
   
@@ -13238,7 +13226,7 @@ void _wrap_aiBonesVector_reserve_aig_ad8534e24299c30d(std::vector< aiBone * > *_
 }
 
 
-bool _wrap_aiBonesVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+bool _wrap_aiBonesVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13251,7 +13239,7 @@ bool _wrap_aiBonesVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiBone * > *_
 }
 
 
-void _wrap_aiBonesVector_clear_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+void _wrap_aiBonesVector_clear_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   
   arg1 = *(std::vector< aiBone * > **)&_swig_go_0; 
@@ -13261,7 +13249,7 @@ void _wrap_aiBonesVector_clear_aig_ad8534e24299c30d(std::vector< aiBone * > *_sw
 }
 
 
-void _wrap_aiBonesVector_add_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0, aiBone **_swig_go_1) {
+void _wrap_aiBonesVector_add_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0, aiBone **_swig_go_1) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   std::vector< aiBone * >::value_type *arg2 = 0 ;
   std::vector< aiBone * >::value_type temp2 = 0 ;
@@ -13277,7 +13265,7 @@ void _wrap_aiBonesVector_add_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig
 }
 
 
-aiBone **_wrap_aiBonesVector_get_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0, intgo _swig_go_1) {
+aiBone **_wrap_aiBonesVector_get_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   int arg2 ;
   std::vector< aiBone * >::value_type *result = 0 ;
@@ -13298,7 +13286,7 @@ aiBone **_wrap_aiBonesVector_get_aig_ad8534e24299c30d(std::vector< aiBone * > *_
 }
 
 
-void _wrap_aiBonesVector_set_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0, intgo _swig_go_1, aiBone **_swig_go_2) {
+void _wrap_aiBonesVector_set_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0, intgo _swig_go_1, aiBone **_swig_go_2) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   int arg2 ;
   std::vector< aiBone * >::value_type *arg3 = 0 ;
@@ -13322,7 +13310,7 @@ void _wrap_aiBonesVector_set_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig
 }
 
 
-void _wrap_delete_aiBonesVector_aig_ad8534e24299c30d(std::vector< aiBone * > *_swig_go_0) {
+void _wrap_delete_aiBonesVector_aig_324a1309ed911fbd(std::vector< aiBone * > *_swig_go_0) {
   std::vector< aiBone * > *arg1 = (std::vector< aiBone * > *) 0 ;
   
   arg1 = *(std::vector< aiBone * > **)&_swig_go_0; 
@@ -13332,7 +13320,7 @@ void _wrap_delete_aiBonesVector_aig_ad8534e24299c30d(std::vector< aiBone * > *_s
 }
 
 
-std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiCamera * > *result = 0 ;
   std::vector< aiCamera * > *_swig_go_result;
   
@@ -13343,7 +13331,7 @@ std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_0_aig_ad8534e24299c30d
 }
 
 
-std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiCamera * >::size_type arg1 ;
   std::vector< aiCamera * > *result = 0 ;
   std::vector< aiCamera * > *_swig_go_result;
@@ -13356,7 +13344,7 @@ std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_1_aig_ad8534e24299c30d
 }
 
 
-std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = 0 ;
   std::vector< aiCamera * > *result = 0 ;
   std::vector< aiCamera * > *_swig_go_result;
@@ -13369,7 +13357,7 @@ std::vector< aiCamera * > *_wrap_new_aiCameraVector__SWIG_2_aig_ad8534e24299c30d
 }
 
 
-long long _wrap_aiCameraVector_size_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+long long _wrap_aiCameraVector_size_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   std::vector< aiCamera * >::size_type result;
   long long _swig_go_result;
@@ -13382,7 +13370,7 @@ long long _wrap_aiCameraVector_size_aig_ad8534e24299c30d(std::vector< aiCamera *
 }
 
 
-long long _wrap_aiCameraVector_capacity_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+long long _wrap_aiCameraVector_capacity_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   std::vector< aiCamera * >::size_type result;
   long long _swig_go_result;
@@ -13395,7 +13383,7 @@ long long _wrap_aiCameraVector_capacity_aig_ad8534e24299c30d(std::vector< aiCame
 }
 
 
-void _wrap_aiCameraVector_reserve_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiCameraVector_reserve_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   std::vector< aiCamera * >::size_type arg2 ;
   
@@ -13407,7 +13395,7 @@ void _wrap_aiCameraVector_reserve_aig_ad8534e24299c30d(std::vector< aiCamera * >
 }
 
 
-bool _wrap_aiCameraVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+bool _wrap_aiCameraVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13420,7 +13408,7 @@ bool _wrap_aiCameraVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiCamera * >
 }
 
 
-void _wrap_aiCameraVector_clear_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+void _wrap_aiCameraVector_clear_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   
   arg1 = *(std::vector< aiCamera * > **)&_swig_go_0; 
@@ -13430,7 +13418,7 @@ void _wrap_aiCameraVector_clear_aig_ad8534e24299c30d(std::vector< aiCamera * > *
 }
 
 
-void _wrap_aiCameraVector_add_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0, aiCamera **_swig_go_1) {
+void _wrap_aiCameraVector_add_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0, aiCamera **_swig_go_1) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   std::vector< aiCamera * >::value_type *arg2 = 0 ;
   std::vector< aiCamera * >::value_type temp2 = 0 ;
@@ -13446,7 +13434,7 @@ void _wrap_aiCameraVector_add_aig_ad8534e24299c30d(std::vector< aiCamera * > *_s
 }
 
 
-aiCamera **_wrap_aiCameraVector_get_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0, intgo _swig_go_1) {
+aiCamera **_wrap_aiCameraVector_get_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   int arg2 ;
   std::vector< aiCamera * >::value_type *result = 0 ;
@@ -13467,7 +13455,7 @@ aiCamera **_wrap_aiCameraVector_get_aig_ad8534e24299c30d(std::vector< aiCamera *
 }
 
 
-void _wrap_aiCameraVector_set_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0, intgo _swig_go_1, aiCamera **_swig_go_2) {
+void _wrap_aiCameraVector_set_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0, intgo _swig_go_1, aiCamera **_swig_go_2) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   int arg2 ;
   std::vector< aiCamera * >::value_type *arg3 = 0 ;
@@ -13491,7 +13479,7 @@ void _wrap_aiCameraVector_set_aig_ad8534e24299c30d(std::vector< aiCamera * > *_s
 }
 
 
-void _wrap_delete_aiCameraVector_aig_ad8534e24299c30d(std::vector< aiCamera * > *_swig_go_0) {
+void _wrap_delete_aiCameraVector_aig_324a1309ed911fbd(std::vector< aiCamera * > *_swig_go_0) {
   std::vector< aiCamera * > *arg1 = (std::vector< aiCamera * > *) 0 ;
   
   arg1 = *(std::vector< aiCamera * > **)&_swig_go_0; 
@@ -13501,7 +13489,7 @@ void _wrap_delete_aiCameraVector_aig_ad8534e24299c30d(std::vector< aiCamera * > 
 }
 
 
-std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiColor4D * > *result = 0 ;
   std::vector< aiColor4t< float > * > *_swig_go_result;
   
@@ -13512,7 +13500,7 @@ std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_0_aig_ad853
 }
 
 
-std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiColor4t< float > * >::size_type arg1 ;
   std::vector< aiColor4D * > *result = 0 ;
   std::vector< aiColor4t< float > * > *_swig_go_result;
@@ -13525,7 +13513,7 @@ std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_1_aig_ad853
 }
 
 
-std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = 0 ;
   std::vector< aiColor4D * > *result = 0 ;
   std::vector< aiColor4t< float > * > *_swig_go_result;
@@ -13538,7 +13526,7 @@ std::vector< aiColor4t< float > * > *_wrap_new_aiColor4DVector__SWIG_2_aig_ad853
 }
 
 
-long long _wrap_aiColor4DVector_size_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+long long _wrap_aiColor4DVector_size_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   std::vector< aiColor4t< float > * >::size_type result;
   long long _swig_go_result;
@@ -13551,7 +13539,7 @@ long long _wrap_aiColor4DVector_size_aig_ad8534e24299c30d(std::vector< aiColor4t
 }
 
 
-long long _wrap_aiColor4DVector_capacity_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+long long _wrap_aiColor4DVector_capacity_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   std::vector< aiColor4t< float > * >::size_type result;
   long long _swig_go_result;
@@ -13564,7 +13552,7 @@ long long _wrap_aiColor4DVector_capacity_aig_ad8534e24299c30d(std::vector< aiCol
 }
 
 
-void _wrap_aiColor4DVector_reserve_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiColor4DVector_reserve_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   std::vector< aiColor4t< float > * >::size_type arg2 ;
   
@@ -13576,7 +13564,7 @@ void _wrap_aiColor4DVector_reserve_aig_ad8534e24299c30d(std::vector< aiColor4t< 
 }
 
 
-bool _wrap_aiColor4DVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+bool _wrap_aiColor4DVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13589,7 +13577,7 @@ bool _wrap_aiColor4DVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiColor4t< 
 }
 
 
-void _wrap_aiColor4DVector_clear_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+void _wrap_aiColor4DVector_clear_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   
   arg1 = *(std::vector< aiColor4D * > **)&_swig_go_0; 
@@ -13599,7 +13587,7 @@ void _wrap_aiColor4DVector_clear_aig_ad8534e24299c30d(std::vector< aiColor4t< fl
 }
 
 
-void _wrap_aiColor4DVector_add_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0, aiColor4t< float > **_swig_go_1) {
+void _wrap_aiColor4DVector_add_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0, aiColor4t< float > **_swig_go_1) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   std::vector< aiColor4t< float > * >::value_type *arg2 = 0 ;
   std::vector< aiColor4t< float > * >::value_type temp2 = 0 ;
@@ -13615,7 +13603,7 @@ void _wrap_aiColor4DVector_add_aig_ad8534e24299c30d(std::vector< aiColor4t< floa
 }
 
 
-aiColor4t< float > **_wrap_aiColor4DVector_get_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0, intgo _swig_go_1) {
+aiColor4t< float > **_wrap_aiColor4DVector_get_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   int arg2 ;
   std::vector< aiColor4t< float > * >::value_type *result = 0 ;
@@ -13636,7 +13624,7 @@ aiColor4t< float > **_wrap_aiColor4DVector_get_aig_ad8534e24299c30d(std::vector<
 }
 
 
-void _wrap_aiColor4DVector_set_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0, intgo _swig_go_1, aiColor4t< float > **_swig_go_2) {
+void _wrap_aiColor4DVector_set_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0, intgo _swig_go_1, aiColor4t< float > **_swig_go_2) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   int arg2 ;
   std::vector< aiColor4t< float > * >::value_type *arg3 = 0 ;
@@ -13660,7 +13648,7 @@ void _wrap_aiColor4DVector_set_aig_ad8534e24299c30d(std::vector< aiColor4t< floa
 }
 
 
-void _wrap_delete_aiColor4DVector_aig_ad8534e24299c30d(std::vector< aiColor4t< float > * > *_swig_go_0) {
+void _wrap_delete_aiColor4DVector_aig_324a1309ed911fbd(std::vector< aiColor4t< float > * > *_swig_go_0) {
   std::vector< aiColor4D * > *arg1 = (std::vector< aiColor4D * > *) 0 ;
   
   arg1 = *(std::vector< aiColor4D * > **)&_swig_go_0; 
@@ -13670,7 +13658,7 @@ void _wrap_delete_aiColor4DVector_aig_ad8534e24299c30d(std::vector< aiColor4t< f
 }
 
 
-std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< std::vector< aiColor4D * > > *result = 0 ;
   std::vector< std::vector< aiColor4t< float > * > > *_swig_go_result;
   
@@ -13681,7 +13669,7 @@ std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVec
 }
 
 
-std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< std::vector< aiColor4t< float > * > >::size_type arg1 ;
   std::vector< std::vector< aiColor4D * > > *result = 0 ;
   std::vector< std::vector< aiColor4t< float > * > > *_swig_go_result;
@@ -13694,7 +13682,7 @@ std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVec
 }
 
 
-std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_2_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVector__SWIG_2_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = 0 ;
   std::vector< std::vector< aiColor4D * > > *result = 0 ;
   std::vector< std::vector< aiColor4t< float > * > > *_swig_go_result;
@@ -13707,7 +13695,7 @@ std::vector< std::vector< aiColor4t< float > * > > *_wrap_new_aiColor4DVectorVec
 }
 
 
-long long _wrap_aiColor4DVectorVector_size_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+long long _wrap_aiColor4DVectorVector_size_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   std::vector< std::vector< aiColor4t< float > * > >::size_type result;
   long long _swig_go_result;
@@ -13720,7 +13708,7 @@ long long _wrap_aiColor4DVectorVector_size_aig_ad8534e24299c30d(std::vector< std
 }
 
 
-long long _wrap_aiColor4DVectorVector_capacity_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+long long _wrap_aiColor4DVectorVector_capacity_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   std::vector< std::vector< aiColor4t< float > * > >::size_type result;
   long long _swig_go_result;
@@ -13733,7 +13721,7 @@ long long _wrap_aiColor4DVectorVector_capacity_aig_ad8534e24299c30d(std::vector<
 }
 
 
-void _wrap_aiColor4DVectorVector_reserve_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiColor4DVectorVector_reserve_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, long long _swig_go_1) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   std::vector< std::vector< aiColor4t< float > * > >::size_type arg2 ;
   
@@ -13745,7 +13733,7 @@ void _wrap_aiColor4DVectorVector_reserve_aig_ad8534e24299c30d(std::vector< std::
 }
 
 
-bool _wrap_aiColor4DVectorVector_isEmpty_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+bool _wrap_aiColor4DVectorVector_isEmpty_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13758,7 +13746,7 @@ bool _wrap_aiColor4DVectorVector_isEmpty_aig_ad8534e24299c30d(std::vector< std::
 }
 
 
-void _wrap_aiColor4DVectorVector_clear_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+void _wrap_aiColor4DVectorVector_clear_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   
   arg1 = *(std::vector< std::vector< aiColor4D * > > **)&_swig_go_0; 
@@ -13768,7 +13756,7 @@ void _wrap_aiColor4DVectorVector_clear_aig_ad8534e24299c30d(std::vector< std::ve
 }
 
 
-void _wrap_aiColor4DVectorVector_add_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, std::vector< aiColor4t< float > * > *_swig_go_1) {
+void _wrap_aiColor4DVectorVector_add_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, std::vector< aiColor4t< float > * > *_swig_go_1) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   std::vector< std::vector< aiColor4t< float > * > >::value_type *arg2 = 0 ;
   
@@ -13780,7 +13768,7 @@ void _wrap_aiColor4DVectorVector_add_aig_ad8534e24299c30d(std::vector< std::vect
 }
 
 
-std::vector< aiColor4t< float > * > *_wrap_aiColor4DVectorVector_get_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, intgo _swig_go_1) {
+std::vector< aiColor4t< float > * > *_wrap_aiColor4DVectorVector_get_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, intgo _swig_go_1) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   int arg2 ;
   std::vector< std::vector< aiColor4D * > >::value_type *result = 0 ;
@@ -13801,7 +13789,7 @@ std::vector< aiColor4t< float > * > *_wrap_aiColor4DVectorVector_get_aig_ad8534e
 }
 
 
-void _wrap_aiColor4DVectorVector_set_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, intgo _swig_go_1, std::vector< aiColor4t< float > * > *_swig_go_2) {
+void _wrap_aiColor4DVectorVector_set_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0, intgo _swig_go_1, std::vector< aiColor4t< float > * > *_swig_go_2) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   int arg2 ;
   std::vector< std::vector< aiColor4t< float > * > >::value_type *arg3 = 0 ;
@@ -13821,7 +13809,7 @@ void _wrap_aiColor4DVectorVector_set_aig_ad8534e24299c30d(std::vector< std::vect
 }
 
 
-void _wrap_delete_aiColor4DVectorVector_aig_ad8534e24299c30d(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
+void _wrap_delete_aiColor4DVectorVector_aig_324a1309ed911fbd(std::vector< std::vector< aiColor4t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiColor4D * > > *arg1 = (std::vector< std::vector< aiColor4D * > > *) 0 ;
   
   arg1 = *(std::vector< std::vector< aiColor4D * > > **)&_swig_go_0; 
@@ -13831,7 +13819,7 @@ void _wrap_delete_aiColor4DVectorVector_aig_ad8534e24299c30d(std::vector< std::v
 }
 
 
-std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiFace * > *result = 0 ;
   std::vector< aiFace * > *_swig_go_result;
   
@@ -13842,7 +13830,7 @@ std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiFace * >::size_type arg1 ;
   std::vector< aiFace * > *result = 0 ;
   std::vector< aiFace * > *_swig_go_result;
@@ -13855,7 +13843,7 @@ std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_1_aig_ad8534e24299c30d(lon
 }
 
 
-std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = 0 ;
   std::vector< aiFace * > *result = 0 ;
   std::vector< aiFace * > *_swig_go_result;
@@ -13868,7 +13856,7 @@ std::vector< aiFace * > *_wrap_new_aiFaceVector__SWIG_2_aig_ad8534e24299c30d(std
 }
 
 
-long long _wrap_aiFaceVector_size_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+long long _wrap_aiFaceVector_size_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   std::vector< aiFace * >::size_type result;
   long long _swig_go_result;
@@ -13881,7 +13869,7 @@ long long _wrap_aiFaceVector_size_aig_ad8534e24299c30d(std::vector< aiFace * > *
 }
 
 
-long long _wrap_aiFaceVector_capacity_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+long long _wrap_aiFaceVector_capacity_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   std::vector< aiFace * >::size_type result;
   long long _swig_go_result;
@@ -13894,7 +13882,7 @@ long long _wrap_aiFaceVector_capacity_aig_ad8534e24299c30d(std::vector< aiFace *
 }
 
 
-void _wrap_aiFaceVector_reserve_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiFaceVector_reserve_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   std::vector< aiFace * >::size_type arg2 ;
   
@@ -13906,7 +13894,7 @@ void _wrap_aiFaceVector_reserve_aig_ad8534e24299c30d(std::vector< aiFace * > *_s
 }
 
 
-bool _wrap_aiFaceVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+bool _wrap_aiFaceVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13919,7 +13907,7 @@ bool _wrap_aiFaceVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiFace * > *_s
 }
 
 
-void _wrap_aiFaceVector_clear_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+void _wrap_aiFaceVector_clear_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   
   arg1 = *(std::vector< aiFace * > **)&_swig_go_0; 
@@ -13929,7 +13917,7 @@ void _wrap_aiFaceVector_clear_aig_ad8534e24299c30d(std::vector< aiFace * > *_swi
 }
 
 
-void _wrap_aiFaceVector_add_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0, aiFace **_swig_go_1) {
+void _wrap_aiFaceVector_add_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0, aiFace **_swig_go_1) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   std::vector< aiFace * >::value_type *arg2 = 0 ;
   std::vector< aiFace * >::value_type temp2 = 0 ;
@@ -13945,7 +13933,7 @@ void _wrap_aiFaceVector_add_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_
 }
 
 
-aiFace **_wrap_aiFaceVector_get_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0, intgo _swig_go_1) {
+aiFace **_wrap_aiFaceVector_get_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   int arg2 ;
   std::vector< aiFace * >::value_type *result = 0 ;
@@ -13966,7 +13954,7 @@ aiFace **_wrap_aiFaceVector_get_aig_ad8534e24299c30d(std::vector< aiFace * > *_s
 }
 
 
-void _wrap_aiFaceVector_set_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0, intgo _swig_go_1, aiFace **_swig_go_2) {
+void _wrap_aiFaceVector_set_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0, intgo _swig_go_1, aiFace **_swig_go_2) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   int arg2 ;
   std::vector< aiFace * >::value_type *arg3 = 0 ;
@@ -13990,7 +13978,7 @@ void _wrap_aiFaceVector_set_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_
 }
 
 
-void _wrap_delete_aiFaceVector_aig_ad8534e24299c30d(std::vector< aiFace * > *_swig_go_0) {
+void _wrap_delete_aiFaceVector_aig_324a1309ed911fbd(std::vector< aiFace * > *_swig_go_0) {
   std::vector< aiFace * > *arg1 = (std::vector< aiFace * > *) 0 ;
   
   arg1 = *(std::vector< aiFace * > **)&_swig_go_0; 
@@ -14000,7 +13988,7 @@ void _wrap_delete_aiFaceVector_aig_ad8534e24299c30d(std::vector< aiFace * > *_sw
 }
 
 
-std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiLight * > *result = 0 ;
   std::vector< aiLight * > *_swig_go_result;
   
@@ -14011,7 +13999,7 @@ std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_0_aig_ad8534e24299c30d()
 }
 
 
-std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiLight * >::size_type arg1 ;
   std::vector< aiLight * > *result = 0 ;
   std::vector< aiLight * > *_swig_go_result;
@@ -14024,7 +14012,7 @@ std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_1_aig_ad8534e24299c30d(l
 }
 
 
-std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = 0 ;
   std::vector< aiLight * > *result = 0 ;
   std::vector< aiLight * > *_swig_go_result;
@@ -14037,7 +14025,7 @@ std::vector< aiLight * > *_wrap_new_aiLightVector__SWIG_2_aig_ad8534e24299c30d(s
 }
 
 
-long long _wrap_aiLightVector_size_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+long long _wrap_aiLightVector_size_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   std::vector< aiLight * >::size_type result;
   long long _swig_go_result;
@@ -14050,7 +14038,7 @@ long long _wrap_aiLightVector_size_aig_ad8534e24299c30d(std::vector< aiLight * >
 }
 
 
-long long _wrap_aiLightVector_capacity_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+long long _wrap_aiLightVector_capacity_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   std::vector< aiLight * >::size_type result;
   long long _swig_go_result;
@@ -14063,7 +14051,7 @@ long long _wrap_aiLightVector_capacity_aig_ad8534e24299c30d(std::vector< aiLight
 }
 
 
-void _wrap_aiLightVector_reserve_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiLightVector_reserve_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   std::vector< aiLight * >::size_type arg2 ;
   
@@ -14075,7 +14063,7 @@ void _wrap_aiLightVector_reserve_aig_ad8534e24299c30d(std::vector< aiLight * > *
 }
 
 
-bool _wrap_aiLightVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+bool _wrap_aiLightVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14088,7 +14076,7 @@ bool _wrap_aiLightVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiLight * > *
 }
 
 
-void _wrap_aiLightVector_clear_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+void _wrap_aiLightVector_clear_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   
   arg1 = *(std::vector< aiLight * > **)&_swig_go_0; 
@@ -14098,7 +14086,7 @@ void _wrap_aiLightVector_clear_aig_ad8534e24299c30d(std::vector< aiLight * > *_s
 }
 
 
-void _wrap_aiLightVector_add_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0, aiLight **_swig_go_1) {
+void _wrap_aiLightVector_add_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0, aiLight **_swig_go_1) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   std::vector< aiLight * >::value_type *arg2 = 0 ;
   std::vector< aiLight * >::value_type temp2 = 0 ;
@@ -14114,7 +14102,7 @@ void _wrap_aiLightVector_add_aig_ad8534e24299c30d(std::vector< aiLight * > *_swi
 }
 
 
-aiLight **_wrap_aiLightVector_get_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0, intgo _swig_go_1) {
+aiLight **_wrap_aiLightVector_get_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   int arg2 ;
   std::vector< aiLight * >::value_type *result = 0 ;
@@ -14135,7 +14123,7 @@ aiLight **_wrap_aiLightVector_get_aig_ad8534e24299c30d(std::vector< aiLight * > 
 }
 
 
-void _wrap_aiLightVector_set_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0, intgo _swig_go_1, aiLight **_swig_go_2) {
+void _wrap_aiLightVector_set_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0, intgo _swig_go_1, aiLight **_swig_go_2) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   int arg2 ;
   std::vector< aiLight * >::value_type *arg3 = 0 ;
@@ -14159,7 +14147,7 @@ void _wrap_aiLightVector_set_aig_ad8534e24299c30d(std::vector< aiLight * > *_swi
 }
 
 
-void _wrap_delete_aiLightVector_aig_ad8534e24299c30d(std::vector< aiLight * > *_swig_go_0) {
+void _wrap_delete_aiLightVector_aig_324a1309ed911fbd(std::vector< aiLight * > *_swig_go_0) {
   std::vector< aiLight * > *arg1 = (std::vector< aiLight * > *) 0 ;
   
   arg1 = *(std::vector< aiLight * > **)&_swig_go_0; 
@@ -14169,7 +14157,7 @@ void _wrap_delete_aiLightVector_aig_ad8534e24299c30d(std::vector< aiLight * > *_
 }
 
 
-std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiMaterial * > *result = 0 ;
   std::vector< aiMaterial * > *_swig_go_result;
   
@@ -14180,7 +14168,7 @@ std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_0_aig_ad8534e24299
 }
 
 
-std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiMaterial * >::size_type arg1 ;
   std::vector< aiMaterial * > *result = 0 ;
   std::vector< aiMaterial * > *_swig_go_result;
@@ -14193,7 +14181,7 @@ std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_1_aig_ad8534e24299
 }
 
 
-std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = 0 ;
   std::vector< aiMaterial * > *result = 0 ;
   std::vector< aiMaterial * > *_swig_go_result;
@@ -14206,7 +14194,7 @@ std::vector< aiMaterial * > *_wrap_new_aiMaterialVector__SWIG_2_aig_ad8534e24299
 }
 
 
-long long _wrap_aiMaterialVector_size_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+long long _wrap_aiMaterialVector_size_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   std::vector< aiMaterial * >::size_type result;
   long long _swig_go_result;
@@ -14219,7 +14207,7 @@ long long _wrap_aiMaterialVector_size_aig_ad8534e24299c30d(std::vector< aiMateri
 }
 
 
-long long _wrap_aiMaterialVector_capacity_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+long long _wrap_aiMaterialVector_capacity_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   std::vector< aiMaterial * >::size_type result;
   long long _swig_go_result;
@@ -14232,7 +14220,7 @@ long long _wrap_aiMaterialVector_capacity_aig_ad8534e24299c30d(std::vector< aiMa
 }
 
 
-void _wrap_aiMaterialVector_reserve_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiMaterialVector_reserve_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   std::vector< aiMaterial * >::size_type arg2 ;
   
@@ -14244,7 +14232,7 @@ void _wrap_aiMaterialVector_reserve_aig_ad8534e24299c30d(std::vector< aiMaterial
 }
 
 
-bool _wrap_aiMaterialVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+bool _wrap_aiMaterialVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14257,7 +14245,7 @@ bool _wrap_aiMaterialVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMaterial
 }
 
 
-void _wrap_aiMaterialVector_clear_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+void _wrap_aiMaterialVector_clear_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   
   arg1 = *(std::vector< aiMaterial * > **)&_swig_go_0; 
@@ -14267,7 +14255,7 @@ void _wrap_aiMaterialVector_clear_aig_ad8534e24299c30d(std::vector< aiMaterial *
 }
 
 
-void _wrap_aiMaterialVector_add_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0, aiMaterial **_swig_go_1) {
+void _wrap_aiMaterialVector_add_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0, aiMaterial **_swig_go_1) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   std::vector< aiMaterial * >::value_type *arg2 = 0 ;
   std::vector< aiMaterial * >::value_type temp2 = 0 ;
@@ -14283,7 +14271,7 @@ void _wrap_aiMaterialVector_add_aig_ad8534e24299c30d(std::vector< aiMaterial * >
 }
 
 
-aiMaterial **_wrap_aiMaterialVector_get_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0, intgo _swig_go_1) {
+aiMaterial **_wrap_aiMaterialVector_get_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   int arg2 ;
   std::vector< aiMaterial * >::value_type *result = 0 ;
@@ -14304,7 +14292,7 @@ aiMaterial **_wrap_aiMaterialVector_get_aig_ad8534e24299c30d(std::vector< aiMate
 }
 
 
-void _wrap_aiMaterialVector_set_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0, intgo _swig_go_1, aiMaterial **_swig_go_2) {
+void _wrap_aiMaterialVector_set_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0, intgo _swig_go_1, aiMaterial **_swig_go_2) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   int arg2 ;
   std::vector< aiMaterial * >::value_type *arg3 = 0 ;
@@ -14328,7 +14316,7 @@ void _wrap_aiMaterialVector_set_aig_ad8534e24299c30d(std::vector< aiMaterial * >
 }
 
 
-void _wrap_delete_aiMaterialVector_aig_ad8534e24299c30d(std::vector< aiMaterial * > *_swig_go_0) {
+void _wrap_delete_aiMaterialVector_aig_324a1309ed911fbd(std::vector< aiMaterial * > *_swig_go_0) {
   std::vector< aiMaterial * > *arg1 = (std::vector< aiMaterial * > *) 0 ;
   
   arg1 = *(std::vector< aiMaterial * > **)&_swig_go_0; 
@@ -14338,7 +14326,7 @@ void _wrap_delete_aiMaterialVector_aig_ad8534e24299c30d(std::vector< aiMaterial 
 }
 
 
-std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiMaterialProperty * > *result = 0 ;
   std::vector< aiMaterialProperty * > *_swig_go_result;
   
@@ -14349,7 +14337,7 @@ std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_0_
 }
 
 
-std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiMaterialProperty * >::size_type arg1 ;
   std::vector< aiMaterialProperty * > *result = 0 ;
   std::vector< aiMaterialProperty * > *_swig_go_result;
@@ -14362,7 +14350,7 @@ std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_1_
 }
 
 
-std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = 0 ;
   std::vector< aiMaterialProperty * > *result = 0 ;
   std::vector< aiMaterialProperty * > *_swig_go_result;
@@ -14375,7 +14363,7 @@ std::vector< aiMaterialProperty * > *_wrap_new_aiMaterialPropertyVector__SWIG_2_
 }
 
 
-long long _wrap_aiMaterialPropertyVector_size_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+long long _wrap_aiMaterialPropertyVector_size_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   std::vector< aiMaterialProperty * >::size_type result;
   long long _swig_go_result;
@@ -14388,7 +14376,7 @@ long long _wrap_aiMaterialPropertyVector_size_aig_ad8534e24299c30d(std::vector< 
 }
 
 
-long long _wrap_aiMaterialPropertyVector_capacity_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+long long _wrap_aiMaterialPropertyVector_capacity_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   std::vector< aiMaterialProperty * >::size_type result;
   long long _swig_go_result;
@@ -14401,7 +14389,7 @@ long long _wrap_aiMaterialPropertyVector_capacity_aig_ad8534e24299c30d(std::vect
 }
 
 
-void _wrap_aiMaterialPropertyVector_reserve_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiMaterialPropertyVector_reserve_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   std::vector< aiMaterialProperty * >::size_type arg2 ;
   
@@ -14413,7 +14401,7 @@ void _wrap_aiMaterialPropertyVector_reserve_aig_ad8534e24299c30d(std::vector< ai
 }
 
 
-bool _wrap_aiMaterialPropertyVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+bool _wrap_aiMaterialPropertyVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14426,7 +14414,7 @@ bool _wrap_aiMaterialPropertyVector_isEmpty_aig_ad8534e24299c30d(std::vector< ai
 }
 
 
-void _wrap_aiMaterialPropertyVector_clear_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+void _wrap_aiMaterialPropertyVector_clear_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   
   arg1 = *(std::vector< aiMaterialProperty * > **)&_swig_go_0; 
@@ -14436,7 +14424,7 @@ void _wrap_aiMaterialPropertyVector_clear_aig_ad8534e24299c30d(std::vector< aiMa
 }
 
 
-void _wrap_aiMaterialPropertyVector_add_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0, aiMaterialProperty **_swig_go_1) {
+void _wrap_aiMaterialPropertyVector_add_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0, aiMaterialProperty **_swig_go_1) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   std::vector< aiMaterialProperty * >::value_type *arg2 = 0 ;
   std::vector< aiMaterialProperty * >::value_type temp2 = 0 ;
@@ -14452,7 +14440,7 @@ void _wrap_aiMaterialPropertyVector_add_aig_ad8534e24299c30d(std::vector< aiMate
 }
 
 
-aiMaterialProperty **_wrap_aiMaterialPropertyVector_get_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0, intgo _swig_go_1) {
+aiMaterialProperty **_wrap_aiMaterialPropertyVector_get_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   int arg2 ;
   std::vector< aiMaterialProperty * >::value_type *result = 0 ;
@@ -14473,7 +14461,7 @@ aiMaterialProperty **_wrap_aiMaterialPropertyVector_get_aig_ad8534e24299c30d(std
 }
 
 
-void _wrap_aiMaterialPropertyVector_set_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0, intgo _swig_go_1, aiMaterialProperty **_swig_go_2) {
+void _wrap_aiMaterialPropertyVector_set_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0, intgo _swig_go_1, aiMaterialProperty **_swig_go_2) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   int arg2 ;
   std::vector< aiMaterialProperty * >::value_type *arg3 = 0 ;
@@ -14497,7 +14485,7 @@ void _wrap_aiMaterialPropertyVector_set_aig_ad8534e24299c30d(std::vector< aiMate
 }
 
 
-void _wrap_delete_aiMaterialPropertyVector_aig_ad8534e24299c30d(std::vector< aiMaterialProperty * > *_swig_go_0) {
+void _wrap_delete_aiMaterialPropertyVector_aig_324a1309ed911fbd(std::vector< aiMaterialProperty * > *_swig_go_0) {
   std::vector< aiMaterialProperty * > *arg1 = (std::vector< aiMaterialProperty * > *) 0 ;
   
   arg1 = *(std::vector< aiMaterialProperty * > **)&_swig_go_0; 
@@ -14507,7 +14495,7 @@ void _wrap_delete_aiMaterialPropertyVector_aig_ad8534e24299c30d(std::vector< aiM
 }
 
 
-std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiMeshAnim * > *result = 0 ;
   std::vector< aiMeshAnim * > *_swig_go_result;
   
@@ -14518,7 +14506,7 @@ std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_0_aig_ad8534e24299
 }
 
 
-std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiMeshAnim * >::size_type arg1 ;
   std::vector< aiMeshAnim * > *result = 0 ;
   std::vector< aiMeshAnim * > *_swig_go_result;
@@ -14531,7 +14519,7 @@ std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_1_aig_ad8534e24299
 }
 
 
-std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = 0 ;
   std::vector< aiMeshAnim * > *result = 0 ;
   std::vector< aiMeshAnim * > *_swig_go_result;
@@ -14544,7 +14532,7 @@ std::vector< aiMeshAnim * > *_wrap_new_aiMeshAnimVector__SWIG_2_aig_ad8534e24299
 }
 
 
-long long _wrap_aiMeshAnimVector_size_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+long long _wrap_aiMeshAnimVector_size_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   std::vector< aiMeshAnim * >::size_type result;
   long long _swig_go_result;
@@ -14557,7 +14545,7 @@ long long _wrap_aiMeshAnimVector_size_aig_ad8534e24299c30d(std::vector< aiMeshAn
 }
 
 
-long long _wrap_aiMeshAnimVector_capacity_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+long long _wrap_aiMeshAnimVector_capacity_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   std::vector< aiMeshAnim * >::size_type result;
   long long _swig_go_result;
@@ -14570,7 +14558,7 @@ long long _wrap_aiMeshAnimVector_capacity_aig_ad8534e24299c30d(std::vector< aiMe
 }
 
 
-void _wrap_aiMeshAnimVector_reserve_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiMeshAnimVector_reserve_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   std::vector< aiMeshAnim * >::size_type arg2 ;
   
@@ -14582,7 +14570,7 @@ void _wrap_aiMeshAnimVector_reserve_aig_ad8534e24299c30d(std::vector< aiMeshAnim
 }
 
 
-bool _wrap_aiMeshAnimVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+bool _wrap_aiMeshAnimVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14595,7 +14583,7 @@ bool _wrap_aiMeshAnimVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMeshAnim
 }
 
 
-void _wrap_aiMeshAnimVector_clear_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+void _wrap_aiMeshAnimVector_clear_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   
   arg1 = *(std::vector< aiMeshAnim * > **)&_swig_go_0; 
@@ -14605,7 +14593,7 @@ void _wrap_aiMeshAnimVector_clear_aig_ad8534e24299c30d(std::vector< aiMeshAnim *
 }
 
 
-void _wrap_aiMeshAnimVector_add_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0, aiMeshAnim **_swig_go_1) {
+void _wrap_aiMeshAnimVector_add_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0, aiMeshAnim **_swig_go_1) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   std::vector< aiMeshAnim * >::value_type *arg2 = 0 ;
   std::vector< aiMeshAnim * >::value_type temp2 = 0 ;
@@ -14621,7 +14609,7 @@ void _wrap_aiMeshAnimVector_add_aig_ad8534e24299c30d(std::vector< aiMeshAnim * >
 }
 
 
-aiMeshAnim **_wrap_aiMeshAnimVector_get_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0, intgo _swig_go_1) {
+aiMeshAnim **_wrap_aiMeshAnimVector_get_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   int arg2 ;
   std::vector< aiMeshAnim * >::value_type *result = 0 ;
@@ -14642,7 +14630,7 @@ aiMeshAnim **_wrap_aiMeshAnimVector_get_aig_ad8534e24299c30d(std::vector< aiMesh
 }
 
 
-void _wrap_aiMeshAnimVector_set_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0, intgo _swig_go_1, aiMeshAnim **_swig_go_2) {
+void _wrap_aiMeshAnimVector_set_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0, intgo _swig_go_1, aiMeshAnim **_swig_go_2) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   int arg2 ;
   std::vector< aiMeshAnim * >::value_type *arg3 = 0 ;
@@ -14666,7 +14654,7 @@ void _wrap_aiMeshAnimVector_set_aig_ad8534e24299c30d(std::vector< aiMeshAnim * >
 }
 
 
-void _wrap_delete_aiMeshAnimVector_aig_ad8534e24299c30d(std::vector< aiMeshAnim * > *_swig_go_0) {
+void _wrap_delete_aiMeshAnimVector_aig_324a1309ed911fbd(std::vector< aiMeshAnim * > *_swig_go_0) {
   std::vector< aiMeshAnim * > *arg1 = (std::vector< aiMeshAnim * > *) 0 ;
   
   arg1 = *(std::vector< aiMeshAnim * > **)&_swig_go_0; 
@@ -14676,7 +14664,7 @@ void _wrap_delete_aiMeshAnimVector_aig_ad8534e24299c30d(std::vector< aiMeshAnim 
 }
 
 
-std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiMesh * > *result = 0 ;
   std::vector< aiMesh * > *_swig_go_result;
   
@@ -14687,7 +14675,7 @@ std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiMesh * >::size_type arg1 ;
   std::vector< aiMesh * > *result = 0 ;
   std::vector< aiMesh * > *_swig_go_result;
@@ -14700,7 +14688,7 @@ std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_1_aig_ad8534e24299c30d(lon
 }
 
 
-std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = 0 ;
   std::vector< aiMesh * > *result = 0 ;
   std::vector< aiMesh * > *_swig_go_result;
@@ -14713,7 +14701,7 @@ std::vector< aiMesh * > *_wrap_new_aiMeshVector__SWIG_2_aig_ad8534e24299c30d(std
 }
 
 
-long long _wrap_aiMeshVector_size_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+long long _wrap_aiMeshVector_size_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   std::vector< aiMesh * >::size_type result;
   long long _swig_go_result;
@@ -14726,7 +14714,7 @@ long long _wrap_aiMeshVector_size_aig_ad8534e24299c30d(std::vector< aiMesh * > *
 }
 
 
-long long _wrap_aiMeshVector_capacity_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+long long _wrap_aiMeshVector_capacity_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   std::vector< aiMesh * >::size_type result;
   long long _swig_go_result;
@@ -14739,7 +14727,7 @@ long long _wrap_aiMeshVector_capacity_aig_ad8534e24299c30d(std::vector< aiMesh *
 }
 
 
-void _wrap_aiMeshVector_reserve_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiMeshVector_reserve_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   std::vector< aiMesh * >::size_type arg2 ;
   
@@ -14751,7 +14739,7 @@ void _wrap_aiMeshVector_reserve_aig_ad8534e24299c30d(std::vector< aiMesh * > *_s
 }
 
 
-bool _wrap_aiMeshVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+bool _wrap_aiMeshVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14764,7 +14752,7 @@ bool _wrap_aiMeshVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiMesh * > *_s
 }
 
 
-void _wrap_aiMeshVector_clear_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+void _wrap_aiMeshVector_clear_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   
   arg1 = *(std::vector< aiMesh * > **)&_swig_go_0; 
@@ -14774,7 +14762,7 @@ void _wrap_aiMeshVector_clear_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swi
 }
 
 
-void _wrap_aiMeshVector_add_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0, aiMesh **_swig_go_1) {
+void _wrap_aiMeshVector_add_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0, aiMesh **_swig_go_1) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   std::vector< aiMesh * >::value_type *arg2 = 0 ;
   std::vector< aiMesh * >::value_type temp2 = 0 ;
@@ -14790,7 +14778,7 @@ void _wrap_aiMeshVector_add_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_
 }
 
 
-aiMesh **_wrap_aiMeshVector_get_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0, intgo _swig_go_1) {
+aiMesh **_wrap_aiMeshVector_get_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   int arg2 ;
   std::vector< aiMesh * >::value_type *result = 0 ;
@@ -14811,7 +14799,7 @@ aiMesh **_wrap_aiMeshVector_get_aig_ad8534e24299c30d(std::vector< aiMesh * > *_s
 }
 
 
-void _wrap_aiMeshVector_set_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0, intgo _swig_go_1, aiMesh **_swig_go_2) {
+void _wrap_aiMeshVector_set_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0, intgo _swig_go_1, aiMesh **_swig_go_2) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   int arg2 ;
   std::vector< aiMesh * >::value_type *arg3 = 0 ;
@@ -14835,7 +14823,7 @@ void _wrap_aiMeshVector_set_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_
 }
 
 
-void _wrap_delete_aiMeshVector_aig_ad8534e24299c30d(std::vector< aiMesh * > *_swig_go_0) {
+void _wrap_delete_aiMeshVector_aig_324a1309ed911fbd(std::vector< aiMesh * > *_swig_go_0) {
   std::vector< aiMesh * > *arg1 = (std::vector< aiMesh * > *) 0 ;
   
   arg1 = *(std::vector< aiMesh * > **)&_swig_go_0; 
@@ -14845,7 +14833,7 @@ void _wrap_delete_aiMeshVector_aig_ad8534e24299c30d(std::vector< aiMesh * > *_sw
 }
 
 
-std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiNode * > *result = 0 ;
   std::vector< aiNode * > *_swig_go_result;
   
@@ -14856,7 +14844,7 @@ std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiNode * >::size_type arg1 ;
   std::vector< aiNode * > *result = 0 ;
   std::vector< aiNode * > *_swig_go_result;
@@ -14869,7 +14857,7 @@ std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_1_aig_ad8534e24299c30d(lon
 }
 
 
-std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = 0 ;
   std::vector< aiNode * > *result = 0 ;
   std::vector< aiNode * > *_swig_go_result;
@@ -14882,7 +14870,7 @@ std::vector< aiNode * > *_wrap_new_aiNodeVector__SWIG_2_aig_ad8534e24299c30d(std
 }
 
 
-long long _wrap_aiNodeVector_size_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+long long _wrap_aiNodeVector_size_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   std::vector< aiNode * >::size_type result;
   long long _swig_go_result;
@@ -14895,7 +14883,7 @@ long long _wrap_aiNodeVector_size_aig_ad8534e24299c30d(std::vector< aiNode * > *
 }
 
 
-long long _wrap_aiNodeVector_capacity_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+long long _wrap_aiNodeVector_capacity_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   std::vector< aiNode * >::size_type result;
   long long _swig_go_result;
@@ -14908,7 +14896,7 @@ long long _wrap_aiNodeVector_capacity_aig_ad8534e24299c30d(std::vector< aiNode *
 }
 
 
-void _wrap_aiNodeVector_reserve_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiNodeVector_reserve_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   std::vector< aiNode * >::size_type arg2 ;
   
@@ -14920,7 +14908,7 @@ void _wrap_aiNodeVector_reserve_aig_ad8534e24299c30d(std::vector< aiNode * > *_s
 }
 
 
-bool _wrap_aiNodeVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+bool _wrap_aiNodeVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14933,7 +14921,7 @@ bool _wrap_aiNodeVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiNode * > *_s
 }
 
 
-void _wrap_aiNodeVector_clear_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+void _wrap_aiNodeVector_clear_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   
   arg1 = *(std::vector< aiNode * > **)&_swig_go_0; 
@@ -14943,7 +14931,7 @@ void _wrap_aiNodeVector_clear_aig_ad8534e24299c30d(std::vector< aiNode * > *_swi
 }
 
 
-void _wrap_aiNodeVector_add_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0, aiNode **_swig_go_1) {
+void _wrap_aiNodeVector_add_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0, aiNode **_swig_go_1) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   std::vector< aiNode * >::value_type *arg2 = 0 ;
   std::vector< aiNode * >::value_type temp2 = 0 ;
@@ -14959,7 +14947,7 @@ void _wrap_aiNodeVector_add_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_
 }
 
 
-aiNode **_wrap_aiNodeVector_get_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0, intgo _swig_go_1) {
+aiNode **_wrap_aiNodeVector_get_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   int arg2 ;
   std::vector< aiNode * >::value_type *result = 0 ;
@@ -14980,7 +14968,7 @@ aiNode **_wrap_aiNodeVector_get_aig_ad8534e24299c30d(std::vector< aiNode * > *_s
 }
 
 
-void _wrap_aiNodeVector_set_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0, intgo _swig_go_1, aiNode **_swig_go_2) {
+void _wrap_aiNodeVector_set_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0, intgo _swig_go_1, aiNode **_swig_go_2) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   int arg2 ;
   std::vector< aiNode * >::value_type *arg3 = 0 ;
@@ -15004,7 +14992,7 @@ void _wrap_aiNodeVector_set_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_
 }
 
 
-void _wrap_delete_aiNodeVector_aig_ad8534e24299c30d(std::vector< aiNode * > *_swig_go_0) {
+void _wrap_delete_aiNodeVector_aig_324a1309ed911fbd(std::vector< aiNode * > *_swig_go_0) {
   std::vector< aiNode * > *arg1 = (std::vector< aiNode * > *) 0 ;
   
   arg1 = *(std::vector< aiNode * > **)&_swig_go_0; 
@@ -15014,7 +15002,7 @@ void _wrap_delete_aiNodeVector_aig_ad8534e24299c30d(std::vector< aiNode * > *_sw
 }
 
 
-std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiNodeAnim * > *result = 0 ;
   std::vector< aiNodeAnim * > *_swig_go_result;
   
@@ -15025,7 +15013,7 @@ std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_0_aig_ad8534e24299
 }
 
 
-std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiNodeAnim * >::size_type arg1 ;
   std::vector< aiNodeAnim * > *result = 0 ;
   std::vector< aiNodeAnim * > *_swig_go_result;
@@ -15038,7 +15026,7 @@ std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_1_aig_ad8534e24299
 }
 
 
-std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = 0 ;
   std::vector< aiNodeAnim * > *result = 0 ;
   std::vector< aiNodeAnim * > *_swig_go_result;
@@ -15051,7 +15039,7 @@ std::vector< aiNodeAnim * > *_wrap_new_aiNodeAnimVector__SWIG_2_aig_ad8534e24299
 }
 
 
-long long _wrap_aiNodeAnimVector_size_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+long long _wrap_aiNodeAnimVector_size_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   std::vector< aiNodeAnim * >::size_type result;
   long long _swig_go_result;
@@ -15064,7 +15052,7 @@ long long _wrap_aiNodeAnimVector_size_aig_ad8534e24299c30d(std::vector< aiNodeAn
 }
 
 
-long long _wrap_aiNodeAnimVector_capacity_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+long long _wrap_aiNodeAnimVector_capacity_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   std::vector< aiNodeAnim * >::size_type result;
   long long _swig_go_result;
@@ -15077,7 +15065,7 @@ long long _wrap_aiNodeAnimVector_capacity_aig_ad8534e24299c30d(std::vector< aiNo
 }
 
 
-void _wrap_aiNodeAnimVector_reserve_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiNodeAnimVector_reserve_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   std::vector< aiNodeAnim * >::size_type arg2 ;
   
@@ -15089,7 +15077,7 @@ void _wrap_aiNodeAnimVector_reserve_aig_ad8534e24299c30d(std::vector< aiNodeAnim
 }
 
 
-bool _wrap_aiNodeAnimVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+bool _wrap_aiNodeAnimVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15102,7 +15090,7 @@ bool _wrap_aiNodeAnimVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiNodeAnim
 }
 
 
-void _wrap_aiNodeAnimVector_clear_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+void _wrap_aiNodeAnimVector_clear_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   
   arg1 = *(std::vector< aiNodeAnim * > **)&_swig_go_0; 
@@ -15112,7 +15100,7 @@ void _wrap_aiNodeAnimVector_clear_aig_ad8534e24299c30d(std::vector< aiNodeAnim *
 }
 
 
-void _wrap_aiNodeAnimVector_add_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0, aiNodeAnim **_swig_go_1) {
+void _wrap_aiNodeAnimVector_add_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0, aiNodeAnim **_swig_go_1) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   std::vector< aiNodeAnim * >::value_type *arg2 = 0 ;
   std::vector< aiNodeAnim * >::value_type temp2 = 0 ;
@@ -15128,7 +15116,7 @@ void _wrap_aiNodeAnimVector_add_aig_ad8534e24299c30d(std::vector< aiNodeAnim * >
 }
 
 
-aiNodeAnim **_wrap_aiNodeAnimVector_get_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0, intgo _swig_go_1) {
+aiNodeAnim **_wrap_aiNodeAnimVector_get_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   int arg2 ;
   std::vector< aiNodeAnim * >::value_type *result = 0 ;
@@ -15149,7 +15137,7 @@ aiNodeAnim **_wrap_aiNodeAnimVector_get_aig_ad8534e24299c30d(std::vector< aiNode
 }
 
 
-void _wrap_aiNodeAnimVector_set_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0, intgo _swig_go_1, aiNodeAnim **_swig_go_2) {
+void _wrap_aiNodeAnimVector_set_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0, intgo _swig_go_1, aiNodeAnim **_swig_go_2) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   int arg2 ;
   std::vector< aiNodeAnim * >::value_type *arg3 = 0 ;
@@ -15173,7 +15161,7 @@ void _wrap_aiNodeAnimVector_set_aig_ad8534e24299c30d(std::vector< aiNodeAnim * >
 }
 
 
-void _wrap_delete_aiNodeAnimVector_aig_ad8534e24299c30d(std::vector< aiNodeAnim * > *_swig_go_0) {
+void _wrap_delete_aiNodeAnimVector_aig_324a1309ed911fbd(std::vector< aiNodeAnim * > *_swig_go_0) {
   std::vector< aiNodeAnim * > *arg1 = (std::vector< aiNodeAnim * > *) 0 ;
   
   arg1 = *(std::vector< aiNodeAnim * > **)&_swig_go_0; 
@@ -15183,7 +15171,7 @@ void _wrap_delete_aiNodeAnimVector_aig_ad8534e24299c30d(std::vector< aiNodeAnim 
 }
 
 
-std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiTexture * > *result = 0 ;
   std::vector< aiTexture * > *_swig_go_result;
   
@@ -15194,7 +15182,7 @@ std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_0_aig_ad8534e24299c3
 }
 
 
-std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiTexture * >::size_type arg1 ;
   std::vector< aiTexture * > *result = 0 ;
   std::vector< aiTexture * > *_swig_go_result;
@@ -15207,7 +15195,7 @@ std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_1_aig_ad8534e24299c3
 }
 
 
-std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = 0 ;
   std::vector< aiTexture * > *result = 0 ;
   std::vector< aiTexture * > *_swig_go_result;
@@ -15220,7 +15208,7 @@ std::vector< aiTexture * > *_wrap_new_aiTextureVector__SWIG_2_aig_ad8534e24299c3
 }
 
 
-long long _wrap_aiTextureVector_size_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+long long _wrap_aiTextureVector_size_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   std::vector< aiTexture * >::size_type result;
   long long _swig_go_result;
@@ -15233,7 +15221,7 @@ long long _wrap_aiTextureVector_size_aig_ad8534e24299c30d(std::vector< aiTexture
 }
 
 
-long long _wrap_aiTextureVector_capacity_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+long long _wrap_aiTextureVector_capacity_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   std::vector< aiTexture * >::size_type result;
   long long _swig_go_result;
@@ -15246,7 +15234,7 @@ long long _wrap_aiTextureVector_capacity_aig_ad8534e24299c30d(std::vector< aiTex
 }
 
 
-void _wrap_aiTextureVector_reserve_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiTextureVector_reserve_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   std::vector< aiTexture * >::size_type arg2 ;
   
@@ -15258,7 +15246,7 @@ void _wrap_aiTextureVector_reserve_aig_ad8534e24299c30d(std::vector< aiTexture *
 }
 
 
-bool _wrap_aiTextureVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+bool _wrap_aiTextureVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15271,7 +15259,7 @@ bool _wrap_aiTextureVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiTexture *
 }
 
 
-void _wrap_aiTextureVector_clear_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+void _wrap_aiTextureVector_clear_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   
   arg1 = *(std::vector< aiTexture * > **)&_swig_go_0; 
@@ -15281,7 +15269,7 @@ void _wrap_aiTextureVector_clear_aig_ad8534e24299c30d(std::vector< aiTexture * >
 }
 
 
-void _wrap_aiTextureVector_add_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0, aiTexture **_swig_go_1) {
+void _wrap_aiTextureVector_add_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0, aiTexture **_swig_go_1) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   std::vector< aiTexture * >::value_type *arg2 = 0 ;
   std::vector< aiTexture * >::value_type temp2 = 0 ;
@@ -15297,7 +15285,7 @@ void _wrap_aiTextureVector_add_aig_ad8534e24299c30d(std::vector< aiTexture * > *
 }
 
 
-aiTexture **_wrap_aiTextureVector_get_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0, intgo _swig_go_1) {
+aiTexture **_wrap_aiTextureVector_get_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   int arg2 ;
   std::vector< aiTexture * >::value_type *result = 0 ;
@@ -15318,7 +15306,7 @@ aiTexture **_wrap_aiTextureVector_get_aig_ad8534e24299c30d(std::vector< aiTextur
 }
 
 
-void _wrap_aiTextureVector_set_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0, intgo _swig_go_1, aiTexture **_swig_go_2) {
+void _wrap_aiTextureVector_set_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0, intgo _swig_go_1, aiTexture **_swig_go_2) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   int arg2 ;
   std::vector< aiTexture * >::value_type *arg3 = 0 ;
@@ -15342,7 +15330,7 @@ void _wrap_aiTextureVector_set_aig_ad8534e24299c30d(std::vector< aiTexture * > *
 }
 
 
-void _wrap_delete_aiTextureVector_aig_ad8534e24299c30d(std::vector< aiTexture * > *_swig_go_0) {
+void _wrap_delete_aiTextureVector_aig_324a1309ed911fbd(std::vector< aiTexture * > *_swig_go_0) {
   std::vector< aiTexture * > *arg1 = (std::vector< aiTexture * > *) 0 ;
   
   arg1 = *(std::vector< aiTexture * > **)&_swig_go_0; 
@@ -15352,7 +15340,7 @@ void _wrap_delete_aiTextureVector_aig_ad8534e24299c30d(std::vector< aiTexture * 
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
   
@@ -15363,7 +15351,7 @@ std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_0_aig_ad8
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiVector3t< float > * >::size_type arg1 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -15376,7 +15364,7 @@ std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_1_aig_ad8
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = 0 ;
   std::vector< aiVector3D * > *result = 0 ;
   std::vector< aiVector3t< float > * > *_swig_go_result;
@@ -15389,7 +15377,7 @@ std::vector< aiVector3t< float > * > *_wrap_new_aiVector3DVector__SWIG_2_aig_ad8
 }
 
 
-long long _wrap_aiVector3DVector_size_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+long long _wrap_aiVector3DVector_size_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   std::vector< aiVector3t< float > * >::size_type result;
   long long _swig_go_result;
@@ -15402,7 +15390,7 @@ long long _wrap_aiVector3DVector_size_aig_ad8534e24299c30d(std::vector< aiVector
 }
 
 
-long long _wrap_aiVector3DVector_capacity_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+long long _wrap_aiVector3DVector_capacity_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   std::vector< aiVector3t< float > * >::size_type result;
   long long _swig_go_result;
@@ -15415,7 +15403,7 @@ long long _wrap_aiVector3DVector_capacity_aig_ad8534e24299c30d(std::vector< aiVe
 }
 
 
-void _wrap_aiVector3DVector_reserve_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiVector3DVector_reserve_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   std::vector< aiVector3t< float > * >::size_type arg2 ;
   
@@ -15427,7 +15415,7 @@ void _wrap_aiVector3DVector_reserve_aig_ad8534e24299c30d(std::vector< aiVector3t
 }
 
 
-bool _wrap_aiVector3DVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+bool _wrap_aiVector3DVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15440,7 +15428,7 @@ bool _wrap_aiVector3DVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiVector3t
 }
 
 
-void _wrap_aiVector3DVector_clear_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+void _wrap_aiVector3DVector_clear_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   
   arg1 = *(std::vector< aiVector3D * > **)&_swig_go_0; 
@@ -15450,7 +15438,7 @@ void _wrap_aiVector3DVector_clear_aig_ad8534e24299c30d(std::vector< aiVector3t< 
 }
 
 
-void _wrap_aiVector3DVector_add_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0, aiVector3t< float > **_swig_go_1) {
+void _wrap_aiVector3DVector_add_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0, aiVector3t< float > **_swig_go_1) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   std::vector< aiVector3t< float > * >::value_type *arg2 = 0 ;
   std::vector< aiVector3t< float > * >::value_type temp2 = 0 ;
@@ -15466,7 +15454,7 @@ void _wrap_aiVector3DVector_add_aig_ad8534e24299c30d(std::vector< aiVector3t< fl
 }
 
 
-aiVector3t< float > **_wrap_aiVector3DVector_get_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0, intgo _swig_go_1) {
+aiVector3t< float > **_wrap_aiVector3DVector_get_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   int arg2 ;
   std::vector< aiVector3t< float > * >::value_type *result = 0 ;
@@ -15487,7 +15475,7 @@ aiVector3t< float > **_wrap_aiVector3DVector_get_aig_ad8534e24299c30d(std::vecto
 }
 
 
-void _wrap_aiVector3DVector_set_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0, intgo _swig_go_1, aiVector3t< float > **_swig_go_2) {
+void _wrap_aiVector3DVector_set_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0, intgo _swig_go_1, aiVector3t< float > **_swig_go_2) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   int arg2 ;
   std::vector< aiVector3t< float > * >::value_type *arg3 = 0 ;
@@ -15511,7 +15499,7 @@ void _wrap_aiVector3DVector_set_aig_ad8534e24299c30d(std::vector< aiVector3t< fl
 }
 
 
-void _wrap_delete_aiVector3DVector_aig_ad8534e24299c30d(std::vector< aiVector3t< float > * > *_swig_go_0) {
+void _wrap_delete_aiVector3DVector_aig_324a1309ed911fbd(std::vector< aiVector3t< float > * > *_swig_go_0) {
   std::vector< aiVector3D * > *arg1 = (std::vector< aiVector3D * > *) 0 ;
   
   arg1 = *(std::vector< aiVector3D * > **)&_swig_go_0; 
@@ -15521,7 +15509,7 @@ void _wrap_delete_aiVector3DVector_aig_ad8534e24299c30d(std::vector< aiVector3t<
 }
 
 
-std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< std::vector< aiVector3D * > > *result = 0 ;
   std::vector< std::vector< aiVector3t< float > * > > *_swig_go_result;
   
@@ -15532,7 +15520,7 @@ std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorV
 }
 
 
-std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< std::vector< aiVector3t< float > * > >::size_type arg1 ;
   std::vector< std::vector< aiVector3D * > > *result = 0 ;
   std::vector< std::vector< aiVector3t< float > * > > *_swig_go_result;
@@ -15545,7 +15533,7 @@ std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorV
 }
 
 
-std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_2_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorVector__SWIG_2_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = 0 ;
   std::vector< std::vector< aiVector3D * > > *result = 0 ;
   std::vector< std::vector< aiVector3t< float > * > > *_swig_go_result;
@@ -15558,7 +15546,7 @@ std::vector< std::vector< aiVector3t< float > * > > *_wrap_new_aiVector3DVectorV
 }
 
 
-long long _wrap_aiVector3DVectorVector_size_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+long long _wrap_aiVector3DVectorVector_size_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   std::vector< std::vector< aiVector3t< float > * > >::size_type result;
   long long _swig_go_result;
@@ -15571,7 +15559,7 @@ long long _wrap_aiVector3DVectorVector_size_aig_ad8534e24299c30d(std::vector< st
 }
 
 
-long long _wrap_aiVector3DVectorVector_capacity_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+long long _wrap_aiVector3DVectorVector_capacity_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   std::vector< std::vector< aiVector3t< float > * > >::size_type result;
   long long _swig_go_result;
@@ -15584,7 +15572,7 @@ long long _wrap_aiVector3DVectorVector_capacity_aig_ad8534e24299c30d(std::vector
 }
 
 
-void _wrap_aiVector3DVectorVector_reserve_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiVector3DVectorVector_reserve_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, long long _swig_go_1) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   std::vector< std::vector< aiVector3t< float > * > >::size_type arg2 ;
   
@@ -15596,7 +15584,7 @@ void _wrap_aiVector3DVectorVector_reserve_aig_ad8534e24299c30d(std::vector< std:
 }
 
 
-bool _wrap_aiVector3DVectorVector_isEmpty_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+bool _wrap_aiVector3DVectorVector_isEmpty_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15609,7 +15597,7 @@ bool _wrap_aiVector3DVectorVector_isEmpty_aig_ad8534e24299c30d(std::vector< std:
 }
 
 
-void _wrap_aiVector3DVectorVector_clear_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+void _wrap_aiVector3DVectorVector_clear_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   
   arg1 = *(std::vector< std::vector< aiVector3D * > > **)&_swig_go_0; 
@@ -15619,7 +15607,7 @@ void _wrap_aiVector3DVectorVector_clear_aig_ad8534e24299c30d(std::vector< std::v
 }
 
 
-void _wrap_aiVector3DVectorVector_add_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, std::vector< aiVector3t< float > * > *_swig_go_1) {
+void _wrap_aiVector3DVectorVector_add_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, std::vector< aiVector3t< float > * > *_swig_go_1) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   std::vector< std::vector< aiVector3t< float > * > >::value_type *arg2 = 0 ;
   
@@ -15631,7 +15619,7 @@ void _wrap_aiVector3DVectorVector_add_aig_ad8534e24299c30d(std::vector< std::vec
 }
 
 
-std::vector< aiVector3t< float > * > *_wrap_aiVector3DVectorVector_get_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, intgo _swig_go_1) {
+std::vector< aiVector3t< float > * > *_wrap_aiVector3DVectorVector_get_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, intgo _swig_go_1) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   int arg2 ;
   std::vector< std::vector< aiVector3D * > >::value_type *result = 0 ;
@@ -15652,7 +15640,7 @@ std::vector< aiVector3t< float > * > *_wrap_aiVector3DVectorVector_get_aig_ad853
 }
 
 
-void _wrap_aiVector3DVectorVector_set_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, intgo _swig_go_1, std::vector< aiVector3t< float > * > *_swig_go_2) {
+void _wrap_aiVector3DVectorVector_set_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0, intgo _swig_go_1, std::vector< aiVector3t< float > * > *_swig_go_2) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   int arg2 ;
   std::vector< std::vector< aiVector3t< float > * > >::value_type *arg3 = 0 ;
@@ -15672,7 +15660,7 @@ void _wrap_aiVector3DVectorVector_set_aig_ad8534e24299c30d(std::vector< std::vec
 }
 
 
-void _wrap_delete_aiVector3DVectorVector_aig_ad8534e24299c30d(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
+void _wrap_delete_aiVector3DVectorVector_aig_324a1309ed911fbd(std::vector< std::vector< aiVector3t< float > * > > *_swig_go_0) {
   std::vector< std::vector< aiVector3D * > > *arg1 = (std::vector< std::vector< aiVector3D * > > *) 0 ;
   
   arg1 = *(std::vector< std::vector< aiVector3D * > > **)&_swig_go_0; 
@@ -15682,7 +15670,7 @@ void _wrap_delete_aiVector3DVectorVector_aig_ad8534e24299c30d(std::vector< std::
 }
 
 
-std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_0_aig_ad8534e24299c30d() {
+std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_0_aig_324a1309ed911fbd() {
   std::vector< aiVertexWeight * > *result = 0 ;
   std::vector< aiVertexWeight * > *_swig_go_result;
   
@@ -15693,7 +15681,7 @@ std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_0_aig_ad85
 }
 
 
-std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_1_aig_ad8534e24299c30d(long long _swig_go_0) {
+std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_1_aig_324a1309ed911fbd(long long _swig_go_0) {
   std::vector< aiVertexWeight * >::size_type arg1 ;
   std::vector< aiVertexWeight * > *result = 0 ;
   std::vector< aiVertexWeight * > *_swig_go_result;
@@ -15706,7 +15694,7 @@ std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_1_aig_ad85
 }
 
 
-std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_2_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_2_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = 0 ;
   std::vector< aiVertexWeight * > *result = 0 ;
   std::vector< aiVertexWeight * > *_swig_go_result;
@@ -15719,7 +15707,7 @@ std::vector< aiVertexWeight * > *_wrap_new_aiVertexWeightVector__SWIG_2_aig_ad85
 }
 
 
-long long _wrap_aiVertexWeightVector_size_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+long long _wrap_aiVertexWeightVector_size_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   std::vector< aiVertexWeight * >::size_type result;
   long long _swig_go_result;
@@ -15732,7 +15720,7 @@ long long _wrap_aiVertexWeightVector_size_aig_ad8534e24299c30d(std::vector< aiVe
 }
 
 
-long long _wrap_aiVertexWeightVector_capacity_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+long long _wrap_aiVertexWeightVector_capacity_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   std::vector< aiVertexWeight * >::size_type result;
   long long _swig_go_result;
@@ -15745,7 +15733,7 @@ long long _wrap_aiVertexWeightVector_capacity_aig_ad8534e24299c30d(std::vector< 
 }
 
 
-void _wrap_aiVertexWeightVector_reserve_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0, long long _swig_go_1) {
+void _wrap_aiVertexWeightVector_reserve_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0, long long _swig_go_1) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   std::vector< aiVertexWeight * >::size_type arg2 ;
   
@@ -15757,7 +15745,7 @@ void _wrap_aiVertexWeightVector_reserve_aig_ad8534e24299c30d(std::vector< aiVert
 }
 
 
-bool _wrap_aiVertexWeightVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+bool _wrap_aiVertexWeightVector_isEmpty_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15770,7 +15758,7 @@ bool _wrap_aiVertexWeightVector_isEmpty_aig_ad8534e24299c30d(std::vector< aiVert
 }
 
 
-void _wrap_aiVertexWeightVector_clear_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+void _wrap_aiVertexWeightVector_clear_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   
   arg1 = *(std::vector< aiVertexWeight * > **)&_swig_go_0; 
@@ -15780,7 +15768,7 @@ void _wrap_aiVertexWeightVector_clear_aig_ad8534e24299c30d(std::vector< aiVertex
 }
 
 
-void _wrap_aiVertexWeightVector_add_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0, aiVertexWeight **_swig_go_1) {
+void _wrap_aiVertexWeightVector_add_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0, aiVertexWeight **_swig_go_1) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   std::vector< aiVertexWeight * >::value_type *arg2 = 0 ;
   std::vector< aiVertexWeight * >::value_type temp2 = 0 ;
@@ -15796,7 +15784,7 @@ void _wrap_aiVertexWeightVector_add_aig_ad8534e24299c30d(std::vector< aiVertexWe
 }
 
 
-aiVertexWeight **_wrap_aiVertexWeightVector_get_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0, intgo _swig_go_1) {
+aiVertexWeight **_wrap_aiVertexWeightVector_get_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0, intgo _swig_go_1) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   int arg2 ;
   std::vector< aiVertexWeight * >::value_type *result = 0 ;
@@ -15817,7 +15805,7 @@ aiVertexWeight **_wrap_aiVertexWeightVector_get_aig_ad8534e24299c30d(std::vector
 }
 
 
-void _wrap_aiVertexWeightVector_set_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0, intgo _swig_go_1, aiVertexWeight **_swig_go_2) {
+void _wrap_aiVertexWeightVector_set_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0, intgo _swig_go_1, aiVertexWeight **_swig_go_2) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   int arg2 ;
   std::vector< aiVertexWeight * >::value_type *arg3 = 0 ;
@@ -15841,7 +15829,7 @@ void _wrap_aiVertexWeightVector_set_aig_ad8534e24299c30d(std::vector< aiVertexWe
 }
 
 
-void _wrap_delete_aiVertexWeightVector_aig_ad8534e24299c30d(std::vector< aiVertexWeight * > *_swig_go_0) {
+void _wrap_delete_aiVertexWeightVector_aig_324a1309ed911fbd(std::vector< aiVertexWeight * > *_swig_go_0) {
   std::vector< aiVertexWeight * > *arg1 = (std::vector< aiVertexWeight * > *) 0 ;
   
   arg1 = *(std::vector< aiVertexWeight * > **)&_swig_go_0; 
@@ -15851,7 +15839,7 @@ void _wrap_delete_aiVertexWeightVector_aig_ad8534e24299c30d(std::vector< aiVerte
 }
 
 
-aiVector2t< float > *_wrap_new_aiVector2D__SWIG_0_aig_ad8534e24299c30d() {
+aiVector2t< float > *_wrap_new_aiVector2D__SWIG_0_aig_324a1309ed911fbd() {
   aiVector2t< ai_real > *result = 0 ;
   aiVector2t< float > *_swig_go_result;
   
@@ -15862,7 +15850,7 @@ aiVector2t< float > *_wrap_new_aiVector2D__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiVector2t< float > *_wrap_new_aiVector2D__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, float _swig_go_1) {
+aiVector2t< float > *_wrap_new_aiVector2D__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   aiVector2t< ai_real > *result = 0 ;
@@ -15877,7 +15865,7 @@ aiVector2t< float > *_wrap_new_aiVector2D__SWIG_1_aig_ad8534e24299c30d(float _sw
 }
 
 
-aiVector2t< float > *_wrap_new_aiVector2D__SWIG_2_aig_ad8534e24299c30d(float _swig_go_0) {
+aiVector2t< float > *_wrap_new_aiVector2D__SWIG_2_aig_324a1309ed911fbd(float _swig_go_0) {
   float arg1 ;
   aiVector2t< ai_real > *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -15890,7 +15878,7 @@ aiVector2t< float > *_wrap_new_aiVector2D__SWIG_2_aig_ad8534e24299c30d(float _sw
 }
 
 
-aiVector2t< float > *_wrap_new_aiVector2D__SWIG_3_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+aiVector2t< float > *_wrap_new_aiVector2D__SWIG_3_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = 0 ;
   aiVector2t< ai_real > *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -15903,7 +15891,7 @@ aiVector2t< float > *_wrap_new_aiVector2D__SWIG_3_aig_ad8534e24299c30d(aiVector2
 }
 
 
-void _wrap_aiVector2D_Set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_aiVector2D_Set_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -15917,7 +15905,7 @@ void _wrap_aiVector2D_Set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, 
 }
 
 
-float _wrap_aiVector2D_SquareLength_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+float _wrap_aiVector2D_SquareLength_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -15930,7 +15918,7 @@ float _wrap_aiVector2D_SquareLength_aig_ad8534e24299c30d(aiVector2t< float > *_s
 }
 
 
-float _wrap_aiVector2D_Length_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+float _wrap_aiVector2D_Length_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -15943,7 +15931,7 @@ float _wrap_aiVector2D_Length_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go
 }
 
 
-aiVector2t< float > *_wrap_aiVector2D_Normalize_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+aiVector2t< float > *_wrap_aiVector2D_Normalize_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   aiVector2t< ai_real > *result = 0 ;
   aiVector2t< float > *_swig_go_result;
@@ -15956,7 +15944,7 @@ aiVector2t< float > *_wrap_aiVector2D_Normalize_aig_ad8534e24299c30d(aiVector2t<
 }
 
 
-bool _wrap_aiVector2D_Equal__SWIG_0_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1, float _swig_go_2) {
+bool _wrap_aiVector2D_Equal__SWIG_0_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1, float _swig_go_2) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   aiVector2t< ai_real > *arg2 = 0 ;
   float arg3 ;
@@ -15973,7 +15961,7 @@ bool _wrap_aiVector2D_Equal__SWIG_0_aig_ad8534e24299c30d(aiVector2t< float > *_s
 }
 
 
-bool _wrap_aiVector2D_Equal__SWIG_1_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1) {
+bool _wrap_aiVector2D_Equal__SWIG_1_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   aiVector2t< ai_real > *arg2 = 0 ;
   bool result;
@@ -15988,7 +15976,7 @@ bool _wrap_aiVector2D_Equal__SWIG_1_aig_ad8534e24299c30d(aiVector2t< float > *_s
 }
 
 
-aiVector2t< float > *_wrap_aiVector2D_SymMul_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1) {
+aiVector2t< float > *_wrap_aiVector2D_SymMul_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, aiVector2t< float > *_swig_go_1) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   aiVector2t< ai_real > *arg2 = 0 ;
   aiVector2t< ai_real > result;
@@ -16003,7 +15991,7 @@ aiVector2t< float > *_wrap_aiVector2D_SymMul_aig_ad8534e24299c30d(aiVector2t< fl
 }
 
 
-void _wrap_aiVector2D_x_set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVector2D_x_set_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, float _swig_go_1) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float arg2 ;
   
@@ -16015,7 +16003,7 @@ void _wrap_aiVector2D_x_set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0
 }
 
 
-float _wrap_aiVector2D_x_get_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+float _wrap_aiVector2D_x_get_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16028,7 +16016,7 @@ float _wrap_aiVector2D_x_get_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_
 }
 
 
-void _wrap_aiVector2D_y_set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVector2D_y_set_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, float _swig_go_1) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float arg2 ;
   
@@ -16040,7 +16028,7 @@ void _wrap_aiVector2D_y_set_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0
 }
 
 
-float _wrap_aiVector2D_y_get_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+float _wrap_aiVector2D_y_get_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16053,7 +16041,7 @@ float _wrap_aiVector2D_y_get_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_
 }
 
 
-void _wrap_delete_aiVector2D_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_0) {
+void _wrap_delete_aiVector2D_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0) {
   aiVector2t< ai_real > *arg1 = (aiVector2t< ai_real > *) 0 ;
   
   arg1 = *(aiVector2t< ai_real > **)&_swig_go_0; 
@@ -16063,7 +16051,7 @@ void _wrap_delete_aiVector2D_aig_ad8534e24299c30d(aiVector2t< float > *_swig_go_
 }
 
 
-aiVector3t< float > *_wrap_new_aiVector3D__SWIG_0_aig_ad8534e24299c30d() {
+aiVector3t< float > *_wrap_new_aiVector3D__SWIG_0_aig_324a1309ed911fbd() {
   aiVector3t< ai_real > *result = 0 ;
   aiVector3t< float > *_swig_go_result;
   
@@ -16074,7 +16062,7 @@ aiVector3t< float > *_wrap_new_aiVector3D__SWIG_0_aig_ad8534e24299c30d() {
 }
 
 
-aiVector3t< float > *_wrap_new_aiVector3D__SWIG_1_aig_ad8534e24299c30d(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+aiVector3t< float > *_wrap_new_aiVector3D__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -16091,7 +16079,7 @@ aiVector3t< float > *_wrap_new_aiVector3D__SWIG_1_aig_ad8534e24299c30d(float _sw
 }
 
 
-aiVector3t< float > *_wrap_new_aiVector3D__SWIG_2_aig_ad8534e24299c30d(float _swig_go_0) {
+aiVector3t< float > *_wrap_new_aiVector3D__SWIG_2_aig_324a1309ed911fbd(float _swig_go_0) {
   float arg1 ;
   aiVector3t< ai_real > *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -16104,7 +16092,7 @@ aiVector3t< float > *_wrap_new_aiVector3D__SWIG_2_aig_ad8534e24299c30d(float _sw
 }
 
 
-aiVector3t< float > *_wrap_new_aiVector3D__SWIG_3_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+aiVector3t< float > *_wrap_new_aiVector3D__SWIG_3_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = 0 ;
   aiVector3t< ai_real > *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -16117,7 +16105,7 @@ aiVector3t< float > *_wrap_new_aiVector3D__SWIG_3_aig_ad8534e24299c30d(aiVector3
 }
 
 
-bool _wrap_aiVector3D_Equal__SWIG_0_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, float _swig_go_2) {
+bool _wrap_aiVector3D_Equal__SWIG_0_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, float _swig_go_2) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   aiVector3t< ai_real > *arg2 = 0 ;
   float arg3 ;
@@ -16134,7 +16122,7 @@ bool _wrap_aiVector3D_Equal__SWIG_0_aig_ad8534e24299c30d(aiVector3t< float > *_s
 }
 
 
-bool _wrap_aiVector3D_Equal__SWIG_1_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+bool _wrap_aiVector3D_Equal__SWIG_1_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   aiVector3t< ai_real > *arg2 = 0 ;
   bool result;
@@ -16149,7 +16137,7 @@ bool _wrap_aiVector3D_Equal__SWIG_1_aig_ad8534e24299c30d(aiVector3t< float > *_s
 }
 
 
-void _wrap_aiVector3D_Set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+void _wrap_aiVector3D_Set_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -16165,7 +16153,7 @@ void _wrap_aiVector3D_Set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, 
 }
 
 
-float _wrap_aiVector3D_SquareLength_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+float _wrap_aiVector3D_SquareLength_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16178,7 +16166,7 @@ float _wrap_aiVector3D_SquareLength_aig_ad8534e24299c30d(aiVector3t< float > *_s
 }
 
 
-float _wrap_aiVector3D_Length_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+float _wrap_aiVector3D_Length_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16191,7 +16179,7 @@ float _wrap_aiVector3D_Length_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go
 }
 
 
-aiVector3t< float > *_wrap_aiVector3D_Normalize_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+aiVector3t< float > *_wrap_aiVector3D_Normalize_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   aiVector3t< ai_real > *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -16204,7 +16192,7 @@ aiVector3t< float > *_wrap_aiVector3D_Normalize_aig_ad8534e24299c30d(aiVector3t<
 }
 
 
-aiVector3t< float > *_wrap_aiVector3D_NormalizeSafe_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+aiVector3t< float > *_wrap_aiVector3D_NormalizeSafe_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   aiVector3t< ai_real > *result = 0 ;
   aiVector3t< float > *_swig_go_result;
@@ -16217,7 +16205,7 @@ aiVector3t< float > *_wrap_aiVector3D_NormalizeSafe_aig_ad8534e24299c30d(aiVecto
 }
 
 
-aiVector3t< float > *_wrap_aiVector3D_SymMul_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+aiVector3t< float > *_wrap_aiVector3D_SymMul_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   aiVector3t< ai_real > *arg2 = 0 ;
   aiVector3t< ai_real > result;
@@ -16232,7 +16220,7 @@ aiVector3t< float > *_wrap_aiVector3D_SymMul_aig_ad8534e24299c30d(aiVector3t< fl
 }
 
 
-void _wrap_aiVector3D_x_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVector3D_x_set_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float arg2 ;
   
@@ -16244,7 +16232,7 @@ void _wrap_aiVector3D_x_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0
 }
 
 
-float _wrap_aiVector3D_x_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+float _wrap_aiVector3D_x_get_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16257,7 +16245,7 @@ float _wrap_aiVector3D_x_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_
 }
 
 
-void _wrap_aiVector3D_y_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVector3D_y_set_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float arg2 ;
   
@@ -16269,7 +16257,7 @@ void _wrap_aiVector3D_y_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0
 }
 
 
-float _wrap_aiVector3D_y_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+float _wrap_aiVector3D_y_get_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16282,7 +16270,7 @@ float _wrap_aiVector3D_y_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_
 }
 
 
-void _wrap_aiVector3D_z_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
+void _wrap_aiVector3D_z_set_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, float _swig_go_1) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float arg2 ;
   
@@ -16294,7 +16282,7 @@ void _wrap_aiVector3D_z_set_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0
 }
 
 
-float _wrap_aiVector3D_z_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+float _wrap_aiVector3D_z_get_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   float result;
   float _swig_go_result;
@@ -16307,10 +16295,1218 @@ float _wrap_aiVector3D_z_get_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_
 }
 
 
-void _wrap_delete_aiVector3D_aig_ad8534e24299c30d(aiVector3t< float > *_swig_go_0) {
+void _wrap_delete_aiVector3D_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0) {
   aiVector3t< ai_real > *arg1 = (aiVector3t< ai_real > *) 0 ;
   
   arg1 = *(aiVector3t< ai_real > **)&_swig_go_0; 
+  
+  delete arg1;
+  
+}
+
+
+aiMatrix3x3t< float > *_wrap_new_aiMatrix3x3__SWIG_0_aig_324a1309ed911fbd() {
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  
+  result = (aiMatrix3x3t< ai_real > *)new aiMatrix3x3t< ai_real >();
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = (aiMatrix3x3t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_new_aiMatrix3x3__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+  float arg1 ;
+  float arg2 ;
+  float arg3 ;
+  float arg4 ;
+  float arg5 ;
+  float arg6 ;
+  float arg7 ;
+  float arg8 ;
+  float arg9 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  arg3 = (float)_swig_go_2; 
+  arg4 = (float)_swig_go_3; 
+  arg5 = (float)_swig_go_4; 
+  arg6 = (float)_swig_go_5; 
+  arg7 = (float)_swig_go_6; 
+  arg8 = (float)_swig_go_7; 
+  arg9 = (float)_swig_go_8; 
+  
+  result = (aiMatrix3x3t< ai_real > *)new aiMatrix3x3t< ai_real >(arg1,arg2,arg3,arg4,arg5,arg6,arg7,arg8,arg9);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = (aiMatrix3x3t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+bool _wrap_aiMatrix3x3_Equal__SWIG_0_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1, float _swig_go_2) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  aiMatrix4x4t< float > *arg2 = 0 ;
+  float arg3 ;
+  bool result;
+  bool _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< float > **)&_swig_go_1; 
+  arg3 = (float)_swig_go_2; 
+  
+  result = (bool)((aiMatrix3x3t< ai_real > const *)arg1)->Equal((aiMatrix4x4t< float > const &)*arg2,arg3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+bool _wrap_aiMatrix3x3_Equal__SWIG_1_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  aiMatrix4x4t< float > *arg2 = 0 ;
+  bool result;
+  bool _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< float > **)&_swig_go_1; 
+  
+  result = (bool)((aiMatrix3x3t< ai_real > const *)arg1)->Equal((aiMatrix4x4t< float > const &)*arg2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_new_aiMatrix3x3__SWIG_2_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< float > *arg1 = 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< float > **)&_swig_go_0; 
+  
+  result = (aiMatrix3x3t< ai_real > *)new aiMatrix3x3t< ai_real >((aiMatrix4x4t< float > const &)*arg1);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = (aiMatrix3x3t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_Transpose_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &(arg1)->Transpose();
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_Inverse_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &(arg1)->Inverse();
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+float _wrap_aiMatrix3x3_Determinant_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float)((aiMatrix3x3t< ai_real > const *)arg1)->Determinant();
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_RotationZ_aig_324a1309ed911fbd(float _swig_go_0, aiMatrix3x3t< float > *_swig_go_1) {
+  float arg1 ;
+  aiMatrix3x3t< ai_real > *arg2 = 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiMatrix3x3t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &aiMatrix3x3t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR RotationZ(arg1,*arg2);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_Rotation_aig_324a1309ed911fbd(float _swig_go_0, aiVector3t< float > *_swig_go_1, aiMatrix3x3t< float > *_swig_go_2) {
+  float arg1 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiMatrix3x3t< ai_real > *arg3 = 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiMatrix3x3t< ai_real > **)&_swig_go_2; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &aiMatrix3x3t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR Rotation(arg1,(aiVector3t< float > const &)*arg2,*arg3);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_Translation_aig_324a1309ed911fbd(aiVector2t< float > *_swig_go_0, aiMatrix3x3t< float > *_swig_go_1) {
+  aiVector2t< float > *arg1 = 0 ;
+  aiMatrix3x3t< ai_real > *arg2 = 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector2t< float > **)&_swig_go_0; 
+  arg2 = *(aiMatrix3x3t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &aiMatrix3x3t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR Translation((aiVector2t< float > const &)*arg1,*arg2);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix3x3t< float > *_wrap_aiMatrix3x3_FromToMatrix_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiMatrix3x3t< float > *_swig_go_2) {
+  aiVector3t< float > *arg1 = 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiMatrix3x3t< ai_real > *arg3 = 0 ;
+  aiMatrix3x3t< ai_real > *result = 0 ;
+  aiMatrix3x3t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector3t< float > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiMatrix3x3t< ai_real > **)&_swig_go_2; 
+  
+  result = (aiMatrix3x3t< ai_real > *) &aiMatrix3x3t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR FromToMatrix((aiVector3t< float > const &)*arg1,(aiVector3t< float > const &)*arg2,*arg3);
+  *(aiMatrix3x3t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_a1_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_a1_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_a2_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_a2_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_a3_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_a3_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_b1_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_b1_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_b2_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_b2_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_b3_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_b3_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_c1_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_c1_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_c2_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_c2_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix3x3_c3_set_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix3x3_c3_get_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_delete_aiMatrix3x3_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< ai_real > *arg1 = (aiMatrix3x3t< ai_real > *) 0 ;
+  
+  arg1 = *(aiMatrix3x3t< ai_real > **)&_swig_go_0; 
+  
+  delete arg1;
+  
+}
+
+
+aiMatrix4x4t< float > *_wrap_new_aiMatrix4x4__SWIG_0_aig_324a1309ed911fbd() {
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  
+  result = (aiMatrix4x4t< ai_real > *)new aiMatrix4x4t< ai_real >();
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = (aiMatrix4x4t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_new_aiMatrix4x4__SWIG_1_aig_324a1309ed911fbd(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8, float _swig_go_9, float _swig_go_10, float _swig_go_11, float _swig_go_12, float _swig_go_13, float _swig_go_14, float _swig_go_15) {
+  float arg1 ;
+  float arg2 ;
+  float arg3 ;
+  float arg4 ;
+  float arg5 ;
+  float arg6 ;
+  float arg7 ;
+  float arg8 ;
+  float arg9 ;
+  float arg10 ;
+  float arg11 ;
+  float arg12 ;
+  float arg13 ;
+  float arg14 ;
+  float arg15 ;
+  float arg16 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  arg3 = (float)_swig_go_2; 
+  arg4 = (float)_swig_go_3; 
+  arg5 = (float)_swig_go_4; 
+  arg6 = (float)_swig_go_5; 
+  arg7 = (float)_swig_go_6; 
+  arg8 = (float)_swig_go_7; 
+  arg9 = (float)_swig_go_8; 
+  arg10 = (float)_swig_go_9; 
+  arg11 = (float)_swig_go_10; 
+  arg12 = (float)_swig_go_11; 
+  arg13 = (float)_swig_go_12; 
+  arg14 = (float)_swig_go_13; 
+  arg15 = (float)_swig_go_14; 
+  arg16 = (float)_swig_go_15; 
+  
+  result = (aiMatrix4x4t< ai_real > *)new aiMatrix4x4t< ai_real >(arg1,arg2,arg3,arg4,arg5,arg6,arg7,arg8,arg9,arg10,arg11,arg12,arg13,arg14,arg15,arg16);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = (aiMatrix4x4t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_new_aiMatrix4x4__SWIG_2_aig_324a1309ed911fbd(aiMatrix3x3t< float > *_swig_go_0) {
+  aiMatrix3x3t< float > *arg1 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix3x3t< float > **)&_swig_go_0; 
+  
+  result = (aiMatrix4x4t< ai_real > *)new aiMatrix4x4t< ai_real >((aiMatrix3x3t< float > const &)*arg1);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = (aiMatrix4x4t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_new_aiMatrix4x4__SWIG_3_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiQuaterniont< float > *_swig_go_1, aiVector3t< float > *_swig_go_2) {
+  aiVector3t< float > *arg1 = 0 ;
+  aiQuaterniont< float > *arg2 = 0 ;
+  aiVector3t< float > *arg3 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector3t< float > **)&_swig_go_0; 
+  arg2 = *(aiQuaterniont< float > **)&_swig_go_1; 
+  arg3 = *(aiVector3t< float > **)&_swig_go_2; 
+  
+  result = (aiMatrix4x4t< ai_real > *)new aiMatrix4x4t< ai_real >((aiVector3t< float > const &)*arg1,(aiQuaterniont< float > const &)*arg2,(aiVector3t< float > const &)*arg3);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = (aiMatrix4x4t< ai_real > *)result; 
+  return _swig_go_result;
+}
+
+
+bool _wrap_aiMatrix4x4_Equal__SWIG_0_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1, float _swig_go_2) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  float arg3 ;
+  bool result;
+  bool _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  arg3 = (float)_swig_go_2; 
+  
+  result = (bool)((aiMatrix4x4t< ai_real > const *)arg1)->Equal((aiMatrix4x4t< ai_real > const &)*arg2,arg3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+bool _wrap_aiMatrix4x4_Equal__SWIG_1_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  bool result;
+  bool _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (bool)((aiMatrix4x4t< ai_real > const *)arg1)->Equal((aiMatrix4x4t< ai_real > const &)*arg2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_Transpose_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &(arg1)->Transpose();
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_Inverse_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &(arg1)->Inverse();
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+float _wrap_aiMatrix4x4_Determinant_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float)((aiMatrix4x4t< ai_real > const *)arg1)->Determinant();
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+bool _wrap_aiMatrix4x4_IsIdentity_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  bool result;
+  bool _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (bool)((aiMatrix4x4t< ai_real > const *)arg1)->IsIdentity();
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_Decompose__SWIG_0_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiQuaterniont< float > *_swig_go_2, aiVector3t< float > *_swig_go_3) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiQuaterniont< float > *arg3 = 0 ;
+  aiVector3t< float > *arg4 = 0 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiQuaterniont< float > **)&_swig_go_2; 
+  arg4 = *(aiVector3t< float > **)&_swig_go_3; 
+  
+  ((aiMatrix4x4t< ai_real > const *)arg1)->Decompose(*arg2,*arg3,*arg4);
+  
+}
+
+
+void _wrap_aiMatrix4x4_Decompose__SWIG_1_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiVector3t< float > *_swig_go_2, aiVector3t< float > *_swig_go_3) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiVector3t< float > *arg3 = 0 ;
+  aiVector3t< float > *arg4 = 0 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiVector3t< float > **)&_swig_go_2; 
+  arg4 = *(aiVector3t< float > **)&_swig_go_3; 
+  
+  ((aiMatrix4x4t< ai_real > const *)arg1)->Decompose(*arg2,*arg3,*arg4);
+  
+}
+
+
+void _wrap_aiMatrix4x4_Decompose__SWIG_2_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiVector3t< float > *_swig_go_2, float *_swig_go_3, aiVector3t< float > *_swig_go_4) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiVector3t< float > *arg3 = 0 ;
+  float *arg4 = 0 ;
+  aiVector3t< float > *arg5 = 0 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiVector3t< float > **)&_swig_go_2; 
+  arg4 = *(float **)&_swig_go_3; 
+  arg5 = *(aiVector3t< float > **)&_swig_go_4; 
+  
+  ((aiMatrix4x4t< ai_real > const *)arg1)->Decompose(*arg2,*arg3,*arg4,*arg5);
+  
+}
+
+
+void _wrap_aiMatrix4x4_DecomposeNoScaling_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiQuaterniont< float > *_swig_go_1, aiVector3t< float > *_swig_go_2) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiQuaterniont< float > *arg2 = 0 ;
+  aiVector3t< float > *arg3 = 0 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiQuaterniont< float > **)&_swig_go_1; 
+  arg3 = *(aiVector3t< float > **)&_swig_go_2; 
+  
+  ((aiMatrix4x4t< ai_real > const *)arg1)->DecomposeNoScaling(*arg2,*arg3);
+  
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_FromEulerAnglesXYZ__SWIG_0_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  float arg3 ;
+  float arg4 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  arg3 = (float)_swig_go_2; 
+  arg4 = (float)_swig_go_3; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &(arg1)->FromEulerAnglesXYZ(arg2,arg3,arg4);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_FromEulerAnglesXYZ__SWIG_1_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &(arg1)->FromEulerAnglesXYZ((aiVector3t< float > const &)*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_RotationX_aig_324a1309ed911fbd(float _swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  float arg1 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR RotationX(arg1,*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_RotationY_aig_324a1309ed911fbd(float _swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  float arg1 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR RotationY(arg1,*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_RotationZ_aig_324a1309ed911fbd(float _swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  float arg1 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR RotationZ(arg1,*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_Rotation_aig_324a1309ed911fbd(float _swig_go_0, aiVector3t< float > *_swig_go_1, aiMatrix4x4t< float > *_swig_go_2) {
+  float arg1 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *arg3 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = (float)_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiMatrix4x4t< ai_real > **)&_swig_go_2; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR Rotation(arg1,(aiVector3t< float > const &)*arg2,*arg3);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_Translation_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  aiVector3t< float > *arg1 = 0 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector3t< float > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR Translation((aiVector3t< float > const &)*arg1,*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_Scaling_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiMatrix4x4t< float > *_swig_go_1) {
+  aiVector3t< float > *arg1 = 0 ;
+  aiMatrix4x4t< ai_real > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector3t< float > **)&_swig_go_0; 
+  arg2 = *(aiMatrix4x4t< ai_real > **)&_swig_go_1; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR Scaling((aiVector3t< float > const &)*arg1,*arg2);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+aiMatrix4x4t< float > *_wrap_aiMatrix4x4_FromToMatrix_aig_324a1309ed911fbd(aiVector3t< float > *_swig_go_0, aiVector3t< float > *_swig_go_1, aiMatrix4x4t< float > *_swig_go_2) {
+  aiVector3t< float > *arg1 = 0 ;
+  aiVector3t< float > *arg2 = 0 ;
+  aiMatrix4x4t< ai_real > *arg3 = 0 ;
+  aiMatrix4x4t< ai_real > *result = 0 ;
+  aiMatrix4x4t< float > *_swig_go_result;
+  
+  arg1 = *(aiVector3t< float > **)&_swig_go_0; 
+  arg2 = *(aiVector3t< float > **)&_swig_go_1; 
+  arg3 = *(aiMatrix4x4t< ai_real > **)&_swig_go_2; 
+  
+  result = (aiMatrix4x4t< ai_real > *) &aiMatrix4x4t< ai_real >::SWIGTEMPLATEDISAMBIGUATOR FromToMatrix((aiVector3t< float > const &)*arg1,(aiVector3t< float > const &)*arg2,*arg3);
+  *(aiMatrix4x4t< ai_real > **)&_swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_a1_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_a1_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_a2_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_a2_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_a3_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_a3_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_a4_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->a4 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_a4_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->a4);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_b1_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_b1_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_b2_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_b2_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_b3_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_b3_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_b4_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->b4 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_b4_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->b4);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_c1_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_c1_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_c2_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_c2_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_c3_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_c3_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_c4_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->c4 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_c4_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->c4);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_d1_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->d1 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_d1_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->d1);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_d2_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->d2 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_d2_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->d2);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_d3_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->d3 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_d3_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->d3);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_aiMatrix4x4_d4_set_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0, float _swig_go_1) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float arg2 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  arg2 = (float)_swig_go_1; 
+  
+  if (arg1) (arg1)->d4 = arg2;
+  
+}
+
+
+float _wrap_aiMatrix4x4_d4_get_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  float result;
+  float _swig_go_result;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
+  
+  result = (float) ((arg1)->d4);
+  _swig_go_result = result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_delete_aiMatrix4x4_aig_324a1309ed911fbd(aiMatrix4x4t< float > *_swig_go_0) {
+  aiMatrix4x4t< ai_real > *arg1 = (aiMatrix4x4t< ai_real > *) 0 ;
+  
+  arg1 = *(aiMatrix4x4t< ai_real > **)&_swig_go_0; 
   
   delete arg1;
   

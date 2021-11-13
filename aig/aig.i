@@ -83,9 +83,14 @@
 %enddef
 
 //We need these otherwise swig won't generate interfaces for these types correctly
+//because swig gets confused when there is a typedef and a templated class, so we put the typedefs here
+//and a template directive at the end
 typedef float ai_real;
+
 typedef aiVector3t<ai_real> aiVector3D;
 typedef aiVector2t<ai_real> aiVector2D;
+typedef aiMatrix3x3t<ai_real> aiMatrix3x3;
+typedef aiMatrix4x4t<ai_real> aiMatrix4x4;
 
 %{
   #include "assimp/cimport.h"
@@ -93,6 +98,8 @@ typedef aiVector2t<ai_real> aiVector2D;
   #include "assimp/mesh.h"
   #include "assimp/vector2.h"
   #include "assimp/vector3.h"
+  #include "assimp/matrix3x3.h"
+  #include "assimp/matrix4x4.h"
   #include "assimp/Defines.h"
   #include "assimp/color4.h"
   #include "assimp/postprocess.h"
@@ -168,6 +175,8 @@ ASSIMP_ARRAY(aiMaterial, aiMaterialProperty*, mProperties, $self->mNumProperties
 %include "assimp/mesh.h"
 %include "assimp/vector2.h"
 %include "assimp/vector3.h"
+%include "assimp/matrix3x3.h"
+%include "assimp/matrix4x4.h"
 %include "assimp/Defines.h"
 %include "assimp/color4.h"
 %include "assimp/types.h"
@@ -216,6 +225,8 @@ ASSIMP_ARRAY(aiMaterial, aiMaterialProperty*, mProperties, $self->mNumProperties
 %template(GetString) aiMaterial::Get<aiString>;
 %template(aiVector2D) aiVector2t<ai_real>;
 %template(aiVector3D) aiVector3t<ai_real>;
+%template(aiMatrix3x3) aiMatrix3x3t<ai_real>;
+%template(aiMatrix4x4) aiMatrix4x4t<ai_real>;
 
 //Material settings
 %clear unsigned int* flags;
