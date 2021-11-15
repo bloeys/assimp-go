@@ -1,6 +1,6 @@
-%module aig
+%module asig
 
-//NOTE: Add this above the 'C' package in aig_wrap.go `#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp` after generating
+//NOTE: Add this above the 'C' package in asig_wrap.go `#cgo LDFLAGS: -L ./staticLibs -l zlibstatic -l IrrXML -l assimp` after generating
 
 // SWIG helpers for std::string and std::vector wrapping.
 %include <std_string.i>

@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/bloeys/assimp-go/aig"
+	"github.com/bloeys/assimp-go/asig"
 )
 
 func main() {
 
-	scene := aig.AiImportFile("obj.obj", uint(0))
+	scene := asig.AiImportFile("obj.obj", uint(0))
 	meshes := scene.MMeshes()
 
 	verts := meshes.Get(0).MVertices()
@@ -17,7 +17,7 @@ func main() {
 		fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
 	}
 
-	scene = aig.AiImportFile("obj.fbx", uint(0))
+	scene = asig.AiImportFile("obj.fbx", uint(0))
 	meshes = scene.MMeshes()
 
 	verts = meshes.Get(0).MVertices()
