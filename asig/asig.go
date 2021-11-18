@@ -52,8 +52,6 @@ type Scene struct {
 
 func ImportFile(file string, postProcessFlags uint) *Scene {
 
-	// C_STRUCT aiScene* aiImportFile(const char* pFile, unsigned int pFlags)
-
 	cstr := C.CString(file)
 	defer C.free(unsafe.Pointer(cstr))
 
@@ -137,6 +135,11 @@ func parseMeshes(cm **C.struct_aiMesh, count uint) []*Mesh {
 }
 
 func parseVec3(cv *C.struct_aiVector3D) gglm.Vec3 {
+
+	if cv == nil {
+		return gglm.Vec3{}
+	}
+
 	return gglm.Vec3{
 		Data: [3]float32{
 			float32(cv.x),
@@ -230,6 +233,10 @@ func parseBones(cbs **C.struct_aiBone, count uint) []*Bone {
 
 func parseMat4(cm4 *C.struct_aiMatrix4x4) gglm.Mat4 {
 
+	if cm4 == nil {
+		return gglm.Mat4{}
+	}
+
 	return gglm.Mat4{
 		Data: [4][4]float32{
 			{float32(cm4.a1), float32(cm4.b1), float32(cm4.c1), float32(cm4.d1)},
@@ -241,6 +248,10 @@ func parseMat4(cm4 *C.struct_aiMatrix4x4) gglm.Mat4 {
 }
 
 func parseVertexWeights(cWeights *C.struct_aiVertexWeight, count uint) []VertexWeight {
+
+	if cWeights == nil {
+		return []VertexWeight{}
+	}
 
 	vw := make([]VertexWeight, count)
 	cvw := unsafe.Slice(cWeights, count)
@@ -298,6 +309,10 @@ func parseVec3s(cv *C.struct_aiVector3D, count uint) []gglm.Vec3 {
 }
 
 func parseColors(cv *C.struct_aiColor4D, count uint) []gglm.Vec4 {
+
+	if cv == nil {
+		return []gglm.Vec4{}
+	}
 
 	carr := unsafe.Slice(cv, count)
 	verts := make([]gglm.Vec4, count)
