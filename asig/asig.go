@@ -24,9 +24,6 @@ import (
 type Node struct {
 }
 
-type Material struct {
-}
-
 type Animation struct {
 }
 
@@ -43,6 +40,8 @@ type Metadata struct {
 }
 
 type Scene struct {
+	Flags SceneFlag
+
 	RootNode   *Node
 	Meshes     []*Mesh
 	Materials  []*Material
@@ -73,6 +72,7 @@ func getAiErr() error {
 func parseScene(cs *C.struct_aiScene) *Scene {
 
 	s := &Scene{}
+	s.Flags = SceneFlag(cs.mFlags)
 	s.Meshes = parseMeshes(cs.mMeshes, uint(cs.mNumMeshes))
 
 	return s
