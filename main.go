@@ -8,7 +8,9 @@ import (
 
 func main() {
 
-	scene, err := asig.ImportFile("tex-cube.fbx", asig.PostProcessTriangulate)
+	scene, release, err := asig.ImportFile("tex-cube.fbx", asig.PostProcessTriangulate)
+	defer release()
+
 	if err != nil {
 		panic(err)
 	}
@@ -28,6 +30,8 @@ func main() {
 
 			p := scene.Materials[i].Properties[j]
 			fmt.Printf("Data Type: %v; Len Bytes: %v; Texture Type: %v\n", p.TypeInfo.String(), len(p.Data), p.Semantic.String())
+
+			fmt.Println("Texture count:", asig.GetMaterialTextureCount(scene.Materials[i], asig.TextureTypeDiffuse))
 		}
 	}
 }

@@ -28,7 +28,59 @@ type Node struct {
 type Animation struct {
 }
 
+type Texel struct {
+	R, G, B, A byte
+}
+
 type Texture struct {
+	/** Width of the texture, in pixels
+	 *
+	 * If mHeight is zero the texture is compressed in a format
+	 * like JPEG. In this case mWidth specifies the size of the
+	 * memory area pcData is pointing to, in bytes.
+	 */
+	Width uint
+
+	/** Height of the texture, in pixels
+	 *
+	 * If this value is zero, pcData points to an compressed texture
+	 * in any format (e.g. JPEG).
+	 */
+	Height uint
+
+	/** A hint from the loader to make it easier for applications
+	 *  to determine the type of embedded textures.
+	 *
+	 * If mHeight != 0 this member is show how data is packed. Hint will consist of
+	 * two parts: channel order and channel bitness (count of the bits for every
+	 * color channel). For simple parsing by the viewer it's better to not omit
+	 * absent color channel and just use 0 for bitness. For example:
+	 * 1. Image contain RGBA and 8 bit per channel, achFormatHint == "rgba8888";
+	 * 2. Image contain ARGB and 8 bit per channel, achFormatHint == "argb8888";
+	 * 3. Image contain RGB and 5 bit for R and B channels and 6 bit for G channel, achFormatHint == "rgba5650";
+	 * 4. One color image with B channel and 1 bit for it, achFormatHint == "rgba0010";
+	 * If mHeight == 0 then achFormatHint is set set to '\\0\\0\\0\\0' if the loader has no additional
+	 * information about the texture file format used OR the
+	 * file extension of the format without a trailing dot. If there
+	 * are multiple file extensions for a format, the shortest
+	 * extension is chosen (JPEG maps to 'jpg', not to 'jpeg').
+	 * E.g. 'dds\\0', 'pcx\\0', 'jpg\\0'.  All characters are lower-case.
+	 * The fourth character will always be '\\0'.
+	 */
+	FormatHint string
+
+	/** Data of the texture.
+	 *
+	 * Points to an array of mWidth * mHeight aiTexel's.
+	 * The format of the texture data is always ARGB8888 to
+	 * make the implementation for user of the library as easy
+	 * as possible. If mHeight = 0 this is a pointer to a memory
+	 * buffer of size mWidth containing the compressed texture
+	 * data. Good luck, have fun!
+	 */
+	Texels []Texel
+
+	Filename string
 }
 
 type Light struct {
@@ -41,7 +93,8 @@ type Metadata struct {
 }
 
 type Scene struct {
-	Flags SceneFlag
+	cScene *C.struct_aiScene
+	Flags  SceneFlag
 
 	RootNode   *Node
 	Meshes     []*Mesh
@@ -52,27 +105,39 @@ type Scene struct {
 	Cameras    []*Camera
 }
 
-func ImportFile(file string, postProcessFlags PostProcess) (*Scene, error) {
+func (s *Scene) releaseCResources() {
+	C.aiReleaseImport(s.cScene)
+}
+
+//
+// Assimp API
+//
+
+func ImportFile(file string, postProcessFlags PostProcess) (s *Scene, release func(), err error) {
 
 	cstr := C.CString(file)
 	defer C.free(unsafe.Pointer(cstr))
 
 	cs := C.aiImportFile(cstr, C.uint(postProcessFlags))
 	if cs == nil {
-		return nil, getAiErr()
+		return nil, func() {}, getAiErr()
 	}
-	defer C.aiReleaseImport(cs)
 
-	return parseScene(cs), nil
+	s = parseScene(cs)
+	return s, func() { s.releaseCResources() }, nil
 }
 
 func getAiErr() error {
 	return errors.New("asig error: " + C.GoString(C.aiGetErrorString()))
 }
 
+//
+// Parsers
+//
+
 func parseScene(cs *C.struct_aiScene) *Scene {
 
-	s := &Scene{}
+	s := &Scene{cScene: cs}
 	s.Flags = SceneFlag(cs.mFlags)
 	s.Meshes = parseMeshes(cs.mMeshes, uint(cs.mNumMeshes))
 	s.Materials = parseMaterials(cs.mMaterials, uint(cs.mNumMaterials))
@@ -350,6 +415,7 @@ func parseMaterials(cMatsIn **C.struct_aiMaterial, count uint) []*Material {
 	for i := 0; i < int(count); i++ {
 
 		mats[i] = &Material{
+			cMat:             cMats[i],
 			Properties:       parseMatProperties(cMats[i].mProperties, uint(cMats[i].mNumProperties)),
 			AllocatedStorage: uint(cMats[i].mNumAllocated),
 		}

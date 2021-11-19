@@ -1,5 +1,14 @@
 # assimp-go
 
+## Using assimp-go
+
+The `release()` function is used to free underlying C resources and should be called after all processing that requires C code is done.
+`release()` Will not affect the returned Go structs like `Scene` or `Mesh`. Returned Go data will remain valid.
+
+`asig.X` functions call into C and therefore should not be used on released objects. Calling any `asig.X` function after `release()` is **undefined**.
+
+While `asig` functions should NOT be called on a Scene (or its objects) after they have been released, methods on structs (e.g. `myScene.XYZ`, `myMesh.ABCD()`) are **safe** even after release.
+
 ## Developing assimp-go
 
 We link against static assimp libraries that are built for each platform and added to the `asig/libs` package.
@@ -21,11 +30,11 @@ For platform specific steps:
 **Windows**:
 
 > Note: You must compile with the same C/C++ compiler you use with Go (e.g. if you use MinGW with Go, then compile assimp with MinGW by sepcifying the correct `-G` option)
-
+---
 > Note: If you get compilation errors with things like `File too big` or `can't write 166 bytes to section` then cmake isn't detecting you are using MinGW, so add this flag `-D CMAKE_COMPILER_IS_MINGW=TRUE`
 
 Now assuming you are using MinGW on windows:
 
 - Clone wanted release of assimp and run `cmake CMakeLists.txt -D BUILD_SHARED_LIBS=OFF -D ASSIMP_BUILD_ZLIB=ON -D ASSIMP_BUILD_ASSIMP_TOOLS=OFF -D ASSIMP_BUILD_TESTS=OFF -G "MinGW Makefiles"` in the root folder
 - Run `cmake --build . --parallel 6`
-- Copy the generated `*.lib` file into `asig/lib`
+- Copy the generated `*.lib` (or `*.a`) files into `asig/lib`

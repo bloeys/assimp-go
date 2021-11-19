@@ -1,6 +1,32 @@
 package asig
 
+/*
+#cgo CFLAGS: -I .
+#cgo LDFLAGS: -L ./libs -l assimp_windows_amd64 -l IrrXML_windows_amd64 -l zlib_windows_amd64
+
+#include <stdlib.h> //Needed for C.free
+
+#include <assimp/scene.h>
+
+//Functions
+unsigned int aiGetMaterialTextureCount(const struct aiMaterial* pMat, enum aiTextureType type);
+
+enum aiReturn aiGetMaterialTexture(
+	const struct aiMaterial* mat,
+    enum aiTextureType type,
+    unsigned int  index,
+    struct aiString* path,
+    enum aiTextureMapping* mapping,
+    unsigned int* uvindex,
+    ai_real* blend,
+    enum aiTextureOp* op,
+    enum aiTextureMapMode* mapmode,
+    unsigned int* flags);
+*/
+import "C"
+
 type Material struct {
+	cMat *C.struct_aiMaterial
 
 	/** List of all material properties loaded. */
 	Properties []*MaterialProperty
@@ -37,4 +63,8 @@ type MaterialProperty struct {
 	 * The size of the buffer is always mDataLength.
 	 */
 	Data []byte
+}
+
+func GetMaterialTextureCount(m *Material, texType TextureType) int {
+	return int(C.aiGetMaterialTextureCount(m.cMat, uint32(texType)))
 }
