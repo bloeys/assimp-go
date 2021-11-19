@@ -8,7 +8,10 @@ import (
 
 func main() {
 
-	scene := asig.ImportFile("obj.obj", 0)
+	scene, err := asig.ImportFile("objz.obj", 0)
+	if err != nil {
+		panic(err)
+	}
 
 	for i := 0; i < len(scene.Meshes); i++ {
 

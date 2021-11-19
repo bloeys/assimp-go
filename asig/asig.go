@@ -10,10 +10,12 @@ package asig
 
 //Functions
 struct aiScene* aiImportFile(const char* pFile, unsigned int pFlags);
-
+void aiReleaseImport(const struct aiScene* pScene);
+const char* aiGetErrorString();
 */
 import "C"
 import (
+	"errors"
 	"unsafe"
 
 	"github.com/bloeys/gglm/gglm"
@@ -50,15 +52,22 @@ type Scene struct {
 	Cameras    []*Camera
 }
 
-func ImportFile(file string, postProcessFlags uint) *Scene {
+func ImportFile(file string, postProcessFlags uint) (*Scene, error) {
 
 	cstr := C.CString(file)
 	defer C.free(unsafe.Pointer(cstr))
 
 	cs := C.aiImportFile(cstr, C.uint(postProcessFlags))
-	scene := parseScene(cs)
+	if cs == nil {
+		return nil, getAiErr()
+	}
+	defer C.aiReleaseImport(cs)
 
-	return scene
+	return parseScene(cs), nil
+}
+
+func getAiErr() error {
+	return errors.New("asig error: " + C.GoString(C.aiGetErrorString()))
 }
 
 func parseScene(cs *C.struct_aiScene) *Scene {
