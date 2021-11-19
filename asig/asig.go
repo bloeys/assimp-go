@@ -52,7 +52,7 @@ type Scene struct {
 	Cameras    []*Camera
 }
 
-func ImportFile(file string, postProcessFlags uint) (*Scene, error) {
+func ImportFile(file string, postProcessFlags PostProcess) (*Scene, error) {
 
 	cstr := C.CString(file)
 	defer C.free(unsafe.Pointer(cstr))

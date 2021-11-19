@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	scene, err := asig.ImportFile("objz.obj", 0)
+	scene, err := asig.ImportFile("obj.obj", asig.PostProcessTriangulate)
 	if err != nil {
 		panic(err)
 	}
