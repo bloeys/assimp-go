@@ -6,7 +6,7 @@ type Material struct {
 	Properties []*MaterialProperty
 
 	/** Storage allocated */
-	NumAllocated uint
+	AllocatedStorage uint
 }
 
 type MaterialProperty struct {

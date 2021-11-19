@@ -74,6 +74,7 @@ func parseScene(cs *C.struct_aiScene) *Scene {
 	s := &Scene{}
 	s.Flags = SceneFlag(cs.mFlags)
 	s.Meshes = parseMeshes(cs.mMeshes, uint(cs.mNumMeshes))
+	s.Materials = parseMaterials(cs.mMaterials, uint(cs.mNumMaterials))
 
 	return s
 }
@@ -338,4 +339,41 @@ func parseColors(cv *C.struct_aiColor4D, count uint) []gglm.Vec4 {
 	}
 
 	return verts
+}
+
+func parseMaterials(cMatsIn **C.struct_aiMaterial, count uint) []*Material {
+
+	mats := make([]*Material, count)
+	cMats := unsafe.Slice(cMatsIn, count)
+
+	for i := 0; i < int(count); i++ {
+
+		mats[i] = &Material{
+			Properties:       parseMatProperties(cMats[i].mProperties, uint(cMats[i].mNumProperties)),
+			AllocatedStorage: uint(cMats[i].mNumAllocated),
+		}
+	}
+
+	return mats
+}
+
+func parseMatProperties(cMatPropsIn **C.struct_aiMaterialProperty, count uint) []*MaterialProperty {
+
+	matProps := make([]*MaterialProperty, count)
+	cMatProps := unsafe.Slice(cMatPropsIn, count)
+
+	for i := 0; i < int(count); i++ {
+
+		cmp := cMatProps[i]
+
+		matProps[i] = &MaterialProperty{
+			name:     parseAiString(cmp.mKey),
+			Semantic: TextureType(cmp.mSemantic),
+			Index:    uint(cmp.mIndex),
+			TypeInfo: MatPropertyTypeInfo(cmp.mType),
+			Data:     C.GoBytes(unsafe.Pointer(cmp.mData), C.int(cmp.mDataLength)),
+		}
+	}
+
+	return matProps
 }
