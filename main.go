@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	scene, err := asig.ImportFile("obj.obj", asig.PostProcessTriangulate)
+	scene, err := asig.ImportFile("tex-cube.fbx", asig.PostProcessTriangulate)
 	if err != nil {
 		panic(err)
 	}
@@ -21,18 +21,13 @@ func main() {
 		}
 	}
 
-	// verts := meshes.Get(0).MVertices()
-	// for i := 0; i < int(verts.Size()); i++ {
-	// 	v := verts.Get(i)
-	// 	fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
-	// }
+	for i := 0; i < len(scene.Materials); i++ {
 
-	// scene = asig.AiImportFile("obj.fbx", uint(0))
-	// meshes = scene.MMeshes()
+		println("Mesh:", i, "; Props:", len(scene.Materials[i].Properties))
+		for j := 0; j < len(scene.Materials[i].Properties); j++ {
 
-	// verts = meshes.Get(0).MVertices()
-	// for i := 0; i < int(verts.Size()); i++ {
-	// 	v := verts.Get(i)
-	// 	fmt.Printf("V%v: (%v, %v, %v)\n", i, v.GetX(), v.GetY(), v.GetZ())
-	// }
+			p := scene.Materials[i].Properties[j]
+			fmt.Printf("Data Type: %v; Len Bytes: %v; Texture Type: %v\n", p.TypeInfo.String(), len(p.Data), p.Semantic.String())
+		}
+	}
 }

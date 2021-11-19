@@ -38,15 +38,3 @@ type MaterialProperty struct {
 	 */
 	Data []byte
 }
-
-type MatPropertyTypeInfo int32
-
-const (
-	MatPropTypeInfoFloat32 MatPropertyTypeInfo = iota + 1
-	MatPropTypeInfoFloat64
-	MatPropTypeInfoString
-	MatPropTypeInfoInt32
-
-	//Simple binary buffer, content undefined. Not convertible to anything.
-	MatPropTypeInfoBuffer
-)

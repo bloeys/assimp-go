@@ -12,6 +12,7 @@ package asig
 struct aiScene* aiImportFile(const char* pFile, unsigned int pFlags);
 void aiReleaseImport(const struct aiScene* pScene);
 const char* aiGetErrorString();
+unsigned int aiGetMaterialTextureCount(const struct aiMaterial* pMat, enum aiTextureType type);
 */
 import "C"
 import (

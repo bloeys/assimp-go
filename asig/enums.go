@@ -226,3 +226,79 @@ const (
 	TextureTypeDiffuseRoughness TextureType = 16
 	TextureTypeAmbientOcclusion TextureType = 17
 )
+
+func (tp TextureType) String() string {
+
+	switch tp {
+	case TextureTypeNone:
+		return "None"
+	case TextureTypeDiffuse:
+		return "Diffuse"
+	case TextureTypeSpecular:
+		return "Specular"
+	case TextureTypeAmbient:
+		return "Ambient"
+	case TextureTypeAmbientOcclusion:
+		return "AmbientOcclusion"
+	case TextureTypeBaseColor:
+		return "BaseColor"
+	case TextureTypeDiffuseRoughness:
+		return "DiffuseRoughness"
+	case TextureTypeDisplacement:
+		return "Displacement"
+	case TextureTypeEmissionColor:
+		return "EmissionColor"
+	case TextureTypeEmissive:
+		return "Emissive"
+	case TextureTypeHeight:
+		return "Height"
+	case TextureTypeLightmap:
+		return "Lightmap"
+	case TextureTypeMetalness:
+		return "Metalness"
+	case TextureTypeNormal:
+		return "Normal"
+	case TextureTypeNormalCamera:
+		return "NormalCamera"
+	case TextureTypeOpacity:
+		return "Opacity"
+	case TextureTypeReflection:
+		return "Reflection"
+	case TextureTypeShininess:
+		return "Shininess"
+	case TextureTypeUnknown:
+		return "Unknown"
+	default:
+		return "Invalid"
+	}
+}
+
+type MatPropertyTypeInfo int32
+
+const (
+	MatPropTypeInfoFloat32 MatPropertyTypeInfo = iota + 1
+	MatPropTypeInfoFloat64
+	MatPropTypeInfoString
+	MatPropTypeInfoInt32
+
+	//Simple binary buffer, content undefined. Not convertible to anything.
+	MatPropTypeInfoBuffer
+)
+
+func (mpti MatPropertyTypeInfo) String() string {
+
+	switch mpti {
+	case MatPropTypeInfoFloat32:
+		return "Float32"
+	case MatPropTypeInfoFloat64:
+		return "Float64"
+	case MatPropTypeInfoString:
+		return "String"
+	case MatPropTypeInfoInt32:
+		return "Int32"
+	case MatPropTypeInfoBuffer:
+		return "Buffer"
+	default:
+		return "Unknown"
+	}
+}
