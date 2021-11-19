@@ -53,7 +53,7 @@ type EmbeddedTexture struct {
 	/** A hint from the loader to make it easier for applications
 	 *  to determine the type of embedded textures.
 	 *
-	 * If mHeight != 0 this member is show how data is packed. Hint will consist of
+	 * If Height != 0 this member is show how data is packed. Hint will consist of
 	 * two parts: channel order and channel bitness (count of the bits for every
 	 * color channel). For simple parsing by the viewer it's better to not omit
 	 * absent color channel and just use 0 for bitness. For example:
@@ -72,8 +72,8 @@ type EmbeddedTexture struct {
 	FormatHint string
 
 	/** Data of the texture.
-	 * Points to an array of mWidth * mHeight aiTexel's (or just len=Width if Height=0, which happens when data is compressed).
-	 * The format of the texture data is always RGBA8888.
+	 * Points to an array of Width * Height (or just len=Width if Height=0, which happens when data is compressed, like if the data is a PNG).
+	 * The format of the texture data is always ARGB8888.
 	 */
 	Data []byte
 
