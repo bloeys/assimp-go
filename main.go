@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	scene, release, err := asig.ImportFile("tex-cube.glb", asig.PostProcessTriangulate)
+	scene, release, err := asig.ImportFile("tex-cube.glb", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
 	defer release()
 
 	if err != nil {

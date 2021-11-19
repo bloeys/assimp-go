@@ -1,6 +1,80 @@
 # assimp-go
 
+A Handcrafted Open Asset Import Library (AssImp) wrapper for Go.
+
+## Features
+
+The following features are already implemented:
+
+* Loading all supported model formats into a Scene object
+* Mesh data
+* Materials
+* Textures and embedded textures
+* Error reporting
+* Enums relevant to the above operations
+
+Unimplemented (yet) AssImp Scene objects:
+
+* Nodes
+* Lights
+* Camera
+* Metadata
+
 ## Using assimp-go
+
+### Requirements
+
+To run the project you need:
+
+* A recent version of [Go](https://golang.org/) installed (1.17+)
+* A C/C++ compiler installed and in your path
+  * Windows: [MingW](https://www.mingw-w64.org/downloads/#mingw-builds) or similar
+  * Mac/Linux: Should be installed by default, but if not try [GCC](https://gcc.gnu.org/) or [Clang](https://releases.llvm.org/download.html)
+
+Then simply clone and use `go run .`
+
+> Note: that it might take a while to run the first time because of downloading/compiling dependencies.
+
+`assimp-go` statically links AssImp using platform dependent libraries.
+Currently only `Windows` libraries are available, but more should be easy to add by statically compiling assimp on the wanted platform. (Make a PR if you can help us get those binaries!)
+
+### Getting Started
+
+```Go
+func main() {
+
+    //Load this .fbx model with the following post processing flags
+    scene, release, err := asig.ImportFile("my-cube.fbx", asig.PostProcessTriangulate | asig.PostProcessJoinIdenticalVertices)
+    if err != nil {
+            panic(err)
+    }
+
+    for i := 0; i < len(scene.Materials); i++ {
+
+        m := scene.Materials[i]
+
+        //Check how many diffuse textures are attached to this material
+        texCount := asig.GetMaterialTextureCount(m, asig.TextureTypeDiffuse)
+        fmt.Println("Texture count:", texCount)
+
+        //If we have at least 1 diffuse texture attached to this material, load the first diffuse texture (index 0)
+        if texCount > 0 {
+
+            texInfo, err := asig.GetMaterialTexture(m, asig.TextureTypeDiffuse, 0)
+            if err != nil {
+                panic(err)
+            }
+
+            fmt.Printf("%v\n", texInfo)
+        }
+    }
+
+    //Now that we are done with all our `asig.XYZ` calls we can release underlying C resources. 
+    //
+    //NOTE: Our Go objects (like scene, scene.Materials etc) will remain intact ;), but we must NOT use asig.XYZ calls on this scene and its children anymore
+    release()
+}
+```
 
 The `release()` function is used to free underlying C resources and should be called after all processing that requires C code is done.
 `release()` Will not affect the returned Go structs like `Scene` or `Mesh`. Returned Go data will remain valid.
