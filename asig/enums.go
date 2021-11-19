@@ -1,5 +1,18 @@
 package asig
 
+type aiReturn int32
+
+const (
+	//Indicates that a function was successful
+	aiReturnSuccess = 0x0
+
+	//Indicates that a function failed
+	aiReturnFailure = -0x1
+
+	//Indicates that not enough memory was available to perform the requested operation
+	aiReturnOutofMemory = -0x3
+)
+
 type SceneFlag int32
 
 const (

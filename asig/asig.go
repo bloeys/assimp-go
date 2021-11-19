@@ -32,7 +32,9 @@ type Texel struct {
 	R, G, B, A byte
 }
 
-type Texture struct {
+type EmbeddedTexture struct {
+	cTex *C.struct_aiTexture
+
 	/** Width of the texture, in pixels
 	 *
 	 * If mHeight is zero the texture is compressed in a format
@@ -70,17 +72,13 @@ type Texture struct {
 	FormatHint string
 
 	/** Data of the texture.
-	 *
-	 * Points to an array of mWidth * mHeight aiTexel's.
-	 * The format of the texture data is always ARGB8888 to
-	 * make the implementation for user of the library as easy
-	 * as possible. If mHeight = 0 this is a pointer to a memory
-	 * buffer of size mWidth containing the compressed texture
-	 * data. Good luck, have fun!
+	 * Points to an array of mWidth * mHeight aiTexel's (or just len=Width if Height=0, which happens when data is compressed).
+	 * The format of the texture data is always RGBA8888.
 	 */
-	Texels []Texel
+	Data []byte
 
-	Filename string
+	IsCompressed bool
+	Filename     string
 }
 
 type Light struct {
@@ -96,13 +94,28 @@ type Scene struct {
 	cScene *C.struct_aiScene
 	Flags  SceneFlag
 
-	RootNode   *Node
-	Meshes     []*Mesh
-	Materials  []*Material
-	Animations []*Animation
-	Textures   []*Texture
-	Lights     []*Light
-	Cameras    []*Camera
+	RootNode  *Node
+	Meshes    []*Mesh
+	Materials []*Material
+
+	/** Helper structure to describe an embedded texture
+	 *
+	 * Normally textures are contained in external files but some file formats embed
+	 * them directly in the model file. There are two types of embedded textures:
+	 * 1. Uncompressed textures. The color data is given in an uncompressed format.
+	 * 2. Compressed textures stored in a file format like png or jpg. The raw file
+	 * bytes are given so the application must utilize an image decoder (e.g. DevIL) to
+	 * get access to the actual color data.
+	 *
+	 * Embedded textures are referenced from materials using strings like "*0", "*1", etc.
+	 * as the texture paths (a single asterisk character followed by the
+	 * zero-based index of the texture in the aiScene::mTextures array).
+	 */
+	Textures []*EmbeddedTexture
+
+	// Animations []*Animation
+	// Lights     []*Light
+	// Cameras    []*Camera
 }
 
 func (s *Scene) releaseCResources() {
@@ -141,8 +154,62 @@ func parseScene(cs *C.struct_aiScene) *Scene {
 	s.Flags = SceneFlag(cs.mFlags)
 	s.Meshes = parseMeshes(cs.mMeshes, uint(cs.mNumMeshes))
 	s.Materials = parseMaterials(cs.mMaterials, uint(cs.mNumMaterials))
+	s.Textures = parseTextures(cs.mTextures, uint(s.cScene.mNumTextures))
 
 	return s
+}
+
+func parseTextures(cTexIn **C.struct_aiTexture, count uint) []*EmbeddedTexture {
+
+	if cTexIn == nil {
+		return []*EmbeddedTexture{}
+	}
+
+	textures := make([]*EmbeddedTexture, count)
+	cTex := unsafe.Slice(cTexIn, count)
+
+	for i := 0; i < int(count); i++ {
+
+		textures[i] = &EmbeddedTexture{
+			cTex:         cTex[i],
+			Width:        uint(cTex[i].mWidth),
+			Height:       uint(cTex[i].mHeight),
+			FormatHint:   C.GoString(&cTex[i].achFormatHint[0]),
+			Filename:     parseAiString(cTex[i].mFilename),
+			Data:         parseTexels(cTex[i].pcData, uint(cTex[i].mWidth), uint(cTex[i].mHeight)),
+			IsCompressed: cTex[i].mHeight == 0,
+		}
+	}
+
+	return textures
+}
+
+func parseTexels(cTexelsIn *C.struct_aiTexel, width, height uint) []byte {
+
+	//e.g. like a png. Otherwise we have pure color data
+	isCompressed := height == 0
+
+	texelCount := width
+	if !isCompressed {
+		texelCount *= height
+	}
+	texelCount /= 4
+
+	data := make([]byte, texelCount*4)
+	cTexels := unsafe.Slice(cTexelsIn, texelCount)
+
+	for i := 0; i < int(texelCount); i++ {
+
+		//Order here is important as in a compressed format the order will represent arbitrary bytes, not colors.
+		//In aiTexel the struct field order is {b,g,r,a}, which puts A in the high bits and leads to a format of ARGB8888, therefore it must be maintained here
+		index := i * 4
+		data[index] = byte(cTexels[i].b)
+		data[index+1] = byte(cTexels[i].g)
+		data[index+2] = byte(cTexels[i].r)
+		data[index+3] = byte(cTexels[i].a)
+	}
+
+	return data
 }
 
 func parseMeshes(cm **C.struct_aiMesh, count uint) []*Mesh {
