@@ -15,7 +15,7 @@ The following features are already implemented:
 
 Unimplemented (yet) AssImp Scene objects:
 
-* Nodes
+* Animation
 * Lights
 * Camera
 * Metadata

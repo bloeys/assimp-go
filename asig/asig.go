@@ -23,13 +23,29 @@ import (
 )
 
 type Node struct {
+	Name string
+
+	//The transformation relative to the node's parent
+	Transformation *gglm.Mat4
+
+	//Parent node. NULL if this node is the root node
+	Parent *Node
+
+	//The child nodes of this node. NULL if mNumChildren is 0
+	Children []*Node
+
+	//Each entry is an index into the mesh list of the scene
+	MeshIndicies []uint
+
+	/** Metadata associated with this node or NULL if there is no metadata.
+	 *  Whether any metadata is generated depends on the source file format. See the
+	 * @link importer_notes @endlink page for more information on every source file
+	 * format. Importers that don't document any metadata don't write any.
+	 */
+	Metadata *Metadata
 }
 
 type Animation struct {
-}
-
-type Texel struct {
-	R, G, B, A byte
 }
 
 type EmbeddedTexture struct {
@@ -152,11 +168,58 @@ func parseScene(cs *C.struct_aiScene) *Scene {
 
 	s := &Scene{cScene: cs}
 	s.Flags = SceneFlag(cs.mFlags)
+	s.RootNode = parseRootNode(cs.mRootNode)
 	s.Meshes = parseMeshes(cs.mMeshes, uint(cs.mNumMeshes))
 	s.Materials = parseMaterials(cs.mMaterials, uint(cs.mNumMaterials))
 	s.Textures = parseTextures(cs.mTextures, uint(s.cScene.mNumTextures))
 
 	return s
+}
+
+func parseRootNode(cNodesIn *C.struct_aiNode) *Node {
+
+	rn := &Node{
+		Name:           parseAiString(cNodesIn.mName),
+		Transformation: parseMat4(&cNodesIn.mTransformation),
+		Parent:         nil,
+		MeshIndicies:   parseUInts(cNodesIn.mMeshes, uint(cNodesIn.mNumMeshes)),
+		//TODO: Fill this
+		Metadata: &Metadata{},
+	}
+
+	rn.Children = parseNodes(cNodesIn.mChildren, rn)
+	return rn
+}
+
+func parseNodes(cNodesIn **C.struct_aiNode, parent *Node) []*Node {
+
+	if cNodesIn == nil {
+		return []*Node{}
+	}
+
+	nodes := make([]*Node, len(parent.Children))
+	cNodes := unsafe.Slice(cNodesIn, len(parent.Children))
+
+	for i := 0; i < len(nodes); i++ {
+
+		n := cNodes[i]
+
+		//Fill basic node info
+		nodes[i] = &Node{
+			Name:           parseAiString(n.mName),
+			Transformation: parseMat4(&n.mTransformation),
+			Parent:         parent,
+			MeshIndicies:   parseUInts(n.mMeshes, uint(n.mNumMeshes)),
+
+			//TODO: Fill this
+			Metadata: &Metadata{},
+		}
+
+		//Parse node's children
+		nodes[i].Children = parseNodes(n.mChildren, nodes[i])
+	}
+
+	return nodes
 }
 
 func parseTextures(cTexIn **C.struct_aiTexture, count uint) []*EmbeddedTexture {
@@ -367,20 +430,20 @@ func parseBones(cbs **C.struct_aiBone, count uint) []*Bone {
 		bones[i] = &Bone{
 			Name:         parseAiString(cBone.mName),
 			Weights:      parseVertexWeights(cBone.mWeights, uint(cBone.mNumWeights)),
-			OffsetMatrix: parseMat4(&cBone.mOffsetMatrix),
+			OffsetMatrix: *parseMat4(&cBone.mOffsetMatrix),
 		}
 	}
 
 	return bones
 }
 
-func parseMat4(cm4 *C.struct_aiMatrix4x4) gglm.Mat4 {
+func parseMat4(cm4 *C.struct_aiMatrix4x4) *gglm.Mat4 {
 
 	if cm4 == nil {
-		return gglm.Mat4{}
+		return &gglm.Mat4{}
 	}
 
-	return gglm.Mat4{
+	return &gglm.Mat4{
 		Data: [4][4]float32{
 			{float32(cm4.a1), float32(cm4.b1), float32(cm4.c1), float32(cm4.d1)},
 			{float32(cm4.a2), float32(cm4.b2), float32(cm4.c2), float32(cm4.d2)},

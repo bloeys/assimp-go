@@ -47,7 +47,7 @@ func main() {
 	for i := 0; i < len(ts); i++ {
 		t := ts[i]
 
-		fmt.Printf("T(%v): Name=%v, Hint=%v, Width=%v, Height=%v, NumTexels=%v", i, t.Filename, t.FormatHint, t.Width, t.Height, len(t.Data))
+		fmt.Printf("T(%v): Name=%v, Hint=%v, Width=%v, Height=%v, NumTexels=%v\n", i, t.Filename, t.FormatHint, t.Width, t.Height, len(t.Data))
 
 		if t.FormatHint == "png" {
 			decodePNG(t.Data)
