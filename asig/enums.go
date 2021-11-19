@@ -315,3 +315,16 @@ func (mpti MatPropertyTypeInfo) String() string {
 		return "Unknown"
 	}
 }
+
+type MetadataType int32
+
+const (
+	MetadataTypeBool    MetadataType = 0
+	MetadataTypeInt32   MetadataType = 1
+	MetadataTypeUint64  MetadataType = 2
+	MetadataTypeFloat32 MetadataType = 3
+	MetadataTypeFloat64 MetadataType = 4
+	MetadataTypeString  MetadataType = 5
+	MetadataTypeVec3    MetadataType = 6
+	MetadataTypeMAX     MetadataType = 7
+)

@@ -42,7 +42,7 @@ type Node struct {
 	 * @link importer_notes @endlink page for more information on every source file
 	 * format. Importers that don't document any metadata don't write any.
 	 */
-	Metadata *Metadata
+	Metadata map[string]Metadata
 }
 
 type Animation struct {
@@ -104,6 +104,12 @@ type Camera struct {
 }
 
 type Metadata struct {
+	Type  MetadataType
+	Value interface{}
+}
+
+type MetadataEntry struct {
+	Data []byte
 }
 
 type Scene struct {
@@ -183,22 +189,21 @@ func parseRootNode(cNodesIn *C.struct_aiNode) *Node {
 		Transformation: parseMat4(&cNodesIn.mTransformation),
 		Parent:         nil,
 		MeshIndicies:   parseUInts(cNodesIn.mMeshes, uint(cNodesIn.mNumMeshes)),
-		//TODO: Fill this
-		Metadata: &Metadata{},
+		Metadata:       parseMetadata(cNodesIn.mMetaData),
 	}
 
-	rn.Children = parseNodes(cNodesIn.mChildren, rn)
+	rn.Children = parseNodes(cNodesIn.mChildren, rn, uint(cNodesIn.mNumChildren))
 	return rn
 }
 
-func parseNodes(cNodesIn **C.struct_aiNode, parent *Node) []*Node {
+func parseNodes(cNodesIn **C.struct_aiNode, parent *Node, parentChildrenCount uint) []*Node {
 
 	if cNodesIn == nil {
 		return []*Node{}
 	}
 
-	nodes := make([]*Node, len(parent.Children))
-	cNodes := unsafe.Slice(cNodesIn, len(parent.Children))
+	nodes := make([]*Node, parentChildrenCount)
+	cNodes := unsafe.Slice(cNodesIn, parentChildrenCount)
 
 	for i := 0; i < len(nodes); i++ {
 
@@ -210,16 +215,60 @@ func parseNodes(cNodesIn **C.struct_aiNode, parent *Node) []*Node {
 			Transformation: parseMat4(&n.mTransformation),
 			Parent:         parent,
 			MeshIndicies:   parseUInts(n.mMeshes, uint(n.mNumMeshes)),
-
-			//TODO: Fill this
-			Metadata: &Metadata{},
+			Metadata:       parseMetadata(n.mMetaData),
 		}
 
 		//Parse node's children
-		nodes[i].Children = parseNodes(n.mChildren, nodes[i])
+		nodes[i].Children = parseNodes(n.mChildren, nodes[i], parentChildrenCount)
 	}
 
 	return nodes
+}
+
+func parseMetadata(cMetaIn *C.struct_aiMetadata) map[string]Metadata {
+
+	if cMetaIn == nil {
+		return map[string]Metadata{}
+	}
+
+	meta := make(map[string]Metadata, cMetaIn.mNumProperties)
+	cKeys := unsafe.Slice(cMetaIn.mKeys, cMetaIn.mNumProperties)
+	cVals := unsafe.Slice(cMetaIn.mValues, cMetaIn.mNumProperties)
+
+	for i := 0; i < int(cMetaIn.mNumProperties); i++ {
+
+		meta[parseAiString(cKeys[i])] = parseMetadataEntry(cVals[i])
+	}
+
+	return meta
+}
+
+func parseMetadataEntry(cv C.struct_aiMetadataEntry) Metadata {
+
+	m := Metadata{Type: MetadataType(cv.mType)}
+
+	if cv.mData == nil {
+		return m
+	}
+
+	switch m.Type {
+	case MetadataTypeBool:
+		m.Value = *(*bool)(cv.mData)
+	case MetadataTypeFloat32:
+		m.Value = *(*float32)(cv.mData)
+	case MetadataTypeFloat64:
+		m.Value = *(*float64)(cv.mData)
+	case MetadataTypeInt32:
+		m.Value = *(*int32)(cv.mData)
+	case MetadataTypeUint64:
+		m.Value = *(*uint64)(cv.mData)
+	case MetadataTypeString:
+		m.Value = parseAiString(*(*C.struct_aiString)(cv.mData))
+	case MetadataTypeVec3:
+		m.Value = parseVec3((*C.struct_aiVector3D)(cv.mData))
+	}
+
+	return m
 }
 
 func parseTextures(cTexIn **C.struct_aiTexture, count uint) []*EmbeddedTexture {

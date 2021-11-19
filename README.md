@@ -18,7 +18,6 @@ Unimplemented (yet) AssImp Scene objects:
 * Animation
 * Lights
 * Camera
-* Metadata
 
 ## Using assimp-go
 

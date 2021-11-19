@@ -10,12 +10,13 @@ import (
 
 func main() {
 
-	scene, release, err := asig.ImportFile("tex-cube.glb", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
-	defer release()
-
+	scene, release, err := asig.ImportFile("obj2.fbx", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
 	if err != nil {
 		panic(err)
 	}
+	defer release()
+
+	fmt.Printf("RootNode: %+v\n\n", scene.RootNode)
 
 	for i := 0; i < len(scene.Meshes); i++ {
 
@@ -28,7 +29,7 @@ func main() {
 	for i := 0; i < len(scene.Materials); i++ {
 
 		m := scene.Materials[i]
-		println("Mesh:", i, "; Props:", len(scene.Materials[i].Properties))
+		println("Material:", i, "; Props:", len(scene.Materials[i].Properties))
 		texCount := asig.GetMaterialTextureCount(m, asig.TextureTypeDiffuse)
 		fmt.Println("Texture count:", texCount)
 
