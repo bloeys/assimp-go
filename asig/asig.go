@@ -4,15 +4,8 @@ package asig
 #cgo CFLAGS: -I .
 #cgo LDFLAGS: -L ./libs -l assimp_windows_amd64 -l IrrXML_windows_amd64 -l zlib_windows_amd64
 
+#include <wrap.cxx>
 #include <stdlib.h> //Needed for C.free
-
-#include <assimp/scene.h>
-
-//Functions
-struct aiScene* aiImportFile(const char* pFile, unsigned int pFlags);
-void aiReleaseImport(const struct aiScene* pScene);
-const char* aiGetErrorString();
-unsigned int aiGetMaterialTextureCount(const struct aiMaterial* pMat, enum aiTextureType type);
 */
 import "C"
 import (
