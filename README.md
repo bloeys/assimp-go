@@ -29,6 +29,7 @@ To run the project you need:
 * A C/C++ compiler installed and in your path
   * Windows: [MingW](https://www.mingw-w64.org/downloads/#mingw-builds) or similar
   * Mac/Linux: Should be installed by default, but if not try [GCC](https://gcc.gnu.org/) or [Clang](https://releases.llvm.org/download.html)
+* Download the appropriate DLL for your version and put it in the root of your Go project
 
 Then simply clone and use `go run .`
 
