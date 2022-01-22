@@ -107,6 +107,7 @@ For platform specific steps:
 
 Now assuming you are using MinGW on windows:
 
-* Clone wanted release of assimp and run `cmake CMakeLists.txt -D ASSIMP_BUILD_ASSIMP_TOOLS=OFF -G "MinGW Makefiles"` in the root folder
+* Clone wanted release of assimp and run `cmake CMakeLists.txt -D ASSIMP_BUILD_ZLIB=ON -D ASSIMP_BUILD_ASSIMP_TOOLS=OFF -G "MinGW Makefiles"` in the root folder
 * Run `cmake --build . --parallel 6`
-* Copy the generated `*.lib` (or `*.a`) files from the `lib` folder and into `asig/lib`, and copy the generated dll from AssImp `bin` folder into the root of `assimp-go`.
+* Copy the generated `*.lib` (or `*.a`) files from the `lib` folder and into `asig/libs`, and copy the generated dll from AssImp `bin` folder into the root of `assimp-go`.
+* Copy the generated `libzlibstatic.a` file from `contrib/zlib` and into the `asig/libs` folder.
