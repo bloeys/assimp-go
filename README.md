@@ -25,18 +25,31 @@ Unimplemented (yet) AssImp Scene objects:
 
 To run the project you need:
 
+* A 64-bit machine (32-bit machines should be supportable if we get help adding the needed libs)
 * A recent version of [Go](https://golang.org/) installed (1.17+)
 * A C/C++ compiler installed and in your path
-  * Windows: [MingW](https://www.mingw-w64.org/downloads/#mingw-builds) or similar
-  * Mac/Linux: Should be installed by default, but if not try [GCC](https://gcc.gnu.org/) or [Clang](https://releases.llvm.org/download.html)
-* Download the appropriate DLL for your version and put it in the root of your Go project
+  * **Windows**: [MingW](https://www.mingw-w64.org/downloads/#mingw-builds) or similar
+  * **Mac/Linux**: Should be installed by default, but if not try [GCC](https://gcc.gnu.org/) or [Clang](https://releases.llvm.org/download.html)
 
-Then simply clone and use `go run .`
+Now to be able to run assimp-go you will need the AssImp shared libraries (DLLs/DyLibs), which you can
+download from the GitHub releases page.
+
+### Installing on Windows
+
+Download the **.dll** of the release you want, and place it in the **root** of your Go project.
+
+### Installing on MacOS
+
+First, download the appropriate **.dylib** for your device (`_amd64` for Intel CPUs and `_arm64` for Apple CPUs).
+Next you will need to rename the lib to `libassimp.5.dylib` and move it to `/usr/local/lib` or `/usr/lib`.
+
+You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp libassimp_*.5.dylib /usr/local/lib/libassimp.5.dylib`
+
+### Running assimp-go
+
+Use `go run .` to run the simple example in `main.go` ;)
 
 > Note: that it might take a while to run the first time because of downloading/compiling dependencies.
-
-`assimp-go` dynamically links (e.g. through a DLL) AssImp using platform dependent libraries, which are made available with the GitHub releases.
-Currently only `Windows` libraries are available, but more should be easy to add by compiling AssImp on the wanted platform. (Make a PR if you can help us get those binaries!)
 
 ### Getting Started
 
@@ -85,14 +98,13 @@ While `asig` functions should NOT be called on a Scene (or its objects) after th
 
 ## Developing assimp-go
 
-We link against assimp libraries that are built for each platform and the `*.a` files are added to the `asig/libs` package.
-Depending on the platform we select one of them and link against it when doing `go build`.
+We link against assimp libraries that are built for each platform and the `.a`/`.dylib` files are added to the `asig/libs` package.
+At build time, the `#cgo` directive choose the appropriate libs and links against them.
 
 The general steps are:
 
 * Copy assimp includes into `asig/assimp`
-* Copy `zlib.h`, `zconf.h` and `irrXML.h` into `asig/zlib` and `asig/irrxml` respectively.
-* Copy static libraries and DLL import libraries into `asig/libs`
+* Copy libraries and DLL import libraries into `asig/libs`
 
 > Note: When dealing with libraries the compiler will probably (e.g. MinGW does this) ignore `lib` prefixes and `.a`/`.lib` suffixes.
 So if your lib name is `libassimp.a` you need to pass it to CGO as `-l assimp`, otherwise you will get an error about library not found.
@@ -111,3 +123,9 @@ Now assuming you are using MinGW on windows:
 * Run `cmake --build . --parallel 6`
 * Copy the generated `*.lib` (or `*.a`) files from the `lib` folder and into `asig/libs`, and copy the generated dll from AssImp `bin` folder into the root of `assimp-go`.
 * Copy the generated `libzlibstatic.a` file from `contrib/zlib` and into the `asig/libs` folder.
+
+**MacOS**:
+
+* Clone wanted release of assimp and run `cmake CMakeLists.txt -D ASSIMP_BUILD_ZLIB=ON -D ASSIMP_BUILD_ASSIMP_TOOLS=OFF` in the root folder
+* Run `cmake --build . --parallel 6`
+* Copy the generated `*.dylib` files from the `bin` folder and into both `asig/libs` and `/usr/local/lob`
