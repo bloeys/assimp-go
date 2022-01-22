@@ -16,3 +16,5 @@ vendor/
 *.obj
 *.fbx
 *.glb
+!libassimp_darwin_arm64.dylib
+.DS_Store

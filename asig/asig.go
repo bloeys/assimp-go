@@ -1,12 +1,13 @@
 package asig
 
 /*
-//Note: We don't link directly to libIrrXML and libzlib libraries in `./libs`, but they are required by assimp. Removing them will error on compilation.
 #cgo CFLAGS: -I .
-#cgo LDFLAGS: -L ./libs -l assimp_windows_amd64
+#cgo LDFLAGS: -L libs
+#cgo windows,amd64 LDFLAGS: -l assimp_windows_amd64
+#cgo darwin,arm64 LDFLAGS: -l assimp_darwin_arm64
 
-#include <wrap.cxx>
-#include <stdlib.h> //Needed for C.free
+#include "wrap.c"
+#include <stdlib.h>
 */
 import "C"
 import (

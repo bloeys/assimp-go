@@ -2,26 +2,12 @@ package asig
 
 /*
 #cgo CFLAGS: -I .
-#cgo LDFLAGS: -L ./libs -l assimp_windows_amd64 -l IrrXML_windows_amd64 -l zlib_windows_amd64
+#cgo LDFLAGS: -L libs
+#cgo windows,amd64 LDFLAGS: -l assimp_windows_amd64
+#cgo darwin,arm64 LDFLAGS: -l assimp_darwin_arm64
 
-#include <stdlib.h> //Needed for C.free
-
-#include <assimp/scene.h>
-
-//Functions
-unsigned int aiGetMaterialTextureCount(const struct aiMaterial* pMat, enum aiTextureType type);
-
-enum aiReturn aiGetMaterialTexture(
-	const struct aiMaterial* mat,
-    enum aiTextureType type,
-    unsigned int  index,
-    struct aiString* path,
-    enum aiTextureMapping* mapping,
-    unsigned int* uvindex,
-    ai_real* blend,
-    enum aiTextureOp* op,
-    enum aiTextureMapMode* mapmode,
-    unsigned int* flags);
+#include "wrap.c"
+#include <stdlib.h>
 */
 import "C"
 import (
