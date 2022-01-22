@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	scene, release, err := asig.ImportFile("obj.fbx", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
+	scene, release, err := asig.ImportFile("obj.obj", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
 	if err != nil {
 		panic(err)
 	}

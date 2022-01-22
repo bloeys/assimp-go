@@ -11,10 +11,11 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Dependency directories (remove the comment below to include it)
+# Custom
 vendor/
+.DS_Store
 *.obj
+!obj.obj
 *.fbx
 *.glb
 !libassimp_darwin_arm64.dylib
-.DS_Store
