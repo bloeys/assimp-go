@@ -128,4 +128,4 @@ Now assuming you are using MinGW on windows:
 
 * Clone wanted release of assimp and run `cmake CMakeLists.txt -D ASSIMP_BUILD_ZLIB=ON -D ASSIMP_BUILD_ASSIMP_TOOLS=OFF` in the root folder
 * Run `cmake --build . --parallel 6`
-* Copy the generated `*.dylib` files from the `bin` folder and into both `asig/libs` and `/usr/local/lob`
+* Copy the generated `*.dylib` files from the `bin` folder and into both `asig/libs` and `/usr/local/lib`
