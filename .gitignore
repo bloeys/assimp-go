@@ -19,3 +19,4 @@ vendor/
 *.fbx
 *.glb
 !libassimp_darwin_arm64.dylib
+!libassimp_darwin_amd64.dylib
