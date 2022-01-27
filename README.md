@@ -43,7 +43,7 @@ Download the **.dll** of the release you want, and place it in the **root** of y
 First, download the appropriate **.dylib** for your device (`_amd64` for Intel CPUs and `_arm64` for Apple CPUs).
 Next you will need to rename the lib to `libassimp.5.dylib` and move it to `/usr/local/lib` or `/usr/lib`.
 
-You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp libassimp_*.5.dylib /usr/local/lib/libassimp.5.dylib`
+You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp libassimp_darwin*.dylib /usr/local/lib/libassimp.5.dylib`
 
 ### Running assimp-go
 
