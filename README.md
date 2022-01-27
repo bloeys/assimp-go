@@ -1,6 +1,6 @@
 # assimp-go
 
-[![Build-AssImp](https://github.com/bloeys/assimp-go/actions/workflows/run-assimp-go.yml/badge.svg)](https://github.com/bloeys/assimp-go/actions/workflows/run-assimp-go.yml)
+[![Build](https://github.com/bloeys/assimp-go/actions/workflows/run-assimp-go.yml/badge.svg)](https://github.com/bloeys/assimp-go/actions/workflows/run-assimp-go.yml)
 
 A Handcrafted Open Asset Import Library (AssImp) wrapper for Go.
 
