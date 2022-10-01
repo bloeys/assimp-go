@@ -215,7 +215,7 @@ func parseNodes(cNodesIn **C.struct_aiNode, parent *Node, parentChildrenCount ui
 		}
 
 		//Parse node's children
-		nodes[i].Children = parseNodes(n.mChildren, nodes[i], parentChildrenCount)
+		nodes[i].Children = parseNodes(n.mChildren, nodes[i], uint(n.mNumChildren))
 	}
 
 	return nodes
