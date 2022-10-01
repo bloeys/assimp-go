@@ -519,6 +519,10 @@ func parseVertexWeights(cWeights *C.struct_aiVertexWeight, count uint) []VertexW
 }
 
 func parseAiString(aiString C.struct_aiString) string {
+	if aiString.length == 0 {
+		return ""
+	}
+
 	return C.GoStringN(&aiString.data[0], C.int(aiString.length))
 }
 
