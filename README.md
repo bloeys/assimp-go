@@ -47,6 +47,27 @@ Next you will need to rename the lib to `libassimp.5.dylib` and move it to `/usr
 
 You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp libassimp_darwin*.dylib /usr/local/lib/libassimp.5.dylib`
 
+### Installing on Linux
+
+Download the the AssImp package for our distro or build from source and add it to your path.
+> NOTE: Insatall assimp >= 3.1 for bindings to work as expected. 
+>       Though getting the latest version is always recommended. 
+
+#### Installing on Ubuntu
+You can install the Asset-Importer-Lib via apt:
+```
+sudo apt-get update
+sudo apt-get install libassimp-dev
+```
+
+#### Installing on Arch 
+You can install the Asset-Importer-Lib via pacman
+```
+sudo pacman -S assimp
+```
+#### Building From Source 
+To build the Asset Importer Package from sorce read the [sorce build guide](https://github.com/assimp/assimp/blob/master/Build.md)
+
 ### Running assimp-go
 
 Use `go run .` to run the simple example in `main.go` ;)
