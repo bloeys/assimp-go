@@ -49,7 +49,7 @@ You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp liba
 
 ### Installing on Linux
 
-Download the the AssImp package for our distro or build from source and add it to your path.
+Download the the AssImp package for your distro, or build from source and add it to your path.
 > NOTE: Insatall assimp >= 3.1 for bindings to work as expected. 
 >       Though getting the latest version is always recommended. 
 
