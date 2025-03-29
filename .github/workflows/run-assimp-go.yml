@@ -1,5 +1,6 @@
 name: Build-AssImp
 on:
+  workflow_dispatch:
   create:
 
 jobs:
