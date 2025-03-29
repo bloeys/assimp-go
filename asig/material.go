@@ -11,8 +11,7 @@ package asig
 #cgo darwin,amd64 LDFLAGS: -L libs -l assimp_darwin_amd64
 #cgo darwin,arm64 LDFLAGS: -L libs -l assimp_darwin_arm64
 
-#include "wrap.c"
-#include <stdlib.h>
+#include "wrap.h"
 */
 import "C"
 import (

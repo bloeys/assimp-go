@@ -9,14 +9,16 @@ package asig
 #cgo linux LDFLAGS: -lassimp
 #cgo windows,amd64 LDFLAGS: -L libs -l assimp_windows_amd64
 #cgo darwin,amd64 LDFLAGS: -L libs -l assimp_darwin_amd64
-#cgo darwin,arm64 LDFLAGS: -L libs -l assimp_darwin_arm64
+#cgo darwin,arm64 LDFLAGS: -Wl,-rpath,/usr/local/lib
 
-#include "wrap.c"
-#include <stdlib.h>
+#include "wrap.h"
 */
 import "C"
 import (
 	"errors"
+	"io"
+	"io/fs"
+	"runtime"
 	"unsafe"
 
 	"github.com/bloeys/gglm/gglm"
@@ -154,6 +156,121 @@ func ImportFile(file string, postProcessFlags PostProcess) (s *Scene, release fu
 	defer C.free(unsafe.Pointer(cstr))
 
 	cs := C.aiImportFile(cstr, C.uint(postProcessFlags))
+	if cs == nil {
+		return nil, func() {}, getAiErr()
+	}
+
+	s = parseScene(cs)
+	return s, func() { s.releaseCResources() }, nil
+}
+
+//export go_aiFileOpenProc
+func go_aiFileOpenProc(io *C.struct_aiFileIO, name *C.char, flags *C.char) *C.struct_aiFile {
+	fsWrapper := (*fsWrapper)(unsafe.Pointer(io.UserData))
+
+	file, err := fsWrapper.fsys.Open(C.GoString(name))
+	if err != nil {
+		return nil
+	}
+	fsWrapper.Pin(&file)
+
+	ret := &C.struct_aiFile{
+		ReadProc:     (C.aiFileReadProc)(C.cgo_aiFileReadProc),
+		WriteProc:    (C.aiFileWriteProc)(C.cgo_aiFileWriteProc),
+		TellProc:     (C.aiFileTellProc)(C.cgo_aiFileTellProc),
+		FileSizeProc: (C.aiFileTellProc)(C.cgo_aiFileFileSizeProc),
+		SeekProc:     (C.aiFileSeek)(C.cgo_aiFileSeekProc),
+		FlushProc:    (C.aiFileFlushProc)(C.cgo_aiFileFlushProc),
+		UserData:     (*C.char)(unsafe.Pointer(&file)),
+	}
+	fsWrapper.Pin(ret)
+
+	return ret
+}
+
+//export go_aiFileCloseProc
+func go_aiFileCloseProc(io *C.struct_aiFileIO, file *C.struct_aiFile) {
+	f := *(*fs.File)(unsafe.Pointer(file.UserData))
+	f.Close()
+}
+
+//export go_aiFileReadProc
+func go_aiFileReadProc(file *C.struct_aiFile, buffer *C.char, size C.size_t, count C.size_t) C.size_t {
+	f := *(*fs.File)(unsafe.Pointer(file.UserData))
+	slice := unsafe.Slice((*byte)(unsafe.Pointer(buffer)), size*count)
+
+	n, err := f.Read(slice)
+	if err != nil {
+		return (C.size_t)(0)
+	}
+	return (C.size_t)(n)
+}
+
+//export go_aiFileWriteProc
+func go_aiFileWriteProc(file *C.struct_aiFile, buffer *C.char, size C.size_t, count C.size_t) C.size_t {
+	panic("aiFileWrite not supported")
+}
+
+//export go_aiFileFileSizeProc
+func go_aiFileFileSizeProc(file *C.struct_aiFile) C.size_t {
+	f := *(*fs.File)(unsafe.Pointer(file.UserData))
+	info, err := f.Stat()
+	if err != nil {
+		return 0
+	}
+	return (C.size_t)(info.Size())
+}
+
+//export go_aiFileFlushProc
+func go_aiFileFlushProc(file *C.struct_aiFile) {
+	panic("aiFileFlush not supported")
+}
+
+//export go_aiFileTellProc
+func go_aiFileTellProc(file *C.struct_aiFile) C.size_t {
+	panic("aiFileTell not supported")
+}
+
+//export go_aiFileSeekProc
+func go_aiFileSeekProc(file *C.struct_aiFile, offset C.size_t, origin C.enum_aiOrigin) C.enum_aiReturn {
+	f := *(*fs.File)(unsafe.Pointer(file.UserData))
+	if s, ok := f.(io.Seeker); ok {
+		_, err := s.Seek(int64(offset), int(origin))
+		if err == nil {
+			return aiReturnSuccess
+		}
+	}
+	return aiReturnFailure
+}
+
+type fsWrapper struct {
+	pinnedMemory runtime.Pinner
+	fsys         fs.FS
+}
+
+func (fws *fsWrapper) Pin(pointer interface{}) {
+	fws.pinnedMemory.Pin(pointer)
+}
+
+func ImportFileEx(file string, postProcessFlags PostProcess, fsys fs.FS) (s *Scene, release func(), err error) {
+	cstr := C.CString(file)
+	defer C.free(unsafe.Pointer(cstr))
+
+	wrapper := &fsWrapper{
+		pinnedMemory: runtime.Pinner{},
+		fsys:         fsys,
+	}
+	wrapper.Pin(wrapper)
+	defer wrapper.pinnedMemory.Unpin()
+
+	cio := &C.struct_aiFileIO{
+		OpenProc:  (C.aiFileOpenProc)(C.cgo_aiFileOpenProc),
+		CloseProc: (C.aiFileCloseProc)(C.cgo_aiFileCloseProc),
+		UserData:  (*C.char)(unsafe.Pointer(wrapper)),
+	}
+	wrapper.Pin(cio)
+
+	cs := C.aiImportFileEx(cstr, C.uint(postProcessFlags), cio)
 	if cs == nil {
 		return nil, func() {}, getAiErr()
 	}

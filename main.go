@@ -4,13 +4,16 @@ import (
 	"bytes"
 	"fmt"
 	"image/png"
+	"os"
 
 	"github.com/bloeys/assimp-go/asig"
 )
 
 func main() {
 
-	scene, release, err := asig.ImportFile("obj.obj", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
+	//scene, release, err := asig.ImportFile("obj.obj", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices)
+	fsys := os.DirFS(".")
+	scene, release, err := asig.ImportFileEx("obj.obj", asig.PostProcessTriangulate|asig.PostProcessJoinIdenticalVertices, fsys)
 	if err != nil {
 		panic(err)
 	}
