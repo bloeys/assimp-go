@@ -1,11 +1,14 @@
 package asig
 
 /*
-#cgo CFLAGS: -I .
-#cgo LDFLAGS: -L libs
-#cgo windows,amd64 LDFLAGS: -l assimp_windows_amd64
-#cgo darwin,amd64 LDFLAGS: -l assimp_darwin_amd64
-#cgo darwin,arm64 LDFLAGS: -l assimp
+#cgo linux CFLAGS:
+#cgo windows,amd64 CFLAGS: -I .
+#cgo darwin,amd64 CFLAGS: -I .
+#cgo darwin,arm64 CFLAGS: -I .
+
+#cgo linux LDFLAGS: -lassimp
+#cgo windows,amd64 LDFLAGS: -L libs -l assimp_windows_amd64
+#cgo darwin,amd64 LDFLAGS: -L libs -l assimp_darwin_amd64
 #cgo darwin,arm64 LDFLAGS: -Wl,-rpath,/usr/local/lib
 
 #include "wrap.h"

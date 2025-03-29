@@ -38,7 +38,7 @@ download from the GitHub releases page.
 
 ### Installing on Windows
 
-Download the **.dll** of the release you want, and place it in the **root** of your Go project.
+Download the **.dll** of the [release you want](https://github.com/bloeys/assimp-go/releases), and place it in the **root** of your Go project.
 
 ### Installing on MacOS
 
@@ -46,6 +46,27 @@ First, download the appropriate **.dylib** for your device (`_amd64` for Intel C
 Next you will need to rename the lib to `libassimp.5.dylib` and move it to `/usr/local/lib` or `/usr/lib`.
 
 You can use this command to do it: `sudo mkdir -p /usr/local/lib && sudo cp libassimp_darwin*.dylib /usr/local/lib/libassimp.5.dylib`
+
+### Installing on Linux
+
+Download the the AssImp package for your distro, or build from source and add it to your path.
+> NOTE: Insatall assimp >= 3.1 for bindings to work as expected. 
+>       Though getting the latest version is always recommended. 
+
+#### Installing on Ubuntu
+You can install the Asset-Importer-Lib via apt:
+```
+sudo apt-get update
+sudo apt-get install libassimp-dev
+```
+
+#### Installing on Arch 
+You can install the Asset-Importer-Lib via pacman
+```
+sudo pacman -S assimp
+```
+#### Building From Source 
+To build the Asset Importer Package from sorce read the [sorce build guide](https://github.com/assimp/assimp/blob/master/Build.md)
 
 ### Running assimp-go
 
